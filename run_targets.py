@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-TARGETS_FILE = BASE_DIR / "targets.csv"
+TARGETS_FILE = BASE_DIR / "targets_beta.csv"
 
 print()
 print("Loading Targets")

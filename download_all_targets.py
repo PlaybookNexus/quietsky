@@ -8,7 +8,7 @@ from astroquery.skyview import SkyView
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-TARGETS_FILE = BASE_DIR / "targets.csv"
+TARGETS_FILE = BASE_DIR / "targets_beta.csv"
 DATA_DIR = BASE_DIR / "data"
 
 SURVEYS = [
