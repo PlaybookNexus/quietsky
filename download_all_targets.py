@@ -1,3 +1,5 @@
+# download_all_infrared.py
+
 from pathlib import Path
 import csv
 import time
@@ -10,13 +12,15 @@ TARGETS_FILE = BASE_DIR / "targets.csv"
 DATA_DIR = BASE_DIR / "data"
 
 SURVEYS = [
-    "DSS",
-    "DSS2 Red",
-    "DSS2 Blue"
+    ("2MASS-J", "2MASS_J.fits"),
+    ("2MASS-K", "2MASS_K.fits"),
+    ("WISE 3.4", "WISE_3_4.fits"),
+    ("WISE 4.6", "WISE_4_6.fits")
 ]
 
 
 def safe_name(name):
+
     return (
         name.replace(" ", "_")
             .replace("/", "_")
@@ -25,7 +29,7 @@ def safe_name(name):
 
 
 print()
-print("Downloading Target Surveys")
+print("Quiet Sky Infrared Downloads")
 print("=" * 60)
 
 with open(
@@ -38,7 +42,7 @@ with open(
 
     for row in reader:
 
-        name = row["name"].strip()
+        name = row["name"]
 
         ra = float(row["ra"])
         dec = float(row["dec"])
@@ -58,16 +62,11 @@ with open(
         print(name)
         print("=" * 60)
 
-        position = f"{ra} {dec}"
+        position = (
+            f"{ra} {dec}"
+        )
 
-        for survey in SURVEYS:
-
-            filename = (
-                survey
-                .replace(" ", "_")
-                .replace("/", "_")
-                + ".fits"
-            )
+        for survey, filename in SURVEYS:
 
             filepath = (
                 target_dir /
@@ -75,7 +74,7 @@ with open(
             )
 
             #
-            # Skip existing files
+            # Skip existing downloads
             #
 
             if filepath.exists():
@@ -97,6 +96,14 @@ with open(
                     survey=[survey]
                 )
 
+                if not images:
+
+                    print(
+                        f"FAILED {survey}"
+                    )
+
+                    continue
+
                 images[0][0].writeto(
                     filepath,
                     overwrite=True
@@ -107,7 +114,7 @@ with open(
                 )
 
                 #
-                # Be nice to SkyView
+                # Be polite to SkyView
                 #
 
                 time.sleep(1)
