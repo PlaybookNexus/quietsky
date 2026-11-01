@@ -6,7 +6,7 @@ import csv
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 DATA_DIR = BASE_DIR / "data"
-TARGETS_FILE = BASE_DIR / "targets_beta.csv"
+TARGETS_FILE = BASE_DIR / "expanded_targets_v2.csv"
 
 HEALTH_CSV = BASE_DIR / "download_health_report.csv"
 OPTICAL_READY_CSV = BASE_DIR / "targets_optical_ready.csv"

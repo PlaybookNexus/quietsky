@@ -14,7 +14,7 @@ import astropy.units as u
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-TARGETS_FILE = BASE_DIR / "targets_beta.csv"
+TARGETS_FILE = BASE_DIR / "targets_resolved.csv"
 
 DATA_DIR = BASE_DIR / "data"
 
@@ -91,17 +91,12 @@ def download_survey(
                 DELAY_SECONDS
             )
 
-    if last_error:
         if last_error:
-    raise last_error
+            raise last_error
 
-raise RuntimeError(
-    f"No images returned for {survey_name}"
-)
-
-    raise RuntimeError(
-        f"No images returned for {survey_name}"
-    )
+        raise RuntimeError(
+            f"No images returned for {survey_name}"
+        )
 
 
 # =====================================================

@@ -5,7 +5,7 @@ import csv
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-TARGETS_FILE = BASE_DIR / "targets_beta.csv"
+TARGETS_FILE = BASE_DIR / "expanded_targets_v2.csv"
 
 OPTICAL_RANKINGS = (
     BASE_DIR / "rankings_v2.csv"

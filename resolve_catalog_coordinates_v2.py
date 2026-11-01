@@ -3,8 +3,6 @@ import csv
 import time
 
 from astroquery.simbad import Simbad
-from astropy.coordinates import SkyCoord
-import astropy.units as u
 
 # =====================================================
 # CONFIG
@@ -12,7 +10,7 @@ import astropy.units as u
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "expanded_targets.csv"
+INPUT_FILE = BASE_DIR / "expanded_targets_v2.csv"
 OUTPUT_FILE = BASE_DIR / "targets_resolved.csv"
 FAILED_FILE = BASE_DIR / "targets_unresolved.csv"
 
@@ -22,12 +20,12 @@ FAILED_FILE = BASE_DIR / "targets_unresolved.csv"
 
 custom_simbad = Simbad()
 
-# Force Harvard mirror
-custom_simbad.server = "simbad.cfa.harvard.edu"
+# Harvard mirror
+custom_simbad.server = "simbad.harvard.edu"
 
 print()
 print("=" * 60)
-print("Quiet Sky Coordinate Resolver V3")
+print("Quiet Sky Coordinate Resolver V5")
 print("=" * 60)
 
 print()
@@ -83,8 +81,14 @@ with open(
 
     for row in reader:
 
-        name = row["name"]
-        category = row["category"]
+        name = row["name"].strip()
+        category = row["category"].strip()
+
+        if not name:
+            continue
+
+        if name.startswith("#"):
+            continue
 
         print()
         print(f"Resolving: {name}")
@@ -102,29 +106,33 @@ with open(
                 )
 
                 failed.append({
+
                     "name": name,
                     "category": category
+
                 })
 
                 continue
 
-            ra_str = result["RA"][0]
-            dec_str = result["DEC"][0]
+            if "ra" not in result.colnames:
 
-            coord = SkyCoord(
-
-                ra_str,
-                dec_str,
-
-                unit=(
-                    u.hourangle,
-                    u.deg
+                raise RuntimeError(
+                    f"ra missing: {result.colnames}"
                 )
 
+            if "dec" not in result.colnames:
+
+                raise RuntimeError(
+                    f"dec missing: {result.colnames}"
+                )
+
+            ra_deg = float(
+                result["ra"][0]
             )
 
-            ra_deg = coord.ra.deg
-            dec_deg = coord.dec.deg
+            dec_deg = float(
+                result["dec"][0]
+            )
 
             resolved.append({
 
@@ -136,20 +144,24 @@ with open(
             })
 
             print(
-                f"  RA  = {ra_deg:.6f}"
+                f"  RA  = {ra_deg:.8f}"
             )
 
             print(
-                f"  DEC = {dec_deg:.6f}"
+                f"  DEC = {dec_deg:.8f}"
             )
 
             time.sleep(0.25)
 
         except Exception as e:
 
-            print()
-            print("  FAILED")
-            print(f"  {e}")
+            print(
+                f"  FAILED"
+            )
+
+            print(
+                f"  {e}"
+            )
 
             failed.append({
 
@@ -192,7 +204,7 @@ with open(
         ])
 
 # =====================================================
-# SAVE FAILED
+# SAVE UNRESOLVED
 # =====================================================
 
 with open(
@@ -205,8 +217,10 @@ with open(
     writer = csv.writer(f)
 
     writer.writerow([
+
         "name",
         "category"
+
     ])
 
     for target in failed:
@@ -228,6 +242,7 @@ print("RESOLUTION COMPLETE")
 print("=" * 60)
 
 print()
+
 print(
     f"Resolved : {len(resolved)}"
 )
@@ -237,6 +252,7 @@ print(
 )
 
 print()
+
 print(
     f"Resolved Catalog : {OUTPUT_FILE}"
 )
@@ -244,3 +260,5 @@ print(
 print(
     f"Failed Catalog   : {FAILED_FILE}"
 )
+
+print()

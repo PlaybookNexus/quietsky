@@ -6,7 +6,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 ORIGINAL_FILE = BASE_DIR / "targets.csv"
 RESOLVED_FILE = BASE_DIR / "targets_resolved.csv"
 
-OUTPUT_FILE = BASE_DIR / "targets_beta.csv"
+OUTPUT_FILE = BASE_DIR / "expanded_targets_v2.csv"
 
 targets = {}
 total_original = 0

@@ -20,7 +20,7 @@ HEALTH_FILE = BASE_DIR / "download_health_report.csv"
 
 OUTPUT_FILE = BASE_DIR / "ai_findings_report.md"
 
-LLM_URL = "http://127.0.0.1:9931/v1/chat/completions"
+LLM_URL = "http://10.0.0.225:9931/v1/chat/completions"
 
 MODEL = "default"
 

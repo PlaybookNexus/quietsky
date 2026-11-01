@@ -23,7 +23,7 @@ HEALTH_FILE = BASE_DIR / "download_health_report.csv"
 
 JOURNAL_FILE = BASE_DIR / "research_journal.md"
 
-LLM_URL = "http://127.0.0.1:9931/v1/chat/completions"
+LLM_URL = "http://10.0.0.225:9931/v1/chat/completions"
 
 MODEL_NAME = "default"
 

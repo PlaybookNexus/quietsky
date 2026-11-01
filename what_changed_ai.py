@@ -16,7 +16,7 @@ MEMORY_FILE = BASE_DIR / "project_memory.json"
 
 OUTPUT_FILE = BASE_DIR / "what_changed_report.md"
 
-LLM_URL = "http://127.0.0.1:9931/v1/chat/completions"
+LLM_URL = "http://10.0.0.225:9931/v1/chat/completions"
 
 MODEL = "default"
 

@@ -4,7 +4,7 @@ import csv
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 DATA_DIR = BASE_DIR / "data"
-TARGETS_FILE = BASE_DIR / "targets_beta.csv"
+TARGETS_FILE = BASE_DIR / "expanded_targets_v2.csv"
 
 REQUIRED_FILES = [
     "DSS.fits",

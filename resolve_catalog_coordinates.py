@@ -8,7 +8,7 @@ import astropy.units as u
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-INPUT_FILE = BASE_DIR / "expanded_targets.csv"
+INPUT_FILE = BASE_DIR / "expanded_targets_v2.csv"
 OUTPUT_FILE = BASE_DIR / "targets_resolved.csv"
 
 print()
