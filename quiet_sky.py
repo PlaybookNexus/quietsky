@@ -84,6 +84,11 @@ MENU = {
         "candidate_comparison.py"
     ),
 
+    "26": (
+        "Discovery Candidates Report",
+        "discovery_candidates_report.py"
+    ),
+
     #
     # Health
     #
@@ -308,6 +313,7 @@ while True:
     print("10. Candidate Dossiers")
     print("11. Hypothesis Report")
     print("12. Candidate Comparison")
+    print("26. Discovery Candidates Report")
 
     print()
     print("HEALTH")
@@ -333,9 +339,9 @@ while True:
     print("PIPELINES")
     print("---------")
 
-    print("22. Run Optical Pipeline")
-    print("23. Run Infrared Pipeline")
-    print("24. Run Full Analysis")
+    print("23. Run Optical Pipeline")
+    print("24. Run Infrared Pipeline")
+    print("25. Run Full Analysis")
 
     print()
     print("0. Exit")
