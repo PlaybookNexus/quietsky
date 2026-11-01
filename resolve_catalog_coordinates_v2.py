@@ -2,7 +2,13 @@ from pathlib import Path
 import csv
 import time
 
+from astroquery.simbad import Simbad
 from astropy.coordinates import SkyCoord
+import astropy.units as u
+
+# =====================================================
+# CONFIG
+# =====================================================
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -10,10 +16,59 @@ INPUT_FILE = BASE_DIR / "expanded_targets.csv"
 OUTPUT_FILE = BASE_DIR / "targets_resolved.csv"
 FAILED_FILE = BASE_DIR / "targets_unresolved.csv"
 
+# =====================================================
+# SIMBAD CONFIG
+# =====================================================
+
+custom_simbad = Simbad()
+
+# Force Harvard mirror
+custom_simbad.server = "simbad.cfa.harvard.edu"
+
 print()
 print("=" * 60)
-print("Quiet Sky Coordinate Resolver V2")
+print("Quiet Sky Coordinate Resolver V3")
 print("=" * 60)
+
+print()
+print("SIMBAD Configuration")
+print("-" * 60)
+print(f"Server : {custom_simbad.server}")
+
+# =====================================================
+# TEST CONNECTION
+# =====================================================
+
+try:
+
+    print()
+    print("Testing SIMBAD...")
+
+    test = custom_simbad.query_object(
+        "TRAPPIST-1"
+    )
+
+    if test is None:
+
+        print(
+            "[FAIL] Test returned no result"
+        )
+
+        raise SystemExit(1)
+
+    print("[OK] SIMBAD reachable")
+
+except Exception as e:
+
+    print()
+    print("[FAIL] SIMBAD connection failed")
+    print(e)
+
+    raise SystemExit(1)
+
+# =====================================================
+# PROCESS TARGETS
+# =====================================================
 
 resolved = []
 failed = []
@@ -36,48 +91,76 @@ with open(
 
         try:
 
-            coord = SkyCoord.from_name(
+            result = custom_simbad.query_object(
                 name
             )
+
+            if result is None:
+
+                print(
+                    "  FAILED: Not Found"
+                )
+
+                failed.append({
+                    "name": name,
+                    "category": category
+                })
+
+                continue
+
+            ra_str = result["RA"][0]
+            dec_str = result["DEC"][0]
+
+            coord = SkyCoord(
+
+                ra_str,
+                dec_str,
+
+                unit=(
+                    u.hourangle,
+                    u.deg
+                )
+
+            )
+
+            ra_deg = coord.ra.deg
+            dec_deg = coord.dec.deg
 
             resolved.append({
 
                 "name": name,
                 "category": category,
-                "ra": coord.ra.deg,
-                "dec": coord.dec.deg
+                "ra": ra_deg,
+                "dec": dec_deg
 
             })
 
             print(
-                f"  RA  = {coord.ra.deg:.6f}"
+                f"  RA  = {ra_deg:.6f}"
             )
 
             print(
-                f"  DEC = {coord.dec.deg:.6f}"
+                f"  DEC = {dec_deg:.6f}"
             )
 
             time.sleep(0.25)
 
         except Exception as e:
 
-            print(
-                f"  FAILED"
-            )
-
-            print(
-                f"  {e}"
-            )
+            print()
+            print("  FAILED")
+            print(f"  {e}")
 
             failed.append({
 
                 "name": name,
                 "category": category
+
             })
 
-#
-# Save resolved
-#
+# =====================================================
+# SAVE RESOLVED
+# =====================================================
 
 with open(
     OUTPUT_FILE,
@@ -89,10 +172,12 @@ with open(
     writer = csv.writer(f)
 
     writer.writerow([
+
         "name",
         "category",
         "ra",
         "dec"
+
     ])
 
     for target in resolved:
@@ -101,15 +186,14 @@ with open(
 
             target["name"],
             target["category"],
-
             f"{target['ra']:.8f}",
             f"{target['dec']:.8f}"
 
         ])
 
-#
-# Save unresolved
-#
+# =====================================================
+# SAVE FAILED
+# =====================================================
 
 with open(
     FAILED_FILE,
@@ -128,38 +212,35 @@ with open(
     for target in failed:
 
         writer.writerow([
+
             target["name"],
             target["category"]
+
         ])
 
+# =====================================================
+# SUMMARY
+# =====================================================
+
 print()
 print("=" * 60)
-print("Resolution Complete")
+print("RESOLUTION COMPLETE")
 print("=" * 60)
 
+print()
 print(
-    f"Resolved: {len(resolved)}"
+    f"Resolved : {len(resolved)}"
 )
 
 print(
-    f"Failed:   {len(failed)}"
+    f"Failed   : {len(failed)}"
 )
 
 print()
 print(
-    f"Resolved catalog:"
+    f"Resolved Catalog : {OUTPUT_FILE}"
 )
 
 print(
-    OUTPUT_FILE
-)
-
-print()
-
-print(
-    f"Unresolved catalog:"
-)
-
-print(
-    FAILED_FILE
+    f"Failed Catalog   : {FAILED_FILE}"
 )

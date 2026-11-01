@@ -18,6 +18,22 @@ print("=" * 60)
 
 custom_simbad = Simbad()
 
+print()
+print("SIMBAD Configuration")
+print("-" * 60)
+
+try:
+
+    print(
+        f"Server : {custom_simbad.server}"
+    )
+
+except Exception as e:
+
+    print(
+        f"Could not determine server: {e}"
+    )
+
 resolved = []
 failed = []
 

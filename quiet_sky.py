@@ -126,6 +126,21 @@ MENU = {
     "Ask Quiet Sky",
     "ask_quiet_sky.py"
     ),
+
+    "20": (
+    "Update Project Memory",
+    "project_memory.py"
+    ),
+
+    "21": (
+    "Change Analysis",
+    "change_analysis.py"
+    ),
+
+    "22": (
+    "AI Change Analysis",
+    "what_changed_ai.py"
+    ),
 }
 
 
@@ -310,14 +325,17 @@ while True:
     print("17. AI Discovery Assistant")
     print("18. AI Research Journal")
     print("19. Ask Quiet Sky")
+    print("20. Update Project Memory")
+    print("21. Change Analysis")
+    print("22. AI Change Analysis")
 
     print()
     print("PIPELINES")
     print("---------")
 
-    print("20. Run Optical Pipeline")
-    print("21. Run Infrared Pipeline")
-    print("22. Run Full Analysis")
+    print("22. Run Optical Pipeline")
+    print("23. Run Infrared Pipeline")
+    print("24. Run Full Analysis")
 
     print()
     print("0. Exit")
@@ -334,17 +352,17 @@ while True:
         print("Goodbye.")
         break
 
-    if choice == "20":
+    if choice == "23":
 
         run_optical_pipeline()
         continue
 
-    if choice == "21":
+    if choice == "24":
 
         run_infrared_pipeline()
         continue
 
-    if choice == "22":
+    if choice == "25":
 
         run_full_analysis()
         continue
