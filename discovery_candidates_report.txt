@@ -1,0 +1,199 @@
+========================================================================
+QUIET SKY DISCOVERY CANDIDATES REPORT
+========================================================================
+
+Targets Evaluated : 121
+
+The following targets were prioritized using:
+
+- Composite Score
+- Category Rank
+- Category Z-Score
+- Discovery Heuristics
+
+========================================================================
+TOP DISCOVERY CANDIDATES
+========================================================================
+
+1. Ross 640
+   Category       : WhiteDwarf
+   Discovery Score: 20
+   Composite Rank : 3
+   Category Rank  : 1
+   Z Score        : +2.26
+   Raw Score      : 0.7517
+
+2. Ross 128
+   Category       : Exoplanet
+   Discovery Score: 17
+   Composite Rank : 2
+   Category Rank  : 1
+   Z Score        : +1.90
+   Raw Score      : 0.8395
+
+3. EPIC 204376071
+   Category       : TransitAnomaly
+   Discovery Score: 17
+   Composite Rank : 4
+   Category Rank  : 1
+   Z Score        : +1.55
+   Raw Score      : 0.7468
+
+4. AU Microscopii
+   Category       : Flare
+   Discovery Score: 17
+   Composite Rank : 1
+   Category Rank  : 1
+   Z Score        : +1.44
+   Raw Score      : 0.8467
+
+5. Delta Cephei
+   Category       : Variable
+   Discovery Score: 17
+   Composite Rank : 5
+   Category Rank  : 1
+   Z Score        : +1.07
+   Raw Score      : 0.7279
+
+6. Barnards Star
+   Category       : Nearby
+   Discovery Score: 15
+   Composite Rank : 10
+   Category Rank  : 1
+   Z Score        : +1.15
+   Raw Score      : 0.6470
+
+7. TOI-270
+   Category       : Exoplanet
+   Discovery Score: 13
+   Composite Rank : 6
+   Category Rank  : 2
+   Z Score        : +1.32
+   Raw Score      : 0.7248
+
+8. HD 219134
+   Category       : Exoplanet
+   Discovery Score: 13
+   Composite Rank : 7
+   Category Rank  : 3
+   Z Score        : +1.22
+   Raw Score      : 0.7037
+
+9. EQ Pegasi
+   Category       : Flare
+   Discovery Score: 11
+   Composite Rank : 8
+   Category Rank  : 2
+   Z Score        : +0.73
+   Raw Score      : 0.6687
+
+10. DO Cephei
+   Category       : Flare
+   Discovery Score: 11
+   Composite Rank : 9
+   Category Rank  : 3
+   Z Score        : +0.65
+   Raw Score      : 0.6484
+
+11. HD 5980
+   Category       : Anomalous
+   Discovery Score: 9
+   Composite Rank : 27
+   Category Rank  : 1
+   Z Score        : +1.39
+   Raw Score      : 0.4241
+
+12. KIC 12557548
+   Category       : TransitAnomaly
+   Discovery Score: 8
+   Composite Rank : 20
+   Category Rank  : 2
+   Z Score        : +0.43
+   Raw Score      : 0.4888
+
+13. HD 32297
+   Category       : DebrisDisk
+   Discovery Score: 7
+   Composite Rank : 29
+   Category Rank  : 1
+   Z Score        : +1.55
+   Raw Score      : 0.3844
+
+14. Tarazed
+   Category       : Control
+   Discovery Score: 7
+   Composite Rank : 28
+   Category Rank  : 1
+   Z Score        : +1.35
+   Raw Score      : 0.4081
+
+15. LkCa 15
+   Category       : YoungStar
+   Discovery Score: 7
+   Composite Rank : 60
+   Category Rank  : 1
+   Z Score        : +1.26
+   Raw Score      : 0.3034
+
+========================================================================
+CATEGORY CHAMPIONS
+========================================================================
+
+WhiteDwarf
+  Champion : Ross 640
+  Z Score  : +2.26
+
+Exoplanet
+  Champion : Ross 128
+  Z Score  : +1.90
+
+TransitAnomaly
+  Champion : EPIC 204376071
+  Z Score  : +1.55
+
+Flare
+  Champion : AU Microscopii
+  Z Score  : +1.44
+
+Variable
+  Champion : Delta Cephei
+  Z Score  : +1.07
+
+Nearby
+  Champion : Barnards Star
+  Z Score  : +1.15
+
+Anomalous
+  Champion : HD 5980
+  Z Score  : +1.39
+
+DebrisDisk
+  Champion : HD 32297
+  Z Score  : +1.55
+
+Control
+  Champion : Tarazed
+  Z Score  : +1.35
+
+YoungStar
+  Champion : LkCa 15
+  Z Score  : +1.26
+
+SolarAnalog
+  Champion : 16 Cygni B
+  Z Score  : +1.18
+
+========================================================================
+CATEGORY OUTLIERS
+========================================================================
+Ross 640                 WhiteDwarf        Z=+2.26
+
+========================================================================
+FINDING #016
+========================================================================
+
+Category-aware rankings identify objects that are unusual relative to their own populations.
+
+This reduces population bias and improves scientific interpretability.
+
+Objects promoted by category ranking may not be global ranking leaders, but they may represent important population-specific outliers.

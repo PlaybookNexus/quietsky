@@ -1,0 +1,231 @@
+========================================================================
+QUIET SKY AI CANDIDATE REVIEW BOARD
+========================================================================
+
+Purpose:
+Evaluate category-level outliers
+using statistical evidence rather
+than raw ranking position alone.
+
+========================================================================
+CANDIDATE: Ross 640
+========================================================================
+
+Category: WhiteDwarf
+Category Rank: 1
+Score: 0.7517
+Z Score: +2.26
+
+Evidence Supporting Interest:
+- Category Champion
+- Significant category outlier
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: MEDIUM
+Recommendation: REVIEW
+
+========================================================================
+CANDIDATE: Ross 128
+========================================================================
+
+Category: Exoplanet
+Category Rank: 1
+Score: 0.8395
+Z Score: +1.90
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: HD 32297
+========================================================================
+
+Category: DebrisDisk
+Category Rank: 1
+Score: 0.3844
+Z Score: +1.55
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: EPIC 204376071
+========================================================================
+
+Category: TransitAnomaly
+Category Rank: 1
+Score: 0.7468
+Z Score: +1.55
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: AU Microscopii
+========================================================================
+
+Category: Flare
+Category Rank: 1
+Score: 0.8467
+Z Score: +1.44
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: HD 5980
+========================================================================
+
+Category: Anomalous
+Category Rank: 1
+Score: 0.4241
+Z Score: +1.39
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: Tarazed
+========================================================================
+
+Category: Control
+Category Rank: 1
+Score: 0.4081
+Z Score: +1.35
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: TOI-270
+========================================================================
+
+Category: Exoplanet
+Category Rank: 2
+Score: 0.7248
+Z Score: +1.32
+
+Evidence Supporting Interest:
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: LkCa 15
+========================================================================
+
+Category: YoungStar
+Category Rank: 1
+Score: 0.3034
+Z Score: +1.26
+
+Evidence Supporting Interest:
+- Category Champion
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+CANDIDATE: HD 219134
+========================================================================
+
+Category: Exoplanet
+Category Rank: 3
+Score: 0.7037
+Z Score: +1.22
+
+Evidence Supporting Interest:
+- Above category average
+
+Evidence Against Interest:
+- Statistical evidence only
+- No confirmed physical anomaly
+- Additional observations required
+
+Technosignature Relevance: LOW
+Recommendation: MONITOR
+
+========================================================================
+BOARD SUMMARY
+========================================================================
+ 1. Ross 640                 WhiteDwarf     Z=+2.26
+ 2. Ross 128                 Exoplanet      Z=+1.90
+ 3. HD 32297                 DebrisDisk     Z=+1.55
+ 4. EPIC 204376071           TransitAnomaly Z=+1.55
+ 5. AU Microscopii           Flare          Z=+1.44
+ 6. HD 5980                  Anomalous      Z=+1.39
+ 7. Tarazed                  Control        Z=+1.35
+ 8. TOI-270                  Exoplanet      Z=+1.32
+ 9. LkCa 15                  YoungStar      Z=+1.26
+10. HD 219134                Exoplanet      Z=+1.22

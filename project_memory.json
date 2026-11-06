@@ -1,0 +1,49 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-10-31 20:20:59",
+      "catalog_targets": 31,
+      "optical_ready": 31,
+      "infrared_ready": 28,
+      "top_optical": "Delta Cephei",
+      "top_infrared": "Barnards Star",
+      "top_composite": "Barnards Star"
+    },
+    {
+      "timestamp": "2026-10-31 20:36:19",
+      "catalog_targets": 31,
+      "optical_ready": 31,
+      "infrared_ready": 28,
+      "top_optical": "Delta Cephei",
+      "top_infrared": "Barnards Star",
+      "top_composite": "Barnards Star"
+    },
+    {
+      "timestamp": "2026-11-01 01:55:19",
+      "catalog_targets": 31,
+      "optical_ready": 31,
+      "infrared_ready": 31,
+      "top_optical": "Delta Cephei",
+      "top_infrared": "Barnards Star",
+      "top_composite": "Barnards Star"
+    },
+    {
+      "timestamp": "2026-11-01 07:23:32",
+      "catalog_targets": 104,
+      "optical_ready": 100,
+      "infrared_ready": 92,
+      "top_optical": "61 Cygni B",
+      "top_infrared": "Wezen",
+      "top_composite": "Delta Cephei"
+    },
+    {
+      "timestamp": "2026-11-01 10:50:32",
+      "catalog_targets": 133,
+      "optical_ready": 18,
+      "infrared_ready": 18,
+      "top_optical": "AU Microscopii",
+      "top_infrared": "Kepler-186",
+      "top_composite": "Delta Cephei"
+    }
+  ]
+}

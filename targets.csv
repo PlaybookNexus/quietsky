@@ -1,0 +1,24 @@
+name,ra,dec,category
+KIC 8462852,301.564386,44.456886,Anomalous
+TRAPPIST-1,346.622369,-5.041399,Exoplanet
+
+Vega,279.234735,38.783689,Control
+Altair,297.695827,8.868322,Control
+Deneb,310.357979,45.280338,Control
+Polaris,37.954561,89.264109,Control
+
+Arcturus,213.915300,19.182409,Control
+Capella,79.172327,45.997991,Control
+Rigel,78.634467,-8.201639,Control
+Sirius,101.287155,-16.716116,Control
+
+Barnards Star,269.452083,4.693333,Nearby
+Proxima Centauri,217.428939,-62.679491,Nearby
+Tau Ceti,26.017013,-15.937480,Nearby
+
+Betelgeuse,88.792939,7.407064,Variable
+Mira,34.836633,-2.977639,Variable
+Delta Cephei,337.742000,58.547000,Variable
+
+HD 189733,300.182000,22.709000,Exoplanet
+Kepler-186,297.709000,43.958000,Exoplanet

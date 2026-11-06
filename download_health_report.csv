@@ -1,0 +1,134 @@
+name,category,optical_files,infrared_files,total_files,optical_complete,infrared_usable
+Altair,Control,3,4,7,YES,YES
+Arcturus,Control,3,4,7,YES,YES
+Barnards Star,Nearby,3,4,7,YES,YES
+Betelgeuse,Variable,3,4,7,YES,YES
+Capella,Control,3,4,7,YES,YES
+Delta Cephei,Variable,3,4,7,YES,YES
+Deneb,Control,3,4,7,YES,YES
+HD 189733,Exoplanet,3,4,7,YES,YES
+KIC 8462852,Anomalous,3,4,7,YES,YES
+Kepler-186,Exoplanet,3,4,7,YES,YES
+Mira,Variable,3,4,7,YES,YES
+Polaris,Control,3,4,7,YES,YES
+Proxima Centauri,Nearby,3,4,7,YES,YES
+Rigel,Control,3,4,7,YES,YES
+TRAPPIST-1,Exoplanet,3,4,7,YES,YES
+Tau Ceti,Nearby,3,4,7,YES,YES
+Vega,Control,3,4,7,YES,YES
+Sirius,Control,3,3,6,YES,YES
+16 Cygni A,SolarAnalog,0,0,0,NO,NO
+16 Cygni B,SolarAnalog,0,0,0,NO,NO
+18 Scorpii,SolarAnalog,0,0,0,NO,NO
+40 Eridani B,WhiteDwarf,0,0,0,NO,NO
+49 Ceti,DebrisDisk,0,0,0,NO,NO
+61 Virginis,SolarAnalog,0,0,0,NO,NO
+AB Aurigae,YoungStar,0,0,0,NO,NO
+AD Leonis,Flare,0,0,0,NO,NO
+AG Carinae,Anomalous,0,0,0,NO,NO
+AU Microscopii,Flare,0,0,0,NO,NO
+Achernar,Control,0,0,0,NO,NO
+Acrux,Control,0,0,0,NO,NO
+Albireo,Control,0,0,0,NO,NO
+Algenib,Control,0,0,0,NO,NO
+Algieba,Control,0,0,0,NO,NO
+Alioth,Control,0,0,0,NO,NO
+Alkaid,Control,0,0,0,NO,NO
+Alpha Centauri A,SolarAnalog,0,0,0,NO,NO
+Alpha Centauri B,SolarAnalog,0,0,0,NO,NO
+Alpherg,Control,0,0,0,NO,NO
+Alshain,Control,0,0,0,NO,NO
+Ascella,Control,0,0,0,NO,NO
+BL Ceti,Flare,0,0,0,NO,NO
+Beta Canum Venaticorum,SolarAnalog,0,0,0,NO,NO
+Beta Pictoris,DebrisDisk,0,0,0,NO,NO
+CK Vulpeculae,Anomalous,0,0,0,NO,NO
+CN Leonis,Flare,0,0,0,NO,NO
+Canopus,Control,0,0,0,NO,NO
+Caph,Control,0,0,0,NO,NO
+DO Cephei,Flare,0,0,0,NO,NO
+EGGR 78,WhiteDwarf,0,0,0,NO,NO
+EPIC 204376071,TransitAnomaly,0,0,0,NO,NO
+EQ Pegasi,Flare,0,0,0,NO,NO
+EV Lacertae,Flare,0,0,0,NO,NO
+Eltanin,Control,0,0,0,NO,NO
+Eta Carinae,Anomalous,0,0,0,NO,NO
+GJ 667C,Exoplanet,0,0,0,NO,NO
+GJ 9827,Exoplanet,0,0,0,NO,NO
+GM Aurigae,YoungStar,0,0,0,NO,NO
+Gacrux,Control,0,0,0,NO,NO
+HD 100546,YoungStar,0,0,0,NO,NO
+HD 107146,DebrisDisk,0,0,0,NO,NO
+HD 139139,TransitAnomaly,0,0,0,NO,NO
+HD 146233,SolarAnalog,0,0,0,NO,NO
+HD 163296,YoungStar,0,0,0,NO,NO
+HD 172555,DebrisDisk,0,0,0,NO,NO
+HD 181327,DebrisDisk,0,0,0,NO,NO
+HD 219134,Exoplanet,0,0,0,NO,NO
+HD 32297,DebrisDisk,0,0,0,NO,NO
+HD 40307,Exoplanet,0,0,0,NO,NO
+HD 5980,Anomalous,0,0,0,NO,NO
+HD 69830,DebrisDisk,0,0,0,NO,NO
+HD 95086,DebrisDisk,0,0,0,NO,NO
+HD 98618,SolarAnalog,0,0,0,NO,NO
+HIP 56948,SolarAnalog,0,0,0,NO,NO
+HIP 73145,DebrisDisk,0,0,0,NO,NO
+HR 8799,DebrisDisk,0,0,0,NO,NO
+Izar,Control,0,0,0,NO,NO
+K2-22,TransitAnomaly,0,0,0,NO,NO
+KIC 12557548,TransitAnomaly,0,0,0,NO,NO
+Kaus Australis,Control,0,0,0,NO,NO
+Kepler-11,Exoplanet,0,0,0,NO,NO
+Kepler-1520,TransitAnomaly,0,0,0,NO,NO
+Kepler-1649,Exoplanet,0,0,0,NO,NO
+Kepler-20,Exoplanet,0,0,0,NO,NO
+Kepler-438,Exoplanet,0,0,0,NO,NO
+Kepler-440,Exoplanet,0,0,0,NO,NO
+Kepler-444,Exoplanet,0,0,0,NO,NO
+Kepler-62f,Exoplanet,0,0,0,NO,NO
+Kepler-69,Exoplanet,0,0,0,NO,NO
+LAWD 37,WhiteDwarf,0,0,0,NO,NO
+LTT 1445A,Exoplanet,0,0,0,NO,NO
+LkCa 15,YoungStar,0,0,0,NO,NO
+Megrez,Control,0,0,0,NO,NO
+Mimosa,Control,0,0,0,NO,NO
+Mothallah,Control,0,0,0,NO,NO
+Nunki,Control,0,0,0,NO,NO
+P Cygni,Anomalous,0,0,0,NO,NO
+PDS 110,TransitAnomaly,0,0,0,NO,NO
+PDS 70,YoungStar,0,0,0,NO,NO
+Phecda,Control,0,0,0,NO,NO
+Procyon,Control,0,0,0,NO,NO
+Procyon B,WhiteDwarf,0,0,0,NO,NO
+RW Aurigae,YoungStar,0,0,0,NO,NO
+RY Scuti,Anomalous,0,0,0,NO,NO
+Rastaban,Control,0,0,0,NO,NO
+Ross 128,Exoplanet,0,0,0,NO,NO
+Ross 640,WhiteDwarf,0,0,0,NO,NO
+Ruchbah,Control,0,0,0,NO,NO
+Sadalmelik,Control,0,0,0,NO,NO
+Sadalsuud,Control,0,0,0,NO,NO
+Scheat,Control,0,0,0,NO,NO
+Segin,Control,0,0,0,NO,NO
+Sirius B,WhiteDwarf,0,0,0,NO,NO
+Stein 2051 B,WhiteDwarf,0,0,0,NO,NO
+TOI-1338,Exoplanet,0,0,0,NO,NO
+TOI-178,Exoplanet,0,0,0,NO,NO
+TOI-270,Exoplanet,0,0,0,NO,NO
+TW Hydrae,YoungStar,0,0,0,NO,NO
+Tarazed,Control,0,0,0,NO,NO
+UV Ceti,Flare,0,0,0,NO,NO
+UX Tauri,YoungStar,0,0,0,NO,NO
+V1054 Ophiuchi,Flare,0,0,0,NO,NO
+V4046 Sagittarii,YoungStar,0,0,0,NO,NO
+V838 Monocerotis,Anomalous,0,0,0,NO,NO
+VVV-WIT-07,TransitAnomaly,0,0,0,NO,NO
+Vindemiatrix,Control,0,0,0,NO,NO
+WD 1145+017,WhiteDwarf,0,0,0,NO,NO
+WR 104,Anomalous,0,0,0,NO,NO
+WR 140,Anomalous,0,0,0,NO,NO
+Wolf 1061,Exoplanet,0,0,0,NO,NO
+Wolf 489,WhiteDwarf,0,0,0,NO,NO
+YZ CMi,Flare,0,0,0,NO,NO
+Zubenelgenubi,Control,0,0,0,NO,NO
+Zubeneschamali,Control,0,0,0,NO,NO

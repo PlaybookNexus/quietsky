@@ -1,0 +1,19 @@
+rank,name,category,anomaly_score,average_ratio,measurements
+1,Delta Cephei,Variable,1.2276,1.0000,3
+2,Barnards Star,Nearby,1.1626,1.0000,3
+3,HD 189733,Exoplanet,0.9307,1.0000,3
+4,Kepler-186,Exoplanet,0.8832,1.0000,3
+5,Deneb,Control,0.6884,1.0000,3
+6,Vega,Control,0.6871,1.0000,3
+7,Altair,Control,0.6382,1.0000,3
+8,Capella,Control,0.6312,1.0000,3
+9,Betelgeuse,Variable,0.6213,1.0000,3
+10,Arcturus,Control,0.6208,1.0000,3
+11,Polaris,Control,0.5389,1.0000,3
+12,KIC 8462852,Anomalous,0.4526,1.0000,3
+13,Sirius,Control,0.2716,1.0000,3
+14,Proxima Centauri,Nearby,0.2307,1.0000,3
+15,Mira,Variable,0.2081,1.0000,3
+16,Tau Ceti,Nearby,0.2030,1.0000,3
+17,TRAPPIST-1,Exoplanet,0.1621,1.0000,3
+18,Rigel,Control,0.0927,1.0000,3

@@ -1,0 +1,4891 @@
+name,category,ra,dec,distance_pc,spectral_type,source_catalog
+Luhman 16 B,BrownDwarf,,,,,brown_dwarfs.csv
+WISE 0855-0714,BrownDwarf,,,,,brown_dwarfs.csv
+49 Ceti,DebrisDisk,,,,,debris_disks.csv
+Beta Pictoris,DebrisDisk,,,,,debris_disks.csv
+Fomalhaut,DebrisDisk,,,,,debris_disks.csv
+HD 32297,DebrisDisk,,,,,debris_disks.csv
+Algol,EclipsingBinary,,,,,eclipsing_binaries.csv
+Beta Lyrae,EclipsingBinary,,,,,eclipsing_binaries.csv
+VV Cephei,EclipsingBinary,,,,,eclipsing_binaries.csv
+11 Com,Exoplanet,,,,,exoplanets.csv
+11 UMi,Exoplanet,,,,,exoplanets.csv
+14 And,Exoplanet,,,,,exoplanets.csv
+14 Her,Exoplanet,,,,,exoplanets.csv
+16 Cyg B,Exoplanet,,,,,exoplanets.csv
+17 Sco,Exoplanet,,,,,exoplanets.csv
+18 Del,Exoplanet,,,,,exoplanets.csv
+1RXS J160929.1-210524,Exoplanet,,,,,exoplanets.csv
+24 Boo,Exoplanet,,,,,exoplanets.csv
+24 Sex,Exoplanet,,,,,exoplanets.csv
+2MASS J01033563-5515561 A,Exoplanet,,,,,exoplanets.csv
+2MASS J01225093-2439505,Exoplanet,,,,,exoplanets.csv
+2MASS J02192210-3925225,Exoplanet,,,,,exoplanets.csv
+2MASS J0249-0557 A,Exoplanet,,,,,exoplanets.csv
+2MASS J03590986+2009361,Exoplanet,,,,,exoplanets.csv
+2MASS J04372171+2651014,Exoplanet,,,,,exoplanets.csv
+2MASS J04414489+2301513,Exoplanet,,,,,exoplanets.csv
+2MASS J11011926-7732383,Exoplanet,,,,,exoplanets.csv
+2MASS J11550485-7919108,Exoplanet,,,,,exoplanets.csv
+2MASS J12073346-3932539,Exoplanet,,,,,exoplanets.csv
+2MASS J16262785-2625152,Exoplanet,,,,,exoplanets.csv
+2MASS J19383260+4603591,Exoplanet,,,,,exoplanets.csv
+2MASS J21252752-8138278,Exoplanet,,,,,exoplanets.csv
+2MASS J22362452+4751425,Exoplanet,,,,,exoplanets.csv
+2MASS J22501512+2325342,Exoplanet,,,,,exoplanets.csv
+4 UMa,Exoplanet,,,,,exoplanets.csv
+47 UMa,Exoplanet,,,,,exoplanets.csv
+51 Eri,Exoplanet,,,,,exoplanets.csv
+51 Peg,Exoplanet,,,,,exoplanets.csv
+55 Cnc,Exoplanet,,,,,exoplanets.csv
+55 Cnc B,Exoplanet,,,,,exoplanets.csv
+6 Lyn,Exoplanet,,,,,exoplanets.csv
+61 Vir,Exoplanet,,,,,exoplanets.csv
+7 CMa,Exoplanet,,,,,exoplanets.csv
+70 Vir,Exoplanet,,,,,exoplanets.csv
+75 Cet,Exoplanet,,,,,exoplanets.csv
+8 UMi,Exoplanet,,,,,exoplanets.csv
+81 Cet,Exoplanet,,,,,exoplanets.csv
+91 Aqr,Exoplanet,,,,,exoplanets.csv
+AB Aur,Exoplanet,,,,,exoplanets.csv
+AB Pic,Exoplanet,,,,,exoplanets.csv
+AF Lep,Exoplanet,,,,,exoplanets.csv
+AT2021ueyL,Exoplanet,,,,,exoplanets.csv
+AU Mic,Exoplanet,,,,,exoplanets.csv
+BD+03 2562,Exoplanet,,,,,exoplanets.csv
+BD+05 4868 A,Exoplanet,,,,,exoplanets.csv
+BD+14 4559,Exoplanet,,,,,exoplanets.csv
+BD+15 2375,Exoplanet,,,,,exoplanets.csv
+BD+15 2940,Exoplanet,,,,,exoplanets.csv
+BD+20 2457,Exoplanet,,,,,exoplanets.csv
+BD+20 274,Exoplanet,,,,,exoplanets.csv
+BD+20 594,Exoplanet,,,,,exoplanets.csv
+BD+37 3172,Exoplanet,,,,,exoplanets.csv
+BD+42 2315,Exoplanet,,,,,exoplanets.csv
+BD+45 564,Exoplanet,,,,,exoplanets.csv
+BD+48 738,Exoplanet,,,,,exoplanets.csv
+BD+48 740,Exoplanet,,,,,exoplanets.csv
+BD+49 828,Exoplanet,,,,,exoplanets.csv
+BD+55 362,Exoplanet,,,,,exoplanets.csv
+BD+60 1417,Exoplanet,,,,,exoplanets.csv
+BD+63 1405,Exoplanet,,,,,exoplanets.csv
+BD-06 1339,Exoplanet,,,,,exoplanets.csv
+BD-08 2823,Exoplanet,,,,,exoplanets.csv
+BD-10 3166,Exoplanet,,,,,exoplanets.csv
+BD-11 4672,Exoplanet,,,,,exoplanets.csv
+BD-13 2130,Exoplanet,,,,,exoplanets.csv
+BD-14 3065 A,Exoplanet,,,,,exoplanets.csv
+BD-17 63,Exoplanet,,,,,exoplanets.csv
+BD-210397,Exoplanet,,,,,exoplanets.csv
+BEBOP-3,Exoplanet,,,,,exoplanets.csv
+BEBOP-4 A,Exoplanet,,,,,exoplanets.csv
+Barnard's star,Exoplanet,,,,,exoplanets.csv
+CD Cet,Exoplanet,,,,,exoplanets.csv
+CD-35 2722 B,Exoplanet,,,,,exoplanets.csv
+CFBDSIR J145829+101343,Exoplanet,,,,,exoplanets.csv
+CFHTWIR-Oph 98 A,Exoplanet,,,,,exoplanets.csv
+CHXR 73,Exoplanet,,,,,exoplanets.csv
+CI Tau,Exoplanet,,,,,exoplanets.csv
+COCONUTS-2 A,Exoplanet,,,,,exoplanets.csv
+CT Cha,Exoplanet,,,,,exoplanets.csv
+CWISEP J193518.59-154620.3,Exoplanet,,,,,exoplanets.csv
+CoRoT-1,Exoplanet,,,,,exoplanets.csv
+CoRoT-10,Exoplanet,,,,,exoplanets.csv
+CoRoT-11,Exoplanet,,,,,exoplanets.csv
+CoRoT-12,Exoplanet,,,,,exoplanets.csv
+CoRoT-13,Exoplanet,,,,,exoplanets.csv
+CoRoT-14,Exoplanet,,,,,exoplanets.csv
+CoRoT-16,Exoplanet,,,,,exoplanets.csv
+CoRoT-17,Exoplanet,,,,,exoplanets.csv
+CoRoT-18,Exoplanet,,,,,exoplanets.csv
+CoRoT-19,Exoplanet,,,,,exoplanets.csv
+CoRoT-2,Exoplanet,,,,,exoplanets.csv
+CoRoT-20,Exoplanet,,,,,exoplanets.csv
+CoRoT-21,Exoplanet,,,,,exoplanets.csv
+CoRoT-22,Exoplanet,,,,,exoplanets.csv
+CoRoT-23,Exoplanet,,,,,exoplanets.csv
+CoRoT-24,Exoplanet,,,,,exoplanets.csv
+CoRoT-25,Exoplanet,,,,,exoplanets.csv
+CoRoT-26,Exoplanet,,,,,exoplanets.csv
+CoRoT-27,Exoplanet,,,,,exoplanets.csv
+CoRoT-28,Exoplanet,,,,,exoplanets.csv
+CoRoT-29,Exoplanet,,,,,exoplanets.csv
+CoRoT-3,Exoplanet,,,,,exoplanets.csv
+CoRoT-30,Exoplanet,,,,,exoplanets.csv
+CoRoT-31,Exoplanet,,,,,exoplanets.csv
+CoRoT-32,Exoplanet,,,,,exoplanets.csv
+CoRoT-35,Exoplanet,,,,,exoplanets.csv
+CoRoT-36,Exoplanet,,,,,exoplanets.csv
+CoRoT-4,Exoplanet,,,,,exoplanets.csv
+CoRoT-5,Exoplanet,,,,,exoplanets.csv
+CoRoT-6,Exoplanet,,,,,exoplanets.csv
+CoRoT-7,Exoplanet,,,,,exoplanets.csv
+CoRoT-8,Exoplanet,,,,,exoplanets.csv
+CoRoT-9,Exoplanet,,,,,exoplanets.csv
+DE CVn,Exoplanet,,,,,exoplanets.csv
+DENIS-P J082303.1-491201,Exoplanet,,,,,exoplanets.csv
+DH Tau,Exoplanet,,,,,exoplanets.csv
+DMPP-1,Exoplanet,,,,,exoplanets.csv
+DMPP-2,Exoplanet,,,,,exoplanets.csv
+DMPP-3 A,Exoplanet,,,,,exoplanets.csv
+DMPP-4,Exoplanet,,,,,exoplanets.csv
+DMPP-6,Exoplanet,,,,,exoplanets.csv
+DMPP-7,Exoplanet,,,,,exoplanets.csv
+DMPP-8,Exoplanet,,,,,exoplanets.csv
+DMPP-9,Exoplanet,,,,,exoplanets.csv
+DP Leo,Exoplanet,,,,,exoplanets.csv
+DS Tuc A,Exoplanet,,,,,exoplanets.csv
+EPIC 201170410,Exoplanet,,,,,exoplanets.csv
+EPIC 201238110,Exoplanet,,,,,exoplanets.csv
+EPIC 201427007,Exoplanet,,,,,exoplanets.csv
+EPIC 201497682,Exoplanet,,,,,exoplanets.csv
+EPIC 201595106,Exoplanet,,,,,exoplanets.csv
+EPIC 201757695,Exoplanet,,,,,exoplanets.csv
+EPIC 201841433,Exoplanet,,,,,exoplanets.csv
+EPIC 206024342,Exoplanet,,,,,exoplanets.csv
+EPIC 206032309,Exoplanet,,,,,exoplanets.csv
+EPIC 206042996,Exoplanet,,,,,exoplanets.csv
+EPIC 206215704,Exoplanet,,,,,exoplanets.csv
+EPIC 206317286,Exoplanet,,,,,exoplanets.csv
+EPIC 211822797,Exoplanet,,,,,exoplanets.csv
+EPIC 211945201,Exoplanet,,,,,exoplanets.csv
+EPIC 212297394,Exoplanet,,,,,exoplanets.csv
+EPIC 212424622,Exoplanet,,,,,exoplanets.csv
+EPIC 212499991,Exoplanet,,,,,exoplanets.csv
+EPIC 212587672,Exoplanet,,,,,exoplanets.csv
+EPIC 212624936,Exoplanet,,,,,exoplanets.csv
+EPIC 212737443,Exoplanet,,,,,exoplanets.csv
+EPIC 220492298,Exoplanet,,,,,exoplanets.csv
+EPIC 220674823,Exoplanet,,,,,exoplanets.csv
+EPIC 228836835,Exoplanet,,,,,exoplanets.csv
+EPIC 229004835,Exoplanet,,,,,exoplanets.csv
+EPIC 246851721,Exoplanet,,,,,exoplanets.csv
+EPIC 248847494,Exoplanet,,,,,exoplanets.csv
+EPIC 249893012,Exoplanet,,,,,exoplanets.csv
+Elias 2-24,Exoplanet,,,,,exoplanets.csv
+FU Tau,Exoplanet,,,,,exoplanets.csv
+G 192-15,Exoplanet,,,,,exoplanets.csv
+G 196-3,Exoplanet,,,,,exoplanets.csv
+G 261-6,Exoplanet,,,,,exoplanets.csv
+G 264-012,Exoplanet,,,,,exoplanets.csv
+G 268-110,Exoplanet,,,,,exoplanets.csv
+G 9-40,Exoplanet,,,,,exoplanets.csv
+GJ 1002,Exoplanet,,,,,exoplanets.csv
+GJ 1061,Exoplanet,,,,,exoplanets.csv
+GJ 1132,Exoplanet,,,,,exoplanets.csv
+GJ 1148,Exoplanet,,,,,exoplanets.csv
+GJ 1151,Exoplanet,,,,,exoplanets.csv
+GJ 1214,Exoplanet,,,,,exoplanets.csv
+GJ 1252,Exoplanet,,,,,exoplanets.csv
+GJ 1265,Exoplanet,,,,,exoplanets.csv
+GJ 1289,Exoplanet,,,,,exoplanets.csv
+GJ 143,Exoplanet,,,,,exoplanets.csv
+GJ 15 A,Exoplanet,,,,,exoplanets.csv
+GJ 160.2,Exoplanet,,,,,exoplanets.csv
+GJ 163,Exoplanet,,,,,exoplanets.csv
+GJ 179,Exoplanet,,,,,exoplanets.csv
+GJ 180,Exoplanet,,,,,exoplanets.csv
+GJ 2030,Exoplanet,,,,,exoplanets.csv
+GJ 2056,Exoplanet,,,,,exoplanets.csv
+GJ 2126,Exoplanet,,,,,exoplanets.csv
+GJ 229,Exoplanet,,,,,exoplanets.csv
+GJ 238,Exoplanet,,,,,exoplanets.csv
+GJ 251,Exoplanet,,,,,exoplanets.csv
+GJ 27.1,Exoplanet,,,,,exoplanets.csv
+GJ 273,Exoplanet,,,,,exoplanets.csv
+GJ 3021,Exoplanet,,,,,exoplanets.csv
+GJ 3082,Exoplanet,,,,,exoplanets.csv
+GJ 3090,Exoplanet,,,,,exoplanets.csv
+GJ 3138,Exoplanet,,,,,exoplanets.csv
+GJ 317,Exoplanet,,,,,exoplanets.csv
+GJ 3222,Exoplanet,,,,,exoplanets.csv
+GJ 328,Exoplanet,,,,,exoplanets.csv
+GJ 3293,Exoplanet,,,,,exoplanets.csv
+GJ 3323,Exoplanet,,,,,exoplanets.csv
+GJ 3341,Exoplanet,,,,,exoplanets.csv
+GJ 3378,Exoplanet,,,,,exoplanets.csv
+GJ 338 B,Exoplanet,,,,,exoplanets.csv
+GJ 341,Exoplanet,,,,,exoplanets.csv
+GJ 3470,Exoplanet,,,,,exoplanets.csv
+GJ 3473,Exoplanet,,,,,exoplanets.csv
+GJ 3512,Exoplanet,,,,,exoplanets.csv
+GJ 357,Exoplanet,,,,,exoplanets.csv
+GJ 3634,Exoplanet,,,,,exoplanets.csv
+GJ 367,Exoplanet,,,,,exoplanets.csv
+GJ 3779,Exoplanet,,,,,exoplanets.csv
+GJ 3929,Exoplanet,,,,,exoplanets.csv
+GJ 393,Exoplanet,,,,,exoplanets.csv
+GJ 3942,Exoplanet,,,,,exoplanets.csv
+GJ 3988,Exoplanet,,,,,exoplanets.csv
+GJ 3998,Exoplanet,,,,,exoplanets.csv
+GJ 411,Exoplanet,,,,,exoplanets.csv
+GJ 414 A,Exoplanet,,,,,exoplanets.csv
+GJ 422,Exoplanet,,,,,exoplanets.csv
+GJ 4274,Exoplanet,,,,,exoplanets.csv
+GJ 4276,Exoplanet,,,,,exoplanets.csv
+GJ 433,Exoplanet,,,,,exoplanets.csv
+GJ 436,Exoplanet,,,,,exoplanets.csv
+GJ 463,Exoplanet,,,,,exoplanets.csv
+GJ 480,Exoplanet,,,,,exoplanets.csv
+GJ 486,Exoplanet,,,,,exoplanets.csv
+GJ 504,Exoplanet,,,,,exoplanets.csv
+GJ 508.2,Exoplanet,,,,,exoplanets.csv
+GJ 514,Exoplanet,,,,,exoplanets.csv
+GJ 536,Exoplanet,,,,,exoplanets.csv
+GJ 581,Exoplanet,,,,,exoplanets.csv
+GJ 625,Exoplanet,,,,,exoplanets.csv
+GJ 649,Exoplanet,,,,,exoplanets.csv
+GJ 667 C,Exoplanet,,,,,exoplanets.csv
+GJ 674,Exoplanet,,,,,exoplanets.csv
+GJ 676 A,Exoplanet,,,,,exoplanets.csv
+GJ 680,Exoplanet,,,,,exoplanets.csv
+GJ 682,Exoplanet,,,,,exoplanets.csv
+GJ 685,Exoplanet,,,,,exoplanets.csv
+GJ 687,Exoplanet,,,,,exoplanets.csv
+GJ 720 A,Exoplanet,,,,,exoplanets.csv
+GJ 724,Exoplanet,,,,,exoplanets.csv
+GJ 740,Exoplanet,,,,,exoplanets.csv
+GJ 806,Exoplanet,,,,,exoplanets.csv
+GJ 832,Exoplanet,,,,,exoplanets.csv
+GJ 849,Exoplanet,,,,,exoplanets.csv
+GJ 86,Exoplanet,,,,,exoplanets.csv
+GJ 876,Exoplanet,,,,,exoplanets.csv
+GJ 887,Exoplanet,,,,,exoplanets.csv
+GJ 896 A,Exoplanet,,,,,exoplanets.csv
+GJ 900 A,Exoplanet,,,,,exoplanets.csv
+GJ 9066,Exoplanet,,,,,exoplanets.csv
+GJ 9404,Exoplanet,,,,,exoplanets.csv
+GJ 96,Exoplanet,,,,,exoplanets.csv
+GJ 9689,Exoplanet,,,,,exoplanets.csv
+GJ 9714,Exoplanet,,,,,exoplanets.csv
+GJ 9773,Exoplanet,,,,,exoplanets.csv
+GJ 9827,Exoplanet,,,,,exoplanets.csv
+GPX-1,Exoplanet,,,,,exoplanets.csv
+GQ Lup,Exoplanet,,,,,exoplanets.csv
+GSC 06214-00210,Exoplanet,,,,,exoplanets.csv
+GU Psc,Exoplanet,,,,,exoplanets.csv
+Gaia-1,Exoplanet,,,,,exoplanets.csv
+Gaia-2,Exoplanet,,,,,exoplanets.csv
+Gaia-4,Exoplanet,,,,,exoplanets.csv
+Gaia-5,Exoplanet,,,,,exoplanets.csv
+Gaia22dkvL,Exoplanet,,,,,exoplanets.csv
+Gaia23braL,Exoplanet,,,,,exoplanets.csv
+Gl 378,Exoplanet,,,,,exoplanets.csv
+Gl 410,Exoplanet,,,,,exoplanets.csv
+Gl 49,Exoplanet,,,,,exoplanets.csv
+Gl 686,Exoplanet,,,,,exoplanets.csv
+Gl 725 A,Exoplanet,,,,,exoplanets.csv
+Gl 725 B,Exoplanet,,,,,exoplanets.csv
+Gliese 12,Exoplanet,,,,,exoplanets.csv
+Gliese 48,Exoplanet,,,,,exoplanets.csv
+HAT-P-1,Exoplanet,,,,,exoplanets.csv
+HAT-P-11,Exoplanet,,,,,exoplanets.csv
+HAT-P-12,Exoplanet,,,,,exoplanets.csv
+HAT-P-13,Exoplanet,,,,,exoplanets.csv
+HAT-P-14,Exoplanet,,,,,exoplanets.csv
+HAT-P-15,Exoplanet,,,,,exoplanets.csv
+HAT-P-16,Exoplanet,,,,,exoplanets.csv
+HAT-P-17,Exoplanet,,,,,exoplanets.csv
+HAT-P-18,Exoplanet,,,,,exoplanets.csv
+HAT-P-19,Exoplanet,,,,,exoplanets.csv
+HAT-P-2,Exoplanet,,,,,exoplanets.csv
+HAT-P-20,Exoplanet,,,,,exoplanets.csv
+HAT-P-21,Exoplanet,,,,,exoplanets.csv
+HAT-P-22,Exoplanet,,,,,exoplanets.csv
+HAT-P-23,Exoplanet,,,,,exoplanets.csv
+HAT-P-24,Exoplanet,,,,,exoplanets.csv
+HAT-P-25,Exoplanet,,,,,exoplanets.csv
+HAT-P-26,Exoplanet,,,,,exoplanets.csv
+HAT-P-27,Exoplanet,,,,,exoplanets.csv
+HAT-P-28,Exoplanet,,,,,exoplanets.csv
+HAT-P-29,Exoplanet,,,,,exoplanets.csv
+HAT-P-3,Exoplanet,,,,,exoplanets.csv
+HAT-P-30,Exoplanet,,,,,exoplanets.csv
+HAT-P-31,Exoplanet,,,,,exoplanets.csv
+HAT-P-32,Exoplanet,,,,,exoplanets.csv
+HAT-P-33,Exoplanet,,,,,exoplanets.csv
+HAT-P-34,Exoplanet,,,,,exoplanets.csv
+HAT-P-35,Exoplanet,,,,,exoplanets.csv
+HAT-P-36,Exoplanet,,,,,exoplanets.csv
+HAT-P-37,Exoplanet,,,,,exoplanets.csv
+HAT-P-38,Exoplanet,,,,,exoplanets.csv
+HAT-P-39,Exoplanet,,,,,exoplanets.csv
+HAT-P-4,Exoplanet,,,,,exoplanets.csv
+HAT-P-40,Exoplanet,,,,,exoplanets.csv
+HAT-P-41,Exoplanet,,,,,exoplanets.csv
+HAT-P-42,Exoplanet,,,,,exoplanets.csv
+HAT-P-43,Exoplanet,,,,,exoplanets.csv
+HAT-P-44,Exoplanet,,,,,exoplanets.csv
+HAT-P-45,Exoplanet,,,,,exoplanets.csv
+HAT-P-46,Exoplanet,,,,,exoplanets.csv
+HAT-P-47,Exoplanet,,,,,exoplanets.csv
+HAT-P-49,Exoplanet,,,,,exoplanets.csv
+HAT-P-5,Exoplanet,,,,,exoplanets.csv
+HAT-P-50,Exoplanet,,,,,exoplanets.csv
+HAT-P-51,Exoplanet,,,,,exoplanets.csv
+HAT-P-52,Exoplanet,,,,,exoplanets.csv
+HAT-P-53,Exoplanet,,,,,exoplanets.csv
+HAT-P-54,Exoplanet,,,,,exoplanets.csv
+HAT-P-55,Exoplanet,,,,,exoplanets.csv
+HAT-P-56,Exoplanet,,,,,exoplanets.csv
+HAT-P-57,Exoplanet,,,,,exoplanets.csv
+HAT-P-58,Exoplanet,,,,,exoplanets.csv
+HAT-P-59,Exoplanet,,,,,exoplanets.csv
+HAT-P-6,Exoplanet,,,,,exoplanets.csv
+HAT-P-60,Exoplanet,,,,,exoplanets.csv
+HAT-P-61,Exoplanet,,,,,exoplanets.csv
+HAT-P-62,Exoplanet,,,,,exoplanets.csv
+HAT-P-63,Exoplanet,,,,,exoplanets.csv
+HAT-P-64,Exoplanet,,,,,exoplanets.csv
+HAT-P-65,Exoplanet,,,,,exoplanets.csv
+HAT-P-66,Exoplanet,,,,,exoplanets.csv
+HAT-P-67,Exoplanet,,,,,exoplanets.csv
+HAT-P-68,Exoplanet,,,,,exoplanets.csv
+HAT-P-69,Exoplanet,,,,,exoplanets.csv
+HAT-P-7,Exoplanet,,,,,exoplanets.csv
+HAT-P-70,Exoplanet,,,,,exoplanets.csv
+HAT-P-8,Exoplanet,,,,,exoplanets.csv
+HAT-P-9,Exoplanet,,,,,exoplanets.csv
+HATS-1,Exoplanet,,,,,exoplanets.csv
+HATS-10,Exoplanet,,,,,exoplanets.csv
+HATS-11,Exoplanet,,,,,exoplanets.csv
+HATS-12,Exoplanet,,,,,exoplanets.csv
+HATS-13,Exoplanet,,,,,exoplanets.csv
+HATS-14,Exoplanet,,,,,exoplanets.csv
+HATS-15,Exoplanet,,,,,exoplanets.csv
+HATS-16,Exoplanet,,,,,exoplanets.csv
+HATS-17,Exoplanet,,,,,exoplanets.csv
+HATS-18,Exoplanet,,,,,exoplanets.csv
+HATS-2,Exoplanet,,,,,exoplanets.csv
+HATS-22,Exoplanet,,,,,exoplanets.csv
+HATS-23,Exoplanet,,,,,exoplanets.csv
+HATS-24,Exoplanet,,,,,exoplanets.csv
+HATS-25,Exoplanet,,,,,exoplanets.csv
+HATS-26,Exoplanet,,,,,exoplanets.csv
+HATS-27,Exoplanet,,,,,exoplanets.csv
+HATS-28,Exoplanet,,,,,exoplanets.csv
+HATS-29,Exoplanet,,,,,exoplanets.csv
+HATS-3,Exoplanet,,,,,exoplanets.csv
+HATS-30,Exoplanet,,,,,exoplanets.csv
+HATS-31,Exoplanet,,,,,exoplanets.csv
+HATS-32,Exoplanet,,,,,exoplanets.csv
+HATS-33,Exoplanet,,,,,exoplanets.csv
+HATS-34,Exoplanet,,,,,exoplanets.csv
+HATS-35,Exoplanet,,,,,exoplanets.csv
+HATS-36,Exoplanet,,,,,exoplanets.csv
+HATS-37 A,Exoplanet,,,,,exoplanets.csv
+HATS-38,Exoplanet,,,,,exoplanets.csv
+HATS-39,Exoplanet,,,,,exoplanets.csv
+HATS-4,Exoplanet,,,,,exoplanets.csv
+HATS-40,Exoplanet,,,,,exoplanets.csv
+HATS-41,Exoplanet,,,,,exoplanets.csv
+HATS-42,Exoplanet,,,,,exoplanets.csv
+HATS-43,Exoplanet,,,,,exoplanets.csv
+HATS-44,Exoplanet,,,,,exoplanets.csv
+HATS-45,Exoplanet,,,,,exoplanets.csv
+HATS-46,Exoplanet,,,,,exoplanets.csv
+HATS-47,Exoplanet,,,,,exoplanets.csv
+HATS-48 A,Exoplanet,,,,,exoplanets.csv
+HATS-49,Exoplanet,,,,,exoplanets.csv
+HATS-5,Exoplanet,,,,,exoplanets.csv
+HATS-50,Exoplanet,,,,,exoplanets.csv
+HATS-51,Exoplanet,,,,,exoplanets.csv
+HATS-52,Exoplanet,,,,,exoplanets.csv
+HATS-53,Exoplanet,,,,,exoplanets.csv
+HATS-54,Exoplanet,,,,,exoplanets.csv
+HATS-55,Exoplanet,,,,,exoplanets.csv
+HATS-56,Exoplanet,,,,,exoplanets.csv
+HATS-57,Exoplanet,,,,,exoplanets.csv
+HATS-58 A,Exoplanet,,,,,exoplanets.csv
+HATS-59,Exoplanet,,,,,exoplanets.csv
+HATS-6,Exoplanet,,,,,exoplanets.csv
+HATS-60,Exoplanet,,,,,exoplanets.csv
+HATS-61,Exoplanet,,,,,exoplanets.csv
+HATS-62,Exoplanet,,,,,exoplanets.csv
+HATS-63,Exoplanet,,,,,exoplanets.csv
+HATS-64,Exoplanet,,,,,exoplanets.csv
+HATS-65,Exoplanet,,,,,exoplanets.csv
+HATS-66,Exoplanet,,,,,exoplanets.csv
+HATS-67,Exoplanet,,,,,exoplanets.csv
+HATS-68,Exoplanet,,,,,exoplanets.csv
+HATS-69,Exoplanet,,,,,exoplanets.csv
+HATS-7,Exoplanet,,,,,exoplanets.csv
+HATS-70,Exoplanet,,,,,exoplanets.csv
+HATS-71,Exoplanet,,,,,exoplanets.csv
+HATS-72,Exoplanet,,,,,exoplanets.csv
+HATS-74 A,Exoplanet,,,,,exoplanets.csv
+HATS-75,Exoplanet,,,,,exoplanets.csv
+HATS-76,Exoplanet,,,,,exoplanets.csv
+HATS-77,Exoplanet,,,,,exoplanets.csv
+HATS-8,Exoplanet,,,,,exoplanets.csv
+HATS-9,Exoplanet,,,,,exoplanets.csv
+HD 100508,Exoplanet,,,,,exoplanets.csv
+HD 100546,Exoplanet,,,,,exoplanets.csv
+HD 100655,Exoplanet,,,,,exoplanets.csv
+HD 100777,Exoplanet,,,,,exoplanets.csv
+HD 10180,Exoplanet,,,,,exoplanets.csv
+HD 101930,Exoplanet,,,,,exoplanets.csv
+HD 102117,Exoplanet,,,,,exoplanets.csv
+HD 102195,Exoplanet,,,,,exoplanets.csv
+HD 102272,Exoplanet,,,,,exoplanets.csv
+HD 102329,Exoplanet,,,,,exoplanets.csv
+HD 102843,Exoplanet,,,,,exoplanets.csv
+HD 102888,Exoplanet,,,,,exoplanets.csv
+HD 102956,Exoplanet,,,,,exoplanets.csv
+HD 103197,Exoplanet,,,,,exoplanets.csv
+HD 103720,Exoplanet,,,,,exoplanets.csv
+HD 103774,Exoplanet,,,,,exoplanets.csv
+HD 103891,Exoplanet,,,,,exoplanets.csv
+HD 103949,Exoplanet,,,,,exoplanets.csv
+HD 104067,Exoplanet,,,,,exoplanets.csv
+HD 10442,Exoplanet,,,,,exoplanets.csv
+HD 104985,Exoplanet,,,,,exoplanets.csv
+HD 105618,Exoplanet,,,,,exoplanets.csv
+HD 105779,Exoplanet,,,,,exoplanets.csv
+HD 106252,Exoplanet,,,,,exoplanets.csv
+HD 106270,Exoplanet,,,,,exoplanets.csv
+HD 106315,Exoplanet,,,,,exoplanets.csv
+HD 10647,Exoplanet,,,,,exoplanets.csv
+HD 106515 A,Exoplanet,,,,,exoplanets.csv
+HD 106906,Exoplanet,,,,,exoplanets.csv
+HD 10697,Exoplanet,,,,,exoplanets.csv
+HD 107148,Exoplanet,,,,,exoplanets.csv
+HD 108147,Exoplanet,,,,,exoplanets.csv
+HD 108202,Exoplanet,,,,,exoplanets.csv
+HD 108236,Exoplanet,,,,,exoplanets.csv
+HD 108341,Exoplanet,,,,,exoplanets.csv
+HD 108863,Exoplanet,,,,,exoplanets.csv
+HD 108874,Exoplanet,,,,,exoplanets.csv
+HD 109246,Exoplanet,,,,,exoplanets.csv
+HD 109271,Exoplanet,,,,,exoplanets.csv
+HD 109286,Exoplanet,,,,,exoplanets.csv
+HD 109749,Exoplanet,,,,,exoplanets.csv
+HD 10975,Exoplanet,,,,,exoplanets.csv
+HD 109833,Exoplanet,,,,,exoplanets.csv
+HD 109988,Exoplanet,,,,,exoplanets.csv
+HD 110014,Exoplanet,,,,,exoplanets.csv
+HD 110067,Exoplanet,,,,,exoplanets.csv
+HD 110082,Exoplanet,,,,,exoplanets.csv
+HD 110113,Exoplanet,,,,,exoplanets.csv
+HD 110537,Exoplanet,,,,,exoplanets.csv
+HD 11112,Exoplanet,,,,,exoplanets.csv
+HD 111232,Exoplanet,,,,,exoplanets.csv
+HD 111591,Exoplanet,,,,,exoplanets.csv
+HD 111998,Exoplanet,,,,,exoplanets.csv
+HD 112300,Exoplanet,,,,,exoplanets.csv
+HD 112570,Exoplanet,,,,,exoplanets.csv
+HD 112640,Exoplanet,,,,,exoplanets.csv
+HD 113337,Exoplanet,,,,,exoplanets.csv
+HD 113538,Exoplanet,,,,,exoplanets.csv
+HD 113996,Exoplanet,,,,,exoplanets.csv
+HD 114082,Exoplanet,,,,,exoplanets.csv
+HD 114386,Exoplanet,,,,,exoplanets.csv
+HD 114729,Exoplanet,,,,,exoplanets.csv
+HD 114783,Exoplanet,,,,,exoplanets.csv
+HD 11505,Exoplanet,,,,,exoplanets.csv
+HD 11506,Exoplanet,,,,,exoplanets.csv
+HD 115404 A,Exoplanet,,,,,exoplanets.csv
+HD 115954,Exoplanet,,,,,exoplanets.csv
+HD 116029,Exoplanet,,,,,exoplanets.csv
+HD 117207,Exoplanet,,,,,exoplanets.csv
+HD 11755,Exoplanet,,,,,exoplanets.csv
+HD 117618,Exoplanet,,,,,exoplanets.csv
+HD 118203,Exoplanet,,,,,exoplanets.csv
+HD 11964,Exoplanet,,,,,exoplanets.csv
+HD 11977,Exoplanet,,,,,exoplanets.csv
+HD 120084,Exoplanet,,,,,exoplanets.csv
+HD 121504,Exoplanet,,,,,exoplanets.csv
+HD 12235,Exoplanet,,,,,exoplanets.csv
+HD 122562,Exoplanet,,,,,exoplanets.csv
+HD 124330,Exoplanet,,,,,exoplanets.csv
+HD 12484,Exoplanet,,,,,exoplanets.csv
+HD 125136,Exoplanet,,,,,exoplanets.csv
+HD 125271,Exoplanet,,,,,exoplanets.csv
+HD 125390,Exoplanet,,,,,exoplanets.csv
+HD 125595,Exoplanet,,,,,exoplanets.csv
+HD 125612,Exoplanet,,,,,exoplanets.csv
+HD 126105,Exoplanet,,,,,exoplanets.csv
+HD 12648,Exoplanet,,,,,exoplanets.csv
+HD 126525,Exoplanet,,,,,exoplanets.csv
+HD 12661,Exoplanet,,,,,exoplanets.csv
+HD 126614,Exoplanet,,,,,exoplanets.csv
+HD 127195,Exoplanet,,,,,exoplanets.csv
+HD 127506,Exoplanet,,,,,exoplanets.csv
+HD 128311,Exoplanet,,,,,exoplanets.csv
+HD 128356,Exoplanet,,,,,exoplanets.csv
+HD 128717,Exoplanet,,,,,exoplanets.csv
+HD 129445,Exoplanet,,,,,exoplanets.csv
+HD 130322,Exoplanet,,,,,exoplanets.csv
+HD 131496,Exoplanet,,,,,exoplanets.csv
+HD 13167,Exoplanet,,,,,exoplanets.csv
+HD 13189,Exoplanet,,,,,exoplanets.csv
+HD 132406,Exoplanet,,,,,exoplanets.csv
+HD 132563,Exoplanet,,,,,exoplanets.csv
+HD 133131 A,Exoplanet,,,,,exoplanets.csv
+HD 133131 B,Exoplanet,,,,,exoplanets.csv
+HD 134060,Exoplanet,,,,,exoplanets.csv
+HD 134606,Exoplanet,,,,,exoplanets.csv
+HD 134987,Exoplanet,,,,,exoplanets.csv
+HD 135344 A,Exoplanet,,,,,exoplanets.csv
+HD 135625,Exoplanet,,,,,exoplanets.csv
+HD 135694,Exoplanet,,,,,exoplanets.csv
+HD 135872,Exoplanet,,,,,exoplanets.csv
+HD 136118,Exoplanet,,,,,exoplanets.csv
+HD 136352,Exoplanet,,,,,exoplanets.csv
+HD 136418,Exoplanet,,,,,exoplanets.csv
+HD 136925,Exoplanet,,,,,exoplanets.csv
+HD 13724,Exoplanet,,,,,exoplanets.csv
+HD 137388,Exoplanet,,,,,exoplanets.csv
+HD 137496,Exoplanet,,,,,exoplanets.csv
+HD 13808,Exoplanet,,,,,exoplanets.csv
+HD 13908,Exoplanet,,,,,exoplanets.csv
+HD 13931,Exoplanet,,,,,exoplanets.csv
+HD 139357,Exoplanet,,,,,exoplanets.csv
+HD 1397,Exoplanet,,,,,exoplanets.csv
+HD 14067,Exoplanet,,,,,exoplanets.csv
+HD 140901,Exoplanet,,,,,exoplanets.csv
+HD 141004,Exoplanet,,,,,exoplanets.csv
+HD 141399,Exoplanet,,,,,exoplanets.csv
+HD 141937,Exoplanet,,,,,exoplanets.csv
+HD 142,Exoplanet,,,,,exoplanets.csv
+HD 142022 A,Exoplanet,,,,,exoplanets.csv
+HD 142245,Exoplanet,,,,,exoplanets.csv
+HD 142415,Exoplanet,,,,,exoplanets.csv
+HD 143105,Exoplanet,,,,,exoplanets.csv
+HD 143361,Exoplanet,,,,,exoplanets.csv
+HD 143811 A,Exoplanet,,,,,exoplanets.csv
+HD 144899,Exoplanet,,,,,exoplanets.csv
+HD 145377,Exoplanet,,,,,exoplanets.csv
+HD 145457,Exoplanet,,,,,exoplanets.csv
+HD 145934,Exoplanet,,,,,exoplanets.csv
+HD 1461,Exoplanet,,,,,exoplanets.csv
+HD 147018,Exoplanet,,,,,exoplanets.csv
+HD 147379,Exoplanet,,,,,exoplanets.csv
+HD 147513,Exoplanet,,,,,exoplanets.csv
+HD 14787,Exoplanet,,,,,exoplanets.csv
+HD 147873,Exoplanet,,,,,exoplanets.csv
+HD 148156,Exoplanet,,,,,exoplanets.csv
+HD 148164,Exoplanet,,,,,exoplanets.csv
+HD 148427,Exoplanet,,,,,exoplanets.csv
+HD 148797,Exoplanet,,,,,exoplanets.csv
+HD 149026,Exoplanet,,,,,exoplanets.csv
+HD 149143,Exoplanet,,,,,exoplanets.csv
+HD 149806,Exoplanet,,,,,exoplanets.csv
+HD 150010,Exoplanet,,,,,exoplanets.csv
+HD 1502,Exoplanet,,,,,exoplanets.csv
+HD 150706,Exoplanet,,,,,exoplanets.csv
+HD 151450,Exoplanet,,,,,exoplanets.csv
+HD 152079,Exoplanet,,,,,exoplanets.csv
+HD 152581,Exoplanet,,,,,exoplanets.csv
+HD 152843,Exoplanet,,,,,exoplanets.csv
+HD 15337,Exoplanet,,,,,exoplanets.csv
+HD 153557,Exoplanet,,,,,exoplanets.csv
+HD 153950,Exoplanet,,,,,exoplanets.csv
+HD 154088,Exoplanet,,,,,exoplanets.csv
+HD 154345,Exoplanet,,,,,exoplanets.csv
+HD 154391,Exoplanet,,,,,exoplanets.csv
+HD 154672,Exoplanet,,,,,exoplanets.csv
+HD 154857,Exoplanet,,,,,exoplanets.csv
+HD 155193,Exoplanet,,,,,exoplanets.csv
+HD 155358,Exoplanet,,,,,exoplanets.csv
+HD 155918,Exoplanet,,,,,exoplanets.csv
+HD 156098,Exoplanet,,,,,exoplanets.csv
+HD 156279,Exoplanet,,,,,exoplanets.csv
+HD 156411,Exoplanet,,,,,exoplanets.csv
+HD 156668,Exoplanet,,,,,exoplanets.csv
+HD 156846,Exoplanet,,,,,exoplanets.csv
+HD 158038,Exoplanet,,,,,exoplanets.csv
+HD 158259,Exoplanet,,,,,exoplanets.csv
+HD 158996,Exoplanet,,,,,exoplanets.csv
+HD 15906,Exoplanet,,,,,exoplanets.csv
+HD 159243,Exoplanet,,,,,exoplanets.csv
+HD 159868,Exoplanet,,,,,exoplanets.csv
+HD 1605,Exoplanet,,,,,exoplanets.csv
+HD 160691,Exoplanet,,,,,exoplanets.csv
+HD 161178,Exoplanet,,,,,exoplanets.csv
+HD 16141,Exoplanet,,,,,exoplanets.csv
+HD 16175,Exoplanet,,,,,exoplanets.csv
+HD 162020,Exoplanet,,,,,exoplanets.csv
+HD 163607,Exoplanet,,,,,exoplanets.csv
+HD 16417,Exoplanet,,,,,exoplanets.csv
+HD 164509,Exoplanet,,,,,exoplanets.csv
+HD 164595,Exoplanet,,,,,exoplanets.csv
+HD 164604,Exoplanet,,,,,exoplanets.csv
+HD 164922,Exoplanet,,,,,exoplanets.csv
+HD 165131,Exoplanet,,,,,exoplanets.csv
+HD 165155,Exoplanet,,,,,exoplanets.csv
+HD 1666,Exoplanet,,,,,exoplanets.csv
+HD 166724,Exoplanet,,,,,exoplanets.csv
+HD 167042,Exoplanet,,,,,exoplanets.csv
+HD 16760,Exoplanet,,,,,exoplanets.csv
+HD 167677,Exoplanet,,,,,exoplanets.csv
+HD 167768,Exoplanet,,,,,exoplanets.csv
+HD 168009,Exoplanet,,,,,exoplanets.csv
+HD 168443,Exoplanet,,,,,exoplanets.csv
+HD 168746,Exoplanet,,,,,exoplanets.csv
+HD 168863,Exoplanet,,,,,exoplanets.csv
+HD 1690,Exoplanet,,,,,exoplanets.csv
+HD 16905,Exoplanet,,,,,exoplanets.csv
+HD 169142,Exoplanet,,,,,exoplanets.csv
+HD 169830,Exoplanet,,,,,exoplanets.csv
+HD 170469,Exoplanet,,,,,exoplanets.csv
+HD 17092,Exoplanet,,,,,exoplanets.csv
+HD 171028,Exoplanet,,,,,exoplanets.csv
+HD 171238,Exoplanet,,,,,exoplanets.csv
+HD 17156,Exoplanet,,,,,exoplanets.csv
+HD 173416,Exoplanet,,,,,exoplanets.csv
+HD 174205,Exoplanet,,,,,exoplanets.csv
+HD 175167,Exoplanet,,,,,exoplanets.csv
+HD 175541,Exoplanet,,,,,exoplanets.csv
+HD 175607,Exoplanet,,,,,exoplanets.csv
+HD 17674,Exoplanet,,,,,exoplanets.csv
+HD 176986,Exoplanet,,,,,exoplanets.csv
+HD 177565,Exoplanet,,,,,exoplanets.csv
+HD 177830,Exoplanet,,,,,exoplanets.csv
+HD 178911 B,Exoplanet,,,,,exoplanets.csv
+HD 179079,Exoplanet,,,,,exoplanets.csv
+HD 179949,Exoplanet,,,,,exoplanets.csv
+HD 180053,Exoplanet,,,,,exoplanets.csv
+HD 18015,Exoplanet,,,,,exoplanets.csv
+HD 180314,Exoplanet,,,,,exoplanets.csv
+HD 180617,Exoplanet,,,,,exoplanets.csv
+HD 180902,Exoplanet,,,,,exoplanets.csv
+HD 181234,Exoplanet,,,,,exoplanets.csv
+HD 181342,Exoplanet,,,,,exoplanets.csv
+HD 18143,Exoplanet,,,,,exoplanets.csv
+HD 181433,Exoplanet,,,,,exoplanets.csv
+HD 181720,Exoplanet,,,,,exoplanets.csv
+HD 183263,Exoplanet,,,,,exoplanets.csv
+HD 183579,Exoplanet,,,,,exoplanets.csv
+HD 184010,Exoplanet,,,,,exoplanets.csv
+HD 18438,Exoplanet,,,,,exoplanets.csv
+HD 185269,Exoplanet,,,,,exoplanets.csv
+HD 185283,Exoplanet,,,,,exoplanets.csv
+HD 18599,Exoplanet,,,,,exoplanets.csv
+HD 187085,Exoplanet,,,,,exoplanets.csv
+HD 187123,Exoplanet,,,,,exoplanets.csv
+HD 18742,Exoplanet,,,,,exoplanets.csv
+HD 188015,Exoplanet,,,,,exoplanets.csv
+HD 188641,Exoplanet,,,,,exoplanets.csv
+HD 189567,Exoplanet,,,,,exoplanets.csv
+HD 189733,Exoplanet,,,,,exoplanets.csv
+HD 190007,Exoplanet,,,,,exoplanets.csv
+HD 190228,Exoplanet,,,,,exoplanets.csv
+HD 190360,Exoplanet,,,,,exoplanets.csv
+HD 190647,Exoplanet,,,,,exoplanets.csv
+HD 190984,Exoplanet,,,,,exoplanets.csv
+HD 191806,Exoplanet,,,,,exoplanets.csv
+HD 191939,Exoplanet,,,,,exoplanets.csv
+HD 192263,Exoplanet,,,,,exoplanets.csv
+HD 192310,Exoplanet,,,,,exoplanets.csv
+HD 192699,Exoplanet,,,,,exoplanets.csv
+HD 194490,Exoplanet,,,,,exoplanets.csv
+HD 195019,Exoplanet,,,,,exoplanets.csv
+HD 196050,Exoplanet,,,,,exoplanets.csv
+HD 196067,Exoplanet,,,,,exoplanets.csv
+HD 19615,Exoplanet,,,,,exoplanets.csv
+HD 196885 A,Exoplanet,,,,,exoplanets.csv
+HD 197037,Exoplanet,,,,,exoplanets.csv
+HD 199509,Exoplanet,,,,,exoplanets.csv
+HD 19994,Exoplanet,,,,,exoplanets.csv
+HD 20003,Exoplanet,,,,,exoplanets.csv
+HD 200964,Exoplanet,,,,,exoplanets.csv
+HD 202206,Exoplanet,,,,,exoplanets.csv
+HD 202696,Exoplanet,,,,,exoplanets.csv
+HD 202772 A,Exoplanet,,,,,exoplanets.csv
+HD 203030,Exoplanet,,,,,exoplanets.csv
+HD 20329,Exoplanet,,,,,exoplanets.csv
+HD 203387,Exoplanet,,,,,exoplanets.csv
+HD 2039,Exoplanet,,,,,exoplanets.csv
+HD 204313,Exoplanet,,,,,exoplanets.csv
+HD 204941,Exoplanet,,,,,exoplanets.csv
+HD 205158,Exoplanet,,,,,exoplanets.csv
+HD 205739,Exoplanet,,,,,exoplanets.csv
+HD 206255,Exoplanet,,,,,exoplanets.csv
+HD 206610,Exoplanet,,,,,exoplanets.csv
+HD 206893,Exoplanet,,,,,exoplanets.csv
+HD 207496,Exoplanet,,,,,exoplanets.csv
+HD 20781,Exoplanet,,,,,exoplanets.csv
+HD 20782,Exoplanet,,,,,exoplanets.csv
+HD 207832,Exoplanet,,,,,exoplanets.csv
+HD 207897,Exoplanet,,,,,exoplanets.csv
+HD 20794,Exoplanet,,,,,exoplanets.csv
+HD 208487,Exoplanet,,,,,exoplanets.csv
+HD 208527,Exoplanet,,,,,exoplanets.csv
+HD 20868,Exoplanet,,,,,exoplanets.csv
+HD 208897,Exoplanet,,,,,exoplanets.csv
+HD 209458,Exoplanet,,,,,exoplanets.csv
+HD 210193,Exoplanet,,,,,exoplanets.csv
+HD 210277,Exoplanet,,,,,exoplanets.csv
+HD 210702,Exoplanet,,,,,exoplanets.csv
+HD 211403,Exoplanet,,,,,exoplanets.csv
+HD 211810,Exoplanet,,,,,exoplanets.csv
+HD 211970,Exoplanet,,,,,exoplanets.csv
+HD 212301,Exoplanet,,,,,exoplanets.csv
+HD 212771,Exoplanet,,,,,exoplanets.csv
+HD 213240,Exoplanet,,,,,exoplanets.csv
+HD 213472,Exoplanet,,,,,exoplanets.csv
+HD 213519,Exoplanet,,,,,exoplanets.csv
+HD 213885,Exoplanet,,,,,exoplanets.csv
+HD 21411,Exoplanet,,,,,exoplanets.csv
+HD 214823,Exoplanet,,,,,exoplanets.csv
+HD 215152,Exoplanet,,,,,exoplanets.csv
+HD 21520,Exoplanet,,,,,exoplanets.csv
+HD 215497,Exoplanet,,,,,exoplanets.csv
+HD 216435,Exoplanet,,,,,exoplanets.csv
+HD 216437,Exoplanet,,,,,exoplanets.csv
+HD 216520,Exoplanet,,,,,exoplanets.csv
+HD 216536,Exoplanet,,,,,exoplanets.csv
+HD 216770,Exoplanet,,,,,exoplanets.csv
+HD 21693,Exoplanet,,,,,exoplanets.csv
+HD 217107,Exoplanet,,,,,exoplanets.csv
+HD 217786,Exoplanet,,,,,exoplanets.csv
+HD 217958,Exoplanet,,,,,exoplanets.csv
+HD 218566,Exoplanet,,,,,exoplanets.csv
+HD 219077,Exoplanet,,,,,exoplanets.csv
+HD 219134,Exoplanet,,,,,exoplanets.csv
+HD 219139,Exoplanet,,,,,exoplanets.csv
+HD 219415,Exoplanet,,,,,exoplanets.csv
+HD 219666,Exoplanet,,,,,exoplanets.csv
+HD 219828,Exoplanet,,,,,exoplanets.csv
+HD 220074,Exoplanet,,,,,exoplanets.csv
+HD 220197,Exoplanet,,,,,exoplanets.csv
+HD 220689,Exoplanet,,,,,exoplanets.csv
+HD 220773,Exoplanet,,,,,exoplanets.csv
+HD 220842,Exoplanet,,,,,exoplanets.csv
+HD 221287,Exoplanet,,,,,exoplanets.csv
+HD 221416,Exoplanet,,,,,exoplanets.csv
+HD 221420,Exoplanet,,,,,exoplanets.csv
+HD 221585,Exoplanet,,,,,exoplanets.csv
+HD 222076,Exoplanet,,,,,exoplanets.csv
+HD 222155,Exoplanet,,,,,exoplanets.csv
+HD 222237,Exoplanet,,,,,exoplanets.csv
+HD 222582,Exoplanet,,,,,exoplanets.csv
+HD 224018,Exoplanet,,,,,exoplanets.csv
+HD 224538,Exoplanet,,,,,exoplanets.csv
+HD 224693,Exoplanet,,,,,exoplanets.csv
+HD 22496,Exoplanet,,,,,exoplanets.csv
+HD 22532,Exoplanet,,,,,exoplanets.csv
+HD 22781,Exoplanet,,,,,exoplanets.csv
+HD 22946,Exoplanet,,,,,exoplanets.csv
+HD 23079,Exoplanet,,,,,exoplanets.csv
+HD 23127,Exoplanet,,,,,exoplanets.csv
+HD 231701,Exoplanet,,,,,exoplanets.csv
+HD 233604,Exoplanet,,,,,exoplanets.csv
+HD 233832,Exoplanet,,,,,exoplanets.csv
+HD 23472,Exoplanet,,,,,exoplanets.csv
+HD 235088,Exoplanet,,,,,exoplanets.csv
+HD 23596,Exoplanet,,,,,exoplanets.csv
+HD 238090,Exoplanet,,,,,exoplanets.csv
+HD 238914,Exoplanet,,,,,exoplanets.csv
+HD 240210,Exoplanet,,,,,exoplanets.csv
+HD 240237,Exoplanet,,,,,exoplanets.csv
+HD 24040,Exoplanet,,,,,exoplanets.csv
+HD 24064,Exoplanet,,,,,exoplanets.csv
+HD 24085,Exoplanet,,,,,exoplanets.csv
+HD 25015,Exoplanet,,,,,exoplanets.csv
+HD 25171,Exoplanet,,,,,exoplanets.csv
+HD 25463,Exoplanet,,,,,exoplanets.csv
+HD 25723,Exoplanet,,,,,exoplanets.csv
+HD 25912,Exoplanet,,,,,exoplanets.csv
+HD 260655,Exoplanet,,,,,exoplanets.csv
+HD 26161,Exoplanet,,,,,exoplanets.csv
+HD 2638,Exoplanet,,,,,exoplanets.csv
+HD 2685,Exoplanet,,,,,exoplanets.csv
+HD 27442,Exoplanet,,,,,exoplanets.csv
+HD 27631,Exoplanet,,,,,exoplanets.csv
+HD 278555,Exoplanet,,,,,exoplanets.csv
+HD 27894,Exoplanet,,,,,exoplanets.csv
+HD 27969,Exoplanet,,,,,exoplanets.csv
+HD 28109,Exoplanet,,,,,exoplanets.csv
+HD 28185,Exoplanet,,,,,exoplanets.csv
+HD 28192,Exoplanet,,,,,exoplanets.csv
+HD 28254,Exoplanet,,,,,exoplanets.csv
+HD 284149 A,Exoplanet,,,,,exoplanets.csv
+HD 28471,Exoplanet,,,,,exoplanets.csv
+HD 285507,Exoplanet,,,,,exoplanets.csv
+HD 285968,Exoplanet,,,,,exoplanets.csv
+HD 28678,Exoplanet,,,,,exoplanets.csv
+HD 29021,Exoplanet,,,,,exoplanets.csv
+HD 290327,Exoplanet,,,,,exoplanets.csv
+HD 29399,Exoplanet,,,,,exoplanets.csv
+HD 2952,Exoplanet,,,,,exoplanets.csv
+HD 29985,Exoplanet,,,,,exoplanets.csv
+HD 30177,Exoplanet,,,,,exoplanets.csv
+HD 30562,Exoplanet,,,,,exoplanets.csv
+HD 30669,Exoplanet,,,,,exoplanets.csv
+HD 307842,Exoplanet,,,,,exoplanets.csv
+HD 30856,Exoplanet,,,,,exoplanets.csv
+HD 31253,Exoplanet,,,,,exoplanets.csv
+HD 31527,Exoplanet,,,,,exoplanets.csv
+HD 3167,Exoplanet,,,,,exoplanets.csv
+HD 32518,Exoplanet,,,,,exoplanets.csv
+HD 32963,Exoplanet,,,,,exoplanets.csv
+HD 330075,Exoplanet,,,,,exoplanets.csv
+HD 331093,Exoplanet,,,,,exoplanets.csv
+HD 33142,Exoplanet,,,,,exoplanets.csv
+HD 332231,Exoplanet,,,,,exoplanets.csv
+HD 33283,Exoplanet,,,,,exoplanets.csv
+HD 33564,Exoplanet,,,,,exoplanets.csv
+HD 33844,Exoplanet,,,,,exoplanets.csv
+HD 34445,Exoplanet,,,,,exoplanets.csv
+HD 35759,Exoplanet,,,,,exoplanets.csv
+HD 35843,Exoplanet,,,,,exoplanets.csv
+HD 360,Exoplanet,,,,,exoplanets.csv
+HD 36384,Exoplanet,,,,,exoplanets.csv
+HD 3651,Exoplanet,,,,,exoplanets.csv
+HD 37124,Exoplanet,,,,,exoplanets.csv
+HD 37605,Exoplanet,,,,,exoplanets.csv
+HD 3765,Exoplanet,,,,,exoplanets.csv
+HD 38283,Exoplanet,,,,,exoplanets.csv
+HD 38529,Exoplanet,,,,,exoplanets.csv
+HD 38801,Exoplanet,,,,,exoplanets.csv
+HD 39091,Exoplanet,,,,,exoplanets.csv
+HD 39194,Exoplanet,,,,,exoplanets.csv
+HD 39855,Exoplanet,,,,,exoplanets.csv
+HD 40307,Exoplanet,,,,,exoplanets.csv
+HD 40956,Exoplanet,,,,,exoplanets.csv
+HD 40979,Exoplanet,,,,,exoplanets.csv
+HD 41004 A,Exoplanet,,,,,exoplanets.csv
+HD 41004 B,Exoplanet,,,,,exoplanets.csv
+HD 4113,Exoplanet,,,,,exoplanets.csv
+HD 42012,Exoplanet,,,,,exoplanets.csv
+HD 4203,Exoplanet,,,,,exoplanets.csv
+HD 4208,Exoplanet,,,,,exoplanets.csv
+HD 42618,Exoplanet,,,,,exoplanets.csv
+HD 4308,Exoplanet,,,,,exoplanets.csv
+HD 4313,Exoplanet,,,,,exoplanets.csv
+HD 43197,Exoplanet,,,,,exoplanets.csv
+HD 43691,Exoplanet,,,,,exoplanets.csv
+HD 44219,Exoplanet,,,,,exoplanets.csv
+HD 45184,Exoplanet,,,,,exoplanets.csv
+HD 45350,Exoplanet,,,,,exoplanets.csv
+HD 45364,Exoplanet,,,,,exoplanets.csv
+HD 45652,Exoplanet,,,,,exoplanets.csv
+HD 457,Exoplanet,,,,,exoplanets.csv
+HD 46375,Exoplanet,,,,,exoplanets.csv
+HD 47186,Exoplanet,,,,,exoplanets.csv
+HD 4732,Exoplanet,,,,,exoplanets.csv
+HD 47366,Exoplanet,,,,,exoplanets.csv
+HD 47536,Exoplanet,,,,,exoplanets.csv
+HD 4760,Exoplanet,,,,,exoplanets.csv
+HD 48265,Exoplanet,,,,,exoplanets.csv
+HD 48948,Exoplanet,,,,,exoplanets.csv
+HD 4917,Exoplanet,,,,,exoplanets.csv
+HD 49674,Exoplanet,,,,,exoplanets.csv
+HD 50499,Exoplanet,,,,,exoplanets.csv
+HD 50554,Exoplanet,,,,,exoplanets.csv
+HD 51608,Exoplanet,,,,,exoplanets.csv
+HD 52265,Exoplanet,,,,,exoplanets.csv
+HD 5278,Exoplanet,,,,,exoplanets.csv
+HD 5319,Exoplanet,,,,,exoplanets.csv
+HD 5388,Exoplanet,,,,,exoplanets.csv
+HD 55696,Exoplanet,,,,,exoplanets.csv
+HD 5583,Exoplanet,,,,,exoplanets.csv
+HD 5608,Exoplanet,,,,,exoplanets.csv
+HD 564,Exoplanet,,,,,exoplanets.csv
+HD 56414,Exoplanet,,,,,exoplanets.csv
+HD 56957,Exoplanet,,,,,exoplanets.csv
+HD 5891,Exoplanet,,,,,exoplanets.csv
+HD 59686 A,Exoplanet,,,,,exoplanets.csv
+HD 60292,Exoplanet,,,,,exoplanets.csv
+HD 60532,Exoplanet,,,,,exoplanets.csv
+HD 6061,Exoplanet,,,,,exoplanets.csv
+HD 60779,Exoplanet,,,,,exoplanets.csv
+HD 62364,Exoplanet,,,,,exoplanets.csv
+HD 62509,Exoplanet,,,,,exoplanets.csv
+HD 62549,Exoplanet,,,,,exoplanets.csv
+HD 63433,Exoplanet,,,,,exoplanets.csv
+HD 63454,Exoplanet,,,,,exoplanets.csv
+HD 63765,Exoplanet,,,,,exoplanets.csv
+HD 63935,Exoplanet,,,,,exoplanets.csv
+HD 64114,Exoplanet,,,,,exoplanets.csv
+HD 64121,Exoplanet,,,,,exoplanets.csv
+HD 6434,Exoplanet,,,,,exoplanets.csv
+HD 65216,Exoplanet,,,,,exoplanets.csv
+HD 66141,Exoplanet,,,,,exoplanets.csv
+HD 66428,Exoplanet,,,,,exoplanets.csv
+HD 67087,Exoplanet,,,,,exoplanets.csv
+HD 6718,Exoplanet,,,,,exoplanets.csv
+HD 68402,Exoplanet,,,,,exoplanets.csv
+HD 68475,Exoplanet,,,,,exoplanets.csv
+HD 6860,Exoplanet,,,,,exoplanets.csv
+HD 68988,Exoplanet,,,,,exoplanets.csv
+HD 69123,Exoplanet,,,,,exoplanets.csv
+HD 69830,Exoplanet,,,,,exoplanets.csv
+HD 70573,Exoplanet,,,,,exoplanets.csv
+HD 70642,Exoplanet,,,,,exoplanets.csv
+HD 715,Exoplanet,,,,,exoplanets.csv
+HD 7199,Exoplanet,,,,,exoplanets.csv
+HD 72490,Exoplanet,,,,,exoplanets.csv
+HD 72659,Exoplanet,,,,,exoplanets.csv
+HD 72892,Exoplanet,,,,,exoplanets.csv
+HD 73256,Exoplanet,,,,,exoplanets.csv
+HD 73267,Exoplanet,,,,,exoplanets.csv
+HD 73344,Exoplanet,,,,,exoplanets.csv
+HD 73526,Exoplanet,,,,,exoplanets.csv
+HD 73534,Exoplanet,,,,,exoplanets.csv
+HD 73583,Exoplanet,,,,,exoplanets.csv
+HD 74156,Exoplanet,,,,,exoplanets.csv
+HD 7449,Exoplanet,,,,,exoplanets.csv
+HD 74698,Exoplanet,,,,,exoplanets.csv
+HD 75289,Exoplanet,,,,,exoplanets.csv
+HD 75302,Exoplanet,,,,,exoplanets.csv
+HD 75784,Exoplanet,,,,,exoplanets.csv
+HD 75898,Exoplanet,,,,,exoplanets.csv
+HD 76700,Exoplanet,,,,,exoplanets.csv
+HD 76920,Exoplanet,,,,,exoplanets.csv
+HD 77338,Exoplanet,,,,,exoplanets.csv
+HD 77946,Exoplanet,,,,,exoplanets.csv
+HD 79181,Exoplanet,,,,,exoplanets.csv
+HD 7924,Exoplanet,,,,,exoplanets.csv
+HD 79498,Exoplanet,,,,,exoplanets.csv
+HD 80606,Exoplanet,,,,,exoplanets.csv
+HD 80653,Exoplanet,,,,,exoplanets.csv
+HD 80869,Exoplanet,,,,,exoplanets.csv
+HD 80883,Exoplanet,,,,,exoplanets.csv
+HD 80913,Exoplanet,,,,,exoplanets.csv
+HD 81040,Exoplanet,,,,,exoplanets.csv
+HD 81688,Exoplanet,,,,,exoplanets.csv
+HD 81817,Exoplanet,,,,,exoplanets.csv
+HD 82886,Exoplanet,,,,,exoplanets.csv
+HD 82943,Exoplanet,,,,,exoplanets.csv
+HD 8326,Exoplanet,,,,,exoplanets.csv
+HD 83443,Exoplanet,,,,,exoplanets.csv
+HD 8535,Exoplanet,,,,,exoplanets.csv
+HD 85390,Exoplanet,,,,,exoplanets.csv
+HD 8574,Exoplanet,,,,,exoplanets.csv
+HD 86065,Exoplanet,,,,,exoplanets.csv
+HD 86081,Exoplanet,,,,,exoplanets.csv
+HD 86226,Exoplanet,,,,,exoplanets.csv
+HD 86264,Exoplanet,,,,,exoplanets.csv
+HD 86728,Exoplanet,,,,,exoplanets.csv
+HD 8673,Exoplanet,,,,,exoplanets.csv
+HD 86950,Exoplanet,,,,,exoplanets.csv
+HD 87646,Exoplanet,,,,,exoplanets.csv
+HD 87816,Exoplanet,,,,,exoplanets.csv
+HD 87883,Exoplanet,,,,,exoplanets.csv
+HD 88072,Exoplanet,,,,,exoplanets.csv
+HD 88133,Exoplanet,,,,,exoplanets.csv
+HD 88986,Exoplanet,,,,,exoplanets.csv
+HD 89307,Exoplanet,,,,,exoplanets.csv
+HD 89345,Exoplanet,,,,,exoplanets.csv
+HD 89744,Exoplanet,,,,,exoplanets.csv
+HD 89839,Exoplanet,,,,,exoplanets.csv
+HD 90156,Exoplanet,,,,,exoplanets.csv
+HD 9174,Exoplanet,,,,,exoplanets.csv
+HD 92788,Exoplanet,,,,,exoplanets.csv
+HD 93083,Exoplanet,,,,,exoplanets.csv
+HD 93351,Exoplanet,,,,,exoplanets.csv
+HD 93385,Exoplanet,,,,,exoplanets.csv
+HD 93963 A,Exoplanet,,,,,exoplanets.csv
+HD 9446,Exoplanet,,,,,exoplanets.csv
+HD 94771,Exoplanet,,,,,exoplanets.csv
+HD 94834,Exoplanet,,,,,exoplanets.csv
+HD 94890,Exoplanet,,,,,exoplanets.csv
+HD 95086,Exoplanet,,,,,exoplanets.csv
+HD 95089,Exoplanet,,,,,exoplanets.csv
+HD 95127,Exoplanet,,,,,exoplanets.csv
+HD 95338,Exoplanet,,,,,exoplanets.csv
+HD 95544,Exoplanet,,,,,exoplanets.csv
+HD 95872,Exoplanet,,,,,exoplanets.csv
+HD 96063,Exoplanet,,,,,exoplanets.csv
+HD 96127,Exoplanet,,,,,exoplanets.csv
+HD 96167,Exoplanet,,,,,exoplanets.csv
+HD 96700,Exoplanet,,,,,exoplanets.csv
+HD 96992,Exoplanet,,,,,exoplanets.csv
+HD 97037,Exoplanet,,,,,exoplanets.csv
+HD 97048,Exoplanet,,,,,exoplanets.csv
+HD 97658,Exoplanet,,,,,exoplanets.csv
+HD 98219,Exoplanet,,,,,exoplanets.csv
+HD 98649,Exoplanet,,,,,exoplanets.csv
+HD 98736,Exoplanet,,,,,exoplanets.csv
+HD 99109,Exoplanet,,,,,exoplanets.csv
+HD 99283,Exoplanet,,,,,exoplanets.csv
+HD 99492,Exoplanet,,,,,exoplanets.csv
+HD 99706,Exoplanet,,,,,exoplanets.csv
+HIP 10090,Exoplanet,,,,,exoplanets.csv
+HIP 105854,Exoplanet,,,,,exoplanets.csv
+HIP 107772,Exoplanet,,,,,exoplanets.csv
+HIP 107773,Exoplanet,,,,,exoplanets.csv
+HIP 109384,Exoplanet,,,,,exoplanets.csv
+HIP 109600,Exoplanet,,,,,exoplanets.csv
+HIP 111909,Exoplanet,,,,,exoplanets.csv
+HIP 113103,Exoplanet,,,,,exoplanets.csv
+HIP 114933,Exoplanet,,,,,exoplanets.csv
+HIP 116454,Exoplanet,,,,,exoplanets.csv
+HIP 12961,Exoplanet,,,,,exoplanets.csv
+HIP 14810,Exoplanet,,,,,exoplanets.csv
+HIP 18606,Exoplanet,,,,,exoplanets.csv
+HIP 19976,Exoplanet,,,,,exoplanets.csv
+HIP 21152,Exoplanet,,,,,exoplanets.csv
+HIP 34222,Exoplanet,,,,,exoplanets.csv
+HIP 35173,Exoplanet,,,,,exoplanets.csv
+HIP 35965,Exoplanet,,,,,exoplanets.csv
+HIP 38594,Exoplanet,,,,,exoplanets.csv
+HIP 39017,Exoplanet,,,,,exoplanets.csv
+HIP 39330,Exoplanet,,,,,exoplanets.csv
+HIP 41378,Exoplanet,,,,,exoplanets.csv
+HIP 4845,Exoplanet,,,,,exoplanets.csv
+HIP 48714,Exoplanet,,,,,exoplanets.csv
+HIP 5158,Exoplanet,,,,,exoplanets.csv
+HIP 54373,Exoplanet,,,,,exoplanets.csv
+HIP 54515,Exoplanet,,,,,exoplanets.csv
+HIP 54597,Exoplanet,,,,,exoplanets.csv
+HIP 55507,Exoplanet,,,,,exoplanets.csv
+HIP 56640,Exoplanet,,,,,exoplanets.csv
+HIP 56998,Exoplanet,,,,,exoplanets.csv
+HIP 57274,Exoplanet,,,,,exoplanets.csv
+HIP 5763,Exoplanet,,,,,exoplanets.csv
+HIP 63242,Exoplanet,,,,,exoplanets.csv
+HIP 65 A,Exoplanet,,,,,exoplanets.csv
+HIP 65407,Exoplanet,,,,,exoplanets.csv
+HIP 65426,Exoplanet,,,,,exoplanets.csv
+HIP 65891,Exoplanet,,,,,exoplanets.csv
+HIP 66074,Exoplanet,,,,,exoplanets.csv
+HIP 67522,Exoplanet,,,,,exoplanets.csv
+HIP 67537,Exoplanet,,,,,exoplanets.csv
+HIP 67851,Exoplanet,,,,,exoplanets.csv
+HIP 70849,Exoplanet,,,,,exoplanets.csv
+HIP 71135,Exoplanet,,,,,exoplanets.csv
+HIP 74890,Exoplanet,,,,,exoplanets.csv
+HIP 75092,Exoplanet,,,,,exoplanets.csv
+HIP 77900,Exoplanet,,,,,exoplanets.csv
+HIP 78530,Exoplanet,,,,,exoplanets.csv
+HIP 79098 AB,Exoplanet,,,,,exoplanets.csv
+HIP 79431,Exoplanet,,,,,exoplanets.csv
+HIP 81208 C,Exoplanet,,,,,exoplanets.csv
+HIP 8152,Exoplanet,,,,,exoplanets.csv
+HIP 81991,Exoplanet,,,,,exoplanets.csv
+HIP 8541,Exoplanet,,,,,exoplanets.csv
+HIP 86221,Exoplanet,,,,,exoplanets.csv
+HIP 8923,Exoplanet,,,,,exoplanets.csv
+HIP 90988,Exoplanet,,,,,exoplanets.csv
+HIP 91258,Exoplanet,,,,,exoplanets.csv
+HIP 94235,Exoplanet,,,,,exoplanets.csv
+HIP 948,Exoplanet,,,,,exoplanets.csv
+HIP 9618,Exoplanet,,,,,exoplanets.csv
+HIP 97166,Exoplanet,,,,,exoplanets.csv
+HIP 97233,Exoplanet,,,,,exoplanets.csv
+HIP 98599,Exoplanet,,,,,exoplanets.csv
+HIP 99770,Exoplanet,,,,,exoplanets.csv
+HN Lib,Exoplanet,,,,,exoplanets.csv
+HN Peg,Exoplanet,,,,,exoplanets.csv
+HR 2562,Exoplanet,,,,,exoplanets.csv
+HR 5183,Exoplanet,,,,,exoplanets.csv
+HR 810,Exoplanet,,,,,exoplanets.csv
+HR 858,Exoplanet,,,,,exoplanets.csv
+HR 8799,Exoplanet,,,,,exoplanets.csv
+HS Psc,Exoplanet,,,,,exoplanets.csv
+HU Aqr,Exoplanet,,,,,exoplanets.csv
+IC 4651 9122,Exoplanet,,,,,exoplanets.csv
+IRAS 04125+2902,Exoplanet,,,,,exoplanets.csv
+ISO-Oph 96,Exoplanet,,,,,exoplanets.csv
+ITG 15 A,Exoplanet,,,,,exoplanets.csv
+K2-10,Exoplanet,,,,,exoplanets.csv
+K2-100,Exoplanet,,,,,exoplanets.csv
+K2-101,Exoplanet,,,,,exoplanets.csv
+K2-102,Exoplanet,,,,,exoplanets.csv
+K2-104,Exoplanet,,,,,exoplanets.csv
+K2-105,Exoplanet,,,,,exoplanets.csv
+K2-107,Exoplanet,,,,,exoplanets.csv
+K2-108,Exoplanet,,,,,exoplanets.csv
+K2-11,Exoplanet,,,,,exoplanets.csv
+K2-110,Exoplanet,,,,,exoplanets.csv
+K2-111,Exoplanet,,,,,exoplanets.csv
+K2-113,Exoplanet,,,,,exoplanets.csv
+K2-114,Exoplanet,,,,,exoplanets.csv
+K2-115,Exoplanet,,,,,exoplanets.csv
+K2-116,Exoplanet,,,,,exoplanets.csv
+K2-117,Exoplanet,,,,,exoplanets.csv
+K2-118,Exoplanet,,,,,exoplanets.csv
+K2-119,Exoplanet,,,,,exoplanets.csv
+K2-12,Exoplanet,,,,,exoplanets.csv
+K2-121,Exoplanet,,,,,exoplanets.csv
+K2-122,Exoplanet,,,,,exoplanets.csv
+K2-123,Exoplanet,,,,,exoplanets.csv
+K2-124,Exoplanet,,,,,exoplanets.csv
+K2-125,Exoplanet,,,,,exoplanets.csv
+K2-126,Exoplanet,,,,,exoplanets.csv
+K2-127,Exoplanet,,,,,exoplanets.csv
+K2-128,Exoplanet,,,,,exoplanets.csv
+K2-129,Exoplanet,,,,,exoplanets.csv
+K2-13,Exoplanet,,,,,exoplanets.csv
+K2-130,Exoplanet,,,,,exoplanets.csv
+K2-131,Exoplanet,,,,,exoplanets.csv
+K2-132,Exoplanet,,,,,exoplanets.csv
+K2-133,Exoplanet,,,,,exoplanets.csv
+K2-136,Exoplanet,,,,,exoplanets.csv
+K2-137,Exoplanet,,,,,exoplanets.csv
+K2-138,Exoplanet,,,,,exoplanets.csv
+K2-139,Exoplanet,,,,,exoplanets.csv
+K2-14,Exoplanet,,,,,exoplanets.csv
+K2-140,Exoplanet,,,,,exoplanets.csv
+K2-141,Exoplanet,,,,,exoplanets.csv
+K2-146,Exoplanet,,,,,exoplanets.csv
+K2-147,Exoplanet,,,,,exoplanets.csv
+K2-148,Exoplanet,,,,,exoplanets.csv
+K2-149,Exoplanet,,,,,exoplanets.csv
+K2-15,Exoplanet,,,,,exoplanets.csv
+K2-150,Exoplanet,,,,,exoplanets.csv
+K2-151,Exoplanet,,,,,exoplanets.csv
+K2-152,Exoplanet,,,,,exoplanets.csv
+K2-153,Exoplanet,,,,,exoplanets.csv
+K2-154,Exoplanet,,,,,exoplanets.csv
+K2-155,Exoplanet,,,,,exoplanets.csv
+K2-156,Exoplanet,,,,,exoplanets.csv
+K2-157,Exoplanet,,,,,exoplanets.csv
+K2-158,Exoplanet,,,,,exoplanets.csv
+K2-159,Exoplanet,,,,,exoplanets.csv
+K2-16,Exoplanet,,,,,exoplanets.csv
+K2-160,Exoplanet,,,,,exoplanets.csv
+K2-161,Exoplanet,,,,,exoplanets.csv
+K2-162,Exoplanet,,,,,exoplanets.csv
+K2-163,Exoplanet,,,,,exoplanets.csv
+K2-164,Exoplanet,,,,,exoplanets.csv
+K2-165,Exoplanet,,,,,exoplanets.csv
+K2-166,Exoplanet,,,,,exoplanets.csv
+K2-167,Exoplanet,,,,,exoplanets.csv
+K2-168,Exoplanet,,,,,exoplanets.csv
+K2-169,Exoplanet,,,,,exoplanets.csv
+K2-17,Exoplanet,,,,,exoplanets.csv
+K2-170,Exoplanet,,,,,exoplanets.csv
+K2-171,Exoplanet,,,,,exoplanets.csv
+K2-172,Exoplanet,,,,,exoplanets.csv
+K2-173,Exoplanet,,,,,exoplanets.csv
+K2-174,Exoplanet,,,,,exoplanets.csv
+K2-175,Exoplanet,,,,,exoplanets.csv
+K2-176,Exoplanet,,,,,exoplanets.csv
+K2-177,Exoplanet,,,,,exoplanets.csv
+K2-178,Exoplanet,,,,,exoplanets.csv
+K2-179,Exoplanet,,,,,exoplanets.csv
+K2-18,Exoplanet,,,,,exoplanets.csv
+K2-180,Exoplanet,,,,,exoplanets.csv
+K2-181,Exoplanet,,,,,exoplanets.csv
+K2-182,Exoplanet,,,,,exoplanets.csv
+K2-183,Exoplanet,,,,,exoplanets.csv
+K2-184,Exoplanet,,,,,exoplanets.csv
+K2-185,Exoplanet,,,,,exoplanets.csv
+K2-186,Exoplanet,,,,,exoplanets.csv
+K2-187,Exoplanet,,,,,exoplanets.csv
+K2-188,Exoplanet,,,,,exoplanets.csv
+K2-189,Exoplanet,,,,,exoplanets.csv
+K2-19,Exoplanet,,,,,exoplanets.csv
+K2-190,Exoplanet,,,,,exoplanets.csv
+K2-191,Exoplanet,,,,,exoplanets.csv
+K2-192,Exoplanet,,,,,exoplanets.csv
+K2-193,Exoplanet,,,,,exoplanets.csv
+K2-194,Exoplanet,,,,,exoplanets.csv
+K2-195,Exoplanet,,,,,exoplanets.csv
+K2-196,Exoplanet,,,,,exoplanets.csv
+K2-197,Exoplanet,,,,,exoplanets.csv
+K2-198,Exoplanet,,,,,exoplanets.csv
+K2-199,Exoplanet,,,,,exoplanets.csv
+K2-200,Exoplanet,,,,,exoplanets.csv
+K2-201,Exoplanet,,,,,exoplanets.csv
+K2-2016-BLG-0005L,Exoplanet,,,,,exoplanets.csv
+K2-202,Exoplanet,,,,,exoplanets.csv
+K2-203,Exoplanet,,,,,exoplanets.csv
+K2-204,Exoplanet,,,,,exoplanets.csv
+K2-205,Exoplanet,,,,,exoplanets.csv
+K2-206,Exoplanet,,,,,exoplanets.csv
+K2-207,Exoplanet,,,,,exoplanets.csv
+K2-208,Exoplanet,,,,,exoplanets.csv
+K2-209,Exoplanet,,,,,exoplanets.csv
+K2-21,Exoplanet,,,,,exoplanets.csv
+K2-210,Exoplanet,,,,,exoplanets.csv
+K2-211,Exoplanet,,,,,exoplanets.csv
+K2-212,Exoplanet,,,,,exoplanets.csv
+K2-213,Exoplanet,,,,,exoplanets.csv
+K2-214,Exoplanet,,,,,exoplanets.csv
+K2-215,Exoplanet,,,,,exoplanets.csv
+K2-216,Exoplanet,,,,,exoplanets.csv
+K2-217,Exoplanet,,,,,exoplanets.csv
+K2-218,Exoplanet,,,,,exoplanets.csv
+K2-219,Exoplanet,,,,,exoplanets.csv
+K2-22,Exoplanet,,,,,exoplanets.csv
+K2-220,Exoplanet,,,,,exoplanets.csv
+K2-221,Exoplanet,,,,,exoplanets.csv
+K2-222,Exoplanet,,,,,exoplanets.csv
+K2-223,Exoplanet,,,,,exoplanets.csv
+K2-224,Exoplanet,,,,,exoplanets.csv
+K2-225,Exoplanet,,,,,exoplanets.csv
+K2-226,Exoplanet,,,,,exoplanets.csv
+K2-227,Exoplanet,,,,,exoplanets.csv
+K2-228,Exoplanet,,,,,exoplanets.csv
+K2-229,Exoplanet,,,,,exoplanets.csv
+K2-230,Exoplanet,,,,,exoplanets.csv
+K2-231,Exoplanet,,,,,exoplanets.csv
+K2-232,Exoplanet,,,,,exoplanets.csv
+K2-233,Exoplanet,,,,,exoplanets.csv
+K2-237,Exoplanet,,,,,exoplanets.csv
+K2-238,Exoplanet,,,,,exoplanets.csv
+K2-239,Exoplanet,,,,,exoplanets.csv
+K2-24,Exoplanet,,,,,exoplanets.csv
+K2-240,Exoplanet,,,,,exoplanets.csv
+K2-241,Exoplanet,,,,,exoplanets.csv
+K2-242,Exoplanet,,,,,exoplanets.csv
+K2-243,Exoplanet,,,,,exoplanets.csv
+K2-244,Exoplanet,,,,,exoplanets.csv
+K2-245,Exoplanet,,,,,exoplanets.csv
+K2-246,Exoplanet,,,,,exoplanets.csv
+K2-247,Exoplanet,,,,,exoplanets.csv
+K2-248,Exoplanet,,,,,exoplanets.csv
+K2-249,Exoplanet,,,,,exoplanets.csv
+K2-25,Exoplanet,,,,,exoplanets.csv
+K2-250,Exoplanet,,,,,exoplanets.csv
+K2-251,Exoplanet,,,,,exoplanets.csv
+K2-252,Exoplanet,,,,,exoplanets.csv
+K2-253,Exoplanet,,,,,exoplanets.csv
+K2-254,Exoplanet,,,,,exoplanets.csv
+K2-255,Exoplanet,,,,,exoplanets.csv
+K2-257,Exoplanet,,,,,exoplanets.csv
+K2-258,Exoplanet,,,,,exoplanets.csv
+K2-259,Exoplanet,,,,,exoplanets.csv
+K2-26,Exoplanet,,,,,exoplanets.csv
+K2-260,Exoplanet,,,,,exoplanets.csv
+K2-261,Exoplanet,,,,,exoplanets.csv
+K2-263,Exoplanet,,,,,exoplanets.csv
+K2-264,Exoplanet,,,,,exoplanets.csv
+K2-265,Exoplanet,,,,,exoplanets.csv
+K2-266,Exoplanet,,,,,exoplanets.csv
+K2-268,Exoplanet,,,,,exoplanets.csv
+K2-269,Exoplanet,,,,,exoplanets.csv
+K2-27,Exoplanet,,,,,exoplanets.csv
+K2-270,Exoplanet,,,,,exoplanets.csv
+K2-271,Exoplanet,,,,,exoplanets.csv
+K2-272,Exoplanet,,,,,exoplanets.csv
+K2-273,Exoplanet,,,,,exoplanets.csv
+K2-274,Exoplanet,,,,,exoplanets.csv
+K2-275,Exoplanet,,,,,exoplanets.csv
+K2-276,Exoplanet,,,,,exoplanets.csv
+K2-277,Exoplanet,,,,,exoplanets.csv
+K2-278,Exoplanet,,,,,exoplanets.csv
+K2-279,Exoplanet,,,,,exoplanets.csv
+K2-28,Exoplanet,,,,,exoplanets.csv
+K2-280,Exoplanet,,,,,exoplanets.csv
+K2-281,Exoplanet,,,,,exoplanets.csv
+K2-282,Exoplanet,,,,,exoplanets.csv
+K2-283,Exoplanet,,,,,exoplanets.csv
+K2-284,Exoplanet,,,,,exoplanets.csv
+K2-285,Exoplanet,,,,,exoplanets.csv
+K2-286,Exoplanet,,,,,exoplanets.csv
+K2-287,Exoplanet,,,,,exoplanets.csv
+K2-288 B,Exoplanet,,,,,exoplanets.csv
+K2-289,Exoplanet,,,,,exoplanets.csv
+K2-29,Exoplanet,,,,,exoplanets.csv
+K2-290,Exoplanet,,,,,exoplanets.csv
+K2-291,Exoplanet,,,,,exoplanets.csv
+K2-292,Exoplanet,,,,,exoplanets.csv
+K2-293,Exoplanet,,,,,exoplanets.csv
+K2-294,Exoplanet,,,,,exoplanets.csv
+K2-295,Exoplanet,,,,,exoplanets.csv
+K2-3,Exoplanet,,,,,exoplanets.csv
+K2-30,Exoplanet,,,,,exoplanets.csv
+K2-308,Exoplanet,,,,,exoplanets.csv
+K2-31,Exoplanet,,,,,exoplanets.csv
+K2-315,Exoplanet,,,,,exoplanets.csv
+K2-316,Exoplanet,,,,,exoplanets.csv
+K2-317,Exoplanet,,,,,exoplanets.csv
+K2-318,Exoplanet,,,,,exoplanets.csv
+K2-319,Exoplanet,,,,,exoplanets.csv
+K2-32,Exoplanet,,,,,exoplanets.csv
+K2-320,Exoplanet,,,,,exoplanets.csv
+K2-321,Exoplanet,,,,,exoplanets.csv
+K2-322,Exoplanet,,,,,exoplanets.csv
+K2-323,Exoplanet,,,,,exoplanets.csv
+K2-324,Exoplanet,,,,,exoplanets.csv
+K2-325,Exoplanet,,,,,exoplanets.csv
+K2-326,Exoplanet,,,,,exoplanets.csv
+K2-329,Exoplanet,,,,,exoplanets.csv
+K2-33,Exoplanet,,,,,exoplanets.csv
+K2-330,Exoplanet,,,,,exoplanets.csv
+K2-331,Exoplanet,,,,,exoplanets.csv
+K2-332,Exoplanet,,,,,exoplanets.csv
+K2-333,Exoplanet,,,,,exoplanets.csv
+K2-334,Exoplanet,,,,,exoplanets.csv
+K2-335,Exoplanet,,,,,exoplanets.csv
+K2-336,Exoplanet,,,,,exoplanets.csv
+K2-337,Exoplanet,,,,,exoplanets.csv
+K2-338,Exoplanet,,,,,exoplanets.csv
+K2-339,Exoplanet,,,,,exoplanets.csv
+K2-34,Exoplanet,,,,,exoplanets.csv
+K2-340,Exoplanet,,,,,exoplanets.csv
+K2-341,Exoplanet,,,,,exoplanets.csv
+K2-342,Exoplanet,,,,,exoplanets.csv
+K2-343,Exoplanet,,,,,exoplanets.csv
+K2-344,Exoplanet,,,,,exoplanets.csv
+K2-345,Exoplanet,,,,,exoplanets.csv
+K2-346,Exoplanet,,,,,exoplanets.csv
+K2-347,Exoplanet,,,,,exoplanets.csv
+K2-348,Exoplanet,,,,,exoplanets.csv
+K2-349,Exoplanet,,,,,exoplanets.csv
+K2-35,Exoplanet,,,,,exoplanets.csv
+K2-350,Exoplanet,,,,,exoplanets.csv
+K2-351,Exoplanet,,,,,exoplanets.csv
+K2-352,Exoplanet,,,,,exoplanets.csv
+K2-353,Exoplanet,,,,,exoplanets.csv
+K2-354,Exoplanet,,,,,exoplanets.csv
+K2-355,Exoplanet,,,,,exoplanets.csv
+K2-356,Exoplanet,,,,,exoplanets.csv
+K2-357,Exoplanet,,,,,exoplanets.csv
+K2-358,Exoplanet,,,,,exoplanets.csv
+K2-36,Exoplanet,,,,,exoplanets.csv
+K2-365,Exoplanet,,,,,exoplanets.csv
+K2-366,Exoplanet,,,,,exoplanets.csv
+K2-367,Exoplanet,,,,,exoplanets.csv
+K2-368,Exoplanet,,,,,exoplanets.csv
+K2-369,Exoplanet,,,,,exoplanets.csv
+K2-37,Exoplanet,,,,,exoplanets.csv
+K2-370,Exoplanet,,,,,exoplanets.csv
+K2-371,Exoplanet,,,,,exoplanets.csv
+K2-372,Exoplanet,,,,,exoplanets.csv
+K2-373,Exoplanet,,,,,exoplanets.csv
+K2-374,Exoplanet,,,,,exoplanets.csv
+K2-375,Exoplanet,,,,,exoplanets.csv
+K2-376,Exoplanet,,,,,exoplanets.csv
+K2-377,Exoplanet,,,,,exoplanets.csv
+K2-378,Exoplanet,,,,,exoplanets.csv
+K2-379,Exoplanet,,,,,exoplanets.csv
+K2-38,Exoplanet,,,,,exoplanets.csv
+K2-380,Exoplanet,,,,,exoplanets.csv
+K2-381,Exoplanet,,,,,exoplanets.csv
+K2-382,Exoplanet,,,,,exoplanets.csv
+K2-383,Exoplanet,,,,,exoplanets.csv
+K2-384,Exoplanet,,,,,exoplanets.csv
+K2-385,Exoplanet,,,,,exoplanets.csv
+K2-386,Exoplanet,,,,,exoplanets.csv
+K2-387,Exoplanet,,,,,exoplanets.csv
+K2-388,Exoplanet,,,,,exoplanets.csv
+K2-389,Exoplanet,,,,,exoplanets.csv
+K2-39,Exoplanet,,,,,exoplanets.csv
+K2-390,Exoplanet,,,,,exoplanets.csv
+K2-391,Exoplanet,,,,,exoplanets.csv
+K2-392,Exoplanet,,,,,exoplanets.csv
+K2-393,Exoplanet,,,,,exoplanets.csv
+K2-394,Exoplanet,,,,,exoplanets.csv
+K2-395,Exoplanet,,,,,exoplanets.csv
+K2-396,Exoplanet,,,,,exoplanets.csv
+K2-397,Exoplanet,,,,,exoplanets.csv
+K2-398,Exoplanet,,,,,exoplanets.csv
+K2-4,Exoplanet,,,,,exoplanets.csv
+K2-400,Exoplanet,,,,,exoplanets.csv
+K2-401,Exoplanet,,,,,exoplanets.csv
+K2-402,Exoplanet,,,,,exoplanets.csv
+K2-403,Exoplanet,,,,,exoplanets.csv
+K2-404,Exoplanet,,,,,exoplanets.csv
+K2-405,Exoplanet,,,,,exoplanets.csv
+K2-406,Exoplanet,,,,,exoplanets.csv
+K2-407,Exoplanet,,,,,exoplanets.csv
+K2-408,Exoplanet,,,,,exoplanets.csv
+K2-409,Exoplanet,,,,,exoplanets.csv
+K2-411,Exoplanet,,,,,exoplanets.csv
+K2-412,Exoplanet,,,,,exoplanets.csv
+K2-413,Exoplanet,,,,,exoplanets.csv
+K2-414,Exoplanet,,,,,exoplanets.csv
+K2-415,Exoplanet,,,,,exoplanets.csv
+K2-416,Exoplanet,,,,,exoplanets.csv
+K2-417,Exoplanet,,,,,exoplanets.csv
+K2-419 A,Exoplanet,,,,,exoplanets.csv
+K2-42,Exoplanet,,,,,exoplanets.csv
+K2-43,Exoplanet,,,,,exoplanets.csv
+K2-44,Exoplanet,,,,,exoplanets.csv
+K2-45,Exoplanet,,,,,exoplanets.csv
+K2-46,Exoplanet,,,,,exoplanets.csv
+K2-47,Exoplanet,,,,,exoplanets.csv
+K2-48,Exoplanet,,,,,exoplanets.csv
+K2-49,Exoplanet,,,,,exoplanets.csv
+K2-5,Exoplanet,,,,,exoplanets.csv
+K2-50,Exoplanet,,,,,exoplanets.csv
+K2-52,Exoplanet,,,,,exoplanets.csv
+K2-53,Exoplanet,,,,,exoplanets.csv
+K2-54,Exoplanet,,,,,exoplanets.csv
+K2-55,Exoplanet,,,,,exoplanets.csv
+K2-57,Exoplanet,,,,,exoplanets.csv
+K2-58,Exoplanet,,,,,exoplanets.csv
+K2-59,Exoplanet,,,,,exoplanets.csv
+K2-6,Exoplanet,,,,,exoplanets.csv
+K2-60,Exoplanet,,,,,exoplanets.csv
+K2-61,Exoplanet,,,,,exoplanets.csv
+K2-62,Exoplanet,,,,,exoplanets.csv
+K2-63,Exoplanet,,,,,exoplanets.csv
+K2-64,Exoplanet,,,,,exoplanets.csv
+K2-65,Exoplanet,,,,,exoplanets.csv
+K2-66,Exoplanet,,,,,exoplanets.csv
+K2-68,Exoplanet,,,,,exoplanets.csv
+K2-69,Exoplanet,,,,,exoplanets.csv
+K2-7,Exoplanet,,,,,exoplanets.csv
+K2-70,Exoplanet,,,,,exoplanets.csv
+K2-71,Exoplanet,,,,,exoplanets.csv
+K2-72,Exoplanet,,,,,exoplanets.csv
+K2-73,Exoplanet,,,,,exoplanets.csv
+K2-74,Exoplanet,,,,,exoplanets.csv
+K2-75,Exoplanet,,,,,exoplanets.csv
+K2-77,Exoplanet,,,,,exoplanets.csv
+K2-79,Exoplanet,,,,,exoplanets.csv
+K2-8,Exoplanet,,,,,exoplanets.csv
+K2-80,Exoplanet,,,,,exoplanets.csv
+K2-81,Exoplanet,,,,,exoplanets.csv
+K2-83,Exoplanet,,,,,exoplanets.csv
+K2-84,Exoplanet,,,,,exoplanets.csv
+K2-85,Exoplanet,,,,,exoplanets.csv
+K2-86,Exoplanet,,,,,exoplanets.csv
+K2-87,Exoplanet,,,,,exoplanets.csv
+K2-88,Exoplanet,,,,,exoplanets.csv
+K2-89,Exoplanet,,,,,exoplanets.csv
+K2-9,Exoplanet,,,,,exoplanets.csv
+K2-90,Exoplanet,,,,,exoplanets.csv
+K2-91,Exoplanet,,,,,exoplanets.csv
+K2-95,Exoplanet,,,,,exoplanets.csv
+K2-97,Exoplanet,,,,,exoplanets.csv
+K2-98,Exoplanet,,,,,exoplanets.csv
+K2-99,Exoplanet,,,,,exoplanets.csv
+KELT-1,Exoplanet,,,,,exoplanets.csv
+KELT-10,Exoplanet,,,,,exoplanets.csv
+KELT-11,Exoplanet,,,,,exoplanets.csv
+KELT-12,Exoplanet,,,,,exoplanets.csv
+KELT-14,Exoplanet,,,,,exoplanets.csv
+KELT-15,Exoplanet,,,,,exoplanets.csv
+KELT-16,Exoplanet,,,,,exoplanets.csv
+KELT-17,Exoplanet,,,,,exoplanets.csv
+KELT-18,Exoplanet,,,,,exoplanets.csv
+KELT-19 A,Exoplanet,,,,,exoplanets.csv
+KELT-2 A,Exoplanet,,,,,exoplanets.csv
+KELT-20,Exoplanet,,,,,exoplanets.csv
+KELT-21,Exoplanet,,,,,exoplanets.csv
+KELT-23 A,Exoplanet,,,,,exoplanets.csv
+KELT-24,Exoplanet,,,,,exoplanets.csv
+KELT-3,Exoplanet,,,,,exoplanets.csv
+KELT-4 A,Exoplanet,,,,,exoplanets.csv
+KELT-6,Exoplanet,,,,,exoplanets.csv
+KELT-7,Exoplanet,,,,,exoplanets.csv
+KELT-8,Exoplanet,,,,,exoplanets.csv
+KELT-9,Exoplanet,,,,,exoplanets.csv
+KIC 10001893,Exoplanet,,,,,exoplanets.csv
+KIC 10068024,Exoplanet,,,,,exoplanets.csv
+KIC 10525077,Exoplanet,,,,,exoplanets.csv
+KIC 3526061,Exoplanet,,,,,exoplanets.csv
+KIC 3558849,Exoplanet,,,,,exoplanets.csv
+KIC 5437945,Exoplanet,,,,,exoplanets.csv
+KIC 5479689,Exoplanet,,,,,exoplanets.csv
+KIC 7917485,Exoplanet,,,,,exoplanets.csv
+KIC 8121913,Exoplanet,,,,,exoplanets.csv
+KIC 9663113,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-0212L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-1105L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-1107L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-1337L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-1397L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-1820L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-1836L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-2142L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-2321L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-2364L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-2397L,Exoplanet,,,,,exoplanets.csv
+KMT-2016-BLG-2605L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-0165L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-0428L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-0673L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-0849L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-1003L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-1038L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-1057L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-1146L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-1194L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-2197L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-2331L,Exoplanet,,,,,exoplanets.csv
+KMT-2017-BLG-2509L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-0029L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-0030L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-0087L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-0247L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-0748L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-0885L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1025L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1292L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1743L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1976L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1988L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1990L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-1996L,Exoplanet,,,,,exoplanets.csv
+KMT-2018-BLG-2602L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0253L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0297L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0298L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0335L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0371L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0414L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0578L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0842L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-0953L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1042L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1216L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1339L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1367L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1552L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1715L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1806L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-1953L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-2783L,Exoplanet,,,,,exoplanets.csv
+KMT-2019-BLG-2974L,Exoplanet,,,,,exoplanets.csv
+KMT-2020-BLG-0202L,Exoplanet,,,,,exoplanets.csv
+KMT-2020-BLG-0414L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0119L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0171L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0192L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0240L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0320L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0322L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0712L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0736L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0748L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0852L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0909L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-0912L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1077L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1105L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1150L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1253L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1303L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1372L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1391L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1547L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1554L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1689L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1770L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-1898L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-2010L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-2294L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-2478L,Exoplanet,,,,,exoplanets.csv
+KMT-2021-BLG-2609L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-0303L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-0371L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-0440L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-1013L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-1551L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-1790L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-1818L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-2076L,Exoplanet,,,,,exoplanets.csv
+KMT-2022-BLG-2286L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0084L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0119L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0332L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0416L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0466L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0469L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0548L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0735L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0830L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-0949L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1118L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1431L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1454L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1592L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1642L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1743L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1810L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1866L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-1896L,Exoplanet,,,,,exoplanets.csv
+KMT-2023-BLG-2209L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-0176L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-0349L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-0404L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-1005L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-1044L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-1209L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-1281L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-1870L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-2005L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-2059L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-2087L,Exoplanet,,,,,exoplanets.csv
+KMT-2024-BLG-2242L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-0026L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-0030L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-0121L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-0481L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-0975L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-1160L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-1616L,Exoplanet,,,,,exoplanets.csv
+KMT-2025-BLG-2272L,Exoplanet,,,,,exoplanets.csv
+KOBE-1,Exoplanet,,,,,exoplanets.csv
+KOI-12,Exoplanet,,,,,exoplanets.csv
+KOI-1257,Exoplanet,,,,,exoplanets.csv
+KOI-13,Exoplanet,,,,,exoplanets.csv
+KOI-134,Exoplanet,,,,,exoplanets.csv
+KOI-142,Exoplanet,,,,,exoplanets.csv
+KOI-1599,Exoplanet,,,,,exoplanets.csv
+KOI-1783,Exoplanet,,,,,exoplanets.csv
+KOI-217,Exoplanet,,,,,exoplanets.csv
+KOI-2513,Exoplanet,,,,,exoplanets.csv
+KOI-319,Exoplanet,,,,,exoplanets.csv
+KOI-3503,Exoplanet,,,,,exoplanets.csv
+KOI-351,Exoplanet,,,,,exoplanets.csv
+KOI-3680,Exoplanet,,,,,exoplanets.csv
+KOI-4777,Exoplanet,,,,,exoplanets.csv
+KOI-4978,Exoplanet,,,,,exoplanets.csv
+KOI-55,Exoplanet,,,,,exoplanets.csv
+KOI-7368,Exoplanet,,,,,exoplanets.csv
+KOI-7892,Exoplanet,,,,,exoplanets.csv
+KOI-7913 A,Exoplanet,,,,,exoplanets.csv
+KOI-94,Exoplanet,,,,,exoplanets.csv
+KOI-984,Exoplanet,,,,,exoplanets.csv
+KPS-1,Exoplanet,,,,,exoplanets.csv
+Kapteyn,Exoplanet,,,,,exoplanets.csv
+Kepler-10,Exoplanet,,,,,exoplanets.csv
+Kepler-100,Exoplanet,,,,,exoplanets.csv
+Kepler-1000,Exoplanet,,,,,exoplanets.csv
+Kepler-1001,Exoplanet,,,,,exoplanets.csv
+Kepler-1002,Exoplanet,,,,,exoplanets.csv
+Kepler-1003,Exoplanet,,,,,exoplanets.csv
+Kepler-1004,Exoplanet,,,,,exoplanets.csv
+Kepler-1005,Exoplanet,,,,,exoplanets.csv
+Kepler-1006,Exoplanet,,,,,exoplanets.csv
+Kepler-1007,Exoplanet,,,,,exoplanets.csv
+Kepler-1008,Exoplanet,,,,,exoplanets.csv
+Kepler-1009,Exoplanet,,,,,exoplanets.csv
+Kepler-101,Exoplanet,,,,,exoplanets.csv
+Kepler-1010,Exoplanet,,,,,exoplanets.csv
+Kepler-1011,Exoplanet,,,,,exoplanets.csv
+Kepler-1012,Exoplanet,,,,,exoplanets.csv
+Kepler-1013,Exoplanet,,,,,exoplanets.csv
+Kepler-1014,Exoplanet,,,,,exoplanets.csv
+Kepler-1015,Exoplanet,,,,,exoplanets.csv
+Kepler-1016,Exoplanet,,,,,exoplanets.csv
+Kepler-1017,Exoplanet,,,,,exoplanets.csv
+Kepler-1018,Exoplanet,,,,,exoplanets.csv
+Kepler-1019,Exoplanet,,,,,exoplanets.csv
+Kepler-102,Exoplanet,,,,,exoplanets.csv
+Kepler-1020,Exoplanet,,,,,exoplanets.csv
+Kepler-1021,Exoplanet,,,,,exoplanets.csv
+Kepler-1022,Exoplanet,,,,,exoplanets.csv
+Kepler-1023,Exoplanet,,,,,exoplanets.csv
+Kepler-1024,Exoplanet,,,,,exoplanets.csv
+Kepler-1025,Exoplanet,,,,,exoplanets.csv
+Kepler-1026,Exoplanet,,,,,exoplanets.csv
+Kepler-1027,Exoplanet,,,,,exoplanets.csv
+Kepler-1028,Exoplanet,,,,,exoplanets.csv
+Kepler-1029,Exoplanet,,,,,exoplanets.csv
+Kepler-103,Exoplanet,,,,,exoplanets.csv
+Kepler-1030,Exoplanet,,,,,exoplanets.csv
+Kepler-1031,Exoplanet,,,,,exoplanets.csv
+Kepler-1032,Exoplanet,,,,,exoplanets.csv
+Kepler-1033,Exoplanet,,,,,exoplanets.csv
+Kepler-1034,Exoplanet,,,,,exoplanets.csv
+Kepler-1035,Exoplanet,,,,,exoplanets.csv
+Kepler-1036,Exoplanet,,,,,exoplanets.csv
+Kepler-1037,Exoplanet,,,,,exoplanets.csv
+Kepler-1038,Exoplanet,,,,,exoplanets.csv
+Kepler-1039,Exoplanet,,,,,exoplanets.csv
+Kepler-104,Exoplanet,,,,,exoplanets.csv
+Kepler-1040,Exoplanet,,,,,exoplanets.csv
+Kepler-1041,Exoplanet,,,,,exoplanets.csv
+Kepler-1042,Exoplanet,,,,,exoplanets.csv
+Kepler-1043,Exoplanet,,,,,exoplanets.csv
+Kepler-1044,Exoplanet,,,,,exoplanets.csv
+Kepler-1045,Exoplanet,,,,,exoplanets.csv
+Kepler-1046,Exoplanet,,,,,exoplanets.csv
+Kepler-1047,Exoplanet,,,,,exoplanets.csv
+Kepler-1048,Exoplanet,,,,,exoplanets.csv
+Kepler-1049,Exoplanet,,,,,exoplanets.csv
+Kepler-105,Exoplanet,,,,,exoplanets.csv
+Kepler-1050,Exoplanet,,,,,exoplanets.csv
+Kepler-1051,Exoplanet,,,,,exoplanets.csv
+Kepler-1052,Exoplanet,,,,,exoplanets.csv
+Kepler-1053,Exoplanet,,,,,exoplanets.csv
+Kepler-1054,Exoplanet,,,,,exoplanets.csv
+Kepler-1055,Exoplanet,,,,,exoplanets.csv
+Kepler-1056,Exoplanet,,,,,exoplanets.csv
+Kepler-1057,Exoplanet,,,,,exoplanets.csv
+Kepler-1058,Exoplanet,,,,,exoplanets.csv
+Kepler-1059,Exoplanet,,,,,exoplanets.csv
+Kepler-106,Exoplanet,,,,,exoplanets.csv
+Kepler-1060,Exoplanet,,,,,exoplanets.csv
+Kepler-1061,Exoplanet,,,,,exoplanets.csv
+Kepler-1062,Exoplanet,,,,,exoplanets.csv
+Kepler-1063,Exoplanet,,,,,exoplanets.csv
+Kepler-1064,Exoplanet,,,,,exoplanets.csv
+Kepler-1065,Exoplanet,,,,,exoplanets.csv
+Kepler-1066,Exoplanet,,,,,exoplanets.csv
+Kepler-1067,Exoplanet,,,,,exoplanets.csv
+Kepler-1068,Exoplanet,,,,,exoplanets.csv
+Kepler-1069,Exoplanet,,,,,exoplanets.csv
+Kepler-107,Exoplanet,,,,,exoplanets.csv
+Kepler-1070,Exoplanet,,,,,exoplanets.csv
+Kepler-1071,Exoplanet,,,,,exoplanets.csv
+Kepler-1072,Exoplanet,,,,,exoplanets.csv
+Kepler-1073,Exoplanet,,,,,exoplanets.csv
+Kepler-1074,Exoplanet,,,,,exoplanets.csv
+Kepler-1075,Exoplanet,,,,,exoplanets.csv
+Kepler-1076,Exoplanet,,,,,exoplanets.csv
+Kepler-1077,Exoplanet,,,,,exoplanets.csv
+Kepler-1078,Exoplanet,,,,,exoplanets.csv
+Kepler-1079,Exoplanet,,,,,exoplanets.csv
+Kepler-108,Exoplanet,,,,,exoplanets.csv
+Kepler-1080,Exoplanet,,,,,exoplanets.csv
+Kepler-1081,Exoplanet,,,,,exoplanets.csv
+Kepler-1082,Exoplanet,,,,,exoplanets.csv
+Kepler-1083,Exoplanet,,,,,exoplanets.csv
+Kepler-1084,Exoplanet,,,,,exoplanets.csv
+Kepler-1085,Exoplanet,,,,,exoplanets.csv
+Kepler-1086,Exoplanet,,,,,exoplanets.csv
+Kepler-1087,Exoplanet,,,,,exoplanets.csv
+Kepler-1088,Exoplanet,,,,,exoplanets.csv
+Kepler-1089,Exoplanet,,,,,exoplanets.csv
+Kepler-109,Exoplanet,,,,,exoplanets.csv
+Kepler-1090,Exoplanet,,,,,exoplanets.csv
+Kepler-1091,Exoplanet,,,,,exoplanets.csv
+Kepler-1092,Exoplanet,,,,,exoplanets.csv
+Kepler-1093,Exoplanet,,,,,exoplanets.csv
+Kepler-1094,Exoplanet,,,,,exoplanets.csv
+Kepler-1095,Exoplanet,,,,,exoplanets.csv
+Kepler-1096,Exoplanet,,,,,exoplanets.csv
+Kepler-1097,Exoplanet,,,,,exoplanets.csv
+Kepler-1098,Exoplanet,,,,,exoplanets.csv
+Kepler-1099,Exoplanet,,,,,exoplanets.csv
+Kepler-11,Exoplanet,,,,,exoplanets.csv
+Kepler-110,Exoplanet,,,,,exoplanets.csv
+Kepler-1100,Exoplanet,,,,,exoplanets.csv
+Kepler-1101,Exoplanet,,,,,exoplanets.csv
+Kepler-1102,Exoplanet,,,,,exoplanets.csv
+Kepler-1103,Exoplanet,,,,,exoplanets.csv
+Kepler-1104,Exoplanet,,,,,exoplanets.csv
+Kepler-1105,Exoplanet,,,,,exoplanets.csv
+Kepler-1106,Exoplanet,,,,,exoplanets.csv
+Kepler-1107,Exoplanet,,,,,exoplanets.csv
+Kepler-1108,Exoplanet,,,,,exoplanets.csv
+Kepler-1109,Exoplanet,,,,,exoplanets.csv
+Kepler-111,Exoplanet,,,,,exoplanets.csv
+Kepler-1110,Exoplanet,,,,,exoplanets.csv
+Kepler-1111,Exoplanet,,,,,exoplanets.csv
+Kepler-1112,Exoplanet,,,,,exoplanets.csv
+Kepler-1113,Exoplanet,,,,,exoplanets.csv
+Kepler-1114,Exoplanet,,,,,exoplanets.csv
+Kepler-1115,Exoplanet,,,,,exoplanets.csv
+Kepler-1116,Exoplanet,,,,,exoplanets.csv
+Kepler-1117,Exoplanet,,,,,exoplanets.csv
+Kepler-1118,Exoplanet,,,,,exoplanets.csv
+Kepler-1119,Exoplanet,,,,,exoplanets.csv
+Kepler-112,Exoplanet,,,,,exoplanets.csv
+Kepler-1120,Exoplanet,,,,,exoplanets.csv
+Kepler-1121,Exoplanet,,,,,exoplanets.csv
+Kepler-1122,Exoplanet,,,,,exoplanets.csv
+Kepler-1123,Exoplanet,,,,,exoplanets.csv
+Kepler-1124,Exoplanet,,,,,exoplanets.csv
+Kepler-1125,Exoplanet,,,,,exoplanets.csv
+Kepler-1126,Exoplanet,,,,,exoplanets.csv
+Kepler-1127,Exoplanet,,,,,exoplanets.csv
+Kepler-1128,Exoplanet,,,,,exoplanets.csv
+Kepler-1129,Exoplanet,,,,,exoplanets.csv
+Kepler-113,Exoplanet,,,,,exoplanets.csv
+Kepler-1130,Exoplanet,,,,,exoplanets.csv
+Kepler-1131,Exoplanet,,,,,exoplanets.csv
+Kepler-1132,Exoplanet,,,,,exoplanets.csv
+Kepler-1133,Exoplanet,,,,,exoplanets.csv
+Kepler-1134,Exoplanet,,,,,exoplanets.csv
+Kepler-1135,Exoplanet,,,,,exoplanets.csv
+Kepler-1136,Exoplanet,,,,,exoplanets.csv
+Kepler-1137,Exoplanet,,,,,exoplanets.csv
+Kepler-1138,Exoplanet,,,,,exoplanets.csv
+Kepler-1139,Exoplanet,,,,,exoplanets.csv
+Kepler-114,Exoplanet,,,,,exoplanets.csv
+Kepler-1140,Exoplanet,,,,,exoplanets.csv
+Kepler-1141,Exoplanet,,,,,exoplanets.csv
+Kepler-1142,Exoplanet,,,,,exoplanets.csv
+Kepler-1143,Exoplanet,,,,,exoplanets.csv
+Kepler-1144,Exoplanet,,,,,exoplanets.csv
+Kepler-1145,Exoplanet,,,,,exoplanets.csv
+Kepler-1146,Exoplanet,,,,,exoplanets.csv
+Kepler-1147,Exoplanet,,,,,exoplanets.csv
+Kepler-1148,Exoplanet,,,,,exoplanets.csv
+Kepler-1149,Exoplanet,,,,,exoplanets.csv
+Kepler-115,Exoplanet,,,,,exoplanets.csv
+Kepler-1150,Exoplanet,,,,,exoplanets.csv
+Kepler-1151,Exoplanet,,,,,exoplanets.csv
+Kepler-1152,Exoplanet,,,,,exoplanets.csv
+Kepler-1153,Exoplanet,,,,,exoplanets.csv
+Kepler-1154,Exoplanet,,,,,exoplanets.csv
+Kepler-1155,Exoplanet,,,,,exoplanets.csv
+Kepler-1156,Exoplanet,,,,,exoplanets.csv
+Kepler-1157,Exoplanet,,,,,exoplanets.csv
+Kepler-1158,Exoplanet,,,,,exoplanets.csv
+Kepler-1159,Exoplanet,,,,,exoplanets.csv
+Kepler-116,Exoplanet,,,,,exoplanets.csv
+Kepler-1160,Exoplanet,,,,,exoplanets.csv
+Kepler-1161,Exoplanet,,,,,exoplanets.csv
+Kepler-1162,Exoplanet,,,,,exoplanets.csv
+Kepler-1163,Exoplanet,,,,,exoplanets.csv
+Kepler-1164,Exoplanet,,,,,exoplanets.csv
+Kepler-1165,Exoplanet,,,,,exoplanets.csv
+Kepler-1166,Exoplanet,,,,,exoplanets.csv
+Kepler-1167,Exoplanet,,,,,exoplanets.csv
+Kepler-1168,Exoplanet,,,,,exoplanets.csv
+Kepler-1169,Exoplanet,,,,,exoplanets.csv
+Kepler-117,Exoplanet,,,,,exoplanets.csv
+Kepler-1170,Exoplanet,,,,,exoplanets.csv
+Kepler-1171,Exoplanet,,,,,exoplanets.csv
+Kepler-1172,Exoplanet,,,,,exoplanets.csv
+Kepler-1173,Exoplanet,,,,,exoplanets.csv
+Kepler-1174,Exoplanet,,,,,exoplanets.csv
+Kepler-1175,Exoplanet,,,,,exoplanets.csv
+Kepler-1176,Exoplanet,,,,,exoplanets.csv
+Kepler-1177,Exoplanet,,,,,exoplanets.csv
+Kepler-1178,Exoplanet,,,,,exoplanets.csv
+Kepler-1179,Exoplanet,,,,,exoplanets.csv
+Kepler-118,Exoplanet,,,,,exoplanets.csv
+Kepler-1180,Exoplanet,,,,,exoplanets.csv
+Kepler-1181,Exoplanet,,,,,exoplanets.csv
+Kepler-1182,Exoplanet,,,,,exoplanets.csv
+Kepler-1183,Exoplanet,,,,,exoplanets.csv
+Kepler-1184,Exoplanet,,,,,exoplanets.csv
+Kepler-1185,Exoplanet,,,,,exoplanets.csv
+Kepler-1186,Exoplanet,,,,,exoplanets.csv
+Kepler-1187,Exoplanet,,,,,exoplanets.csv
+Kepler-1188,Exoplanet,,,,,exoplanets.csv
+Kepler-1189,Exoplanet,,,,,exoplanets.csv
+Kepler-119,Exoplanet,,,,,exoplanets.csv
+Kepler-1190,Exoplanet,,,,,exoplanets.csv
+Kepler-1191,Exoplanet,,,,,exoplanets.csv
+Kepler-1192,Exoplanet,,,,,exoplanets.csv
+Kepler-1193,Exoplanet,,,,,exoplanets.csv
+Kepler-1194,Exoplanet,,,,,exoplanets.csv
+Kepler-1195,Exoplanet,,,,,exoplanets.csv
+Kepler-1196,Exoplanet,,,,,exoplanets.csv
+Kepler-1197,Exoplanet,,,,,exoplanets.csv
+Kepler-1198,Exoplanet,,,,,exoplanets.csv
+Kepler-1199,Exoplanet,,,,,exoplanets.csv
+Kepler-12,Exoplanet,,,,,exoplanets.csv
+Kepler-120,Exoplanet,,,,,exoplanets.csv
+Kepler-1200,Exoplanet,,,,,exoplanets.csv
+Kepler-1201,Exoplanet,,,,,exoplanets.csv
+Kepler-1202,Exoplanet,,,,,exoplanets.csv
+Kepler-1203,Exoplanet,,,,,exoplanets.csv
+Kepler-1204,Exoplanet,,,,,exoplanets.csv
+Kepler-1205,Exoplanet,,,,,exoplanets.csv
+Kepler-1206,Exoplanet,,,,,exoplanets.csv
+Kepler-1207,Exoplanet,,,,,exoplanets.csv
+Kepler-1208,Exoplanet,,,,,exoplanets.csv
+Kepler-1209,Exoplanet,,,,,exoplanets.csv
+Kepler-121,Exoplanet,,,,,exoplanets.csv
+Kepler-1210,Exoplanet,,,,,exoplanets.csv
+Kepler-1211,Exoplanet,,,,,exoplanets.csv
+Kepler-1212,Exoplanet,,,,,exoplanets.csv
+Kepler-1213,Exoplanet,,,,,exoplanets.csv
+Kepler-1214,Exoplanet,,,,,exoplanets.csv
+Kepler-1215,Exoplanet,,,,,exoplanets.csv
+Kepler-1216,Exoplanet,,,,,exoplanets.csv
+Kepler-1217,Exoplanet,,,,,exoplanets.csv
+Kepler-1218,Exoplanet,,,,,exoplanets.csv
+Kepler-1219,Exoplanet,,,,,exoplanets.csv
+Kepler-122,Exoplanet,,,,,exoplanets.csv
+Kepler-1220,Exoplanet,,,,,exoplanets.csv
+Kepler-1221,Exoplanet,,,,,exoplanets.csv
+Kepler-1222,Exoplanet,,,,,exoplanets.csv
+Kepler-1223,Exoplanet,,,,,exoplanets.csv
+Kepler-1224,Exoplanet,,,,,exoplanets.csv
+Kepler-1225,Exoplanet,,,,,exoplanets.csv
+Kepler-1226,Exoplanet,,,,,exoplanets.csv
+Kepler-1227,Exoplanet,,,,,exoplanets.csv
+Kepler-1228,Exoplanet,,,,,exoplanets.csv
+Kepler-1229,Exoplanet,,,,,exoplanets.csv
+Kepler-123,Exoplanet,,,,,exoplanets.csv
+Kepler-1230,Exoplanet,,,,,exoplanets.csv
+Kepler-1231,Exoplanet,,,,,exoplanets.csv
+Kepler-1232,Exoplanet,,,,,exoplanets.csv
+Kepler-1233,Exoplanet,,,,,exoplanets.csv
+Kepler-1234,Exoplanet,,,,,exoplanets.csv
+Kepler-1235,Exoplanet,,,,,exoplanets.csv
+Kepler-1236,Exoplanet,,,,,exoplanets.csv
+Kepler-1237,Exoplanet,,,,,exoplanets.csv
+Kepler-1238,Exoplanet,,,,,exoplanets.csv
+Kepler-1239,Exoplanet,,,,,exoplanets.csv
+Kepler-124,Exoplanet,,,,,exoplanets.csv
+Kepler-1240,Exoplanet,,,,,exoplanets.csv
+Kepler-1241,Exoplanet,,,,,exoplanets.csv
+Kepler-1242,Exoplanet,,,,,exoplanets.csv
+Kepler-1243,Exoplanet,,,,,exoplanets.csv
+Kepler-1244,Exoplanet,,,,,exoplanets.csv
+Kepler-1245,Exoplanet,,,,,exoplanets.csv
+Kepler-1246,Exoplanet,,,,,exoplanets.csv
+Kepler-1247,Exoplanet,,,,,exoplanets.csv
+Kepler-1248,Exoplanet,,,,,exoplanets.csv
+Kepler-1249,Exoplanet,,,,,exoplanets.csv
+Kepler-125,Exoplanet,,,,,exoplanets.csv
+Kepler-1250,Exoplanet,,,,,exoplanets.csv
+Kepler-1251,Exoplanet,,,,,exoplanets.csv
+Kepler-1252,Exoplanet,,,,,exoplanets.csv
+Kepler-1253,Exoplanet,,,,,exoplanets.csv
+Kepler-1254,Exoplanet,,,,,exoplanets.csv
+Kepler-1255,Exoplanet,,,,,exoplanets.csv
+Kepler-1256,Exoplanet,,,,,exoplanets.csv
+Kepler-1257,Exoplanet,,,,,exoplanets.csv
+Kepler-1258,Exoplanet,,,,,exoplanets.csv
+Kepler-1259,Exoplanet,,,,,exoplanets.csv
+Kepler-126,Exoplanet,,,,,exoplanets.csv
+Kepler-1260,Exoplanet,,,,,exoplanets.csv
+Kepler-1261,Exoplanet,,,,,exoplanets.csv
+Kepler-1262,Exoplanet,,,,,exoplanets.csv
+Kepler-1263,Exoplanet,,,,,exoplanets.csv
+Kepler-1264,Exoplanet,,,,,exoplanets.csv
+Kepler-1265,Exoplanet,,,,,exoplanets.csv
+Kepler-1266,Exoplanet,,,,,exoplanets.csv
+Kepler-1267,Exoplanet,,,,,exoplanets.csv
+Kepler-1268,Exoplanet,,,,,exoplanets.csv
+Kepler-1269,Exoplanet,,,,,exoplanets.csv
+Kepler-127,Exoplanet,,,,,exoplanets.csv
+Kepler-1270,Exoplanet,,,,,exoplanets.csv
+Kepler-1271,Exoplanet,,,,,exoplanets.csv
+Kepler-1272,Exoplanet,,,,,exoplanets.csv
+Kepler-1273,Exoplanet,,,,,exoplanets.csv
+Kepler-1274,Exoplanet,,,,,exoplanets.csv
+Kepler-1275,Exoplanet,,,,,exoplanets.csv
+Kepler-1276,Exoplanet,,,,,exoplanets.csv
+Kepler-1277,Exoplanet,,,,,exoplanets.csv
+Kepler-1278,Exoplanet,,,,,exoplanets.csv
+Kepler-1279,Exoplanet,,,,,exoplanets.csv
+Kepler-128,Exoplanet,,,,,exoplanets.csv
+Kepler-1280,Exoplanet,,,,,exoplanets.csv
+Kepler-1281,Exoplanet,,,,,exoplanets.csv
+Kepler-1282,Exoplanet,,,,,exoplanets.csv
+Kepler-1283,Exoplanet,,,,,exoplanets.csv
+Kepler-1284,Exoplanet,,,,,exoplanets.csv
+Kepler-1285,Exoplanet,,,,,exoplanets.csv
+Kepler-1286,Exoplanet,,,,,exoplanets.csv
+Kepler-1287,Exoplanet,,,,,exoplanets.csv
+Kepler-1288,Exoplanet,,,,,exoplanets.csv
+Kepler-1289,Exoplanet,,,,,exoplanets.csv
+Kepler-129,Exoplanet,,,,,exoplanets.csv
+Kepler-1290,Exoplanet,,,,,exoplanets.csv
+Kepler-1291,Exoplanet,,,,,exoplanets.csv
+Kepler-1292,Exoplanet,,,,,exoplanets.csv
+Kepler-1293,Exoplanet,,,,,exoplanets.csv
+Kepler-1294,Exoplanet,,,,,exoplanets.csv
+Kepler-1295,Exoplanet,,,,,exoplanets.csv
+Kepler-1296,Exoplanet,,,,,exoplanets.csv
+Kepler-1297,Exoplanet,,,,,exoplanets.csv
+Kepler-1298,Exoplanet,,,,,exoplanets.csv
+Kepler-1299,Exoplanet,,,,,exoplanets.csv
+Kepler-130,Exoplanet,,,,,exoplanets.csv
+Kepler-1300,Exoplanet,,,,,exoplanets.csv
+Kepler-1301,Exoplanet,,,,,exoplanets.csv
+Kepler-1302,Exoplanet,,,,,exoplanets.csv
+Kepler-1303,Exoplanet,,,,,exoplanets.csv
+Kepler-1304,Exoplanet,,,,,exoplanets.csv
+Kepler-1305,Exoplanet,,,,,exoplanets.csv
+Kepler-1306,Exoplanet,,,,,exoplanets.csv
+Kepler-1307,Exoplanet,,,,,exoplanets.csv
+Kepler-1308,Exoplanet,,,,,exoplanets.csv
+Kepler-1309,Exoplanet,,,,,exoplanets.csv
+Kepler-131,Exoplanet,,,,,exoplanets.csv
+Kepler-1310,Exoplanet,,,,,exoplanets.csv
+Kepler-1311,Exoplanet,,,,,exoplanets.csv
+Kepler-1312,Exoplanet,,,,,exoplanets.csv
+Kepler-1313,Exoplanet,,,,,exoplanets.csv
+Kepler-1314,Exoplanet,,,,,exoplanets.csv
+Kepler-1315,Exoplanet,,,,,exoplanets.csv
+Kepler-1316,Exoplanet,,,,,exoplanets.csv
+Kepler-1317,Exoplanet,,,,,exoplanets.csv
+Kepler-1318,Exoplanet,,,,,exoplanets.csv
+Kepler-1319,Exoplanet,,,,,exoplanets.csv
+Kepler-132,Exoplanet,,,,,exoplanets.csv
+Kepler-1320,Exoplanet,,,,,exoplanets.csv
+Kepler-1321,Exoplanet,,,,,exoplanets.csv
+Kepler-1322,Exoplanet,,,,,exoplanets.csv
+Kepler-1323,Exoplanet,,,,,exoplanets.csv
+Kepler-1324,Exoplanet,,,,,exoplanets.csv
+Kepler-1325,Exoplanet,,,,,exoplanets.csv
+Kepler-1326,Exoplanet,,,,,exoplanets.csv
+Kepler-1327,Exoplanet,,,,,exoplanets.csv
+Kepler-1328,Exoplanet,,,,,exoplanets.csv
+Kepler-1329,Exoplanet,,,,,exoplanets.csv
+Kepler-133,Exoplanet,,,,,exoplanets.csv
+Kepler-1330,Exoplanet,,,,,exoplanets.csv
+Kepler-1331,Exoplanet,,,,,exoplanets.csv
+Kepler-1332,Exoplanet,,,,,exoplanets.csv
+Kepler-1333,Exoplanet,,,,,exoplanets.csv
+Kepler-1334,Exoplanet,,,,,exoplanets.csv
+Kepler-1335,Exoplanet,,,,,exoplanets.csv
+Kepler-1336,Exoplanet,,,,,exoplanets.csv
+Kepler-1337,Exoplanet,,,,,exoplanets.csv
+Kepler-1338,Exoplanet,,,,,exoplanets.csv
+Kepler-1339,Exoplanet,,,,,exoplanets.csv
+Kepler-134,Exoplanet,,,,,exoplanets.csv
+Kepler-1340,Exoplanet,,,,,exoplanets.csv
+Kepler-1341,Exoplanet,,,,,exoplanets.csv
+Kepler-1342,Exoplanet,,,,,exoplanets.csv
+Kepler-1343,Exoplanet,,,,,exoplanets.csv
+Kepler-1344,Exoplanet,,,,,exoplanets.csv
+Kepler-1345,Exoplanet,,,,,exoplanets.csv
+Kepler-1346,Exoplanet,,,,,exoplanets.csv
+Kepler-1347,Exoplanet,,,,,exoplanets.csv
+Kepler-1348,Exoplanet,,,,,exoplanets.csv
+Kepler-1349,Exoplanet,,,,,exoplanets.csv
+Kepler-135,Exoplanet,,,,,exoplanets.csv
+Kepler-1350,Exoplanet,,,,,exoplanets.csv
+Kepler-1351,Exoplanet,,,,,exoplanets.csv
+Kepler-1352,Exoplanet,,,,,exoplanets.csv
+Kepler-1353,Exoplanet,,,,,exoplanets.csv
+Kepler-1354,Exoplanet,,,,,exoplanets.csv
+Kepler-1355,Exoplanet,,,,,exoplanets.csv
+Kepler-1356,Exoplanet,,,,,exoplanets.csv
+Kepler-1357,Exoplanet,,,,,exoplanets.csv
+Kepler-1358,Exoplanet,,,,,exoplanets.csv
+Kepler-1359,Exoplanet,,,,,exoplanets.csv
+Kepler-136,Exoplanet,,,,,exoplanets.csv
+Kepler-1360,Exoplanet,,,,,exoplanets.csv
+Kepler-1361,Exoplanet,,,,,exoplanets.csv
+Kepler-1362,Exoplanet,,,,,exoplanets.csv
+Kepler-1363,Exoplanet,,,,,exoplanets.csv
+Kepler-1364,Exoplanet,,,,,exoplanets.csv
+Kepler-1365,Exoplanet,,,,,exoplanets.csv
+Kepler-1366,Exoplanet,,,,,exoplanets.csv
+Kepler-1367,Exoplanet,,,,,exoplanets.csv
+Kepler-1368,Exoplanet,,,,,exoplanets.csv
+Kepler-1369,Exoplanet,,,,,exoplanets.csv
+Kepler-137,Exoplanet,,,,,exoplanets.csv
+Kepler-1370,Exoplanet,,,,,exoplanets.csv
+Kepler-1371,Exoplanet,,,,,exoplanets.csv
+Kepler-1372,Exoplanet,,,,,exoplanets.csv
+Kepler-1373,Exoplanet,,,,,exoplanets.csv
+Kepler-1374,Exoplanet,,,,,exoplanets.csv
+Kepler-1375,Exoplanet,,,,,exoplanets.csv
+Kepler-1376,Exoplanet,,,,,exoplanets.csv
+Kepler-1377,Exoplanet,,,,,exoplanets.csv
+Kepler-1378,Exoplanet,,,,,exoplanets.csv
+Kepler-1379,Exoplanet,,,,,exoplanets.csv
+Kepler-138,Exoplanet,,,,,exoplanets.csv
+Kepler-1380,Exoplanet,,,,,exoplanets.csv
+Kepler-1381,Exoplanet,,,,,exoplanets.csv
+Kepler-1382,Exoplanet,,,,,exoplanets.csv
+Kepler-1383,Exoplanet,,,,,exoplanets.csv
+Kepler-1384,Exoplanet,,,,,exoplanets.csv
+Kepler-1385,Exoplanet,,,,,exoplanets.csv
+Kepler-1386,Exoplanet,,,,,exoplanets.csv
+Kepler-1387,Exoplanet,,,,,exoplanets.csv
+Kepler-1388,Exoplanet,,,,,exoplanets.csv
+Kepler-1389,Exoplanet,,,,,exoplanets.csv
+Kepler-139,Exoplanet,,,,,exoplanets.csv
+Kepler-1390,Exoplanet,,,,,exoplanets.csv
+Kepler-1391,Exoplanet,,,,,exoplanets.csv
+Kepler-1392,Exoplanet,,,,,exoplanets.csv
+Kepler-1393,Exoplanet,,,,,exoplanets.csv
+Kepler-1394,Exoplanet,,,,,exoplanets.csv
+Kepler-1395,Exoplanet,,,,,exoplanets.csv
+Kepler-1396,Exoplanet,,,,,exoplanets.csv
+Kepler-1397,Exoplanet,,,,,exoplanets.csv
+Kepler-1398,Exoplanet,,,,,exoplanets.csv
+Kepler-1399,Exoplanet,,,,,exoplanets.csv
+Kepler-14,Exoplanet,,,,,exoplanets.csv
+Kepler-140,Exoplanet,,,,,exoplanets.csv
+Kepler-1400,Exoplanet,,,,,exoplanets.csv
+Kepler-1401,Exoplanet,,,,,exoplanets.csv
+Kepler-1402,Exoplanet,,,,,exoplanets.csv
+Kepler-1403,Exoplanet,,,,,exoplanets.csv
+Kepler-1404,Exoplanet,,,,,exoplanets.csv
+Kepler-1405,Exoplanet,,,,,exoplanets.csv
+Kepler-1406,Exoplanet,,,,,exoplanets.csv
+Kepler-1407,Exoplanet,,,,,exoplanets.csv
+Kepler-1408,Exoplanet,,,,,exoplanets.csv
+Kepler-1409,Exoplanet,,,,,exoplanets.csv
+Kepler-141,Exoplanet,,,,,exoplanets.csv
+Kepler-1410,Exoplanet,,,,,exoplanets.csv
+Kepler-1411,Exoplanet,,,,,exoplanets.csv
+Kepler-1412,Exoplanet,,,,,exoplanets.csv
+Kepler-1413,Exoplanet,,,,,exoplanets.csv
+Kepler-1414,Exoplanet,,,,,exoplanets.csv
+Kepler-1415,Exoplanet,,,,,exoplanets.csv
+Kepler-1416,Exoplanet,,,,,exoplanets.csv
+Kepler-1417,Exoplanet,,,,,exoplanets.csv
+Kepler-1418,Exoplanet,,,,,exoplanets.csv
+Kepler-1419,Exoplanet,,,,,exoplanets.csv
+Kepler-142,Exoplanet,,,,,exoplanets.csv
+Kepler-1420,Exoplanet,,,,,exoplanets.csv
+Kepler-1421,Exoplanet,,,,,exoplanets.csv
+Kepler-1422,Exoplanet,,,,,exoplanets.csv
+Kepler-1423,Exoplanet,,,,,exoplanets.csv
+Kepler-1424,Exoplanet,,,,,exoplanets.csv
+Kepler-1425,Exoplanet,,,,,exoplanets.csv
+Kepler-1426,Exoplanet,,,,,exoplanets.csv
+Kepler-1427,Exoplanet,,,,,exoplanets.csv
+Kepler-1428,Exoplanet,,,,,exoplanets.csv
+Kepler-1429,Exoplanet,,,,,exoplanets.csv
+Kepler-143,Exoplanet,,,,,exoplanets.csv
+Kepler-1430,Exoplanet,,,,,exoplanets.csv
+Kepler-1431,Exoplanet,,,,,exoplanets.csv
+Kepler-1432,Exoplanet,,,,,exoplanets.csv
+Kepler-1433,Exoplanet,,,,,exoplanets.csv
+Kepler-1434,Exoplanet,,,,,exoplanets.csv
+Kepler-1435,Exoplanet,,,,,exoplanets.csv
+Kepler-1436,Exoplanet,,,,,exoplanets.csv
+Kepler-1437,Exoplanet,,,,,exoplanets.csv
+Kepler-1438,Exoplanet,,,,,exoplanets.csv
+Kepler-1439,Exoplanet,,,,,exoplanets.csv
+Kepler-144,Exoplanet,,,,,exoplanets.csv
+Kepler-1440,Exoplanet,,,,,exoplanets.csv
+Kepler-1441,Exoplanet,,,,,exoplanets.csv
+Kepler-1442,Exoplanet,,,,,exoplanets.csv
+Kepler-1443,Exoplanet,,,,,exoplanets.csv
+Kepler-1444,Exoplanet,,,,,exoplanets.csv
+Kepler-1445,Exoplanet,,,,,exoplanets.csv
+Kepler-1446,Exoplanet,,,,,exoplanets.csv
+Kepler-1447,Exoplanet,,,,,exoplanets.csv
+Kepler-1448,Exoplanet,,,,,exoplanets.csv
+Kepler-1449,Exoplanet,,,,,exoplanets.csv
+Kepler-145,Exoplanet,,,,,exoplanets.csv
+Kepler-1450,Exoplanet,,,,,exoplanets.csv
+Kepler-1451,Exoplanet,,,,,exoplanets.csv
+Kepler-1452,Exoplanet,,,,,exoplanets.csv
+Kepler-1453,Exoplanet,,,,,exoplanets.csv
+Kepler-1454,Exoplanet,,,,,exoplanets.csv
+Kepler-1455,Exoplanet,,,,,exoplanets.csv
+Kepler-1456,Exoplanet,,,,,exoplanets.csv
+Kepler-1457,Exoplanet,,,,,exoplanets.csv
+Kepler-1458,Exoplanet,,,,,exoplanets.csv
+Kepler-1459,Exoplanet,,,,,exoplanets.csv
+Kepler-146,Exoplanet,,,,,exoplanets.csv
+Kepler-1460,Exoplanet,,,,,exoplanets.csv
+Kepler-1461,Exoplanet,,,,,exoplanets.csv
+Kepler-1462,Exoplanet,,,,,exoplanets.csv
+Kepler-1463,Exoplanet,,,,,exoplanets.csv
+Kepler-1464,Exoplanet,,,,,exoplanets.csv
+Kepler-1465,Exoplanet,,,,,exoplanets.csv
+Kepler-1466,Exoplanet,,,,,exoplanets.csv
+Kepler-1467,Exoplanet,,,,,exoplanets.csv
+Kepler-1468,Exoplanet,,,,,exoplanets.csv
+Kepler-1469,Exoplanet,,,,,exoplanets.csv
+Kepler-147,Exoplanet,,,,,exoplanets.csv
+Kepler-1470,Exoplanet,,,,,exoplanets.csv
+Kepler-1471,Exoplanet,,,,,exoplanets.csv
+Kepler-1472,Exoplanet,,,,,exoplanets.csv
+Kepler-1473,Exoplanet,,,,,exoplanets.csv
+Kepler-1474,Exoplanet,,,,,exoplanets.csv
+Kepler-1475,Exoplanet,,,,,exoplanets.csv
+Kepler-1476,Exoplanet,,,,,exoplanets.csv
+Kepler-1477,Exoplanet,,,,,exoplanets.csv
+Kepler-1478,Exoplanet,,,,,exoplanets.csv
+Kepler-1479,Exoplanet,,,,,exoplanets.csv
+Kepler-148,Exoplanet,,,,,exoplanets.csv
+Kepler-1480,Exoplanet,,,,,exoplanets.csv
+Kepler-1481,Exoplanet,,,,,exoplanets.csv
+Kepler-1482,Exoplanet,,,,,exoplanets.csv
+Kepler-1483,Exoplanet,,,,,exoplanets.csv
+Kepler-1484,Exoplanet,,,,,exoplanets.csv
+Kepler-1485,Exoplanet,,,,,exoplanets.csv
+Kepler-1486,Exoplanet,,,,,exoplanets.csv
+Kepler-1487,Exoplanet,,,,,exoplanets.csv
+Kepler-1488,Exoplanet,,,,,exoplanets.csv
+Kepler-1489,Exoplanet,,,,,exoplanets.csv
+Kepler-149,Exoplanet,,,,,exoplanets.csv
+Kepler-1490,Exoplanet,,,,,exoplanets.csv
+Kepler-1491,Exoplanet,,,,,exoplanets.csv
+Kepler-1492,Exoplanet,,,,,exoplanets.csv
+Kepler-1493,Exoplanet,,,,,exoplanets.csv
+Kepler-1494,Exoplanet,,,,,exoplanets.csv
+Kepler-1495,Exoplanet,,,,,exoplanets.csv
+Kepler-1496,Exoplanet,,,,,exoplanets.csv
+Kepler-1497,Exoplanet,,,,,exoplanets.csv
+Kepler-1498,Exoplanet,,,,,exoplanets.csv
+Kepler-1499,Exoplanet,,,,,exoplanets.csv
+Kepler-15,Exoplanet,,,,,exoplanets.csv
+Kepler-150,Exoplanet,,,,,exoplanets.csv
+Kepler-1500,Exoplanet,,,,,exoplanets.csv
+Kepler-1501,Exoplanet,,,,,exoplanets.csv
+Kepler-1502,Exoplanet,,,,,exoplanets.csv
+Kepler-1503,Exoplanet,,,,,exoplanets.csv
+Kepler-1504,Exoplanet,,,,,exoplanets.csv
+Kepler-1505,Exoplanet,,,,,exoplanets.csv
+Kepler-1506,Exoplanet,,,,,exoplanets.csv
+Kepler-1507,Exoplanet,,,,,exoplanets.csv
+Kepler-1508,Exoplanet,,,,,exoplanets.csv
+Kepler-1509,Exoplanet,,,,,exoplanets.csv
+Kepler-151,Exoplanet,,,,,exoplanets.csv
+Kepler-1510,Exoplanet,,,,,exoplanets.csv
+Kepler-1511,Exoplanet,,,,,exoplanets.csv
+Kepler-1512,Exoplanet,,,,,exoplanets.csv
+Kepler-1513,Exoplanet,,,,,exoplanets.csv
+Kepler-1514,Exoplanet,,,,,exoplanets.csv
+Kepler-1515,Exoplanet,,,,,exoplanets.csv
+Kepler-1516,Exoplanet,,,,,exoplanets.csv
+Kepler-1517,Exoplanet,,,,,exoplanets.csv
+Kepler-1518,Exoplanet,,,,,exoplanets.csv
+Kepler-1519,Exoplanet,,,,,exoplanets.csv
+Kepler-152,Exoplanet,,,,,exoplanets.csv
+Kepler-1520,Exoplanet,,,,,exoplanets.csv
+Kepler-1521,Exoplanet,,,,,exoplanets.csv
+Kepler-1522,Exoplanet,,,,,exoplanets.csv
+Kepler-1523,Exoplanet,,,,,exoplanets.csv
+Kepler-1524,Exoplanet,,,,,exoplanets.csv
+Kepler-1525,Exoplanet,,,,,exoplanets.csv
+Kepler-1526,Exoplanet,,,,,exoplanets.csv
+Kepler-1527,Exoplanet,,,,,exoplanets.csv
+Kepler-1528,Exoplanet,,,,,exoplanets.csv
+Kepler-1529,Exoplanet,,,,,exoplanets.csv
+Kepler-153,Exoplanet,,,,,exoplanets.csv
+Kepler-1530,Exoplanet,,,,,exoplanets.csv
+Kepler-1531,Exoplanet,,,,,exoplanets.csv
+Kepler-1532,Exoplanet,,,,,exoplanets.csv
+Kepler-1533,Exoplanet,,,,,exoplanets.csv
+Kepler-1534,Exoplanet,,,,,exoplanets.csv
+Kepler-1535,Exoplanet,,,,,exoplanets.csv
+Kepler-1536,Exoplanet,,,,,exoplanets.csv
+Kepler-1537,Exoplanet,,,,,exoplanets.csv
+Kepler-1538,Exoplanet,,,,,exoplanets.csv
+Kepler-1539,Exoplanet,,,,,exoplanets.csv
+Kepler-154,Exoplanet,,,,,exoplanets.csv
+Kepler-1540,Exoplanet,,,,,exoplanets.csv
+Kepler-1541,Exoplanet,,,,,exoplanets.csv
+Kepler-1542,Exoplanet,,,,,exoplanets.csv
+Kepler-1543,Exoplanet,,,,,exoplanets.csv
+Kepler-1544,Exoplanet,,,,,exoplanets.csv
+Kepler-1545,Exoplanet,,,,,exoplanets.csv
+Kepler-1546,Exoplanet,,,,,exoplanets.csv
+Kepler-1547,Exoplanet,,,,,exoplanets.csv
+Kepler-1548,Exoplanet,,,,,exoplanets.csv
+Kepler-1549,Exoplanet,,,,,exoplanets.csv
+Kepler-155,Exoplanet,,,,,exoplanets.csv
+Kepler-1550,Exoplanet,,,,,exoplanets.csv
+Kepler-1551,Exoplanet,,,,,exoplanets.csv
+Kepler-1552,Exoplanet,,,,,exoplanets.csv
+Kepler-1553,Exoplanet,,,,,exoplanets.csv
+Kepler-1554,Exoplanet,,,,,exoplanets.csv
+Kepler-1555,Exoplanet,,,,,exoplanets.csv
+Kepler-1556,Exoplanet,,,,,exoplanets.csv
+Kepler-1557,Exoplanet,,,,,exoplanets.csv
+Kepler-1558,Exoplanet,,,,,exoplanets.csv
+Kepler-1559,Exoplanet,,,,,exoplanets.csv
+Kepler-156,Exoplanet,,,,,exoplanets.csv
+Kepler-1560,Exoplanet,,,,,exoplanets.csv
+Kepler-1561,Exoplanet,,,,,exoplanets.csv
+Kepler-1562,Exoplanet,,,,,exoplanets.csv
+Kepler-1563,Exoplanet,,,,,exoplanets.csv
+Kepler-1564,Exoplanet,,,,,exoplanets.csv
+Kepler-1565,Exoplanet,,,,,exoplanets.csv
+Kepler-1566,Exoplanet,,,,,exoplanets.csv
+Kepler-1567,Exoplanet,,,,,exoplanets.csv
+Kepler-1568,Exoplanet,,,,,exoplanets.csv
+Kepler-1569,Exoplanet,,,,,exoplanets.csv
+Kepler-157,Exoplanet,,,,,exoplanets.csv
+Kepler-1570,Exoplanet,,,,,exoplanets.csv
+Kepler-1571,Exoplanet,,,,,exoplanets.csv
+Kepler-1572,Exoplanet,,,,,exoplanets.csv
+Kepler-1573,Exoplanet,,,,,exoplanets.csv
+Kepler-1574,Exoplanet,,,,,exoplanets.csv
+Kepler-1575,Exoplanet,,,,,exoplanets.csv
+Kepler-1576,Exoplanet,,,,,exoplanets.csv
+Kepler-1577,Exoplanet,,,,,exoplanets.csv
+Kepler-1578,Exoplanet,,,,,exoplanets.csv
+Kepler-1579,Exoplanet,,,,,exoplanets.csv
+Kepler-158,Exoplanet,,,,,exoplanets.csv
+Kepler-1580,Exoplanet,,,,,exoplanets.csv
+Kepler-1581,Exoplanet,,,,,exoplanets.csv
+Kepler-1582,Exoplanet,,,,,exoplanets.csv
+Kepler-1583,Exoplanet,,,,,exoplanets.csv
+Kepler-1584,Exoplanet,,,,,exoplanets.csv
+Kepler-1585,Exoplanet,,,,,exoplanets.csv
+Kepler-1586,Exoplanet,,,,,exoplanets.csv
+Kepler-1587,Exoplanet,,,,,exoplanets.csv
+Kepler-1588,Exoplanet,,,,,exoplanets.csv
+Kepler-1589,Exoplanet,,,,,exoplanets.csv
+Kepler-159,Exoplanet,,,,,exoplanets.csv
+Kepler-1590,Exoplanet,,,,,exoplanets.csv
+Kepler-1591,Exoplanet,,,,,exoplanets.csv
+Kepler-1592,Exoplanet,,,,,exoplanets.csv
+Kepler-1593,Exoplanet,,,,,exoplanets.csv
+Kepler-1594,Exoplanet,,,,,exoplanets.csv
+Kepler-1595,Exoplanet,,,,,exoplanets.csv
+Kepler-1596,Exoplanet,,,,,exoplanets.csv
+Kepler-1597,Exoplanet,,,,,exoplanets.csv
+Kepler-1598,Exoplanet,,,,,exoplanets.csv
+Kepler-1599,Exoplanet,,,,,exoplanets.csv
+Kepler-16,Exoplanet,,,,,exoplanets.csv
+Kepler-160,Exoplanet,,,,,exoplanets.csv
+Kepler-1600,Exoplanet,,,,,exoplanets.csv
+Kepler-1601,Exoplanet,,,,,exoplanets.csv
+Kepler-1602,Exoplanet,,,,,exoplanets.csv
+Kepler-1603,Exoplanet,,,,,exoplanets.csv
+Kepler-1604,Exoplanet,,,,,exoplanets.csv
+Kepler-1605,Exoplanet,,,,,exoplanets.csv
+Kepler-1606,Exoplanet,,,,,exoplanets.csv
+Kepler-1607,Exoplanet,,,,,exoplanets.csv
+Kepler-1608,Exoplanet,,,,,exoplanets.csv
+Kepler-1609,Exoplanet,,,,,exoplanets.csv
+Kepler-161,Exoplanet,,,,,exoplanets.csv
+Kepler-1610,Exoplanet,,,,,exoplanets.csv
+Kepler-1611,Exoplanet,,,,,exoplanets.csv
+Kepler-1612,Exoplanet,,,,,exoplanets.csv
+Kepler-1613,Exoplanet,,,,,exoplanets.csv
+Kepler-1614,Exoplanet,,,,,exoplanets.csv
+Kepler-1615,Exoplanet,,,,,exoplanets.csv
+Kepler-1616,Exoplanet,,,,,exoplanets.csv
+Kepler-1617,Exoplanet,,,,,exoplanets.csv
+Kepler-1618,Exoplanet,,,,,exoplanets.csv
+Kepler-1619,Exoplanet,,,,,exoplanets.csv
+Kepler-162,Exoplanet,,,,,exoplanets.csv
+Kepler-1620,Exoplanet,,,,,exoplanets.csv
+Kepler-1621,Exoplanet,,,,,exoplanets.csv
+Kepler-1622,Exoplanet,,,,,exoplanets.csv
+Kepler-1623,Exoplanet,,,,,exoplanets.csv
+Kepler-1624,Exoplanet,,,,,exoplanets.csv
+Kepler-1625,Exoplanet,,,,,exoplanets.csv
+Kepler-1626,Exoplanet,,,,,exoplanets.csv
+Kepler-1627,Exoplanet,,,,,exoplanets.csv
+Kepler-1628,Exoplanet,,,,,exoplanets.csv
+Kepler-1629,Exoplanet,,,,,exoplanets.csv
+Kepler-163,Exoplanet,,,,,exoplanets.csv
+Kepler-1630,Exoplanet,,,,,exoplanets.csv
+Kepler-1631,Exoplanet,,,,,exoplanets.csv
+Kepler-1632,Exoplanet,,,,,exoplanets.csv
+Kepler-1633,Exoplanet,,,,,exoplanets.csv
+Kepler-1634,Exoplanet,,,,,exoplanets.csv
+Kepler-1635,Exoplanet,,,,,exoplanets.csv
+Kepler-1636,Exoplanet,,,,,exoplanets.csv
+Kepler-1637,Exoplanet,,,,,exoplanets.csv
+Kepler-1638,Exoplanet,,,,,exoplanets.csv
+Kepler-1639,Exoplanet,,,,,exoplanets.csv
+Kepler-164,Exoplanet,,,,,exoplanets.csv
+Kepler-1640,Exoplanet,,,,,exoplanets.csv
+Kepler-1641,Exoplanet,,,,,exoplanets.csv
+Kepler-1642,Exoplanet,,,,,exoplanets.csv
+Kepler-1643,Exoplanet,,,,,exoplanets.csv
+Kepler-1644,Exoplanet,,,,,exoplanets.csv
+Kepler-1645,Exoplanet,,,,,exoplanets.csv
+Kepler-1646,Exoplanet,,,,,exoplanets.csv
+Kepler-1647,Exoplanet,,,,,exoplanets.csv
+Kepler-1649,Exoplanet,,,,,exoplanets.csv
+Kepler-165,Exoplanet,,,,,exoplanets.csv
+Kepler-1650,Exoplanet,,,,,exoplanets.csv
+Kepler-1651,Exoplanet,,,,,exoplanets.csv
+Kepler-1652,Exoplanet,,,,,exoplanets.csv
+Kepler-1653,Exoplanet,,,,,exoplanets.csv
+Kepler-1654,Exoplanet,,,,,exoplanets.csv
+Kepler-1655,Exoplanet,,,,,exoplanets.csv
+Kepler-1656,Exoplanet,,,,,exoplanets.csv
+Kepler-166,Exoplanet,,,,,exoplanets.csv
+Kepler-1660 A,Exoplanet,,,,,exoplanets.csv
+Kepler-1661,Exoplanet,,,,,exoplanets.csv
+Kepler-1663,Exoplanet,,,,,exoplanets.csv
+Kepler-1664,Exoplanet,,,,,exoplanets.csv
+Kepler-1665,Exoplanet,,,,,exoplanets.csv
+Kepler-1666,Exoplanet,,,,,exoplanets.csv
+Kepler-1667,Exoplanet,,,,,exoplanets.csv
+Kepler-1668,Exoplanet,,,,,exoplanets.csv
+Kepler-1669,Exoplanet,,,,,exoplanets.csv
+Kepler-167,Exoplanet,,,,,exoplanets.csv
+Kepler-1670,Exoplanet,,,,,exoplanets.csv
+Kepler-1671,Exoplanet,,,,,exoplanets.csv
+Kepler-1672,Exoplanet,,,,,exoplanets.csv
+Kepler-1673,Exoplanet,,,,,exoplanets.csv
+Kepler-1674,Exoplanet,,,,,exoplanets.csv
+Kepler-1675,Exoplanet,,,,,exoplanets.csv
+Kepler-1676,Exoplanet,,,,,exoplanets.csv
+Kepler-1677,Exoplanet,,,,,exoplanets.csv
+Kepler-1678,Exoplanet,,,,,exoplanets.csv
+Kepler-1679,Exoplanet,,,,,exoplanets.csv
+Kepler-168,Exoplanet,,,,,exoplanets.csv
+Kepler-1680,Exoplanet,,,,,exoplanets.csv
+Kepler-1681,Exoplanet,,,,,exoplanets.csv
+Kepler-1682,Exoplanet,,,,,exoplanets.csv
+Kepler-1683,Exoplanet,,,,,exoplanets.csv
+Kepler-1684,Exoplanet,,,,,exoplanets.csv
+Kepler-1685,Exoplanet,,,,,exoplanets.csv
+Kepler-1686,Exoplanet,,,,,exoplanets.csv
+Kepler-1687,Exoplanet,,,,,exoplanets.csv
+Kepler-1688,Exoplanet,,,,,exoplanets.csv
+Kepler-1689,Exoplanet,,,,,exoplanets.csv
+Kepler-169,Exoplanet,,,,,exoplanets.csv
+Kepler-1690,Exoplanet,,,,,exoplanets.csv
+Kepler-1691,Exoplanet,,,,,exoplanets.csv
+Kepler-1692,Exoplanet,,,,,exoplanets.csv
+Kepler-1693,Exoplanet,,,,,exoplanets.csv
+Kepler-1694,Exoplanet,,,,,exoplanets.csv
+Kepler-1695,Exoplanet,,,,,exoplanets.csv
+Kepler-1696,Exoplanet,,,,,exoplanets.csv
+Kepler-1697,Exoplanet,,,,,exoplanets.csv
+Kepler-1698,Exoplanet,,,,,exoplanets.csv
+Kepler-1699,Exoplanet,,,,,exoplanets.csv
+Kepler-17,Exoplanet,,,,,exoplanets.csv
+Kepler-170,Exoplanet,,,,,exoplanets.csv
+Kepler-1700,Exoplanet,,,,,exoplanets.csv
+Kepler-1701,Exoplanet,,,,,exoplanets.csv
+Kepler-1702,Exoplanet,,,,,exoplanets.csv
+Kepler-1704,Exoplanet,,,,,exoplanets.csv
+Kepler-1705,Exoplanet,,,,,exoplanets.csv
+Kepler-1708,Exoplanet,,,,,exoplanets.csv
+Kepler-1709,Exoplanet,,,,,exoplanets.csv
+Kepler-171,Exoplanet,,,,,exoplanets.csv
+Kepler-1710,Exoplanet,,,,,exoplanets.csv
+Kepler-1711,Exoplanet,,,,,exoplanets.csv
+Kepler-1712,Exoplanet,,,,,exoplanets.csv
+Kepler-1713,Exoplanet,,,,,exoplanets.csv
+Kepler-1714,Exoplanet,,,,,exoplanets.csv
+Kepler-1715,Exoplanet,,,,,exoplanets.csv
+Kepler-1716,Exoplanet,,,,,exoplanets.csv
+Kepler-1717,Exoplanet,,,,,exoplanets.csv
+Kepler-1718,Exoplanet,,,,,exoplanets.csv
+Kepler-1719,Exoplanet,,,,,exoplanets.csv
+Kepler-172,Exoplanet,,,,,exoplanets.csv
+Kepler-1720,Exoplanet,,,,,exoplanets.csv
+Kepler-1721,Exoplanet,,,,,exoplanets.csv
+Kepler-1722,Exoplanet,,,,,exoplanets.csv
+Kepler-1723,Exoplanet,,,,,exoplanets.csv
+Kepler-1724,Exoplanet,,,,,exoplanets.csv
+Kepler-1725,Exoplanet,,,,,exoplanets.csv
+Kepler-1726,Exoplanet,,,,,exoplanets.csv
+Kepler-1727,Exoplanet,,,,,exoplanets.csv
+Kepler-1728,Exoplanet,,,,,exoplanets.csv
+Kepler-1729,Exoplanet,,,,,exoplanets.csv
+Kepler-173,Exoplanet,,,,,exoplanets.csv
+Kepler-1730,Exoplanet,,,,,exoplanets.csv
+Kepler-1731,Exoplanet,,,,,exoplanets.csv
+Kepler-1732,Exoplanet,,,,,exoplanets.csv
+Kepler-1733,Exoplanet,,,,,exoplanets.csv
+Kepler-1734,Exoplanet,,,,,exoplanets.csv
+Kepler-1735,Exoplanet,,,,,exoplanets.csv
+Kepler-1736,Exoplanet,,,,,exoplanets.csv
+Kepler-1737,Exoplanet,,,,,exoplanets.csv
+Kepler-1738,Exoplanet,,,,,exoplanets.csv
+Kepler-1739,Exoplanet,,,,,exoplanets.csv
+Kepler-174,Exoplanet,,,,,exoplanets.csv
+Kepler-1740,Exoplanet,,,,,exoplanets.csv
+Kepler-1741,Exoplanet,,,,,exoplanets.csv
+Kepler-1742,Exoplanet,,,,,exoplanets.csv
+Kepler-1743,Exoplanet,,,,,exoplanets.csv
+Kepler-1744,Exoplanet,,,,,exoplanets.csv
+Kepler-1745,Exoplanet,,,,,exoplanets.csv
+Kepler-1746,Exoplanet,,,,,exoplanets.csv
+Kepler-1747,Exoplanet,,,,,exoplanets.csv
+Kepler-1748,Exoplanet,,,,,exoplanets.csv
+Kepler-1749,Exoplanet,,,,,exoplanets.csv
+Kepler-175,Exoplanet,,,,,exoplanets.csv
+Kepler-1750,Exoplanet,,,,,exoplanets.csv
+Kepler-1751,Exoplanet,,,,,exoplanets.csv
+Kepler-1752,Exoplanet,,,,,exoplanets.csv
+Kepler-1753,Exoplanet,,,,,exoplanets.csv
+Kepler-1754,Exoplanet,,,,,exoplanets.csv
+Kepler-1755,Exoplanet,,,,,exoplanets.csv
+Kepler-1756,Exoplanet,,,,,exoplanets.csv
+Kepler-1757,Exoplanet,,,,,exoplanets.csv
+Kepler-1758,Exoplanet,,,,,exoplanets.csv
+Kepler-1759,Exoplanet,,,,,exoplanets.csv
+Kepler-176,Exoplanet,,,,,exoplanets.csv
+Kepler-1760,Exoplanet,,,,,exoplanets.csv
+Kepler-1761,Exoplanet,,,,,exoplanets.csv
+Kepler-1762,Exoplanet,,,,,exoplanets.csv
+Kepler-1763,Exoplanet,,,,,exoplanets.csv
+Kepler-1764,Exoplanet,,,,,exoplanets.csv
+Kepler-1765,Exoplanet,,,,,exoplanets.csv
+Kepler-1766,Exoplanet,,,,,exoplanets.csv
+Kepler-1767,Exoplanet,,,,,exoplanets.csv
+Kepler-1768,Exoplanet,,,,,exoplanets.csv
+Kepler-1769,Exoplanet,,,,,exoplanets.csv
+Kepler-177,Exoplanet,,,,,exoplanets.csv
+Kepler-1770,Exoplanet,,,,,exoplanets.csv
+Kepler-1771,Exoplanet,,,,,exoplanets.csv
+Kepler-1772,Exoplanet,,,,,exoplanets.csv
+Kepler-1773,Exoplanet,,,,,exoplanets.csv
+Kepler-1774,Exoplanet,,,,,exoplanets.csv
+Kepler-1775,Exoplanet,,,,,exoplanets.csv
+Kepler-1776,Exoplanet,,,,,exoplanets.csv
+Kepler-1777,Exoplanet,,,,,exoplanets.csv
+Kepler-1778,Exoplanet,,,,,exoplanets.csv
+Kepler-1779,Exoplanet,,,,,exoplanets.csv
+Kepler-178,Exoplanet,,,,,exoplanets.csv
+Kepler-1780,Exoplanet,,,,,exoplanets.csv
+Kepler-1781,Exoplanet,,,,,exoplanets.csv
+Kepler-1782,Exoplanet,,,,,exoplanets.csv
+Kepler-1783,Exoplanet,,,,,exoplanets.csv
+Kepler-1784,Exoplanet,,,,,exoplanets.csv
+Kepler-1785,Exoplanet,,,,,exoplanets.csv
+Kepler-1786,Exoplanet,,,,,exoplanets.csv
+Kepler-1787,Exoplanet,,,,,exoplanets.csv
+Kepler-1788,Exoplanet,,,,,exoplanets.csv
+Kepler-1789,Exoplanet,,,,,exoplanets.csv
+Kepler-179,Exoplanet,,,,,exoplanets.csv
+Kepler-1790,Exoplanet,,,,,exoplanets.csv
+Kepler-1791,Exoplanet,,,,,exoplanets.csv
+Kepler-1792,Exoplanet,,,,,exoplanets.csv
+Kepler-1793,Exoplanet,,,,,exoplanets.csv
+Kepler-1794,Exoplanet,,,,,exoplanets.csv
+Kepler-1795,Exoplanet,,,,,exoplanets.csv
+Kepler-1796,Exoplanet,,,,,exoplanets.csv
+Kepler-1797,Exoplanet,,,,,exoplanets.csv
+Kepler-1798,Exoplanet,,,,,exoplanets.csv
+Kepler-1799,Exoplanet,,,,,exoplanets.csv
+Kepler-18,Exoplanet,,,,,exoplanets.csv
+Kepler-180,Exoplanet,,,,,exoplanets.csv
+Kepler-1800,Exoplanet,,,,,exoplanets.csv
+Kepler-1801,Exoplanet,,,,,exoplanets.csv
+Kepler-1802,Exoplanet,,,,,exoplanets.csv
+Kepler-1804,Exoplanet,,,,,exoplanets.csv
+Kepler-1805,Exoplanet,,,,,exoplanets.csv
+Kepler-1806,Exoplanet,,,,,exoplanets.csv
+Kepler-1807,Exoplanet,,,,,exoplanets.csv
+Kepler-1808,Exoplanet,,,,,exoplanets.csv
+Kepler-1809,Exoplanet,,,,,exoplanets.csv
+Kepler-181,Exoplanet,,,,,exoplanets.csv
+Kepler-1810,Exoplanet,,,,,exoplanets.csv
+Kepler-1811,Exoplanet,,,,,exoplanets.csv
+Kepler-1812,Exoplanet,,,,,exoplanets.csv
+Kepler-1813,Exoplanet,,,,,exoplanets.csv
+Kepler-1814,Exoplanet,,,,,exoplanets.csv
+Kepler-1815,Exoplanet,,,,,exoplanets.csv
+Kepler-1816,Exoplanet,,,,,exoplanets.csv
+Kepler-1817,Exoplanet,,,,,exoplanets.csv
+Kepler-1818,Exoplanet,,,,,exoplanets.csv
+Kepler-1819,Exoplanet,,,,,exoplanets.csv
+Kepler-182,Exoplanet,,,,,exoplanets.csv
+Kepler-1820,Exoplanet,,,,,exoplanets.csv
+Kepler-1821,Exoplanet,,,,,exoplanets.csv
+Kepler-1822,Exoplanet,,,,,exoplanets.csv
+Kepler-1823,Exoplanet,,,,,exoplanets.csv
+Kepler-1824,Exoplanet,,,,,exoplanets.csv
+Kepler-1825,Exoplanet,,,,,exoplanets.csv
+Kepler-1826,Exoplanet,,,,,exoplanets.csv
+Kepler-1827,Exoplanet,,,,,exoplanets.csv
+Kepler-1828,Exoplanet,,,,,exoplanets.csv
+Kepler-1829,Exoplanet,,,,,exoplanets.csv
+Kepler-183,Exoplanet,,,,,exoplanets.csv
+Kepler-1830,Exoplanet,,,,,exoplanets.csv
+Kepler-1831,Exoplanet,,,,,exoplanets.csv
+Kepler-1832,Exoplanet,,,,,exoplanets.csv
+Kepler-1833,Exoplanet,,,,,exoplanets.csv
+Kepler-1834,Exoplanet,,,,,exoplanets.csv
+Kepler-1835,Exoplanet,,,,,exoplanets.csv
+Kepler-1836,Exoplanet,,,,,exoplanets.csv
+Kepler-1837,Exoplanet,,,,,exoplanets.csv
+Kepler-1838,Exoplanet,,,,,exoplanets.csv
+Kepler-1839,Exoplanet,,,,,exoplanets.csv
+Kepler-184,Exoplanet,,,,,exoplanets.csv
+Kepler-1840,Exoplanet,,,,,exoplanets.csv
+Kepler-1841,Exoplanet,,,,,exoplanets.csv
+Kepler-1842,Exoplanet,,,,,exoplanets.csv
+Kepler-1843,Exoplanet,,,,,exoplanets.csv
+Kepler-1844,Exoplanet,,,,,exoplanets.csv
+Kepler-1845,Exoplanet,,,,,exoplanets.csv
+Kepler-1846,Exoplanet,,,,,exoplanets.csv
+Kepler-1847,Exoplanet,,,,,exoplanets.csv
+Kepler-1848,Exoplanet,,,,,exoplanets.csv
+Kepler-1849,Exoplanet,,,,,exoplanets.csv
+Kepler-185,Exoplanet,,,,,exoplanets.csv
+Kepler-1850,Exoplanet,,,,,exoplanets.csv
+Kepler-1851,Exoplanet,,,,,exoplanets.csv
+Kepler-1852,Exoplanet,,,,,exoplanets.csv
+Kepler-1853,Exoplanet,,,,,exoplanets.csv
+Kepler-1854,Exoplanet,,,,,exoplanets.csv
+Kepler-1855,Exoplanet,,,,,exoplanets.csv
+Kepler-1856,Exoplanet,,,,,exoplanets.csv
+Kepler-1857,Exoplanet,,,,,exoplanets.csv
+Kepler-1858,Exoplanet,,,,,exoplanets.csv
+Kepler-1859,Exoplanet,,,,,exoplanets.csv
+Kepler-186,Exoplanet,,,,,exoplanets.csv
+Kepler-1860,Exoplanet,,,,,exoplanets.csv
+Kepler-1861,Exoplanet,,,,,exoplanets.csv
+Kepler-1862,Exoplanet,,,,,exoplanets.csv
+Kepler-1863,Exoplanet,,,,,exoplanets.csv
+Kepler-1864,Exoplanet,,,,,exoplanets.csv
+Kepler-1865,Exoplanet,,,,,exoplanets.csv
+Kepler-1866,Exoplanet,,,,,exoplanets.csv
+Kepler-1867,Exoplanet,,,,,exoplanets.csv
+Kepler-1868,Exoplanet,,,,,exoplanets.csv
+Kepler-1869,Exoplanet,,,,,exoplanets.csv
+Kepler-187,Exoplanet,,,,,exoplanets.csv
+Kepler-1870,Exoplanet,,,,,exoplanets.csv
+Kepler-1871,Exoplanet,,,,,exoplanets.csv
+Kepler-1872,Exoplanet,,,,,exoplanets.csv
+Kepler-1873,Exoplanet,,,,,exoplanets.csv
+Kepler-1874,Exoplanet,,,,,exoplanets.csv
+Kepler-1875,Exoplanet,,,,,exoplanets.csv
+Kepler-1876,Exoplanet,,,,,exoplanets.csv
+Kepler-1877,Exoplanet,,,,,exoplanets.csv
+Kepler-1878,Exoplanet,,,,,exoplanets.csv
+Kepler-1879,Exoplanet,,,,,exoplanets.csv
+Kepler-188,Exoplanet,,,,,exoplanets.csv
+Kepler-1880,Exoplanet,,,,,exoplanets.csv
+Kepler-1881,Exoplanet,,,,,exoplanets.csv
+Kepler-1882,Exoplanet,,,,,exoplanets.csv
+Kepler-1883,Exoplanet,,,,,exoplanets.csv
+Kepler-1884,Exoplanet,,,,,exoplanets.csv
+Kepler-1885,Exoplanet,,,,,exoplanets.csv
+Kepler-1886,Exoplanet,,,,,exoplanets.csv
+Kepler-1887,Exoplanet,,,,,exoplanets.csv
+Kepler-1888,Exoplanet,,,,,exoplanets.csv
+Kepler-1889,Exoplanet,,,,,exoplanets.csv
+Kepler-189,Exoplanet,,,,,exoplanets.csv
+Kepler-1890,Exoplanet,,,,,exoplanets.csv
+Kepler-1891,Exoplanet,,,,,exoplanets.csv
+Kepler-1892,Exoplanet,,,,,exoplanets.csv
+Kepler-1893,Exoplanet,,,,,exoplanets.csv
+Kepler-1894,Exoplanet,,,,,exoplanets.csv
+Kepler-1895,Exoplanet,,,,,exoplanets.csv
+Kepler-1896,Exoplanet,,,,,exoplanets.csv
+Kepler-1897,Exoplanet,,,,,exoplanets.csv
+Kepler-1898,Exoplanet,,,,,exoplanets.csv
+Kepler-1899,Exoplanet,,,,,exoplanets.csv
+Kepler-19,Exoplanet,,,,,exoplanets.csv
+Kepler-190,Exoplanet,,,,,exoplanets.csv
+Kepler-1900,Exoplanet,,,,,exoplanets.csv
+Kepler-1901,Exoplanet,,,,,exoplanets.csv
+Kepler-1902,Exoplanet,,,,,exoplanets.csv
+Kepler-1903,Exoplanet,,,,,exoplanets.csv
+Kepler-1904,Exoplanet,,,,,exoplanets.csv
+Kepler-1905,Exoplanet,,,,,exoplanets.csv
+Kepler-1906,Exoplanet,,,,,exoplanets.csv
+Kepler-1907,Exoplanet,,,,,exoplanets.csv
+Kepler-1909,Exoplanet,,,,,exoplanets.csv
+Kepler-191,Exoplanet,,,,,exoplanets.csv
+Kepler-1910,Exoplanet,,,,,exoplanets.csv
+Kepler-1911,Exoplanet,,,,,exoplanets.csv
+Kepler-1912,Exoplanet,,,,,exoplanets.csv
+Kepler-1913,Exoplanet,,,,,exoplanets.csv
+Kepler-1914,Exoplanet,,,,,exoplanets.csv
+Kepler-1915,Exoplanet,,,,,exoplanets.csv
+Kepler-1916,Exoplanet,,,,,exoplanets.csv
+Kepler-1917,Exoplanet,,,,,exoplanets.csv
+Kepler-1918,Exoplanet,,,,,exoplanets.csv
+Kepler-1919,Exoplanet,,,,,exoplanets.csv
+Kepler-192,Exoplanet,,,,,exoplanets.csv
+Kepler-1920,Exoplanet,,,,,exoplanets.csv
+Kepler-1921,Exoplanet,,,,,exoplanets.csv
+Kepler-1922,Exoplanet,,,,,exoplanets.csv
+Kepler-1923,Exoplanet,,,,,exoplanets.csv
+Kepler-1924,Exoplanet,,,,,exoplanets.csv
+Kepler-1925,Exoplanet,,,,,exoplanets.csv
+Kepler-1926,Exoplanet,,,,,exoplanets.csv
+Kepler-1927,Exoplanet,,,,,exoplanets.csv
+Kepler-1928,Exoplanet,,,,,exoplanets.csv
+Kepler-1929,Exoplanet,,,,,exoplanets.csv
+Kepler-193,Exoplanet,,,,,exoplanets.csv
+Kepler-1930,Exoplanet,,,,,exoplanets.csv
+Kepler-1931,Exoplanet,,,,,exoplanets.csv
+Kepler-1932,Exoplanet,,,,,exoplanets.csv
+Kepler-1933,Exoplanet,,,,,exoplanets.csv
+Kepler-1934,Exoplanet,,,,,exoplanets.csv
+Kepler-1935,Exoplanet,,,,,exoplanets.csv
+Kepler-1936,Exoplanet,,,,,exoplanets.csv
+Kepler-1937,Exoplanet,,,,,exoplanets.csv
+Kepler-1938,Exoplanet,,,,,exoplanets.csv
+Kepler-1939,Exoplanet,,,,,exoplanets.csv
+Kepler-194,Exoplanet,,,,,exoplanets.csv
+Kepler-1940,Exoplanet,,,,,exoplanets.csv
+Kepler-1941,Exoplanet,,,,,exoplanets.csv
+Kepler-1942,Exoplanet,,,,,exoplanets.csv
+Kepler-1943,Exoplanet,,,,,exoplanets.csv
+Kepler-1944,Exoplanet,,,,,exoplanets.csv
+Kepler-1945,Exoplanet,,,,,exoplanets.csv
+Kepler-1946,Exoplanet,,,,,exoplanets.csv
+Kepler-1947,Exoplanet,,,,,exoplanets.csv
+Kepler-1948,Exoplanet,,,,,exoplanets.csv
+Kepler-1949,Exoplanet,,,,,exoplanets.csv
+Kepler-195,Exoplanet,,,,,exoplanets.csv
+Kepler-1950,Exoplanet,,,,,exoplanets.csv
+Kepler-1951,Exoplanet,,,,,exoplanets.csv
+Kepler-1952,Exoplanet,,,,,exoplanets.csv
+Kepler-1953,Exoplanet,,,,,exoplanets.csv
+Kepler-1954,Exoplanet,,,,,exoplanets.csv
+Kepler-1955,Exoplanet,,,,,exoplanets.csv
+Kepler-1956,Exoplanet,,,,,exoplanets.csv
+Kepler-1957,Exoplanet,,,,,exoplanets.csv
+Kepler-1958,Exoplanet,,,,,exoplanets.csv
+Kepler-1959,Exoplanet,,,,,exoplanets.csv
+Kepler-196,Exoplanet,,,,,exoplanets.csv
+Kepler-1960,Exoplanet,,,,,exoplanets.csv
+Kepler-1961,Exoplanet,,,,,exoplanets.csv
+Kepler-1962,Exoplanet,,,,,exoplanets.csv
+Kepler-1963,Exoplanet,,,,,exoplanets.csv
+Kepler-1964,Exoplanet,,,,,exoplanets.csv
+Kepler-1965,Exoplanet,,,,,exoplanets.csv
+Kepler-1966,Exoplanet,,,,,exoplanets.csv
+Kepler-1967,Exoplanet,,,,,exoplanets.csv
+Kepler-1968,Exoplanet,,,,,exoplanets.csv
+Kepler-1969,Exoplanet,,,,,exoplanets.csv
+Kepler-197,Exoplanet,,,,,exoplanets.csv
+Kepler-1972,Exoplanet,,,,,exoplanets.csv
+Kepler-1976,Exoplanet,,,,,exoplanets.csv
+Kepler-1977,Exoplanet,,,,,exoplanets.csv
+Kepler-1978,Exoplanet,,,,,exoplanets.csv
+Kepler-1979,Exoplanet,,,,,exoplanets.csv
+Kepler-198,Exoplanet,,,,,exoplanets.csv
+Kepler-1980,Exoplanet,,,,,exoplanets.csv
+Kepler-1981,Exoplanet,,,,,exoplanets.csv
+Kepler-1982,Exoplanet,,,,,exoplanets.csv
+Kepler-1983,Exoplanet,,,,,exoplanets.csv
+Kepler-1984,Exoplanet,,,,,exoplanets.csv
+Kepler-1985,Exoplanet,,,,,exoplanets.csv
+Kepler-1986,Exoplanet,,,,,exoplanets.csv
+Kepler-1987,Exoplanet,,,,,exoplanets.csv
+Kepler-1988,Exoplanet,,,,,exoplanets.csv
+Kepler-1989,Exoplanet,,,,,exoplanets.csv
+Kepler-199,Exoplanet,,,,,exoplanets.csv
+Kepler-1990,Exoplanet,,,,,exoplanets.csv
+Kepler-1991,Exoplanet,,,,,exoplanets.csv
+Kepler-1992,Exoplanet,,,,,exoplanets.csv
+Kepler-1993,Exoplanet,,,,,exoplanets.csv
+Kepler-1994,Exoplanet,,,,,exoplanets.csv
+Kepler-1995,Exoplanet,,,,,exoplanets.csv
+Kepler-1996,Exoplanet,,,,,exoplanets.csv
+Kepler-1997,Exoplanet,,,,,exoplanets.csv
+Kepler-1998,Exoplanet,,,,,exoplanets.csv
+Kepler-1999,Exoplanet,,,,,exoplanets.csv
+Kepler-20,Exoplanet,,,,,exoplanets.csv
+Kepler-200,Exoplanet,,,,,exoplanets.csv
+Kepler-2000,Exoplanet,,,,,exoplanets.csv
+Kepler-2001,Exoplanet,,,,,exoplanets.csv
+Kepler-201,Exoplanet,,,,,exoplanets.csv
+Kepler-202,Exoplanet,,,,,exoplanets.csv
+Kepler-203,Exoplanet,,,,,exoplanets.csv
+Kepler-204,Exoplanet,,,,,exoplanets.csv
+Kepler-205,Exoplanet,,,,,exoplanets.csv
+Kepler-206,Exoplanet,,,,,exoplanets.csv
+Kepler-207,Exoplanet,,,,,exoplanets.csv
+Kepler-208,Exoplanet,,,,,exoplanets.csv
+Kepler-209,Exoplanet,,,,,exoplanets.csv
+Kepler-21,Exoplanet,,,,,exoplanets.csv
+Kepler-210,Exoplanet,,,,,exoplanets.csv
+Kepler-211,Exoplanet,,,,,exoplanets.csv
+Kepler-212,Exoplanet,,,,,exoplanets.csv
+Kepler-213,Exoplanet,,,,,exoplanets.csv
+Kepler-214,Exoplanet,,,,,exoplanets.csv
+Kepler-215,Exoplanet,,,,,exoplanets.csv
+Kepler-216,Exoplanet,,,,,exoplanets.csv
+Kepler-217,Exoplanet,,,,,exoplanets.csv
+Kepler-218,Exoplanet,,,,,exoplanets.csv
+Kepler-219,Exoplanet,,,,,exoplanets.csv
+Kepler-22,Exoplanet,,,,,exoplanets.csv
+Kepler-220,Exoplanet,,,,,exoplanets.csv
+Kepler-221,Exoplanet,,,,,exoplanets.csv
+Kepler-222,Exoplanet,,,,,exoplanets.csv
+Kepler-223,Exoplanet,,,,,exoplanets.csv
+Kepler-224,Exoplanet,,,,,exoplanets.csv
+Kepler-225,Exoplanet,,,,,exoplanets.csv
+Kepler-226,Exoplanet,,,,,exoplanets.csv
+Kepler-227,Exoplanet,,,,,exoplanets.csv
+Kepler-228,Exoplanet,,,,,exoplanets.csv
+Kepler-229,Exoplanet,,,,,exoplanets.csv
+Kepler-23,Exoplanet,,,,,exoplanets.csv
+Kepler-230,Exoplanet,,,,,exoplanets.csv
+Kepler-231,Exoplanet,,,,,exoplanets.csv
+Kepler-232,Exoplanet,,,,,exoplanets.csv
+Kepler-233,Exoplanet,,,,,exoplanets.csv
+Kepler-234,Exoplanet,,,,,exoplanets.csv
+Kepler-235,Exoplanet,,,,,exoplanets.csv
+Kepler-236,Exoplanet,,,,,exoplanets.csv
+Kepler-237,Exoplanet,,,,,exoplanets.csv
+Kepler-238,Exoplanet,,,,,exoplanets.csv
+Kepler-239,Exoplanet,,,,,exoplanets.csv
+Kepler-24,Exoplanet,,,,,exoplanets.csv
+Kepler-240,Exoplanet,,,,,exoplanets.csv
+Kepler-241,Exoplanet,,,,,exoplanets.csv
+Kepler-242,Exoplanet,,,,,exoplanets.csv
+Kepler-243,Exoplanet,,,,,exoplanets.csv
+Kepler-244,Exoplanet,,,,,exoplanets.csv
+Kepler-245,Exoplanet,,,,,exoplanets.csv
+Kepler-246,Exoplanet,,,,,exoplanets.csv
+Kepler-247,Exoplanet,,,,,exoplanets.csv
+Kepler-248,Exoplanet,,,,,exoplanets.csv
+Kepler-249,Exoplanet,,,,,exoplanets.csv
+Kepler-25,Exoplanet,,,,,exoplanets.csv
+Kepler-250,Exoplanet,,,,,exoplanets.csv
+Kepler-251,Exoplanet,,,,,exoplanets.csv
+Kepler-252,Exoplanet,,,,,exoplanets.csv
+Kepler-253,Exoplanet,,,,,exoplanets.csv
+Kepler-254,Exoplanet,,,,,exoplanets.csv
+Kepler-255,Exoplanet,,,,,exoplanets.csv
+Kepler-256,Exoplanet,,,,,exoplanets.csv
+Kepler-257,Exoplanet,,,,,exoplanets.csv
+Kepler-258,Exoplanet,,,,,exoplanets.csv
+Kepler-259,Exoplanet,,,,,exoplanets.csv
+Kepler-26,Exoplanet,,,,,exoplanets.csv
+Kepler-260,Exoplanet,,,,,exoplanets.csv
+Kepler-261,Exoplanet,,,,,exoplanets.csv
+Kepler-262,Exoplanet,,,,,exoplanets.csv
+Kepler-263,Exoplanet,,,,,exoplanets.csv
+Kepler-264,Exoplanet,,,,,exoplanets.csv
+Kepler-265,Exoplanet,,,,,exoplanets.csv
+Kepler-266,Exoplanet,,,,,exoplanets.csv
+Kepler-267,Exoplanet,,,,,exoplanets.csv
+Kepler-268,Exoplanet,,,,,exoplanets.csv
+Kepler-269,Exoplanet,,,,,exoplanets.csv
+Kepler-27,Exoplanet,,,,,exoplanets.csv
+Kepler-270,Exoplanet,,,,,exoplanets.csv
+Kepler-271,Exoplanet,,,,,exoplanets.csv
+Kepler-272,Exoplanet,,,,,exoplanets.csv
+Kepler-273,Exoplanet,,,,,exoplanets.csv
+Kepler-274,Exoplanet,,,,,exoplanets.csv
+Kepler-275,Exoplanet,,,,,exoplanets.csv
+Kepler-276,Exoplanet,,,,,exoplanets.csv
+Kepler-277,Exoplanet,,,,,exoplanets.csv
+Kepler-278,Exoplanet,,,,,exoplanets.csv
+Kepler-279,Exoplanet,,,,,exoplanets.csv
+Kepler-28,Exoplanet,,,,,exoplanets.csv
+Kepler-280,Exoplanet,,,,,exoplanets.csv
+Kepler-281,Exoplanet,,,,,exoplanets.csv
+Kepler-282,Exoplanet,,,,,exoplanets.csv
+Kepler-283,Exoplanet,,,,,exoplanets.csv
+Kepler-284,Exoplanet,,,,,exoplanets.csv
+Kepler-285,Exoplanet,,,,,exoplanets.csv
+Kepler-286,Exoplanet,,,,,exoplanets.csv
+Kepler-287,Exoplanet,,,,,exoplanets.csv
+Kepler-288,Exoplanet,,,,,exoplanets.csv
+Kepler-289,Exoplanet,,,,,exoplanets.csv
+Kepler-29,Exoplanet,,,,,exoplanets.csv
+Kepler-290,Exoplanet,,,,,exoplanets.csv
+Kepler-291,Exoplanet,,,,,exoplanets.csv
+Kepler-292,Exoplanet,,,,,exoplanets.csv
+Kepler-293,Exoplanet,,,,,exoplanets.csv
+Kepler-294,Exoplanet,,,,,exoplanets.csv
+Kepler-295,Exoplanet,,,,,exoplanets.csv
+Kepler-296,Exoplanet,,,,,exoplanets.csv
+Kepler-297,Exoplanet,,,,,exoplanets.csv
+Kepler-298,Exoplanet,,,,,exoplanets.csv
+Kepler-299,Exoplanet,,,,,exoplanets.csv
+Kepler-30,Exoplanet,,,,,exoplanets.csv
+Kepler-300,Exoplanet,,,,,exoplanets.csv
+Kepler-301,Exoplanet,,,,,exoplanets.csv
+Kepler-302,Exoplanet,,,,,exoplanets.csv
+Kepler-303,Exoplanet,,,,,exoplanets.csv
+Kepler-304,Exoplanet,,,,,exoplanets.csv
+Kepler-305,Exoplanet,,,,,exoplanets.csv
+Kepler-306,Exoplanet,,,,,exoplanets.csv
+Kepler-307,Exoplanet,,,,,exoplanets.csv
+Kepler-308,Exoplanet,,,,,exoplanets.csv
+Kepler-309,Exoplanet,,,,,exoplanets.csv
+Kepler-31,Exoplanet,,,,,exoplanets.csv
+Kepler-310,Exoplanet,,,,,exoplanets.csv
+Kepler-311,Exoplanet,,,,,exoplanets.csv
+Kepler-312,Exoplanet,,,,,exoplanets.csv
+Kepler-313,Exoplanet,,,,,exoplanets.csv
+Kepler-314,Exoplanet,,,,,exoplanets.csv
+Kepler-315,Exoplanet,,,,,exoplanets.csv
+Kepler-316,Exoplanet,,,,,exoplanets.csv
+Kepler-317,Exoplanet,,,,,exoplanets.csv
+Kepler-318,Exoplanet,,,,,exoplanets.csv
+Kepler-319,Exoplanet,,,,,exoplanets.csv
+Kepler-32,Exoplanet,,,,,exoplanets.csv
+Kepler-320,Exoplanet,,,,,exoplanets.csv
+Kepler-321,Exoplanet,,,,,exoplanets.csv
+Kepler-322,Exoplanet,,,,,exoplanets.csv
+Kepler-323,Exoplanet,,,,,exoplanets.csv
+Kepler-324,Exoplanet,,,,,exoplanets.csv
+Kepler-325,Exoplanet,,,,,exoplanets.csv
+Kepler-326,Exoplanet,,,,,exoplanets.csv
+Kepler-327,Exoplanet,,,,,exoplanets.csv
+Kepler-328,Exoplanet,,,,,exoplanets.csv
+Kepler-329,Exoplanet,,,,,exoplanets.csv
+Kepler-33,Exoplanet,,,,,exoplanets.csv
+Kepler-330,Exoplanet,,,,,exoplanets.csv
+Kepler-331,Exoplanet,,,,,exoplanets.csv
+Kepler-332,Exoplanet,,,,,exoplanets.csv
+Kepler-333,Exoplanet,,,,,exoplanets.csv
+Kepler-334,Exoplanet,,,,,exoplanets.csv
+Kepler-335,Exoplanet,,,,,exoplanets.csv
+Kepler-336,Exoplanet,,,,,exoplanets.csv
+Kepler-337,Exoplanet,,,,,exoplanets.csv
+Kepler-338,Exoplanet,,,,,exoplanets.csv
+Kepler-339,Exoplanet,,,,,exoplanets.csv
+Kepler-34,Exoplanet,,,,,exoplanets.csv
+Kepler-340,Exoplanet,,,,,exoplanets.csv
+Kepler-341,Exoplanet,,,,,exoplanets.csv
+Kepler-342,Exoplanet,,,,,exoplanets.csv
+Kepler-343,Exoplanet,,,,,exoplanets.csv
+Kepler-344,Exoplanet,,,,,exoplanets.csv
+Kepler-345,Exoplanet,,,,,exoplanets.csv
+Kepler-346,Exoplanet,,,,,exoplanets.csv
+Kepler-347,Exoplanet,,,,,exoplanets.csv
+Kepler-348,Exoplanet,,,,,exoplanets.csv
+Kepler-349,Exoplanet,,,,,exoplanets.csv
+Kepler-35,Exoplanet,,,,,exoplanets.csv
+Kepler-350,Exoplanet,,,,,exoplanets.csv
+Kepler-351,Exoplanet,,,,,exoplanets.csv
+Kepler-352,Exoplanet,,,,,exoplanets.csv
+Kepler-353,Exoplanet,,,,,exoplanets.csv
+Kepler-354,Exoplanet,,,,,exoplanets.csv
+Kepler-355,Exoplanet,,,,,exoplanets.csv
+Kepler-356,Exoplanet,,,,,exoplanets.csv
+Kepler-357,Exoplanet,,,,,exoplanets.csv
+Kepler-358,Exoplanet,,,,,exoplanets.csv
+Kepler-359,Exoplanet,,,,,exoplanets.csv
+Kepler-36,Exoplanet,,,,,exoplanets.csv
+Kepler-360,Exoplanet,,,,,exoplanets.csv
+Kepler-361,Exoplanet,,,,,exoplanets.csv
+Kepler-362,Exoplanet,,,,,exoplanets.csv
+Kepler-363,Exoplanet,,,,,exoplanets.csv
+Kepler-364,Exoplanet,,,,,exoplanets.csv
+Kepler-365,Exoplanet,,,,,exoplanets.csv
+Kepler-366,Exoplanet,,,,,exoplanets.csv
+Kepler-367,Exoplanet,,,,,exoplanets.csv
+Kepler-368,Exoplanet,,,,,exoplanets.csv
+Kepler-369,Exoplanet,,,,,exoplanets.csv
+Kepler-37,Exoplanet,,,,,exoplanets.csv
+Kepler-370,Exoplanet,,,,,exoplanets.csv
+Kepler-371,Exoplanet,,,,,exoplanets.csv
+Kepler-372,Exoplanet,,,,,exoplanets.csv
+Kepler-373,Exoplanet,,,,,exoplanets.csv
+Kepler-374,Exoplanet,,,,,exoplanets.csv
+Kepler-375,Exoplanet,,,,,exoplanets.csv
+Kepler-376,Exoplanet,,,,,exoplanets.csv
+Kepler-377,Exoplanet,,,,,exoplanets.csv
+Kepler-378,Exoplanet,,,,,exoplanets.csv
+Kepler-379,Exoplanet,,,,,exoplanets.csv
+Kepler-38,Exoplanet,,,,,exoplanets.csv
+Kepler-380,Exoplanet,,,,,exoplanets.csv
+Kepler-381,Exoplanet,,,,,exoplanets.csv
+Kepler-382,Exoplanet,,,,,exoplanets.csv
+Kepler-383,Exoplanet,,,,,exoplanets.csv
+Kepler-384,Exoplanet,,,,,exoplanets.csv
+Kepler-385,Exoplanet,,,,,exoplanets.csv
+Kepler-386,Exoplanet,,,,,exoplanets.csv
+Kepler-387,Exoplanet,,,,,exoplanets.csv
+Kepler-388,Exoplanet,,,,,exoplanets.csv
+Kepler-389,Exoplanet,,,,,exoplanets.csv
+Kepler-39,Exoplanet,,,,,exoplanets.csv
+Kepler-390,Exoplanet,,,,,exoplanets.csv
+Kepler-391,Exoplanet,,,,,exoplanets.csv
+Kepler-392,Exoplanet,,,,,exoplanets.csv
+Kepler-393,Exoplanet,,,,,exoplanets.csv
+Kepler-394,Exoplanet,,,,,exoplanets.csv
+Kepler-395,Exoplanet,,,,,exoplanets.csv
+Kepler-396,Exoplanet,,,,,exoplanets.csv
+Kepler-397,Exoplanet,,,,,exoplanets.csv
+Kepler-398,Exoplanet,,,,,exoplanets.csv
+Kepler-399,Exoplanet,,,,,exoplanets.csv
+Kepler-4,Exoplanet,,,,,exoplanets.csv
+Kepler-40,Exoplanet,,,,,exoplanets.csv
+Kepler-400,Exoplanet,,,,,exoplanets.csv
+Kepler-401,Exoplanet,,,,,exoplanets.csv
+Kepler-402,Exoplanet,,,,,exoplanets.csv
+Kepler-403,Exoplanet,,,,,exoplanets.csv
+Kepler-404,Exoplanet,,,,,exoplanets.csv
+Kepler-405,Exoplanet,,,,,exoplanets.csv
+Kepler-406,Exoplanet,,,,,exoplanets.csv
+Kepler-407,Exoplanet,,,,,exoplanets.csv
+Kepler-408,Exoplanet,,,,,exoplanets.csv
+Kepler-409,Exoplanet,,,,,exoplanets.csv
+Kepler-41,Exoplanet,,,,,exoplanets.csv
+Kepler-410 A,Exoplanet,,,,,exoplanets.csv
+Kepler-411,Exoplanet,,,,,exoplanets.csv
+Kepler-412,Exoplanet,,,,,exoplanets.csv
+Kepler-413,Exoplanet,,,,,exoplanets.csv
+Kepler-414,Exoplanet,,,,,exoplanets.csv
+Kepler-415,Exoplanet,,,,,exoplanets.csv
+Kepler-416,Exoplanet,,,,,exoplanets.csv
+Kepler-417,Exoplanet,,,,,exoplanets.csv
+Kepler-418,Exoplanet,,,,,exoplanets.csv
+Kepler-419,Exoplanet,,,,,exoplanets.csv
+Kepler-42,Exoplanet,,,,,exoplanets.csv
+Kepler-421,Exoplanet,,,,,exoplanets.csv
+Kepler-422,Exoplanet,,,,,exoplanets.csv
+Kepler-423,Exoplanet,,,,,exoplanets.csv
+Kepler-424,Exoplanet,,,,,exoplanets.csv
+Kepler-425,Exoplanet,,,,,exoplanets.csv
+Kepler-426,Exoplanet,,,,,exoplanets.csv
+Kepler-427,Exoplanet,,,,,exoplanets.csv
+Kepler-428,Exoplanet,,,,,exoplanets.csv
+Kepler-43,Exoplanet,,,,,exoplanets.csv
+Kepler-430,Exoplanet,,,,,exoplanets.csv
+Kepler-431,Exoplanet,,,,,exoplanets.csv
+Kepler-432,Exoplanet,,,,,exoplanets.csv
+Kepler-433,Exoplanet,,,,,exoplanets.csv
+Kepler-434,Exoplanet,,,,,exoplanets.csv
+Kepler-435,Exoplanet,,,,,exoplanets.csv
+Kepler-436,Exoplanet,,,,,exoplanets.csv
+Kepler-437,Exoplanet,,,,,exoplanets.csv
+Kepler-438,Exoplanet,,,,,exoplanets.csv
+Kepler-439,Exoplanet,,,,,exoplanets.csv
+Kepler-44,Exoplanet,,,,,exoplanets.csv
+Kepler-440,Exoplanet,,,,,exoplanets.csv
+Kepler-441,Exoplanet,,,,,exoplanets.csv
+Kepler-442,Exoplanet,,,,,exoplanets.csv
+Kepler-443,Exoplanet,,,,,exoplanets.csv
+Kepler-444,Exoplanet,,,,,exoplanets.csv
+Kepler-445,Exoplanet,,,,,exoplanets.csv
+Kepler-446,Exoplanet,,,,,exoplanets.csv
+Kepler-447,Exoplanet,,,,,exoplanets.csv
+Kepler-449,Exoplanet,,,,,exoplanets.csv
+Kepler-45,Exoplanet,,,,,exoplanets.csv
+Kepler-450,Exoplanet,,,,,exoplanets.csv
+Kepler-452,Exoplanet,,,,,exoplanets.csv
+Kepler-453,Exoplanet,,,,,exoplanets.csv
+Kepler-454,Exoplanet,,,,,exoplanets.csv
+Kepler-46,Exoplanet,,,,,exoplanets.csv
+Kepler-461,Exoplanet,,,,,exoplanets.csv
+Kepler-462,Exoplanet,,,,,exoplanets.csv
+Kepler-463,Exoplanet,,,,,exoplanets.csv
+Kepler-464,Exoplanet,,,,,exoplanets.csv
+Kepler-465,Exoplanet,,,,,exoplanets.csv
+Kepler-466,Exoplanet,,,,,exoplanets.csv
+Kepler-467,Exoplanet,,,,,exoplanets.csv
+Kepler-468,Exoplanet,,,,,exoplanets.csv
+Kepler-47,Exoplanet,,,,,exoplanets.csv
+Kepler-471,Exoplanet,,,,,exoplanets.csv
+Kepler-472,Exoplanet,,,,,exoplanets.csv
+Kepler-473,Exoplanet,,,,,exoplanets.csv
+Kepler-474,Exoplanet,,,,,exoplanets.csv
+Kepler-475,Exoplanet,,,,,exoplanets.csv
+Kepler-476,Exoplanet,,,,,exoplanets.csv
+Kepler-477,Exoplanet,,,,,exoplanets.csv
+Kepler-478,Exoplanet,,,,,exoplanets.csv
+Kepler-479,Exoplanet,,,,,exoplanets.csv
+Kepler-48,Exoplanet,,,,,exoplanets.csv
+Kepler-480,Exoplanet,,,,,exoplanets.csv
+Kepler-481,Exoplanet,,,,,exoplanets.csv
+Kepler-482,Exoplanet,,,,,exoplanets.csv
+Kepler-483,Exoplanet,,,,,exoplanets.csv
+Kepler-484,Exoplanet,,,,,exoplanets.csv
+Kepler-485,Exoplanet,,,,,exoplanets.csv
+Kepler-487,Exoplanet,,,,,exoplanets.csv
+Kepler-489,Exoplanet,,,,,exoplanets.csv
+Kepler-49,Exoplanet,,,,,exoplanets.csv
+Kepler-490,Exoplanet,,,,,exoplanets.csv
+Kepler-491,Exoplanet,,,,,exoplanets.csv
+Kepler-493,Exoplanet,,,,,exoplanets.csv
+Kepler-495,Exoplanet,,,,,exoplanets.csv
+Kepler-496,Exoplanet,,,,,exoplanets.csv
+Kepler-497,Exoplanet,,,,,exoplanets.csv
+Kepler-498,Exoplanet,,,,,exoplanets.csv
+Kepler-499,Exoplanet,,,,,exoplanets.csv
+Kepler-5,Exoplanet,,,,,exoplanets.csv
+Kepler-50,Exoplanet,,,,,exoplanets.csv
+Kepler-500,Exoplanet,,,,,exoplanets.csv
+Kepler-501,Exoplanet,,,,,exoplanets.csv
+Kepler-502,Exoplanet,,,,,exoplanets.csv
+Kepler-504,Exoplanet,,,,,exoplanets.csv
+Kepler-505,Exoplanet,,,,,exoplanets.csv
+Kepler-506,Exoplanet,,,,,exoplanets.csv
+Kepler-507,Exoplanet,,,,,exoplanets.csv
+Kepler-508,Exoplanet,,,,,exoplanets.csv
+Kepler-509,Exoplanet,,,,,exoplanets.csv
+Kepler-51,Exoplanet,,,,,exoplanets.csv
+Kepler-510,Exoplanet,,,,,exoplanets.csv
+Kepler-511,Exoplanet,,,,,exoplanets.csv
+Kepler-512,Exoplanet,,,,,exoplanets.csv
+Kepler-513,Exoplanet,,,,,exoplanets.csv
+Kepler-514,Exoplanet,,,,,exoplanets.csv
+Kepler-515,Exoplanet,,,,,exoplanets.csv
+Kepler-516,Exoplanet,,,,,exoplanets.csv
+Kepler-517,Exoplanet,,,,,exoplanets.csv
+Kepler-518,Exoplanet,,,,,exoplanets.csv
+Kepler-519,Exoplanet,,,,,exoplanets.csv
+Kepler-52,Exoplanet,,,,,exoplanets.csv
+Kepler-520,Exoplanet,,,,,exoplanets.csv
+Kepler-521,Exoplanet,,,,,exoplanets.csv
+Kepler-522,Exoplanet,,,,,exoplanets.csv
+Kepler-523,Exoplanet,,,,,exoplanets.csv
+Kepler-524,Exoplanet,,,,,exoplanets.csv
+Kepler-525,Exoplanet,,,,,exoplanets.csv
+Kepler-526,Exoplanet,,,,,exoplanets.csv
+Kepler-527,Exoplanet,,,,,exoplanets.csv
+Kepler-528,Exoplanet,,,,,exoplanets.csv
+Kepler-529,Exoplanet,,,,,exoplanets.csv
+Kepler-53,Exoplanet,,,,,exoplanets.csv
+Kepler-530,Exoplanet,,,,,exoplanets.csv
+Kepler-531,Exoplanet,,,,,exoplanets.csv
+Kepler-532,Exoplanet,,,,,exoplanets.csv
+Kepler-533,Exoplanet,,,,,exoplanets.csv
+Kepler-534,Exoplanet,,,,,exoplanets.csv
+Kepler-535,Exoplanet,,,,,exoplanets.csv
+Kepler-536,Exoplanet,,,,,exoplanets.csv
+Kepler-537,Exoplanet,,,,,exoplanets.csv
+Kepler-538,Exoplanet,,,,,exoplanets.csv
+Kepler-539,Exoplanet,,,,,exoplanets.csv
+Kepler-54,Exoplanet,,,,,exoplanets.csv
+Kepler-540,Exoplanet,,,,,exoplanets.csv
+Kepler-541,Exoplanet,,,,,exoplanets.csv
+Kepler-542,Exoplanet,,,,,exoplanets.csv
+Kepler-543,Exoplanet,,,,,exoplanets.csv
+Kepler-544,Exoplanet,,,,,exoplanets.csv
+Kepler-545,Exoplanet,,,,,exoplanets.csv
+Kepler-546,Exoplanet,,,,,exoplanets.csv
+Kepler-547,Exoplanet,,,,,exoplanets.csv
+Kepler-548,Exoplanet,,,,,exoplanets.csv
+Kepler-549,Exoplanet,,,,,exoplanets.csv
+Kepler-55,Exoplanet,,,,,exoplanets.csv
+Kepler-550,Exoplanet,,,,,exoplanets.csv
+Kepler-551,Exoplanet,,,,,exoplanets.csv
+Kepler-552,Exoplanet,,,,,exoplanets.csv
+Kepler-553,Exoplanet,,,,,exoplanets.csv
+Kepler-554,Exoplanet,,,,,exoplanets.csv
+Kepler-555,Exoplanet,,,,,exoplanets.csv
+Kepler-556,Exoplanet,,,,,exoplanets.csv
+Kepler-557,Exoplanet,,,,,exoplanets.csv
+Kepler-558,Exoplanet,,,,,exoplanets.csv
+Kepler-559,Exoplanet,,,,,exoplanets.csv
+Kepler-56,Exoplanet,,,,,exoplanets.csv
+Kepler-560,Exoplanet,,,,,exoplanets.csv
+Kepler-561,Exoplanet,,,,,exoplanets.csv
+Kepler-562,Exoplanet,,,,,exoplanets.csv
+Kepler-563,Exoplanet,,,,,exoplanets.csv
+Kepler-564,Exoplanet,,,,,exoplanets.csv
+Kepler-565,Exoplanet,,,,,exoplanets.csv
+Kepler-566,Exoplanet,,,,,exoplanets.csv
+Kepler-567,Exoplanet,,,,,exoplanets.csv
+Kepler-568,Exoplanet,,,,,exoplanets.csv
+Kepler-569,Exoplanet,,,,,exoplanets.csv
+Kepler-57,Exoplanet,,,,,exoplanets.csv
+Kepler-570,Exoplanet,,,,,exoplanets.csv
+Kepler-571,Exoplanet,,,,,exoplanets.csv
+Kepler-572,Exoplanet,,,,,exoplanets.csv
+Kepler-573,Exoplanet,,,,,exoplanets.csv
+Kepler-574,Exoplanet,,,,,exoplanets.csv
+Kepler-575,Exoplanet,,,,,exoplanets.csv
+Kepler-576,Exoplanet,,,,,exoplanets.csv
+Kepler-577,Exoplanet,,,,,exoplanets.csv
+Kepler-578,Exoplanet,,,,,exoplanets.csv
+Kepler-579,Exoplanet,,,,,exoplanets.csv
+Kepler-58,Exoplanet,,,,,exoplanets.csv
+Kepler-580,Exoplanet,,,,,exoplanets.csv
+Kepler-581,Exoplanet,,,,,exoplanets.csv
+Kepler-582,Exoplanet,,,,,exoplanets.csv
+Kepler-583,Exoplanet,,,,,exoplanets.csv
+Kepler-584,Exoplanet,,,,,exoplanets.csv
+Kepler-585,Exoplanet,,,,,exoplanets.csv
+Kepler-586,Exoplanet,,,,,exoplanets.csv
+Kepler-587,Exoplanet,,,,,exoplanets.csv
+Kepler-588,Exoplanet,,,,,exoplanets.csv
+Kepler-589,Exoplanet,,,,,exoplanets.csv
+Kepler-59,Exoplanet,,,,,exoplanets.csv
+Kepler-590,Exoplanet,,,,,exoplanets.csv
+Kepler-591,Exoplanet,,,,,exoplanets.csv
+Kepler-592,Exoplanet,,,,,exoplanets.csv
+Kepler-593,Exoplanet,,,,,exoplanets.csv
+Kepler-594,Exoplanet,,,,,exoplanets.csv
+Kepler-595,Exoplanet,,,,,exoplanets.csv
+Kepler-596,Exoplanet,,,,,exoplanets.csv
+Kepler-597,Exoplanet,,,,,exoplanets.csv
+Kepler-598,Exoplanet,,,,,exoplanets.csv
+Kepler-599,Exoplanet,,,,,exoplanets.csv
+Kepler-6,Exoplanet,,,,,exoplanets.csv
+Kepler-60,Exoplanet,,,,,exoplanets.csv
+Kepler-600,Exoplanet,,,,,exoplanets.csv
+Kepler-601,Exoplanet,,,,,exoplanets.csv
+Kepler-602,Exoplanet,,,,,exoplanets.csv
+Kepler-603,Exoplanet,,,,,exoplanets.csv
+Kepler-604,Exoplanet,,,,,exoplanets.csv
+Kepler-605,Exoplanet,,,,,exoplanets.csv
+Kepler-606,Exoplanet,,,,,exoplanets.csv
+Kepler-607,Exoplanet,,,,,exoplanets.csv
+Kepler-608,Exoplanet,,,,,exoplanets.csv
+Kepler-609,Exoplanet,,,,,exoplanets.csv
+Kepler-61,Exoplanet,,,,,exoplanets.csv
+Kepler-610,Exoplanet,,,,,exoplanets.csv
+Kepler-611,Exoplanet,,,,,exoplanets.csv
+Kepler-612,Exoplanet,,,,,exoplanets.csv
+Kepler-613,Exoplanet,,,,,exoplanets.csv
+Kepler-614,Exoplanet,,,,,exoplanets.csv
+Kepler-615,Exoplanet,,,,,exoplanets.csv
+Kepler-616,Exoplanet,,,,,exoplanets.csv
+Kepler-617,Exoplanet,,,,,exoplanets.csv
+Kepler-618,Exoplanet,,,,,exoplanets.csv
+Kepler-619,Exoplanet,,,,,exoplanets.csv
+Kepler-62,Exoplanet,,,,,exoplanets.csv
+Kepler-620,Exoplanet,,,,,exoplanets.csv
+Kepler-621,Exoplanet,,,,,exoplanets.csv
+Kepler-622,Exoplanet,,,,,exoplanets.csv
+Kepler-623,Exoplanet,,,,,exoplanets.csv
+Kepler-624,Exoplanet,,,,,exoplanets.csv
+Kepler-625,Exoplanet,,,,,exoplanets.csv
+Kepler-626,Exoplanet,,,,,exoplanets.csv
+Kepler-627,Exoplanet,,,,,exoplanets.csv
+Kepler-629,Exoplanet,,,,,exoplanets.csv
+Kepler-63,Exoplanet,,,,,exoplanets.csv
+Kepler-630,Exoplanet,,,,,exoplanets.csv
+Kepler-631,Exoplanet,,,,,exoplanets.csv
+Kepler-632,Exoplanet,,,,,exoplanets.csv
+Kepler-633,Exoplanet,,,,,exoplanets.csv
+Kepler-634,Exoplanet,,,,,exoplanets.csv
+Kepler-635,Exoplanet,,,,,exoplanets.csv
+Kepler-636,Exoplanet,,,,,exoplanets.csv
+Kepler-637,Exoplanet,,,,,exoplanets.csv
+Kepler-638,Exoplanet,,,,,exoplanets.csv
+Kepler-639,Exoplanet,,,,,exoplanets.csv
+Kepler-640,Exoplanet,,,,,exoplanets.csv
+Kepler-641,Exoplanet,,,,,exoplanets.csv
+Kepler-642,Exoplanet,,,,,exoplanets.csv
+Kepler-643,Exoplanet,,,,,exoplanets.csv
+Kepler-644,Exoplanet,,,,,exoplanets.csv
+Kepler-645,Exoplanet,,,,,exoplanets.csv
+Kepler-646,Exoplanet,,,,,exoplanets.csv
+Kepler-647,Exoplanet,,,,,exoplanets.csv
+Kepler-648,Exoplanet,,,,,exoplanets.csv
+Kepler-649,Exoplanet,,,,,exoplanets.csv
+Kepler-65,Exoplanet,,,,,exoplanets.csv
+Kepler-650,Exoplanet,,,,,exoplanets.csv
+Kepler-651,Exoplanet,,,,,exoplanets.csv
+Kepler-652,Exoplanet,,,,,exoplanets.csv
+Kepler-653,Exoplanet,,,,,exoplanets.csv
+Kepler-654,Exoplanet,,,,,exoplanets.csv
+Kepler-655,Exoplanet,,,,,exoplanets.csv
+Kepler-656,Exoplanet,,,,,exoplanets.csv
+Kepler-657,Exoplanet,,,,,exoplanets.csv
+Kepler-658,Exoplanet,,,,,exoplanets.csv
+Kepler-659,Exoplanet,,,,,exoplanets.csv
+Kepler-66,Exoplanet,,,,,exoplanets.csv
+Kepler-660,Exoplanet,,,,,exoplanets.csv
+Kepler-661,Exoplanet,,,,,exoplanets.csv
+Kepler-662,Exoplanet,,,,,exoplanets.csv
+Kepler-663,Exoplanet,,,,,exoplanets.csv
+Kepler-664,Exoplanet,,,,,exoplanets.csv
+Kepler-665,Exoplanet,,,,,exoplanets.csv
+Kepler-666,Exoplanet,,,,,exoplanets.csv
+Kepler-667,Exoplanet,,,,,exoplanets.csv
+Kepler-668,Exoplanet,,,,,exoplanets.csv
+Kepler-669,Exoplanet,,,,,exoplanets.csv
+Kepler-67,Exoplanet,,,,,exoplanets.csv
+Kepler-670,Exoplanet,,,,,exoplanets.csv
+Kepler-671,Exoplanet,,,,,exoplanets.csv
+Kepler-672,Exoplanet,,,,,exoplanets.csv
+Kepler-673,Exoplanet,,,,,exoplanets.csv
+Kepler-674,Exoplanet,,,,,exoplanets.csv
+Kepler-675,Exoplanet,,,,,exoplanets.csv
+Kepler-676,Exoplanet,,,,,exoplanets.csv
+Kepler-677,Exoplanet,,,,,exoplanets.csv
+Kepler-678,Exoplanet,,,,,exoplanets.csv
+Kepler-679,Exoplanet,,,,,exoplanets.csv
+Kepler-68,Exoplanet,,,,,exoplanets.csv
+Kepler-680,Exoplanet,,,,,exoplanets.csv
+Kepler-681,Exoplanet,,,,,exoplanets.csv
+Kepler-682,Exoplanet,,,,,exoplanets.csv
+Kepler-683,Exoplanet,,,,,exoplanets.csv
+Kepler-684,Exoplanet,,,,,exoplanets.csv
+Kepler-685,Exoplanet,,,,,exoplanets.csv
+Kepler-686,Exoplanet,,,,,exoplanets.csv
+Kepler-687,Exoplanet,,,,,exoplanets.csv
+Kepler-688,Exoplanet,,,,,exoplanets.csv
+Kepler-689,Exoplanet,,,,,exoplanets.csv
+Kepler-69,Exoplanet,,,,,exoplanets.csv
+Kepler-690,Exoplanet,,,,,exoplanets.csv
+Kepler-691,Exoplanet,,,,,exoplanets.csv
+Kepler-692,Exoplanet,,,,,exoplanets.csv
+Kepler-693,Exoplanet,,,,,exoplanets.csv
+Kepler-694,Exoplanet,,,,,exoplanets.csv
+Kepler-695,Exoplanet,,,,,exoplanets.csv
+Kepler-696,Exoplanet,,,,,exoplanets.csv
+Kepler-697,Exoplanet,,,,,exoplanets.csv
+Kepler-698,Exoplanet,,,,,exoplanets.csv
+Kepler-7,Exoplanet,,,,,exoplanets.csv
+Kepler-700,Exoplanet,,,,,exoplanets.csv
+Kepler-701,Exoplanet,,,,,exoplanets.csv
+Kepler-702,Exoplanet,,,,,exoplanets.csv
+Kepler-703,Exoplanet,,,,,exoplanets.csv
+Kepler-704,Exoplanet,,,,,exoplanets.csv
+Kepler-705,Exoplanet,,,,,exoplanets.csv
+Kepler-707,Exoplanet,,,,,exoplanets.csv
+Kepler-708,Exoplanet,,,,,exoplanets.csv
+Kepler-709,Exoplanet,,,,,exoplanets.csv
+Kepler-710,Exoplanet,,,,,exoplanets.csv
+Kepler-711,Exoplanet,,,,,exoplanets.csv
+Kepler-712,Exoplanet,,,,,exoplanets.csv
+Kepler-713,Exoplanet,,,,,exoplanets.csv
+Kepler-714,Exoplanet,,,,,exoplanets.csv
+Kepler-715,Exoplanet,,,,,exoplanets.csv
+Kepler-716,Exoplanet,,,,,exoplanets.csv
+Kepler-717,Exoplanet,,,,,exoplanets.csv
+Kepler-718,Exoplanet,,,,,exoplanets.csv
+Kepler-719,Exoplanet,,,,,exoplanets.csv
+Kepler-720,Exoplanet,,,,,exoplanets.csv
+Kepler-721,Exoplanet,,,,,exoplanets.csv
+Kepler-722,Exoplanet,,,,,exoplanets.csv
+Kepler-723,Exoplanet,,,,,exoplanets.csv
+Kepler-724,Exoplanet,,,,,exoplanets.csv
+Kepler-725,Exoplanet,,,,,exoplanets.csv
+Kepler-726,Exoplanet,,,,,exoplanets.csv
+Kepler-727,Exoplanet,,,,,exoplanets.csv
+Kepler-728,Exoplanet,,,,,exoplanets.csv
+Kepler-729,Exoplanet,,,,,exoplanets.csv
+Kepler-730,Exoplanet,,,,,exoplanets.csv
+Kepler-731,Exoplanet,,,,,exoplanets.csv
+Kepler-732,Exoplanet,,,,,exoplanets.csv
+Kepler-733,Exoplanet,,,,,exoplanets.csv
+Kepler-734,Exoplanet,,,,,exoplanets.csv
+Kepler-735,Exoplanet,,,,,exoplanets.csv
+Kepler-736,Exoplanet,,,,,exoplanets.csv
+Kepler-737,Exoplanet,,,,,exoplanets.csv
+Kepler-738,Exoplanet,,,,,exoplanets.csv
+Kepler-739,Exoplanet,,,,,exoplanets.csv
+Kepler-74,Exoplanet,,,,,exoplanets.csv
+Kepler-740,Exoplanet,,,,,exoplanets.csv
+Kepler-741,Exoplanet,,,,,exoplanets.csv
+Kepler-742,Exoplanet,,,,,exoplanets.csv
+Kepler-743,Exoplanet,,,,,exoplanets.csv
+Kepler-744,Exoplanet,,,,,exoplanets.csv
+Kepler-745,Exoplanet,,,,,exoplanets.csv
+Kepler-746,Exoplanet,,,,,exoplanets.csv
+Kepler-747,Exoplanet,,,,,exoplanets.csv
+Kepler-748,Exoplanet,,,,,exoplanets.csv
+Kepler-749,Exoplanet,,,,,exoplanets.csv
+Kepler-75,Exoplanet,,,,,exoplanets.csv
+Kepler-750,Exoplanet,,,,,exoplanets.csv
+Kepler-751,Exoplanet,,,,,exoplanets.csv
+Kepler-752,Exoplanet,,,,,exoplanets.csv
+Kepler-753,Exoplanet,,,,,exoplanets.csv
+Kepler-754,Exoplanet,,,,,exoplanets.csv
+Kepler-755,Exoplanet,,,,,exoplanets.csv
+Kepler-756,Exoplanet,,,,,exoplanets.csv
+Kepler-757,Exoplanet,,,,,exoplanets.csv
+Kepler-758,Exoplanet,,,,,exoplanets.csv
+Kepler-759,Exoplanet,,,,,exoplanets.csv
+Kepler-76,Exoplanet,,,,,exoplanets.csv
+Kepler-760,Exoplanet,,,,,exoplanets.csv
+Kepler-761,Exoplanet,,,,,exoplanets.csv
+Kepler-762,Exoplanet,,,,,exoplanets.csv
+Kepler-763,Exoplanet,,,,,exoplanets.csv
+Kepler-764,Exoplanet,,,,,exoplanets.csv
+Kepler-765,Exoplanet,,,,,exoplanets.csv
+Kepler-766,Exoplanet,,,,,exoplanets.csv
+Kepler-767,Exoplanet,,,,,exoplanets.csv
+Kepler-768,Exoplanet,,,,,exoplanets.csv
+Kepler-769,Exoplanet,,,,,exoplanets.csv
+Kepler-77,Exoplanet,,,,,exoplanets.csv
+Kepler-770,Exoplanet,,,,,exoplanets.csv
+Kepler-771,Exoplanet,,,,,exoplanets.csv
+Kepler-772,Exoplanet,,,,,exoplanets.csv
+Kepler-773,Exoplanet,,,,,exoplanets.csv
+Kepler-774,Exoplanet,,,,,exoplanets.csv
+Kepler-775,Exoplanet,,,,,exoplanets.csv
+Kepler-776,Exoplanet,,,,,exoplanets.csv
+Kepler-777,Exoplanet,,,,,exoplanets.csv
+Kepler-778,Exoplanet,,,,,exoplanets.csv
+Kepler-779,Exoplanet,,,,,exoplanets.csv
+Kepler-78,Exoplanet,,,,,exoplanets.csv
+Kepler-780,Exoplanet,,,,,exoplanets.csv
+Kepler-781,Exoplanet,,,,,exoplanets.csv
+Kepler-782,Exoplanet,,,,,exoplanets.csv
+Kepler-783,Exoplanet,,,,,exoplanets.csv
+Kepler-784,Exoplanet,,,,,exoplanets.csv
+Kepler-785,Exoplanet,,,,,exoplanets.csv
+Kepler-786,Exoplanet,,,,,exoplanets.csv
+Kepler-787,Exoplanet,,,,,exoplanets.csv
+Kepler-788,Exoplanet,,,,,exoplanets.csv
+Kepler-789,Exoplanet,,,,,exoplanets.csv
+Kepler-79,Exoplanet,,,,,exoplanets.csv
+Kepler-790,Exoplanet,,,,,exoplanets.csv
+Kepler-791,Exoplanet,,,,,exoplanets.csv
+Kepler-792,Exoplanet,,,,,exoplanets.csv
+Kepler-793,Exoplanet,,,,,exoplanets.csv
+Kepler-794,Exoplanet,,,,,exoplanets.csv
+Kepler-795,Exoplanet,,,,,exoplanets.csv
+Kepler-796,Exoplanet,,,,,exoplanets.csv
+Kepler-797,Exoplanet,,,,,exoplanets.csv
+Kepler-798,Exoplanet,,,,,exoplanets.csv
+Kepler-799,Exoplanet,,,,,exoplanets.csv
+Kepler-8,Exoplanet,,,,,exoplanets.csv
+Kepler-80,Exoplanet,,,,,exoplanets.csv
+Kepler-800,Exoplanet,,,,,exoplanets.csv
+Kepler-801,Exoplanet,,,,,exoplanets.csv
+Kepler-802,Exoplanet,,,,,exoplanets.csv
+Kepler-803,Exoplanet,,,,,exoplanets.csv
+Kepler-804,Exoplanet,,,,,exoplanets.csv
+Kepler-805,Exoplanet,,,,,exoplanets.csv
+Kepler-806,Exoplanet,,,,,exoplanets.csv
+Kepler-808,Exoplanet,,,,,exoplanets.csv
+Kepler-809,Exoplanet,,,,,exoplanets.csv
+Kepler-81,Exoplanet,,,,,exoplanets.csv
+Kepler-810,Exoplanet,,,,,exoplanets.csv
+Kepler-811,Exoplanet,,,,,exoplanets.csv
+Kepler-812,Exoplanet,,,,,exoplanets.csv
+Kepler-813,Exoplanet,,,,,exoplanets.csv
+Kepler-814,Exoplanet,,,,,exoplanets.csv
+Kepler-815,Exoplanet,,,,,exoplanets.csv
+Kepler-816,Exoplanet,,,,,exoplanets.csv
+Kepler-817,Exoplanet,,,,,exoplanets.csv
+Kepler-818,Exoplanet,,,,,exoplanets.csv
+Kepler-819,Exoplanet,,,,,exoplanets.csv
+Kepler-82,Exoplanet,,,,,exoplanets.csv
+Kepler-820,Exoplanet,,,,,exoplanets.csv
+Kepler-821,Exoplanet,,,,,exoplanets.csv
+Kepler-822,Exoplanet,,,,,exoplanets.csv
+Kepler-823,Exoplanet,,,,,exoplanets.csv
+Kepler-824,Exoplanet,,,,,exoplanets.csv
+Kepler-825,Exoplanet,,,,,exoplanets.csv
+Kepler-826,Exoplanet,,,,,exoplanets.csv
+Kepler-827,Exoplanet,,,,,exoplanets.csv
+Kepler-828,Exoplanet,,,,,exoplanets.csv
+Kepler-829,Exoplanet,,,,,exoplanets.csv
+Kepler-83,Exoplanet,,,,,exoplanets.csv
+Kepler-830,Exoplanet,,,,,exoplanets.csv
+Kepler-831,Exoplanet,,,,,exoplanets.csv
+Kepler-832,Exoplanet,,,,,exoplanets.csv
+Kepler-833,Exoplanet,,,,,exoplanets.csv
+Kepler-834,Exoplanet,,,,,exoplanets.csv
+Kepler-835,Exoplanet,,,,,exoplanets.csv
+Kepler-836,Exoplanet,,,,,exoplanets.csv
+Kepler-837,Exoplanet,,,,,exoplanets.csv
+Kepler-838,Exoplanet,,,,,exoplanets.csv
+Kepler-839,Exoplanet,,,,,exoplanets.csv
+Kepler-84,Exoplanet,,,,,exoplanets.csv
+Kepler-841,Exoplanet,,,,,exoplanets.csv
+Kepler-842,Exoplanet,,,,,exoplanets.csv
+Kepler-843,Exoplanet,,,,,exoplanets.csv
+Kepler-844,Exoplanet,,,,,exoplanets.csv
+Kepler-845,Exoplanet,,,,,exoplanets.csv
+Kepler-846,Exoplanet,,,,,exoplanets.csv
+Kepler-847,Exoplanet,,,,,exoplanets.csv
+Kepler-848,Exoplanet,,,,,exoplanets.csv
+Kepler-849,Exoplanet,,,,,exoplanets.csv
+Kepler-85,Exoplanet,,,,,exoplanets.csv
+Kepler-850,Exoplanet,,,,,exoplanets.csv
+Kepler-851,Exoplanet,,,,,exoplanets.csv
+Kepler-852,Exoplanet,,,,,exoplanets.csv
+Kepler-853,Exoplanet,,,,,exoplanets.csv
+Kepler-855,Exoplanet,,,,,exoplanets.csv
+Kepler-856,Exoplanet,,,,,exoplanets.csv
+Kepler-857,Exoplanet,,,,,exoplanets.csv
+Kepler-858,Exoplanet,,,,,exoplanets.csv
+Kepler-859,Exoplanet,,,,,exoplanets.csv
+Kepler-860,Exoplanet,,,,,exoplanets.csv
+Kepler-861,Exoplanet,,,,,exoplanets.csv
+Kepler-862,Exoplanet,,,,,exoplanets.csv
+Kepler-863,Exoplanet,,,,,exoplanets.csv
+Kepler-864,Exoplanet,,,,,exoplanets.csv
+Kepler-865,Exoplanet,,,,,exoplanets.csv
+Kepler-866,Exoplanet,,,,,exoplanets.csv
+Kepler-867,Exoplanet,,,,,exoplanets.csv
+Kepler-868,Exoplanet,,,,,exoplanets.csv
+Kepler-869,Exoplanet,,,,,exoplanets.csv
+Kepler-87,Exoplanet,,,,,exoplanets.csv
+Kepler-870,Exoplanet,,,,,exoplanets.csv
+Kepler-871,Exoplanet,,,,,exoplanets.csv
+Kepler-872,Exoplanet,,,,,exoplanets.csv
+Kepler-873,Exoplanet,,,,,exoplanets.csv
+Kepler-874,Exoplanet,,,,,exoplanets.csv
+Kepler-875,Exoplanet,,,,,exoplanets.csv
+Kepler-876,Exoplanet,,,,,exoplanets.csv
+Kepler-877,Exoplanet,,,,,exoplanets.csv
+Kepler-878,Exoplanet,,,,,exoplanets.csv
+Kepler-879,Exoplanet,,,,,exoplanets.csv
+Kepler-880,Exoplanet,,,,,exoplanets.csv
+Kepler-881,Exoplanet,,,,,exoplanets.csv
+Kepler-882,Exoplanet,,,,,exoplanets.csv
+Kepler-883,Exoplanet,,,,,exoplanets.csv
+Kepler-884,Exoplanet,,,,,exoplanets.csv
+Kepler-885,Exoplanet,,,,,exoplanets.csv
+Kepler-886,Exoplanet,,,,,exoplanets.csv
+Kepler-887,Exoplanet,,,,,exoplanets.csv
+Kepler-888,Exoplanet,,,,,exoplanets.csv
+Kepler-889,Exoplanet,,,,,exoplanets.csv
+Kepler-890,Exoplanet,,,,,exoplanets.csv
+Kepler-891,Exoplanet,,,,,exoplanets.csv
+Kepler-892,Exoplanet,,,,,exoplanets.csv
+Kepler-893,Exoplanet,,,,,exoplanets.csv
+Kepler-894,Exoplanet,,,,,exoplanets.csv
+Kepler-895,Exoplanet,,,,,exoplanets.csv
+Kepler-896,Exoplanet,,,,,exoplanets.csv
+Kepler-897,Exoplanet,,,,,exoplanets.csv
+Kepler-898,Exoplanet,,,,,exoplanets.csv
+Kepler-899,Exoplanet,,,,,exoplanets.csv
+Kepler-9,Exoplanet,,,,,exoplanets.csv
+Kepler-900,Exoplanet,,,,,exoplanets.csv
+Kepler-901,Exoplanet,,,,,exoplanets.csv
+Kepler-902,Exoplanet,,,,,exoplanets.csv
+Kepler-903,Exoplanet,,,,,exoplanets.csv
+Kepler-904,Exoplanet,,,,,exoplanets.csv
+Kepler-905,Exoplanet,,,,,exoplanets.csv
+Kepler-906,Exoplanet,,,,,exoplanets.csv
+Kepler-907,Exoplanet,,,,,exoplanets.csv
+Kepler-908,Exoplanet,,,,,exoplanets.csv
+Kepler-909,Exoplanet,,,,,exoplanets.csv
+Kepler-91,Exoplanet,,,,,exoplanets.csv
+Kepler-910,Exoplanet,,,,,exoplanets.csv
+Kepler-911,Exoplanet,,,,,exoplanets.csv
+Kepler-912,Exoplanet,,,,,exoplanets.csv
+Kepler-913,Exoplanet,,,,,exoplanets.csv
+Kepler-914,Exoplanet,,,,,exoplanets.csv
+Kepler-915,Exoplanet,,,,,exoplanets.csv
+Kepler-916,Exoplanet,,,,,exoplanets.csv
+Kepler-917,Exoplanet,,,,,exoplanets.csv
+Kepler-918,Exoplanet,,,,,exoplanets.csv
+Kepler-919,Exoplanet,,,,,exoplanets.csv
+Kepler-92,Exoplanet,,,,,exoplanets.csv
+Kepler-920,Exoplanet,,,,,exoplanets.csv
+Kepler-921,Exoplanet,,,,,exoplanets.csv
+Kepler-922,Exoplanet,,,,,exoplanets.csv
+Kepler-923,Exoplanet,,,,,exoplanets.csv
+Kepler-924,Exoplanet,,,,,exoplanets.csv
+Kepler-925,Exoplanet,,,,,exoplanets.csv
+Kepler-926,Exoplanet,,,,,exoplanets.csv
+Kepler-927,Exoplanet,,,,,exoplanets.csv
+Kepler-928,Exoplanet,,,,,exoplanets.csv
+Kepler-929,Exoplanet,,,,,exoplanets.csv
+Kepler-93,Exoplanet,,,,,exoplanets.csv
+Kepler-930,Exoplanet,,,,,exoplanets.csv
+Kepler-931,Exoplanet,,,,,exoplanets.csv
+Kepler-932,Exoplanet,,,,,exoplanets.csv
+Kepler-933,Exoplanet,,,,,exoplanets.csv
+Kepler-934,Exoplanet,,,,,exoplanets.csv
+Kepler-935,Exoplanet,,,,,exoplanets.csv
+Kepler-936,Exoplanet,,,,,exoplanets.csv
+Kepler-937,Exoplanet,,,,,exoplanets.csv
+Kepler-938,Exoplanet,,,,,exoplanets.csv
+Kepler-939,Exoplanet,,,,,exoplanets.csv
+Kepler-94,Exoplanet,,,,,exoplanets.csv
+Kepler-940,Exoplanet,,,,,exoplanets.csv
+Kepler-941,Exoplanet,,,,,exoplanets.csv
+Kepler-942,Exoplanet,,,,,exoplanets.csv
+Kepler-943,Exoplanet,,,,,exoplanets.csv
+Kepler-944,Exoplanet,,,,,exoplanets.csv
+Kepler-945,Exoplanet,,,,,exoplanets.csv
+Kepler-946,Exoplanet,,,,,exoplanets.csv
+Kepler-947,Exoplanet,,,,,exoplanets.csv
+Kepler-948,Exoplanet,,,,,exoplanets.csv
+Kepler-949,Exoplanet,,,,,exoplanets.csv
+Kepler-95,Exoplanet,,,,,exoplanets.csv
+Kepler-950,Exoplanet,,,,,exoplanets.csv
+Kepler-951,Exoplanet,,,,,exoplanets.csv
+Kepler-952,Exoplanet,,,,,exoplanets.csv
+Kepler-953,Exoplanet,,,,,exoplanets.csv
+Kepler-954,Exoplanet,,,,,exoplanets.csv
+Kepler-955,Exoplanet,,,,,exoplanets.csv
+Kepler-956,Exoplanet,,,,,exoplanets.csv
+Kepler-957,Exoplanet,,,,,exoplanets.csv
+Kepler-958,Exoplanet,,,,,exoplanets.csv
+Kepler-959,Exoplanet,,,,,exoplanets.csv
+Kepler-96,Exoplanet,,,,,exoplanets.csv
+Kepler-960,Exoplanet,,,,,exoplanets.csv
+Kepler-961,Exoplanet,,,,,exoplanets.csv
+Kepler-962,Exoplanet,,,,,exoplanets.csv
+Kepler-963,Exoplanet,,,,,exoplanets.csv
+Kepler-964,Exoplanet,,,,,exoplanets.csv
+Kepler-965,Exoplanet,,,,,exoplanets.csv
+Kepler-966,Exoplanet,,,,,exoplanets.csv
+Kepler-967,Exoplanet,,,,,exoplanets.csv
+Kepler-968,Exoplanet,,,,,exoplanets.csv
+Kepler-969,Exoplanet,,,,,exoplanets.csv
+Kepler-97,Exoplanet,,,,,exoplanets.csv
+Kepler-970,Exoplanet,,,,,exoplanets.csv
+Kepler-971,Exoplanet,,,,,exoplanets.csv
+Kepler-972,Exoplanet,,,,,exoplanets.csv
+Kepler-973,Exoplanet,,,,,exoplanets.csv
+Kepler-974,Exoplanet,,,,,exoplanets.csv
+Kepler-975,Exoplanet,,,,,exoplanets.csv
+Kepler-976,Exoplanet,,,,,exoplanets.csv
+Kepler-977,Exoplanet,,,,,exoplanets.csv
+Kepler-978,Exoplanet,,,,,exoplanets.csv
+Kepler-979,Exoplanet,,,,,exoplanets.csv
+Kepler-98,Exoplanet,,,,,exoplanets.csv
+Kepler-980,Exoplanet,,,,,exoplanets.csv
+Kepler-981,Exoplanet,,,,,exoplanets.csv
+Kepler-982,Exoplanet,,,,,exoplanets.csv
+Kepler-983,Exoplanet,,,,,exoplanets.csv
+Kepler-984,Exoplanet,,,,,exoplanets.csv
+Kepler-985,Exoplanet,,,,,exoplanets.csv
+Kepler-986,Exoplanet,,,,,exoplanets.csv
+Kepler-987,Exoplanet,,,,,exoplanets.csv
+Kepler-988,Exoplanet,,,,,exoplanets.csv
+Kepler-989,Exoplanet,,,,,exoplanets.csv
+Kepler-99,Exoplanet,,,,,exoplanets.csv
+Kepler-990,Exoplanet,,,,,exoplanets.csv
+Kepler-991,Exoplanet,,,,,exoplanets.csv
+Kepler-992,Exoplanet,,,,,exoplanets.csv
+Kepler-993,Exoplanet,,,,,exoplanets.csv
+Kepler-994,Exoplanet,,,,,exoplanets.csv
+Kepler-995,Exoplanet,,,,,exoplanets.csv
+Kepler-996,Exoplanet,,,,,exoplanets.csv
+Kepler-997,Exoplanet,,,,,exoplanets.csv
+Kepler-998,Exoplanet,,,,,exoplanets.csv
+Kepler-999,Exoplanet,,,,,exoplanets.csv
+L 168-9,Exoplanet,,,,,exoplanets.csv
+L 363-38,Exoplanet,,,,,exoplanets.csv
+L 98-59,Exoplanet,,,,,exoplanets.csv
+LHS 1140,Exoplanet,,,,,exoplanets.csv
+LHS 1478,Exoplanet,,,,,exoplanets.csv
+LHS 1678,Exoplanet,,,,,exoplanets.csv
+LHS 1815,Exoplanet,,,,,exoplanets.csv
+LHS 1903,Exoplanet,,,,,exoplanets.csv
+LHS 3154,Exoplanet,,,,,exoplanets.csv
+LHS 3844,Exoplanet,,,,,exoplanets.csv
+LHS 475,Exoplanet,,,,,exoplanets.csv
+LP 261-75 A,Exoplanet,,,,,exoplanets.csv
+LP 714-47,Exoplanet,,,,,exoplanets.csv
+LP 791-18,Exoplanet,,,,,exoplanets.csv
+LP 890-9,Exoplanet,,,,,exoplanets.csv
+LSPM J2116+0234,Exoplanet,,,,,exoplanets.csv
+LTT 1445 A,Exoplanet,,,,,exoplanets.csv
+LTT 3780,Exoplanet,,,,,exoplanets.csv
+LTT 9779,Exoplanet,,,,,exoplanets.csv
+LkCa 15,Exoplanet,,,,,exoplanets.csv
+Luhman 16 A,Exoplanet,,,,,exoplanets.csv
+Lupus-TR-3,Exoplanet,,,,,exoplanets.csv
+M62H,Exoplanet,,,,,exoplanets.csv
+MASCARA-1,Exoplanet,,,,,exoplanets.csv
+MASCARA-4,Exoplanet,,,,,exoplanets.csv
+MOA-2007-BLG-192L,Exoplanet,,,,,exoplanets.csv
+MOA-2007-BLG-400L,Exoplanet,,,,,exoplanets.csv
+MOA-2008-BLG-310L,Exoplanet,,,,,exoplanets.csv
+MOA-2008-BLG-379L,Exoplanet,,,,,exoplanets.csv
+MOA-2009-BLG-266L,Exoplanet,,,,,exoplanets.csv
+MOA-2009-BLG-319L,Exoplanet,,,,,exoplanets.csv
+MOA-2009-BLG-387L,Exoplanet,,,,,exoplanets.csv
+MOA-2010-BLG-073L,Exoplanet,,,,,exoplanets.csv
+MOA-2010-BLG-117L,Exoplanet,,,,,exoplanets.csv
+MOA-2010-BLG-328L,Exoplanet,,,,,exoplanets.csv
+MOA-2010-BLG-353L,Exoplanet,,,,,exoplanets.csv
+MOA-2010-BLG-477L,Exoplanet,,,,,exoplanets.csv
+MOA-2011-BLG-028L,Exoplanet,,,,,exoplanets.csv
+MOA-2011-BLG-262L,Exoplanet,,,,,exoplanets.csv
+MOA-2011-BLG-291L,Exoplanet,,,,,exoplanets.csv
+MOA-2011-BLG-293L,Exoplanet,,,,,exoplanets.csv
+MOA-2011-BLG-322L,Exoplanet,,,,,exoplanets.csv
+MOA-2012-BLG-006L,Exoplanet,,,,,exoplanets.csv
+MOA-2012-BLG-505L,Exoplanet,,,,,exoplanets.csv
+MOA-2013-BLG-220L,Exoplanet,,,,,exoplanets.csv
+MOA-2013-BLG-605L,Exoplanet,,,,,exoplanets.csv
+MOA-2015-BLG-337L,Exoplanet,,,,,exoplanets.csv
+MOA-2016-BLG-227L,Exoplanet,,,,,exoplanets.csv
+MOA-2016-BLG-319L,Exoplanet,,,,,exoplanets.csv
+MOA-2016-BLG-526L,Exoplanet,,,,,exoplanets.csv
+MOA-2019-BLG-008L,Exoplanet,,,,,exoplanets.csv
+MOA-2020-BLG-108L,Exoplanet,,,,,exoplanets.csv
+MOA-2020-BLG-135L,Exoplanet,,,,,exoplanets.csv
+MOA-2020-BLG-208L,Exoplanet,,,,,exoplanets.csv
+MOA-2022-BLG-033L,Exoplanet,,,,,exoplanets.csv
+MOA-2022-BLG-091L,Exoplanet,,,,,exoplanets.csv
+MOA-2022-BLG-249L,Exoplanet,,,,,exoplanets.csv
+MOA-2022-BLG-563L,Exoplanet,,,,,exoplanets.csv
+MOA-bin-1L,Exoplanet,,,,,exoplanets.csv
+MOA-bin-29,Exoplanet,,,,,exoplanets.csv
+MWC 758,Exoplanet,,,,,exoplanets.csv
+MXB 1658-298,Exoplanet,,,,,exoplanets.csv
+NGC 2682 Sand 1429,Exoplanet,,,,,exoplanets.csv
+NGC 2682 Sand 978,Exoplanet,,,,,exoplanets.csv
+NGC 2682 YBP 1194,Exoplanet,,,,,exoplanets.csv
+NGC 2682 YBP 1514,Exoplanet,,,,,exoplanets.csv
+NGC 2682 YBP 401,Exoplanet,,,,,exoplanets.csv
+NGTS-1,Exoplanet,,,,,exoplanets.csv
+NGTS-10,Exoplanet,,,,,exoplanets.csv
+NGTS-11,Exoplanet,,,,,exoplanets.csv
+NGTS-12,Exoplanet,,,,,exoplanets.csv
+NGTS-13,Exoplanet,,,,,exoplanets.csv
+NGTS-14 A,Exoplanet,,,,,exoplanets.csv
+NGTS-15,Exoplanet,,,,,exoplanets.csv
+NGTS-16,Exoplanet,,,,,exoplanets.csv
+NGTS-17,Exoplanet,,,,,exoplanets.csv
+NGTS-18,Exoplanet,,,,,exoplanets.csv
+NGTS-2,Exoplanet,,,,,exoplanets.csv
+NGTS-20,Exoplanet,,,,,exoplanets.csv
+NGTS-21,Exoplanet,,,,,exoplanets.csv
+NGTS-23,Exoplanet,,,,,exoplanets.csv
+NGTS-24,Exoplanet,,,,,exoplanets.csv
+NGTS-25,Exoplanet,,,,,exoplanets.csv
+NGTS-26,Exoplanet,,,,,exoplanets.csv
+NGTS-27,Exoplanet,,,,,exoplanets.csv
+NGTS-3 A,Exoplanet,,,,,exoplanets.csv
+NGTS-30,Exoplanet,,,,,exoplanets.csv
+NGTS-31,Exoplanet,,,,,exoplanets.csv
+NGTS-32,Exoplanet,,,,,exoplanets.csv
+NGTS-33,Exoplanet,,,,,exoplanets.csv
+NGTS-34,Exoplanet,,,,,exoplanets.csv
+NGTS-35,Exoplanet,,,,,exoplanets.csv
+NGTS-38,Exoplanet,,,,,exoplanets.csv
+NGTS-39,Exoplanet,,,,,exoplanets.csv
+NGTS-4,Exoplanet,,,,,exoplanets.csv
+NGTS-5,Exoplanet,,,,,exoplanets.csv
+NGTS-6,Exoplanet,,,,,exoplanets.csv
+NGTS-8,Exoplanet,,,,,exoplanets.csv
+NGTS-9,Exoplanet,,,,,exoplanets.csv
+NN Ser,Exoplanet,,,,,exoplanets.csv
+NSVS 14256825,Exoplanet,,,,,exoplanets.csv
+NY Vir,Exoplanet,,,,,exoplanets.csv
+OGLE-2003-BLG-235L,Exoplanet,,,,,exoplanets.csv
+OGLE-2005-BLG-071L,Exoplanet,,,,,exoplanets.csv
+OGLE-2005-BLG-169L,Exoplanet,,,,,exoplanets.csv
+OGLE-2005-BLG-390L,Exoplanet,,,,,exoplanets.csv
+OGLE-2006-BLG-109L,Exoplanet,,,,,exoplanets.csv
+OGLE-2006-BLG-284L A,Exoplanet,,,,,exoplanets.csv
+OGLE-2007-BLG-349L A,Exoplanet,,,,,exoplanets.csv
+OGLE-2007-BLG-368L,Exoplanet,,,,,exoplanets.csv
+OGLE-2008-BLG-092L,Exoplanet,,,,,exoplanets.csv
+OGLE-2008-BLG-355L,Exoplanet,,,,,exoplanets.csv
+OGLE-2011-BLG-0173L,Exoplanet,,,,,exoplanets.csv
+OGLE-2011-BLG-0251L,Exoplanet,,,,,exoplanets.csv
+OGLE-2011-BLG-0265L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0026L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0358L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0406L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0563L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0724L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0838L,Exoplanet,,,,,exoplanets.csv
+OGLE-2012-BLG-0950L,Exoplanet,,,,,exoplanets.csv
+OGLE-2013-BLG-0102L,Exoplanet,,,,,exoplanets.csv
+OGLE-2013-BLG-0132L,Exoplanet,,,,,exoplanets.csv
+OGLE-2013-BLG-0341L B,Exoplanet,,,,,exoplanets.csv
+OGLE-2013-BLG-0911L,Exoplanet,,,,,exoplanets.csv
+OGLE-2013-BLG-1721L,Exoplanet,,,,,exoplanets.csv
+OGLE-2013-BLG-1761L,Exoplanet,,,,,exoplanets.csv
+OGLE-2014-BLG-0124L,Exoplanet,,,,,exoplanets.csv
+OGLE-2014-BLG-0221L,Exoplanet,,,,,exoplanets.csv
+OGLE-2014-BLG-0319L,Exoplanet,,,,,exoplanets.csv
+OGLE-2014-BLG-0676L,Exoplanet,,,,,exoplanets.csv
+OGLE-2014-BLG-1722L,Exoplanet,,,,,exoplanets.csv
+OGLE-2014-BLG-1760L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-0051L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-0954L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-0966L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-1609L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-1649L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-1670L,Exoplanet,,,,,exoplanets.csv
+OGLE-2015-BLG-1771L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-0007L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-0261L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-0263L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-0613L AB,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1067L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1093L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1190L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1195L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1227L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1266L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1598L,Exoplanet,,,,,exoplanets.csv
+OGLE-2016-BLG-1800L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0173L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0364L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0373L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0406L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0448L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0482L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0604L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-0640L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1049L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1099L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1140L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1237L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1275L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1375L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1434L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1522L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1691L,Exoplanet,,,,,exoplanets.csv
+OGLE-2017-BLG-1806L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0298L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0383L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0506L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0516L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0532L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0567L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0596L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0677L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0740L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0799L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0932L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0962L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-0977L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1011L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1119L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1126L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1185L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1212L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1269L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1367L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1428L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1647L,Exoplanet,,,,,exoplanets.csv
+OGLE-2018-BLG-1700L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0249L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0299L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0304L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0362L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0468L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0679L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0954L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-0960L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-1053L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-1180L,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-1470L A,Exoplanet,,,,,exoplanets.csv
+OGLE-2019-BLG-1492L,Exoplanet,,,,,exoplanets.csv
+OGLE-2023-BLG-0766L,Exoplanet,,,,,exoplanets.csv
+OGLE-2023-BLG-0836L,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-10,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-111,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-113,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-132,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-182,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-211,Exoplanet,,,,,exoplanets.csv
+OGLE-TR-56,Exoplanet,,,,,exoplanets.csv
+OGLE2-TR-L9,Exoplanet,,,,,exoplanets.csv
+Oph 11,Exoplanet,,,,,exoplanets.csv
+PDS 70,Exoplanet,,,,,exoplanets.csv
+PH1,Exoplanet,,,,,exoplanets.csv
+PH2,Exoplanet,,,,,exoplanets.csv
+POTS-1,Exoplanet,,,,,exoplanets.csv
+PSR B0329+54,Exoplanet,,,,,exoplanets.csv
+PSR B1257+12,Exoplanet,,,,,exoplanets.csv
+PSR B1620-26,Exoplanet,,,,,exoplanets.csv
+PSR J1719-1438,Exoplanet,,,,,exoplanets.csv
+PSR J2322-2650,Exoplanet,,,,,exoplanets.csv
+PZ Tel,Exoplanet,,,,,exoplanets.csv
+Pr0201,Exoplanet,,,,,exoplanets.csv
+Pr0211,Exoplanet,,,,,exoplanets.csv
+Proxima Cen,Exoplanet,,,,,exoplanets.csv
+Qatar-1,Exoplanet,,,,,exoplanets.csv
+Qatar-10,Exoplanet,,,,,exoplanets.csv
+Qatar-2,Exoplanet,,,,,exoplanets.csv
+Qatar-3,Exoplanet,,,,,exoplanets.csv
+Qatar-4,Exoplanet,,,,,exoplanets.csv
+Qatar-5,Exoplanet,,,,,exoplanets.csv
+Qatar-6,Exoplanet,,,,,exoplanets.csv
+Qatar-7,Exoplanet,,,,,exoplanets.csv
+Qatar-8,Exoplanet,,,,,exoplanets.csv
+Qatar-9,Exoplanet,,,,,exoplanets.csv
+ROXs 12,Exoplanet,,,,,exoplanets.csv
+ROXs 42 B,Exoplanet,,,,,exoplanets.csv
+RR Cae,Exoplanet,,,,,exoplanets.csv
+Ross 128,Exoplanet,,,,,exoplanets.csv
+Ross 176,Exoplanet,,,,,exoplanets.csv
+Ross 458,Exoplanet,,,,,exoplanets.csv
+Ross 508,Exoplanet,,,,,exoplanets.csv
+SPECULOOS-3,Exoplanet,,,,,exoplanets.csv
+SR 12 AB,Exoplanet,,,,,exoplanets.csv
+SWEEPS-11,Exoplanet,,,,,exoplanets.csv
+SWEEPS-4,Exoplanet,,,,,exoplanets.csv
+TAP 26,Exoplanet,,,,,exoplanets.csv
+TCP J05074264+2447555,Exoplanet,,,,,exoplanets.csv
+TIC 117642575,Exoplanet,,,,,exoplanets.csv
+TIC 139270665,Exoplanet,,,,,exoplanets.csv
+TIC 139702105,Exoplanet,,,,,exoplanets.csv
+TIC 142589416,Exoplanet,,,,,exoplanets.csv
+TIC 147027702,Exoplanet,,,,,exoplanets.csv
+TIC 150070085,Exoplanet,,,,,exoplanets.csv
+TIC 153919886,Exoplanet,,,,,exoplanets.csv
+TIC 154870955,Exoplanet,,,,,exoplanets.csv
+TIC 160113658,Exoplanet,,,,,exoplanets.csv
+TIC 161045582,Exoplanet,,,,,exoplanets.csv
+TIC 172900988 Aa,Exoplanet,,,,,exoplanets.csv
+TIC 178172313,Exoplanet,,,,,exoplanets.csv
+TIC 183374187,Exoplanet,,,,,exoplanets.csv
+TIC 188624430,Exoplanet,,,,,exoplanets.csv
+TIC 18942729,Exoplanet,,,,,exoplanets.csv
+TIC 198190129,Exoplanet,,,,,exoplanets.csv
+TIC 206466666,Exoplanet,,,,,exoplanets.csv
+TIC 219893931,Exoplanet,,,,,exoplanets.csv
+TIC 231949697,Exoplanet,,,,,exoplanets.csv
+TIC 237254473,Exoplanet,,,,,exoplanets.csv
+TIC 237913194,Exoplanet,,,,,exoplanets.csv
+TIC 241249530,Exoplanet,,,,,exoplanets.csv
+TIC 245076932,Exoplanet,,,,,exoplanets.csv
+TIC 24750448,Exoplanet,,,,,exoplanets.csv
+TIC 249022743,Exoplanet,,,,,exoplanets.csv
+TIC 257060897,Exoplanet,,,,,exoplanets.csv
+TIC 260969020,Exoplanet,,,,,exoplanets.csv
+TIC 270471727,Exoplanet,,,,,exoplanets.csv
+TIC 279401253,Exoplanet,,,,,exoplanets.csv
+TIC 290487717,Exoplanet,,,,,exoplanets.csv
+TIC 294329732,Exoplanet,,,,,exoplanets.csv
+TIC 32032563,Exoplanet,,,,,exoplanets.csv
+TIC 320419023,Exoplanet,,,,,exoplanets.csv
+TIC 34085383,Exoplanet,,,,,exoplanets.csv
+TIC 349520724,Exoplanet,,,,,exoplanets.csv
+TIC 356227008,Exoplanet,,,,,exoplanets.csv
+TIC 365102760,Exoplanet,,,,,exoplanets.csv
+TIC 38825265,Exoplanet,,,,,exoplanets.csv
+TIC 38828280,Exoplanet,,,,,exoplanets.csv
+TIC 390586021,Exoplanet,,,,,exoplanets.csv
+TIC 393818343,Exoplanet,,,,,exoplanets.csv
+TIC 423703298,Exoplanet,,,,,exoplanets.csv
+TIC 434398831,Exoplanet,,,,,exoplanets.csv
+TIC 437041147,Exoplanet,,,,,exoplanets.csv
+TIC 445839811,Exoplanet,,,,,exoplanets.csv
+TIC 46432937,Exoplanet,,,,,exoplanets.csv
+TIC 4672985,Exoplanet,,,,,exoplanets.csv
+TIC 52059926,Exoplanet,,,,,exoplanets.csv
+TIC 62895484,Exoplanet,,,,,exoplanets.csv
+TIC 65612701,Exoplanet,,,,,exoplanets.csv
+TIC 67686059,Exoplanet,,,,,exoplanets.csv
+TIC 77319217,Exoplanet,,,,,exoplanets.csv
+TIC 77552382,Exoplanet,,,,,exoplanets.csv
+TIC 86380416,Exoplanet,,,,,exoplanets.csv
+TIC 87422071,Exoplanet,,,,,exoplanets.csv
+TIC 88692598,Exoplanet,,,,,exoplanets.csv
+TIC 88785435,Exoplanet,,,,,exoplanets.csv
+TIC 9344899,Exoplanet,,,,,exoplanets.csv
+TOI-1011,Exoplanet,,,,,exoplanets.csv
+TOI-1036,Exoplanet,,,,,exoplanets.csv
+TOI-1052,Exoplanet,,,,,exoplanets.csv
+TOI-1054,Exoplanet,,,,,exoplanets.csv
+TOI-1062,Exoplanet,,,,,exoplanets.csv
+TOI-1064,Exoplanet,,,,,exoplanets.csv
+TOI-1075,Exoplanet,,,,,exoplanets.csv
+TOI-1080,Exoplanet,,,,,exoplanets.csv
+TOI-1105,Exoplanet,,,,,exoplanets.csv
+TOI-1107,Exoplanet,,,,,exoplanets.csv
+TOI-1117,Exoplanet,,,,,exoplanets.csv
+TOI-1130,Exoplanet,,,,,exoplanets.csv
+TOI-1135,Exoplanet,,,,,exoplanets.csv
+TOI-1136,Exoplanet,,,,,exoplanets.csv
+TOI-1154,Exoplanet,,,,,exoplanets.csv
+TOI-1173,Exoplanet,,,,,exoplanets.csv
+TOI-1174,Exoplanet,,,,,exoplanets.csv
+TOI-1180,Exoplanet,,,,,exoplanets.csv
+TOI-1181,Exoplanet,,,,,exoplanets.csv
+TOI-1184,Exoplanet,,,,,exoplanets.csv
+TOI-1194,Exoplanet,,,,,exoplanets.csv
+TOI-1199,Exoplanet,,,,,exoplanets.csv
+TOI-1201,Exoplanet,,,,,exoplanets.csv
+TOI-1203,Exoplanet,,,,,exoplanets.csv
+TOI-122,Exoplanet,,,,,exoplanets.csv
+TOI-1221,Exoplanet,,,,,exoplanets.csv
+TOI-1224,Exoplanet,,,,,exoplanets.csv
+TOI-1226,Exoplanet,,,,,exoplanets.csv
+TOI-1227,Exoplanet,,,,,exoplanets.csv
+TOI-1230,Exoplanet,,,,,exoplanets.csv
+TOI-1231,Exoplanet,,,,,exoplanets.csv
+TOI-1232,Exoplanet,,,,,exoplanets.csv
+TOI-1235,Exoplanet,,,,,exoplanets.csv
+TOI-1238,Exoplanet,,,,,exoplanets.csv
+TOI-1243,Exoplanet,,,,,exoplanets.csv
+TOI-1244,Exoplanet,,,,,exoplanets.csv
+TOI-1245,Exoplanet,,,,,exoplanets.csv
+TOI-1246,Exoplanet,,,,,exoplanets.csv
+TOI-1248,Exoplanet,,,,,exoplanets.csv
+TOI-1249,Exoplanet,,,,,exoplanets.csv
+TOI-125,Exoplanet,,,,,exoplanets.csv
+TOI-1259 A,Exoplanet,,,,,exoplanets.csv
+TOI-1260,Exoplanet,,,,,exoplanets.csv
+TOI-1262,Exoplanet,,,,,exoplanets.csv
+TOI-1266,Exoplanet,,,,,exoplanets.csv
+TOI-1268,Exoplanet,,,,,exoplanets.csv
+TOI-1269,Exoplanet,,,,,exoplanets.csv
+TOI-1272,Exoplanet,,,,,exoplanets.csv
+TOI-1273,Exoplanet,,,,,exoplanets.csv
+TOI-1278,Exoplanet,,,,,exoplanets.csv
+TOI-1279,Exoplanet,,,,,exoplanets.csv
+TOI-128,Exoplanet,,,,,exoplanets.csv
+TOI-1281,Exoplanet,,,,,exoplanets.csv
+TOI-1288,Exoplanet,,,,,exoplanets.csv
+TOI-1291,Exoplanet,,,,,exoplanets.csv
+TOI-1294,Exoplanet,,,,,exoplanets.csv
+TOI-1295,Exoplanet,,,,,exoplanets.csv
+TOI-1296,Exoplanet,,,,,exoplanets.csv
+TOI-1298,Exoplanet,,,,,exoplanets.csv
+TOI-1301,Exoplanet,,,,,exoplanets.csv
+TOI-132,Exoplanet,,,,,exoplanets.csv
+TOI-1333,Exoplanet,,,,,exoplanets.csv
+TOI-1338 A,Exoplanet,,,,,exoplanets.csv
+TOI-1346,Exoplanet,,,,,exoplanets.csv
+TOI-1347,Exoplanet,,,,,exoplanets.csv
+TOI-1386,Exoplanet,,,,,exoplanets.csv
+TOI-139,Exoplanet,,,,,exoplanets.csv
+TOI-1408,Exoplanet,,,,,exoplanets.csv
+TOI-1410,Exoplanet,,,,,exoplanets.csv
+TOI-1411,Exoplanet,,,,,exoplanets.csv
+TOI-1416,Exoplanet,,,,,exoplanets.csv
+TOI-1420,Exoplanet,,,,,exoplanets.csv
+TOI-1422,Exoplanet,,,,,exoplanets.csv
+TOI-1431,Exoplanet,,,,,exoplanets.csv
+TOI-1432,Exoplanet,,,,,exoplanets.csv
+TOI-1435,Exoplanet,,,,,exoplanets.csv
+TOI-1437,Exoplanet,,,,,exoplanets.csv
+TOI-1438,Exoplanet,,,,,exoplanets.csv
+TOI-1439,Exoplanet,,,,,exoplanets.csv
+TOI-1441,Exoplanet,,,,,exoplanets.csv
+TOI-1442,Exoplanet,,,,,exoplanets.csv
+TOI-1443,Exoplanet,,,,,exoplanets.csv
+TOI-1444,Exoplanet,,,,,exoplanets.csv
+TOI-1448,Exoplanet,,,,,exoplanets.csv
+TOI-1450 A,Exoplanet,,,,,exoplanets.csv
+TOI-1451,Exoplanet,,,,,exoplanets.csv
+TOI-1452,Exoplanet,,,,,exoplanets.csv
+TOI-1453,Exoplanet,,,,,exoplanets.csv
+TOI-1466,Exoplanet,,,,,exoplanets.csv
+TOI-1467,Exoplanet,,,,,exoplanets.csv
+TOI-1468,Exoplanet,,,,,exoplanets.csv
+TOI-1470,Exoplanet,,,,,exoplanets.csv
+TOI-1472,Exoplanet,,,,,exoplanets.csv
+TOI-1478,Exoplanet,,,,,exoplanets.csv
+TOI-150,Exoplanet,,,,,exoplanets.csv
+TOI-1516,Exoplanet,,,,,exoplanets.csv
+TOI-1518,Exoplanet,,,,,exoplanets.csv
+TOI-1533,Exoplanet,,,,,exoplanets.csv
+TOI-157,Exoplanet,,,,,exoplanets.csv
+TOI-159,Exoplanet,,,,,exoplanets.csv
+TOI-1601,Exoplanet,,,,,exoplanets.csv
+TOI-163,Exoplanet,,,,,exoplanets.csv
+TOI-1630,Exoplanet,,,,,exoplanets.csv
+TOI-1634,Exoplanet,,,,,exoplanets.csv
+TOI-1648,Exoplanet,,,,,exoplanets.csv
+TOI-1659,Exoplanet,,,,,exoplanets.csv
+TOI-1669,Exoplanet,,,,,exoplanets.csv
+TOI-1670,Exoplanet,,,,,exoplanets.csv
+TOI-1680,Exoplanet,,,,,exoplanets.csv
+TOI-1683,Exoplanet,,,,,exoplanets.csv
+TOI-1685,Exoplanet,,,,,exoplanets.csv
+TOI-169,Exoplanet,,,,,exoplanets.csv
+TOI-1691,Exoplanet,,,,,exoplanets.csv
+TOI-1693,Exoplanet,,,,,exoplanets.csv
+TOI-1694,Exoplanet,,,,,exoplanets.csv
+TOI-1695,Exoplanet,,,,,exoplanets.csv
+TOI-1696,Exoplanet,,,,,exoplanets.csv
+TOI-1710,Exoplanet,,,,,exoplanets.csv
+TOI-1716,Exoplanet,,,,,exoplanets.csv
+TOI-1718,Exoplanet,,,,,exoplanets.csv
+TOI-172,Exoplanet,,,,,exoplanets.csv
+TOI-1722,Exoplanet,,,,,exoplanets.csv
+TOI-1723,Exoplanet,,,,,exoplanets.csv
+TOI-1728,Exoplanet,,,,,exoplanets.csv
+TOI-1732,Exoplanet,,,,,exoplanets.csv
+TOI-1736,Exoplanet,,,,,exoplanets.csv
+TOI-1739,Exoplanet,,,,,exoplanets.csv
+TOI-1742,Exoplanet,,,,,exoplanets.csv
+TOI-1743,Exoplanet,,,,,exoplanets.csv
+TOI-1744,Exoplanet,,,,,exoplanets.csv
+TOI-1749,Exoplanet,,,,,exoplanets.csv
+TOI-1750,Exoplanet,,,,,exoplanets.csv
+TOI-1751,Exoplanet,,,,,exoplanets.csv
+TOI-1752,Exoplanet,,,,,exoplanets.csv
+TOI-1753,Exoplanet,,,,,exoplanets.csv
+TOI-1756,Exoplanet,,,,,exoplanets.csv
+TOI-1758,Exoplanet,,,,,exoplanets.csv
+TOI-1759,Exoplanet,,,,,exoplanets.csv
+TOI-1768,Exoplanet,,,,,exoplanets.csv
+TOI-1772,Exoplanet,,,,,exoplanets.csv
+TOI-1774,Exoplanet,,,,,exoplanets.csv
+TOI-1775,Exoplanet,,,,,exoplanets.csv
+TOI-1776,Exoplanet,,,,,exoplanets.csv
+TOI-1777,Exoplanet,,,,,exoplanets.csv
+TOI-178,Exoplanet,,,,,exoplanets.csv
+TOI-1782,Exoplanet,,,,,exoplanets.csv
+TOI-1789,Exoplanet,,,,,exoplanets.csv
+TOI-1794,Exoplanet,,,,,exoplanets.csv
+TOI-1798,Exoplanet,,,,,exoplanets.csv
+TOI-1799,Exoplanet,,,,,exoplanets.csv
+TOI-1801,Exoplanet,,,,,exoplanets.csv
+TOI-1803,Exoplanet,,,,,exoplanets.csv
+TOI-1806,Exoplanet,,,,,exoplanets.csv
+TOI-1807,Exoplanet,,,,,exoplanets.csv
+TOI-181,Exoplanet,,,,,exoplanets.csv
+TOI-1811,Exoplanet,,,,,exoplanets.csv
+TOI-1814,Exoplanet,,,,,exoplanets.csv
+TOI-1820,Exoplanet,,,,,exoplanets.csv
+TOI-1823,Exoplanet,,,,,exoplanets.csv
+TOI-1824,Exoplanet,,,,,exoplanets.csv
+TOI-1836,Exoplanet,,,,,exoplanets.csv
+TOI-1839,Exoplanet,,,,,exoplanets.csv
+TOI-1842,Exoplanet,,,,,exoplanets.csv
+TOI-1846,Exoplanet,,,,,exoplanets.csv
+TOI-1853,Exoplanet,,,,,exoplanets.csv
+TOI-1855,Exoplanet,,,,,exoplanets.csv
+TOI-1859,Exoplanet,,,,,exoplanets.csv
+TOI-1860,Exoplanet,,,,,exoplanets.csv
+TOI-1873,Exoplanet,,,,,exoplanets.csv
+TOI-1883,Exoplanet,,,,,exoplanets.csv
+TOI-1898,Exoplanet,,,,,exoplanets.csv
+TOI-1899,Exoplanet,,,,,exoplanets.csv
+TOI-1937 A,Exoplanet,,,,,exoplanets.csv
+TOI-198,Exoplanet,,,,,exoplanets.csv
+TOI-199,Exoplanet,,,,,exoplanets.csv
+TOI-1994,Exoplanet,,,,,exoplanets.csv
+TOI-2000,Exoplanet,,,,,exoplanets.csv
+TOI-2005,Exoplanet,,,,,exoplanets.csv
+TOI-201,Exoplanet,,,,,exoplanets.csv
+TOI-2010,Exoplanet,,,,,exoplanets.csv
+TOI-2015,Exoplanet,,,,,exoplanets.csv
+TOI-2018,Exoplanet,,,,,exoplanets.csv
+TOI-2019,Exoplanet,,,,,exoplanets.csv
+TOI-2025,Exoplanet,,,,,exoplanets.csv
+TOI-2031 A,Exoplanet,,,,,exoplanets.csv
+TOI-2040,Exoplanet,,,,,exoplanets.csv
+TOI-2046,Exoplanet,,,,,exoplanets.csv
+TOI-2048,Exoplanet,,,,,exoplanets.csv
+TOI-2049,Exoplanet,,,,,exoplanets.csv
+TOI-205,Exoplanet,,,,,exoplanets.csv
+TOI-206,Exoplanet,,,,,exoplanets.csv
+TOI-2068,Exoplanet,,,,,exoplanets.csv
+TOI-2071,Exoplanet,,,,,exoplanets.csv
+TOI-2076,Exoplanet,,,,,exoplanets.csv
+TOI-2081,Exoplanet,,,,,exoplanets.csv
+TOI-2084,Exoplanet,,,,,exoplanets.csv
+TOI-2088,Exoplanet,,,,,exoplanets.csv
+TOI-209,Exoplanet,,,,,exoplanets.csv
+TOI-2092,Exoplanet,,,,,exoplanets.csv
+TOI-2093,Exoplanet,,,,,exoplanets.csv
+TOI-2094,Exoplanet,,,,,exoplanets.csv
+TOI-2095,Exoplanet,,,,,exoplanets.csv
+TOI-2096,Exoplanet,,,,,exoplanets.csv
+TOI-2104,Exoplanet,,,,,exoplanets.csv
+TOI-2107,Exoplanet,,,,,exoplanets.csv
+TOI-2109,Exoplanet,,,,,exoplanets.csv
+TOI-2114,Exoplanet,,,,,exoplanets.csv
+TOI-2120,Exoplanet,,,,,exoplanets.csv
+TOI-2128,Exoplanet,,,,,exoplanets.csv
+TOI-213,Exoplanet,,,,,exoplanets.csv
+TOI-2133,Exoplanet,,,,,exoplanets.csv
+TOI-2134,Exoplanet,,,,,exoplanets.csv
+TOI-2136,Exoplanet,,,,,exoplanets.csv
+TOI-2141,Exoplanet,,,,,exoplanets.csv
+TOI-2145,Exoplanet,,,,,exoplanets.csv
+TOI-2147,Exoplanet,,,,,exoplanets.csv
+TOI-2152,Exoplanet,,,,,exoplanets.csv
+TOI-2154,Exoplanet,,,,,exoplanets.csv
+TOI-2158,Exoplanet,,,,,exoplanets.csv
+TOI-216,Exoplanet,,,,,exoplanets.csv
+TOI-2169 A,Exoplanet,,,,,exoplanets.csv
+TOI-2180,Exoplanet,,,,,exoplanets.csv
+TOI-2184,Exoplanet,,,,,exoplanets.csv
+TOI-2193 A,Exoplanet,,,,,exoplanets.csv
+TOI-2194,Exoplanet,,,,,exoplanets.csv
+TOI-2196,Exoplanet,,,,,exoplanets.csv
+TOI-220,Exoplanet,,,,,exoplanets.csv
+TOI-2200,Exoplanet,,,,,exoplanets.csv
+TOI-2202,Exoplanet,,,,,exoplanets.csv
+TOI-2207,Exoplanet,,,,,exoplanets.csv
+TOI-2211,Exoplanet,,,,,exoplanets.csv
+TOI-2227,Exoplanet,,,,,exoplanets.csv
+TOI-2236,Exoplanet,,,,,exoplanets.csv
+TOI-2238,Exoplanet,,,,,exoplanets.csv
+TOI-2245,Exoplanet,,,,,exoplanets.csv
+TOI-2257,Exoplanet,,,,,exoplanets.csv
+TOI-2260,Exoplanet,,,,,exoplanets.csv
+TOI-2266,Exoplanet,,,,,exoplanets.csv
+TOI-2267 A,Exoplanet,,,,,exoplanets.csv
+TOI-2267 B,Exoplanet,,,,,exoplanets.csv
+TOI-2274,Exoplanet,,,,,exoplanets.csv
+TOI-2285,Exoplanet,,,,,exoplanets.csv
+TOI-2287,Exoplanet,,,,,exoplanets.csv
+TOI-2293,Exoplanet,,,,,exoplanets.csv
+TOI-2295,Exoplanet,,,,,exoplanets.csv
+TOI-2322,Exoplanet,,,,,exoplanets.csv
+TOI-2328,Exoplanet,,,,,exoplanets.csv
+TOI-2337,Exoplanet,,,,,exoplanets.csv
+TOI-2338,Exoplanet,,,,,exoplanets.csv
+TOI-2345,Exoplanet,,,,,exoplanets.csv
+TOI-2346,Exoplanet,,,,,exoplanets.csv
+TOI-2364,Exoplanet,,,,,exoplanets.csv
+TOI-2368,Exoplanet,,,,,exoplanets.csv
+TOI-237,Exoplanet,,,,,exoplanets.csv
+TOI-2373,Exoplanet,,,,,exoplanets.csv
+TOI-2374,Exoplanet,,,,,exoplanets.csv
+TOI-2379,Exoplanet,,,,,exoplanets.csv
+TOI-238,Exoplanet,,,,,exoplanets.csv
+TOI-2382,Exoplanet,,,,,exoplanets.csv
+TOI-2384,Exoplanet,,,,,exoplanets.csv
+TOI-2392,Exoplanet,,,,,exoplanets.csv
+TOI-2406,Exoplanet,,,,,exoplanets.csv
+TOI-2407,Exoplanet,,,,,exoplanets.csv
+TOI-2411,Exoplanet,,,,,exoplanets.csv
+TOI-2416,Exoplanet,,,,,exoplanets.csv
+TOI-2420,Exoplanet,,,,,exoplanets.csv
+TOI-2421,Exoplanet,,,,,exoplanets.csv
+TOI-2426,Exoplanet,,,,,exoplanets.csv
+TOI-2427,Exoplanet,,,,,exoplanets.csv
+TOI-2431,Exoplanet,,,,,exoplanets.csv
+TOI-244,Exoplanet,,,,,exoplanets.csv
+TOI-2441,Exoplanet,,,,,exoplanets.csv
+TOI-2443,Exoplanet,,,,,exoplanets.csv
+TOI-2445,Exoplanet,,,,,exoplanets.csv
+TOI-2447,Exoplanet,,,,,exoplanets.csv
+TOI-2449,Exoplanet,,,,,exoplanets.csv
+TOI-2453,Exoplanet,,,,,exoplanets.csv
+TOI-2458,Exoplanet,,,,,exoplanets.csv
+TOI-2459,Exoplanet,,,,,exoplanets.csv
+TOI-248,Exoplanet,,,,,exoplanets.csv
+TOI-2485,Exoplanet,,,,,exoplanets.csv
+TOI-2497,Exoplanet,,,,,exoplanets.csv
+TOI-2498,Exoplanet,,,,,exoplanets.csv
+TOI-251,Exoplanet,,,,,exoplanets.csv
+TOI-2518,Exoplanet,,,,,exoplanets.csv
+TOI-2524,Exoplanet,,,,,exoplanets.csv
+TOI-2525,Exoplanet,,,,,exoplanets.csv
+TOI-2529,Exoplanet,,,,,exoplanets.csv
+TOI-2537,Exoplanet,,,,,exoplanets.csv
+TOI-2540,Exoplanet,,,,,exoplanets.csv
+TOI-2545,Exoplanet,,,,,exoplanets.csv
+TOI-2567,Exoplanet,,,,,exoplanets.csv
+TOI-257,Exoplanet,,,,,exoplanets.csv
+TOI-2570,Exoplanet,,,,,exoplanets.csv
+TOI-2578,Exoplanet,,,,,exoplanets.csv
+TOI-2580,Exoplanet,,,,,exoplanets.csv
+TOI-2583 A,Exoplanet,,,,,exoplanets.csv
+TOI-2587 A,Exoplanet,,,,,exoplanets.csv
+TOI-2589,Exoplanet,,,,,exoplanets.csv
+TOI-260,Exoplanet,,,,,exoplanets.csv
+TOI-261,Exoplanet,,,,,exoplanets.csv
+TOI-262,Exoplanet,,,,,exoplanets.csv
+TOI-2641,Exoplanet,,,,,exoplanets.csv
+TOI-2654,Exoplanet,,,,,exoplanets.csv
+TOI-2669,Exoplanet,,,,,exoplanets.csv
+TOI-269,Exoplanet,,,,,exoplanets.csv
+TOI-270,Exoplanet,,,,,exoplanets.csv
+TOI-2714,Exoplanet,,,,,exoplanets.csv
+TOI-2719,Exoplanet,,,,,exoplanets.csv
+TOI-2768,Exoplanet,,,,,exoplanets.csv
+TOI-277,Exoplanet,,,,,exoplanets.csv
+TOI-2796,Exoplanet,,,,,exoplanets.csv
+TOI-2803 A,Exoplanet,,,,,exoplanets.csv
+TOI-2818,Exoplanet,,,,,exoplanets.csv
+TOI-283,Exoplanet,,,,,exoplanets.csv
+TOI-2842,Exoplanet,,,,,exoplanets.csv
+TOI-286,Exoplanet,,,,,exoplanets.csv
+TOI-2876,Exoplanet,,,,,exoplanets.csv
+TOI-2886,Exoplanet,,,,,exoplanets.csv
+TOI-2969,Exoplanet,,,,,exoplanets.csv
+TOI-2977,Exoplanet,,,,,exoplanets.csv
+TOI-2981,Exoplanet,,,,,exoplanets.csv
+TOI-2986,Exoplanet,,,,,exoplanets.csv
+TOI-2989,Exoplanet,,,,,exoplanets.csv
+TOI-2992,Exoplanet,,,,,exoplanets.csv
+TOI-3023,Exoplanet,,,,,exoplanets.csv
+TOI-3053,Exoplanet,,,,,exoplanets.csv
+TOI-3071,Exoplanet,,,,,exoplanets.csv
+TOI-3082,Exoplanet,,,,,exoplanets.csv
+TOI-3135,Exoplanet,,,,,exoplanets.csv
+TOI-3160 A,Exoplanet,,,,,exoplanets.csv
+TOI-3235,Exoplanet,,,,,exoplanets.csv
+TOI-3261,Exoplanet,,,,,exoplanets.csv
+TOI-3278,Exoplanet,,,,,exoplanets.csv
+TOI-3288,Exoplanet,,,,,exoplanets.csv
+TOI-329,Exoplanet,,,,,exoplanets.csv
+TOI-332,Exoplanet,,,,,exoplanets.csv
+TOI-3321,Exoplanet,,,,,exoplanets.csv
+TOI-333,Exoplanet,,,,,exoplanets.csv
+TOI-3331 A,Exoplanet,,,,,exoplanets.csv
+TOI-3353,Exoplanet,,,,,exoplanets.csv
+TOI-3362,Exoplanet,,,,,exoplanets.csv
+TOI-3364,Exoplanet,,,,,exoplanets.csv
+TOI-3457,Exoplanet,,,,,exoplanets.csv
+TOI-3464,Exoplanet,,,,,exoplanets.csv
+TOI-3474,Exoplanet,,,,,exoplanets.csv
+TOI-3486,Exoplanet,,,,,exoplanets.csv
+TOI-3493,Exoplanet,,,,,exoplanets.csv
+TOI-3523 A,Exoplanet,,,,,exoplanets.csv
+TOI-3540 A,Exoplanet,,,,,exoplanets.csv
+TOI-3568,Exoplanet,,,,,exoplanets.csv
+TOI-3585,Exoplanet,,,,,exoplanets.csv
+TOI-3593,Exoplanet,,,,,exoplanets.csv
+TOI-3629,Exoplanet,,,,,exoplanets.csv
+TOI-3664,Exoplanet,,,,,exoplanets.csv
+TOI-3682,Exoplanet,,,,,exoplanets.csv
+TOI-3688 A,Exoplanet,,,,,exoplanets.csv
+TOI-3693,Exoplanet,,,,,exoplanets.csv
+TOI-3714,Exoplanet,,,,,exoplanets.csv
+TOI-375,Exoplanet,,,,,exoplanets.csv
+TOI-3757,Exoplanet,,,,,exoplanets.csv
+TOI-3785,Exoplanet,,,,,exoplanets.csv
+TOI-3807,Exoplanet,,,,,exoplanets.csv
+TOI-3819,Exoplanet,,,,,exoplanets.csv
+TOI-3837,Exoplanet,,,,,exoplanets.csv
+TOI-3851,Exoplanet,,,,,exoplanets.csv
+TOI-3856,Exoplanet,,,,,exoplanets.csv
+TOI-3862,Exoplanet,,,,,exoplanets.csv
+TOI-3877,Exoplanet,,,,,exoplanets.csv
+TOI-3884,Exoplanet,,,,,exoplanets.csv
+TOI-3894,Exoplanet,,,,,exoplanets.csv
+TOI-3896,Exoplanet,,,,,exoplanets.csv
+TOI-3912,Exoplanet,,,,,exoplanets.csv
+TOI-3919,Exoplanet,,,,,exoplanets.csv
+TOI-3976 A,Exoplanet,,,,,exoplanets.csv
+TOI-3980,Exoplanet,,,,,exoplanets.csv
+TOI-3984 A,Exoplanet,,,,,exoplanets.csv
+TOI-4010,Exoplanet,,,,,exoplanets.csv
+TOI-4029,Exoplanet,,,,,exoplanets.csv
+TOI-4030,Exoplanet,,,,,exoplanets.csv
+TOI-4034,Exoplanet,,,,,exoplanets.csv
+TOI-406,Exoplanet,,,,,exoplanets.csv
+TOI-4087,Exoplanet,,,,,exoplanets.csv
+TOI-4127,Exoplanet,,,,,exoplanets.csv
+TOI-4137,Exoplanet,,,,,exoplanets.csv
+TOI-4145 A,Exoplanet,,,,,exoplanets.csv
+TOI-4153,Exoplanet,,,,,exoplanets.csv
+TOI-4155,Exoplanet,,,,,exoplanets.csv
+TOI-4156,Exoplanet,,,,,exoplanets.csv
+TOI-4184,Exoplanet,,,,,exoplanets.csv
+TOI-4201,Exoplanet,,,,,exoplanets.csv
+TOI-421,Exoplanet,,,,,exoplanets.csv
+TOI-4214,Exoplanet,,,,,exoplanets.csv
+TOI-426,Exoplanet,,,,,exoplanets.csv
+TOI-4307,Exoplanet,,,,,exoplanets.csv
+TOI-4308,Exoplanet,,,,,exoplanets.csv
+TOI-431,Exoplanet,,,,,exoplanets.csv
+TOI-4310,Exoplanet,,,,,exoplanets.csv
+TOI-4311,Exoplanet,,,,,exoplanets.csv
+TOI-4324,Exoplanet,,,,,exoplanets.csv
+TOI-4329,Exoplanet,,,,,exoplanets.csv
+TOI-4336 A,Exoplanet,,,,,exoplanets.csv
+TOI-4342,Exoplanet,,,,,exoplanets.csv
+TOI-435,Exoplanet,,,,,exoplanets.csv
+TOI-4363,Exoplanet,,,,,exoplanets.csv
+TOI-4364,Exoplanet,,,,,exoplanets.csv
+TOI-4377,Exoplanet,,,,,exoplanets.csv
+TOI-4379,Exoplanet,,,,,exoplanets.csv
+TOI-4405,Exoplanet,,,,,exoplanets.csv
+TOI-4406,Exoplanet,,,,,exoplanets.csv
+TOI-4409,Exoplanet,,,,,exoplanets.csv
+TOI-4427,Exoplanet,,,,,exoplanets.csv
+TOI-4438,Exoplanet,,,,,exoplanets.csv
+TOI-444,Exoplanet,,,,,exoplanets.csv
+TOI-4443,Exoplanet,,,,,exoplanets.csv
+TOI-4458,Exoplanet,,,,,exoplanets.csv
+TOI-4463 A,Exoplanet,,,,,exoplanets.csv
+TOI-4465,Exoplanet,,,,,exoplanets.csv
+TOI-4468,Exoplanet,,,,,exoplanets.csv
+TOI-4479,Exoplanet,,,,,exoplanets.csv
+TOI-4487 A,Exoplanet,,,,,exoplanets.csv
+TOI-4492,Exoplanet,,,,,exoplanets.csv
+TOI-4495,Exoplanet,,,,,exoplanets.csv
+TOI-4499,Exoplanet,,,,,exoplanets.csv
+TOI-4504,Exoplanet,,,,,exoplanets.csv
+TOI-4507,Exoplanet,,,,,exoplanets.csv
+TOI-451,Exoplanet,,,,,exoplanets.csv
+TOI-4511,Exoplanet,,,,,exoplanets.csv
+TOI-4513,Exoplanet,,,,,exoplanets.csv
+TOI-4515,Exoplanet,,,,,exoplanets.csv
+TOI-4527,Exoplanet,,,,,exoplanets.csv
+TOI-4529,Exoplanet,,,,,exoplanets.csv
+TOI-4551,Exoplanet,,,,,exoplanets.csv
+TOI-4552,Exoplanet,,,,,exoplanets.csv
+TOI-4559,Exoplanet,,,,,exoplanets.csv
+TOI-4561,Exoplanet,,,,,exoplanets.csv
+TOI-4562,Exoplanet,,,,,exoplanets.csv
+TOI-4567,Exoplanet,,,,,exoplanets.csv
+TOI-4578,Exoplanet,,,,,exoplanets.csv
+TOI-4582,Exoplanet,,,,,exoplanets.csv
+TOI-4588,Exoplanet,,,,,exoplanets.csv
+TOI-4600,Exoplanet,,,,,exoplanets.csv
+TOI-4602,Exoplanet,,,,,exoplanets.csv
+TOI-4603,Exoplanet,,,,,exoplanets.csv
+TOI-4616,Exoplanet,,,,,exoplanets.csv
+TOI-4633,Exoplanet,,,,,exoplanets.csv
+TOI-4638,Exoplanet,,,,,exoplanets.csv
+TOI-4640,Exoplanet,,,,,exoplanets.csv
+TOI-4641,Exoplanet,,,,,exoplanets.csv
+TOI-4662,Exoplanet,,,,,exoplanets.csv
+TOI-4666,Exoplanet,,,,,exoplanets.csv
+TOI-469,Exoplanet,,,,,exoplanets.csv
+TOI-470,Exoplanet,,,,,exoplanets.csv
+TOI-4724,Exoplanet,,,,,exoplanets.csv
+TOI-4734,Exoplanet,,,,,exoplanets.csv
+TOI-4747,Exoplanet,,,,,exoplanets.csv
+TOI-4773,Exoplanet,,,,,exoplanets.csv
+TOI-4791,Exoplanet,,,,,exoplanets.csv
+TOI-4794,Exoplanet,,,,,exoplanets.csv
+TOI-480,Exoplanet,,,,,exoplanets.csv
+TOI-481,Exoplanet,,,,,exoplanets.csv
+TOI-4851,Exoplanet,,,,,exoplanets.csv
+TOI-4860,Exoplanet,,,,,exoplanets.csv
+TOI-4898,Exoplanet,,,,,exoplanets.csv
+TOI-4914,Exoplanet,,,,,exoplanets.csv
+TOI-4930,Exoplanet,,,,,exoplanets.csv
+TOI-4940,Exoplanet,,,,,exoplanets.csv
+TOI-4961,Exoplanet,,,,,exoplanets.csv
+TOI-4994,Exoplanet,,,,,exoplanets.csv
+TOI-500,Exoplanet,,,,,exoplanets.csv
+TOI-5005,Exoplanet,,,,,exoplanets.csv
+TOI-5007,Exoplanet,,,,,exoplanets.csv
+TOI-5027,Exoplanet,,,,,exoplanets.csv
+TOI-5076,Exoplanet,,,,,exoplanets.csv
+TOI-5082,Exoplanet,,,,,exoplanets.csv
+TOI-5108,Exoplanet,,,,,exoplanets.csv
+TOI-5110,Exoplanet,,,,,exoplanets.csv
+TOI-512,Exoplanet,,,,,exoplanets.csv
+TOI-5120,Exoplanet,,,,,exoplanets.csv
+TOI-5126,Exoplanet,,,,,exoplanets.csv
+TOI-5143,Exoplanet,,,,,exoplanets.csv
+TOI-5153,Exoplanet,,,,,exoplanets.csv
+TOI-5159,Exoplanet,,,,,exoplanets.csv
+TOI-5160,Exoplanet,,,,,exoplanets.csv
+TOI-5165,Exoplanet,,,,,exoplanets.csv
+TOI-5174,Exoplanet,,,,,exoplanets.csv
+TOI-5177,Exoplanet,,,,,exoplanets.csv
+TOI-5181 A,Exoplanet,,,,,exoplanets.csv
+TOI-519,Exoplanet,,,,,exoplanets.csv
+TOI-5205,Exoplanet,,,,,exoplanets.csv
+TOI-521,Exoplanet,,,,,exoplanets.csv
+TOI-5210,Exoplanet,,,,,exoplanets.csv
+TOI-5218,Exoplanet,,,,,exoplanets.csv
+TOI-5232,Exoplanet,,,,,exoplanets.csv
+TOI-5238,Exoplanet,,,,,exoplanets.csv
+TOI-5261,Exoplanet,,,,,exoplanets.csv
+TOI-5289,Exoplanet,,,,,exoplanets.csv
+TOI-5292 A,Exoplanet,,,,,exoplanets.csv
+TOI-5293 A,Exoplanet,,,,,exoplanets.csv
+TOI-530,Exoplanet,,,,,exoplanets.csv
+TOI-5300,Exoplanet,,,,,exoplanets.csv
+TOI-5301,Exoplanet,,,,,exoplanets.csv
+TOI-5319,Exoplanet,,,,,exoplanets.csv
+TOI-532,Exoplanet,,,,,exoplanets.csv
+TOI-5322,Exoplanet,,,,,exoplanets.csv
+TOI-5335,Exoplanet,,,,,exoplanets.csv
+TOI-5340,Exoplanet,,,,,exoplanets.csv
+TOI-5344,Exoplanet,,,,,exoplanets.csv
+TOI-5349,Exoplanet,,,,,exoplanets.csv
+TOI-5350,Exoplanet,,,,,exoplanets.csv
+TOI-5380,Exoplanet,,,,,exoplanets.csv
+TOI-5386 A,Exoplanet,,,,,exoplanets.csv
+TOI-5388,Exoplanet,,,,,exoplanets.csv
+TOI-5398,Exoplanet,,,,,exoplanets.csv
+TOI-540,Exoplanet,,,,,exoplanets.csv
+TOI-5422,Exoplanet,,,,,exoplanets.csv
+TOI-544,Exoplanet,,,,,exoplanets.csv
+TOI-5486,Exoplanet,,,,,exoplanets.csv
+TOI-5489,Exoplanet,,,,,exoplanets.csv
+TOI-5493,Exoplanet,,,,,exoplanets.csv
+TOI-5502,Exoplanet,,,,,exoplanets.csv
+TOI-5515,Exoplanet,,,,,exoplanets.csv
+TOI-5531,Exoplanet,,,,,exoplanets.csv
+TOI-5532,Exoplanet,,,,,exoplanets.csv
+TOI-5542,Exoplanet,,,,,exoplanets.csv
+TOI-5543,Exoplanet,,,,,exoplanets.csv
+TOI-5573,Exoplanet,,,,,exoplanets.csv
+TOI-558,Exoplanet,,,,,exoplanets.csv
+TOI-559,Exoplanet,,,,,exoplanets.csv
+TOI-5592,Exoplanet,,,,,exoplanets.csv
+TOI-5595,Exoplanet,,,,,exoplanets.csv
+TOI-5599,Exoplanet,,,,,exoplanets.csv
+TOI-5605,Exoplanet,,,,,exoplanets.csv
+TOI-561,Exoplanet,,,,,exoplanets.csv
+TOI-5614,Exoplanet,,,,,exoplanets.csv
+TOI-5616,Exoplanet,,,,,exoplanets.csv
+TOI-5624,Exoplanet,,,,,exoplanets.csv
+TOI-5628 A,Exoplanet,,,,,exoplanets.csv
+TOI-5630,Exoplanet,,,,,exoplanets.csv
+TOI-5634 A,Exoplanet,,,,,exoplanets.csv
+TOI-564,Exoplanet,,,,,exoplanets.csv
+TOI-5646,Exoplanet,,,,,exoplanets.csv
+TOI-5678,Exoplanet,,,,,exoplanets.csv
+TOI-5688 A,Exoplanet,,,,,exoplanets.csv
+TOI-5696,Exoplanet,,,,,exoplanets.csv
+TOI-5699,Exoplanet,,,,,exoplanets.csv
+TOI-5704,Exoplanet,,,,,exoplanets.csv
+TOI-5713,Exoplanet,,,,,exoplanets.csv
+TOI-5716,Exoplanet,,,,,exoplanets.csv
+TOI-5720,Exoplanet,,,,,exoplanets.csv
+TOI-5726,Exoplanet,,,,,exoplanets.csv
+TOI-5728,Exoplanet,,,,,exoplanets.csv
+TOI-5730,Exoplanet,,,,,exoplanets.csv
+TOI-5734,Exoplanet,,,,,exoplanets.csv
+TOI-5736,Exoplanet,,,,,exoplanets.csv
+TOI-5739,Exoplanet,,,,,exoplanets.csv
+TOI-5777,Exoplanet,,,,,exoplanets.csv
+TOI-5786,Exoplanet,,,,,exoplanets.csv
+TOI-5788,Exoplanet,,,,,exoplanets.csv
+TOI-5789,Exoplanet,,,,,exoplanets.csv
+TOI-5795,Exoplanet,,,,,exoplanets.csv
+TOI-5799,Exoplanet,,,,,exoplanets.csv
+TOI-5800,Exoplanet,,,,,exoplanets.csv
+TOI-5803,Exoplanet,,,,,exoplanets.csv
+TOI-5806,Exoplanet,,,,,exoplanets.csv
+TOI-5807,Exoplanet,,,,,exoplanets.csv
+TOI-5811 B,Exoplanet,,,,,exoplanets.csv
+TOI-5817,Exoplanet,,,,,exoplanets.csv
+TOI-5882,Exoplanet,,,,,exoplanets.csv
+TOI-5916,Exoplanet,,,,,exoplanets.csv
+TOI-5926,Exoplanet,,,,,exoplanets.csv
+TOI-5938,Exoplanet,,,,,exoplanets.csv
+TOI-5947,Exoplanet,,,,,exoplanets.csv
+TOI-5958,Exoplanet,,,,,exoplanets.csv
+TOI-5961,Exoplanet,,,,,exoplanets.csv
+TOI-5968,Exoplanet,,,,,exoplanets.csv
+TOI-5997,Exoplanet,,,,,exoplanets.csv
+TOI-6000,Exoplanet,,,,,exoplanets.csv
+TOI-6002,Exoplanet,,,,,exoplanets.csv
+TOI-6008,Exoplanet,,,,,exoplanets.csv
+TOI-6016,Exoplanet,,,,,exoplanets.csv
+TOI-6019,Exoplanet,,,,,exoplanets.csv
+TOI-6029,Exoplanet,,,,,exoplanets.csv
+TOI-603,Exoplanet,,,,,exoplanets.csv
+TOI-6034,Exoplanet,,,,,exoplanets.csv
+TOI-6038 A,Exoplanet,,,,,exoplanets.csv
+TOI-6041,Exoplanet,,,,,exoplanets.csv
+TOI-6054,Exoplanet,,,,,exoplanets.csv
+TOI-6080,Exoplanet,,,,,exoplanets.csv
+TOI-6086,Exoplanet,,,,,exoplanets.csv
+TOI-6098,Exoplanet,,,,,exoplanets.csv
+TOI-6109,Exoplanet,,,,,exoplanets.csv
+TOI-6130,Exoplanet,,,,,exoplanets.csv
+TOI-615,Exoplanet,,,,,exoplanets.csv
+TOI-6158,Exoplanet,,,,,exoplanets.csv
+TOI-6174,Exoplanet,,,,,exoplanets.csv
+TOI-620,Exoplanet,,,,,exoplanets.csv
+TOI-622,Exoplanet,,,,,exoplanets.csv
+TOI-6223,Exoplanet,,,,,exoplanets.csv
+TOI-6255,Exoplanet,,,,,exoplanets.csv
+TOI-628,Exoplanet,,,,,exoplanets.csv
+TOI-6281,Exoplanet,,,,,exoplanets.csv
+TOI-6303,Exoplanet,,,,,exoplanets.csv
+TOI-6310,Exoplanet,,,,,exoplanets.csv
+TOI-6324,Exoplanet,,,,,exoplanets.csv
+TOI-6330,Exoplanet,,,,,exoplanets.csv
+TOI-6383 A,Exoplanet,,,,,exoplanets.csv
+TOI-6393,Exoplanet,,,,,exoplanets.csv
+TOI-640,Exoplanet,,,,,exoplanets.csv
+TOI-6420,Exoplanet,,,,,exoplanets.csv
+TOI-6434,Exoplanet,,,,,exoplanets.csv
+TOI-6448,Exoplanet,,,,,exoplanets.csv
+TOI-6450,Exoplanet,,,,,exoplanets.csv
+TOI-6478,Exoplanet,,,,,exoplanets.csv
+TOI-654,Exoplanet,,,,,exoplanets.csv
+TOI-6564,Exoplanet,,,,,exoplanets.csv
+TOI-6628,Exoplanet,,,,,exoplanets.csv
+TOI-663,Exoplanet,,,,,exoplanets.csv
+TOI-6647,Exoplanet,,,,,exoplanets.csv
+TOI-6651,Exoplanet,,,,,exoplanets.csv
+TOI-6662,Exoplanet,,,,,exoplanets.csv
+TOI-6677,Exoplanet,,,,,exoplanets.csv
+TOI-669,Exoplanet,,,,,exoplanets.csv
+TOI-6692,Exoplanet,,,,,exoplanets.csv
+TOI-6695,Exoplanet,,,,,exoplanets.csv
+TOI-6699,Exoplanet,,,,,exoplanets.csv
+TOI-6707,Exoplanet,,,,,exoplanets.csv
+TOI-6716,Exoplanet,,,,,exoplanets.csv
+TOI-672,Exoplanet,,,,,exoplanets.csv
+TOI-6729,Exoplanet,,,,,exoplanets.csv
+TOI-674,Exoplanet,,,,,exoplanets.csv
+TOI-677,Exoplanet,,,,,exoplanets.csv
+TOI-682,Exoplanet,,,,,exoplanets.csv
+TOI-6884,Exoplanet,,,,,exoplanets.csv
+TOI-6894,Exoplanet,,,,,exoplanets.csv
+TOI-6954,Exoplanet,,,,,exoplanets.csv
+TOI-697,Exoplanet,,,,,exoplanets.csv
+TOI-700,Exoplanet,,,,,exoplanets.csv
+TOI-7008,Exoplanet,,,,,exoplanets.csv
+TOI-7009,Exoplanet,,,,,exoplanets.csv
+TOI-7041,Exoplanet,,,,,exoplanets.csv
+TOI-707,Exoplanet,,,,,exoplanets.csv
+TOI-712,Exoplanet,,,,,exoplanets.csv
+TOI-7149,Exoplanet,,,,,exoplanets.csv
+TOI-715,Exoplanet,,,,,exoplanets.csv
+TOI-7155,Exoplanet,,,,,exoplanets.csv
+TOI-7166,Exoplanet,,,,,exoplanets.csv
+TOI-7169,Exoplanet,,,,,exoplanets.csv
+TOI-7182,Exoplanet,,,,,exoplanets.csv
+TOI-7189,Exoplanet,,,,,exoplanets.csv
+TOI-7265 B,Exoplanet,,,,,exoplanets.csv
+TOI-733,Exoplanet,,,,,exoplanets.csv
+TOI-7333,Exoplanet,,,,,exoplanets.csv
+TOI-7384,Exoplanet,,,,,exoplanets.csv
+TOI-7389,Exoplanet,,,,,exoplanets.csv
+TOI-7391,Exoplanet,,,,,exoplanets.csv
+TOI-7393,Exoplanet,,,,,exoplanets.csv
+TOI-7394 B,Exoplanet,,,,,exoplanets.csv
+TOI-7510,Exoplanet,,,,,exoplanets.csv
+TOI-7550,Exoplanet,,,,,exoplanets.csv
+TOI-756,Exoplanet,,,,,exoplanets.csv
+TOI-757,Exoplanet,,,,,exoplanets.csv
+TOI-762 A,Exoplanet,,,,,exoplanets.csv
+TOI-763,Exoplanet,,,,,exoplanets.csv
+TOI-771,Exoplanet,,,,,exoplanets.csv
+TOI-776,Exoplanet,,,,,exoplanets.csv
+TOI-778,Exoplanet,,,,,exoplanets.csv
+TOI-782,Exoplanet,,,,,exoplanets.csv
+TOI-783,Exoplanet,,,,,exoplanets.csv
+TOI-786,Exoplanet,,,,,exoplanets.csv
+TOI-789,Exoplanet,,,,,exoplanets.csv
+TOI-791,Exoplanet,,,,,exoplanets.csv
+TOI-797,Exoplanet,,,,,exoplanets.csv
+TOI-799,Exoplanet,,,,,exoplanets.csv
+TOI-808,Exoplanet,,,,,exoplanets.csv
+TOI-813,Exoplanet,,,,,exoplanets.csv
+TOI-815,Exoplanet,,,,,exoplanets.csv
+TOI-824,Exoplanet,,,,,exoplanets.csv
+TOI-833,Exoplanet,,,,,exoplanets.csv
+TOI-836,Exoplanet,,,,,exoplanets.csv
+TOI-837,Exoplanet,,,,,exoplanets.csv
+TOI-849,Exoplanet,,,,,exoplanets.csv
+TOI-858 B,Exoplanet,,,,,exoplanets.csv
+TOI-871,Exoplanet,,,,,exoplanets.csv
+TOI-873,Exoplanet,,,,,exoplanets.csv
+TOI-880,Exoplanet,,,,,exoplanets.csv
+TOI-883,Exoplanet,,,,,exoplanets.csv
+TOI-892,Exoplanet,,,,,exoplanets.csv
+TOI-904,Exoplanet,,,,,exoplanets.csv
+TOI-905,Exoplanet,,,,,exoplanets.csv
+TOI-907,Exoplanet,,,,,exoplanets.csv
+TOI-908,Exoplanet,,,,,exoplanets.csv
+TOI-912,Exoplanet,,,,,exoplanets.csv
+TOI-913,Exoplanet,,,,,exoplanets.csv
+TOI-921,Exoplanet,,,,,exoplanets.csv
+TOI-929,Exoplanet,,,,,exoplanets.csv
+TOI-938,Exoplanet,,,,,exoplanets.csv
+TOI-941,Exoplanet,,,,,exoplanets.csv
+TOI-942,Exoplanet,,,,,exoplanets.csv
+TOI-954,Exoplanet,,,,,exoplanets.csv
+TOI-969,Exoplanet,,,,,exoplanets.csv
+TRAPPIST-1,Exoplanet,,,,,exoplanets.csv
+TWA 7,Exoplanet,,,,,exoplanets.csv
+TYC 0434-04538-1,Exoplanet,,,,,exoplanets.csv
+TYC 1422-614-1,Exoplanet,,,,,exoplanets.csv
+TYC 2187-512-1,Exoplanet,,,,,exoplanets.csv
+TYC 3318-01333-1,Exoplanet,,,,,exoplanets.csv
+TYC 3667-1280-1,Exoplanet,,,,,exoplanets.csv
+TYC 4282-00605-1,Exoplanet,,,,,exoplanets.csv
+TYC 8998-760-1,Exoplanet,,,,,exoplanets.csv
+Teegarden's Star,Exoplanet,,,,,exoplanets.csv
+TrES-1,Exoplanet,,,,,exoplanets.csv
+TrES-2,Exoplanet,,,,,exoplanets.csv
+TrES-3,Exoplanet,,,,,exoplanets.csv
+TrES-4,Exoplanet,,,,,exoplanets.csv
+TrES-5,Exoplanet,,,,,exoplanets.csv
+UCAC3 113-933,Exoplanet,,,,,exoplanets.csv
+UCAC4 328-061594,Exoplanet,,,,,exoplanets.csv
+UKIRT-2017-BLG-001L,Exoplanet,,,,,exoplanets.csv
+USco CTIO 108,Exoplanet,,,,,exoplanets.csv
+USco1556 A,Exoplanet,,,,,exoplanets.csv
+USco1621 A,Exoplanet,,,,,exoplanets.csv
+UZ For,Exoplanet,,,,,exoplanets.csv
+V0391 Peg,Exoplanet,,,,,exoplanets.csv
+V1298 Tau,Exoplanet,,,,,exoplanets.csv
+V2376 Ori,Exoplanet,,,,,exoplanets.csv
+V830 Tau,Exoplanet,,,,,exoplanets.csv
+VHS J125601.92-125723.9,Exoplanet,,,,,exoplanets.csv
+WASP-1,Exoplanet,,,,,exoplanets.csv
+WASP-10,Exoplanet,,,,,exoplanets.csv
+WASP-100,Exoplanet,,,,,exoplanets.csv
+WASP-101,Exoplanet,,,,,exoplanets.csv
+WASP-102,Exoplanet,,,,,exoplanets.csv
+WASP-103,Exoplanet,,,,,exoplanets.csv
+WASP-104,Exoplanet,,,,,exoplanets.csv
+WASP-105,Exoplanet,,,,,exoplanets.csv
+WASP-106,Exoplanet,,,,,exoplanets.csv
+WASP-107,Exoplanet,,,,,exoplanets.csv
+WASP-108,Exoplanet,,,,,exoplanets.csv
+WASP-11,Exoplanet,,,,,exoplanets.csv
+WASP-110,Exoplanet,,,,,exoplanets.csv
+WASP-113,Exoplanet,,,,,exoplanets.csv
+WASP-114,Exoplanet,,,,,exoplanets.csv
+WASP-116,Exoplanet,,,,,exoplanets.csv
+WASP-117,Exoplanet,,,,,exoplanets.csv
+WASP-118,Exoplanet,,,,,exoplanets.csv
+WASP-119,Exoplanet,,,,,exoplanets.csv
+WASP-12,Exoplanet,,,,,exoplanets.csv
+WASP-120,Exoplanet,,,,,exoplanets.csv
+WASP-121,Exoplanet,,,,,exoplanets.csv
+WASP-123,Exoplanet,,,,,exoplanets.csv
+WASP-124,Exoplanet,,,,,exoplanets.csv
+WASP-126,Exoplanet,,,,,exoplanets.csv
+WASP-127,Exoplanet,,,,,exoplanets.csv
+WASP-129,Exoplanet,,,,,exoplanets.csv
+WASP-13,Exoplanet,,,,,exoplanets.csv
+WASP-130,Exoplanet,,,,,exoplanets.csv
+WASP-131,Exoplanet,,,,,exoplanets.csv
+WASP-132,Exoplanet,,,,,exoplanets.csv
+WASP-133,Exoplanet,,,,,exoplanets.csv
+WASP-135,Exoplanet,,,,,exoplanets.csv
+WASP-136,Exoplanet,,,,,exoplanets.csv
+WASP-138,Exoplanet,,,,,exoplanets.csv
+WASP-139,Exoplanet,,,,,exoplanets.csv
+WASP-14,Exoplanet,,,,,exoplanets.csv
+WASP-140,Exoplanet,,,,,exoplanets.csv
+WASP-141,Exoplanet,,,,,exoplanets.csv
+WASP-142,Exoplanet,,,,,exoplanets.csv
+WASP-144,Exoplanet,,,,,exoplanets.csv
+WASP-145 A,Exoplanet,,,,,exoplanets.csv
+WASP-147,Exoplanet,,,,,exoplanets.csv
+WASP-148,Exoplanet,,,,,exoplanets.csv
+WASP-149,Exoplanet,,,,,exoplanets.csv
+WASP-15,Exoplanet,,,,,exoplanets.csv
+WASP-150,Exoplanet,,,,,exoplanets.csv
+WASP-151,Exoplanet,,,,,exoplanets.csv
+WASP-153,Exoplanet,,,,,exoplanets.csv
+WASP-154,Exoplanet,,,,,exoplanets.csv
+WASP-155,Exoplanet,,,,,exoplanets.csv
+WASP-156,Exoplanet,,,,,exoplanets.csv
+WASP-157,Exoplanet,,,,,exoplanets.csv
+WASP-158,Exoplanet,,,,,exoplanets.csv
+WASP-159,Exoplanet,,,,,exoplanets.csv
+WASP-16,Exoplanet,,,,,exoplanets.csv
+WASP-160 B,Exoplanet,,,,,exoplanets.csv
+WASP-161,Exoplanet,,,,,exoplanets.csv
+WASP-162,Exoplanet,,,,,exoplanets.csv
+WASP-163,Exoplanet,,,,,exoplanets.csv
+WASP-164,Exoplanet,,,,,exoplanets.csv
+WASP-165,Exoplanet,,,,,exoplanets.csv
+WASP-166,Exoplanet,,,,,exoplanets.csv
+WASP-167,Exoplanet,,,,,exoplanets.csv
+WASP-168,Exoplanet,,,,,exoplanets.csv
+WASP-169,Exoplanet,,,,,exoplanets.csv
+WASP-17,Exoplanet,,,,,exoplanets.csv
+WASP-170,Exoplanet,,,,,exoplanets.csv
+WASP-171,Exoplanet,,,,,exoplanets.csv
+WASP-172,Exoplanet,,,,,exoplanets.csv
+WASP-173 A,Exoplanet,,,,,exoplanets.csv
+WASP-174,Exoplanet,,,,,exoplanets.csv
+WASP-175,Exoplanet,,,,,exoplanets.csv
+WASP-176,Exoplanet,,,,,exoplanets.csv
+WASP-177,Exoplanet,,,,,exoplanets.csv
+WASP-178,Exoplanet,,,,,exoplanets.csv
+WASP-18,Exoplanet,,,,,exoplanets.csv
+WASP-180 A,Exoplanet,,,,,exoplanets.csv
+WASP-181,Exoplanet,,,,,exoplanets.csv
+WASP-182,Exoplanet,,,,,exoplanets.csv
+WASP-183,Exoplanet,,,,,exoplanets.csv
+WASP-184,Exoplanet,,,,,exoplanets.csv
+WASP-185,Exoplanet,,,,,exoplanets.csv
+WASP-186,Exoplanet,,,,,exoplanets.csv
+WASP-187,Exoplanet,,,,,exoplanets.csv
+WASP-188,Exoplanet,,,,,exoplanets.csv
+WASP-189,Exoplanet,,,,,exoplanets.csv
+WASP-19,Exoplanet,,,,,exoplanets.csv
+WASP-190,Exoplanet,,,,,exoplanets.csv
+WASP-192,Exoplanet,,,,,exoplanets.csv
+WASP-193,Exoplanet,,,,,exoplanets.csv
+WASP-194,Exoplanet,,,,,exoplanets.csv
+WASP-195,Exoplanet,,,,,exoplanets.csv
+WASP-197,Exoplanet,,,,,exoplanets.csv
+WASP-2,Exoplanet,,,,,exoplanets.csv
+WASP-20,Exoplanet,,,,,exoplanets.csv
+WASP-21,Exoplanet,,,,,exoplanets.csv
+WASP-22,Exoplanet,,,,,exoplanets.csv
+WASP-23,Exoplanet,,,,,exoplanets.csv
+WASP-24,Exoplanet,,,,,exoplanets.csv
+WASP-25,Exoplanet,,,,,exoplanets.csv
+WASP-26,Exoplanet,,,,,exoplanets.csv
+WASP-28,Exoplanet,,,,,exoplanets.csv
+WASP-29,Exoplanet,,,,,exoplanets.csv
+WASP-3,Exoplanet,,,,,exoplanets.csv
+WASP-31,Exoplanet,,,,,exoplanets.csv
+WASP-32,Exoplanet,,,,,exoplanets.csv
+WASP-33,Exoplanet,,,,,exoplanets.csv
+WASP-34,Exoplanet,,,,,exoplanets.csv
+WASP-35,Exoplanet,,,,,exoplanets.csv
+WASP-36,Exoplanet,,,,,exoplanets.csv
+WASP-37,Exoplanet,,,,,exoplanets.csv
+WASP-38,Exoplanet,,,,,exoplanets.csv
+WASP-39,Exoplanet,,,,,exoplanets.csv
+WASP-4,Exoplanet,,,,,exoplanets.csv
+WASP-41,Exoplanet,,,,,exoplanets.csv
+WASP-42,Exoplanet,,,,,exoplanets.csv
+WASP-43,Exoplanet,,,,,exoplanets.csv
+WASP-44,Exoplanet,,,,,exoplanets.csv
+WASP-45,Exoplanet,,,,,exoplanets.csv
+WASP-46,Exoplanet,,,,,exoplanets.csv
+WASP-47,Exoplanet,,,,,exoplanets.csv
+WASP-48,Exoplanet,,,,,exoplanets.csv
+WASP-49,Exoplanet,,,,,exoplanets.csv
+WASP-5,Exoplanet,,,,,exoplanets.csv
+WASP-50,Exoplanet,,,,,exoplanets.csv
+WASP-52,Exoplanet,,,,,exoplanets.csv
+WASP-53,Exoplanet,,,,,exoplanets.csv
+WASP-54,Exoplanet,,,,,exoplanets.csv
+WASP-55,Exoplanet,,,,,exoplanets.csv
+WASP-56,Exoplanet,,,,,exoplanets.csv
+WASP-57,Exoplanet,,,,,exoplanets.csv
+WASP-58,Exoplanet,,,,,exoplanets.csv
+WASP-59,Exoplanet,,,,,exoplanets.csv
+WASP-6,Exoplanet,,,,,exoplanets.csv
+WASP-60,Exoplanet,,,,,exoplanets.csv
+WASP-61,Exoplanet,,,,,exoplanets.csv
+WASP-62,Exoplanet,,,,,exoplanets.csv
+WASP-63,Exoplanet,,,,,exoplanets.csv
+WASP-64,Exoplanet,,,,,exoplanets.csv
+WASP-65,Exoplanet,,,,,exoplanets.csv
+WASP-66,Exoplanet,,,,,exoplanets.csv
+WASP-67,Exoplanet,,,,,exoplanets.csv
+WASP-68,Exoplanet,,,,,exoplanets.csv
+WASP-69,Exoplanet,,,,,exoplanets.csv
+WASP-7,Exoplanet,,,,,exoplanets.csv
+WASP-70 A,Exoplanet,,,,,exoplanets.csv
+WASP-71,Exoplanet,,,,,exoplanets.csv
+WASP-72,Exoplanet,,,,,exoplanets.csv
+WASP-73,Exoplanet,,,,,exoplanets.csv
+WASP-74,Exoplanet,,,,,exoplanets.csv
+WASP-75,Exoplanet,,,,,exoplanets.csv
+WASP-76,Exoplanet,,,,,exoplanets.csv
+WASP-77 A,Exoplanet,,,,,exoplanets.csv
+WASP-78,Exoplanet,,,,,exoplanets.csv
+WASP-79,Exoplanet,,,,,exoplanets.csv
+WASP-8,Exoplanet,,,,,exoplanets.csv
+WASP-80,Exoplanet,,,,,exoplanets.csv
+WASP-81,Exoplanet,,,,,exoplanets.csv
+WASP-82,Exoplanet,,,,,exoplanets.csv
+WASP-83,Exoplanet,,,,,exoplanets.csv
+WASP-84,Exoplanet,,,,,exoplanets.csv
+WASP-85 A,Exoplanet,,,,,exoplanets.csv
+WASP-87,Exoplanet,,,,,exoplanets.csv
+WASP-88,Exoplanet,,,,,exoplanets.csv
+WASP-89,Exoplanet,,,,,exoplanets.csv
+WASP-90,Exoplanet,,,,,exoplanets.csv
+WASP-91,Exoplanet,,,,,exoplanets.csv
+WASP-92,Exoplanet,,,,,exoplanets.csv
+WASP-93,Exoplanet,,,,,exoplanets.csv
+WASP-94 A,Exoplanet,,,,,exoplanets.csv
+WASP-94 B,Exoplanet,,,,,exoplanets.csv
+WASP-95,Exoplanet,,,,,exoplanets.csv
+WASP-96,Exoplanet,,,,,exoplanets.csv
+WASP-97,Exoplanet,,,,,exoplanets.csv
+WASP-98,Exoplanet,,,,,exoplanets.csv
+WASP-99,Exoplanet,,,,,exoplanets.csv
+WD 0806-661,Exoplanet,,,,,exoplanets.csv
+WD 1856+534,Exoplanet,,,,,exoplanets.csv
+WISE J033605.05-014350.4,Exoplanet,,,,,exoplanets.csv
+WISEP J121756.91+162640.2 A,Exoplanet,,,,,exoplanets.csv
+WISPIT 1,Exoplanet,,,,,exoplanets.csv
+WISPIT 2,Exoplanet,,,,,exoplanets.csv
+WTS-1,Exoplanet,,,,,exoplanets.csv
+WTS-2,Exoplanet,,,,,exoplanets.csv
+Wendelstein-1,Exoplanet,,,,,exoplanets.csv
+Wendelstein-2,Exoplanet,,,,,exoplanets.csv
+Wolf 1061,Exoplanet,,,,,exoplanets.csv
+Wolf 1069,Exoplanet,,,,,exoplanets.csv
+Wolf 327,Exoplanet,,,,,exoplanets.csv
+Wolf 503,Exoplanet,,,,,exoplanets.csv
+XEST 17-036,Exoplanet,,,,,exoplanets.csv
+XO-1,Exoplanet,,,,,exoplanets.csv
+XO-2 N,Exoplanet,,,,,exoplanets.csv
+XO-2 S,Exoplanet,,,,,exoplanets.csv
+XO-3,Exoplanet,,,,,exoplanets.csv
+XO-4,Exoplanet,,,,,exoplanets.csv
+XO-5,Exoplanet,,,,,exoplanets.csv
+XO-6,Exoplanet,,,,,exoplanets.csv
+XO-7,Exoplanet,,,,,exoplanets.csv
+YZ Cet,Exoplanet,,,,,exoplanets.csv
+ZTF J1230-2655,Exoplanet,,,,,exoplanets.csv
+ZTF J1828+2308,Exoplanet,,,,,exoplanets.csv
+alf Ari,Exoplanet,,,,,exoplanets.csv
+alf Tau,Exoplanet,,,,,exoplanets.csv
+b Cen A,Exoplanet,,,,,exoplanets.csv
+bet Cnc,Exoplanet,,,,,exoplanets.csv
+bet Pic,Exoplanet,,,,,exoplanets.csv
+bet UMi,Exoplanet,,,,,exoplanets.csv
+eps CrB,Exoplanet,,,,,exoplanets.csv
+eps Eri,Exoplanet,,,,,exoplanets.csv
+eps Ind A,Exoplanet,,,,,exoplanets.csv
+eps Tau,Exoplanet,,,,,exoplanets.csv
+gam Cep,Exoplanet,,,,,exoplanets.csv
+gam Lib,Exoplanet,,,,,exoplanets.csv
+gam Psc,Exoplanet,,,,,exoplanets.csv
+gam1 Leo,Exoplanet,,,,,exoplanets.csv
+iot Dra,Exoplanet,,,,,exoplanets.csv
+kap And,Exoplanet,,,,,exoplanets.csv
+kap CrB,Exoplanet,,,,,exoplanets.csv
+mu Leo,Exoplanet,,,,,exoplanets.csv
+mu2 Sco,Exoplanet,,,,,exoplanets.csv
+nu Oct A,Exoplanet,,,,,exoplanets.csv
+nu Oph,Exoplanet,,,,,exoplanets.csv
+ome Ser,Exoplanet,,,,,exoplanets.csv
+omi CrB,Exoplanet,,,,,exoplanets.csv
+omi UMa,Exoplanet,,,,,exoplanets.csv
+psi1 Dra B,Exoplanet,,,,,exoplanets.csv
+rho CrB,Exoplanet,,,,,exoplanets.csv
+tau Boo,Exoplanet,,,,,exoplanets.csv
+tau Cet,Exoplanet,,,,,exoplanets.csv
+tau Gem,Exoplanet,,,,,exoplanets.csv
+ups And,Exoplanet,,,,,exoplanets.csv
+ups Leo,Exoplanet,,,,,exoplanets.csv
+xi Aql,Exoplanet,,,,,exoplanets.csv
+AD Leonis,Flare,,,,,flare_stars.csv
+AU Microscopii,Flare,,,,,flare_stars.csv
+DO Cephei,Flare,,,,,flare_stars.csv
+EQ Pegasi,Flare,,,,,flare_stars.csv
+EV Lacertae,Flare,,,,,flare_stars.csv
+YZ Canis Minoris,Flare,,,,,flare_stars.csv
+Barnards Star,Nearby,,,,,nearby_stars.csv
+Lalande 21185,Nearby,,,,,nearby_stars.csv
+Ross 154,Nearby,,,,,nearby_stars.csv
+Ross 248,Nearby,,,,,nearby_stars.csv
+Wolf 359,Nearby,,,,,nearby_stars.csv
+16 Cygni A,SolarAnalog,,,,,solar_analogs.csv
+16 Cygni B,SolarAnalog,,,,,solar_analogs.csv
+18 Scorpii,SolarAnalog,,,,,solar_analogs.csv
+HD 146233,SolarAnalog,,,,,solar_analogs.csv
+EPIC 204376071,TransitAnomaly,,,,,transit_anomalies.csv
+KIC 12557548,TransitAnomaly,,,,,transit_anomalies.csv
+KIC 8462852,TransitAnomaly,,,,,transit_anomalies.csv
+Betelgeuse,Variable,,,,,variable_stars.csv
+Delta Cephei,Variable,,,,,variable_stars.csv
+Mira,Variable,,,,,variable_stars.csv
+RR Lyrae,Variable,,,,,variable_stars.csv
+Procyon B,WhiteDwarf,,,,,white_dwarfs.csv
+Ross 640,WhiteDwarf,,,,,white_dwarfs.csv
+Sirius B,WhiteDwarf,,,,,white_dwarfs.csv
+Stein 2051 B,WhiteDwarf,,,,,white_dwarfs.csv
+WD 1145+017,WhiteDwarf,,,,,white_dwarfs.csv
+Wolf 489,WhiteDwarf,,,,,white_dwarfs.csv
+WR 11,WolfRayet,,,,,wolf_rayet.csv
+WR 134,WolfRayet,,,,,wolf_rayet.csv
+WR 24,WolfRayet,,,,,wolf_rayet.csv
+WR 40,WolfRayet,,,,,wolf_rayet.csv
+WR 6,WolfRayet,,,,,wolf_rayet.csv
+TW Hydrae,YoungStar,,,,,young_stars.csv

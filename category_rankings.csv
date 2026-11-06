@@ -1,0 +1,122 @@
+category,rank,name,score,z_score
+Anomalous,1,HD 5980,0.424144,1.385825
+Anomalous,2,WR 140,0.354924,0.840170
+Anomalous,3,CK Vulpeculae,0.278348,0.236529
+Anomalous,4,P Cygni,0.248409,0.000523
+Anomalous,5,KIC 8462852,0.238722,-0.075839
+Anomalous,6,V838 Monocerotis,0.157931,-0.712707
+Anomalous,7,RY Scuti,0.035921,-1.674501
+Control,1,Tarazed,0.408106,1.346419
+Control,2,Rastaban,0.379944,1.062638
+Control,3,Ruchbah,0.377531,1.038323
+Control,4,Deneb,0.376246,1.025374
+Control,5,Alpherg,0.371520,0.977752
+Control,6,Vega,0.364638,0.908404
+Control,7,Caph,0.351009,0.771068
+Control,8,Algieba,0.350584,0.766785
+Control,9,Altair,0.347340,0.734096
+Control,10,Capella,0.343788,0.698303
+Control,11,Izar,0.340595,0.666128
+Control,12,Segin,0.338059,0.640574
+Control,13,Alioth,0.337177,0.631686
+Control,14,Arcturus,0.336172,0.621559
+Control,15,Eltanin,0.332151,0.581040
+Control,16,Mothallah,0.330105,0.560423
+Control,17,Alkaid,0.320725,0.465904
+Control,18,Scheat,0.315072,0.408940
+Control,19,Vindemiatrix,0.307386,0.331490
+Control,20,Phecda,0.306314,0.320688
+Control,21,Megrez,0.295740,0.214136
+Control,22,Polaris,0.285865,0.114629
+Control,23,Albireo,0.270550,-0.039697
+Control,24,Algenib,0.252992,-0.216624
+Control,25,Gacrux,0.238612,-0.361528
+Control,26,Canopus,0.233033,-0.417746
+Control,27,Sadalmelik,0.217539,-0.573875
+Control,28,Alshain,0.192644,-0.824735
+Control,29,Procyon,0.186964,-0.881971
+Control,30,Ascella,0.186813,-0.883493
+Control,31,Achernar,0.157934,-1.174499
+Control,32,Sirius,0.139346,-1.361805
+Control,33,Zubeneschamali,0.106893,-1.688826
+Control,34,Zubenelgenubi,0.080872,-1.951033
+Control,35,Sadalsuud,0.055321,-2.208503
+Control,36,Rigel,0.046040,-2.302026
+DebrisDisk,1,HD 32297,0.384360,1.550381
+DebrisDisk,2,HIP 73145,0.304144,0.839500
+DebrisDisk,3,HD 107146,0.293357,0.743905
+DebrisDisk,4,HR 8799,0.288044,0.696821
+DebrisDisk,5,HD 181327,0.200127,-0.082307
+DebrisDisk,6,Beta Pictoris,0.196015,-0.118747
+DebrisDisk,7,HD 172555,0.194456,-0.132563
+DebrisDisk,8,HD 95086,0.133555,-0.672273
+DebrisDisk,9,49 Ceti,0.098754,-0.980682
+DebrisDisk,10,HD 69830,0.001333,-1.844035
+Exoplanet,1,Ross 128,0.839479,1.897192
+Exoplanet,2,TOI-270,0.724836,1.322235
+Exoplanet,3,HD 219134,0.703734,1.216404
+Exoplanet,4,Wolf 1061,0.640134,0.897437
+Exoplanet,5,Kepler-444,0.639131,0.892407
+Exoplanet,6,TOI-178,0.537815,0.384287
+Exoplanet,7,HD 189733,0.526233,0.326201
+Exoplanet,8,Kepler-62f,0.522292,0.306436
+Exoplanet,9,Kepler-1649,0.504899,0.219207
+Exoplanet,10,Kepler-186,0.488249,0.135704
+Exoplanet,11,GJ 9827,0.454578,-0.033163
+Exoplanet,12,Kepler-438,0.451638,-0.047908
+Exoplanet,13,Kepler-440,0.431139,-0.150715
+Exoplanet,14,Kepler-20,0.377425,-0.420101
+Exoplanet,15,Kepler-11,0.361820,-0.498363
+Exoplanet,16,LTT 1445A,0.330919,-0.653338
+Exoplanet,17,Kepler-69,0.328489,-0.665525
+Exoplanet,18,TOI-1338,0.154412,-1.538556
+Exoplanet,19,HD 40307,0.125637,-1.682868
+Exoplanet,20,TRAPPIST-1,0.080952,-1.906973
+Flare,1,AU Microscopii,0.846708,1.443783
+Flare,2,EQ Pegasi,0.668712,0.729498
+Flare,3,DO Cephei,0.648419,0.648064
+Flare,4,YZ CMi,0.614534,0.512086
+Flare,5,EV Lacertae,0.601969,0.461663
+Flare,6,AD Leonis,0.522444,0.142536
+Flare,7,BL Ceti,0.479820,-0.028511
+Flare,8,V1054 Ophiuchi,0.282812,-0.819090
+Flare,9,UV Ceti,0.127929,-1.440624
+Flare,10,CN Leonis,0.075902,-1.649405
+Nearby,1,Barnards Star,0.646981,1.154455
+Nearby,2,Proxima Centauri,0.115670,-0.556620
+Nearby,3,Tau Ceti,0.102872,-0.597835
+SolarAnalog,1,16 Cygni B,0.369685,1.176090
+SolarAnalog,2,16 Cygni A,0.364235,1.130407
+SolarAnalog,3,Beta Canum Venaticorum,0.339048,0.919284
+SolarAnalog,4,HD 98618,0.320110,0.760542
+SolarAnalog,5,HIP 56948,0.298441,0.578908
+SolarAnalog,6,Alpha Centauri B,0.154982,-0.623596
+SolarAnalog,7,Alpha Centauri A,0.151806,-0.650218
+SolarAnalog,8,61 Virginis,0.137153,-0.773043
+SolarAnalog,9,18 Scorpii,0.079156,-1.259186
+SolarAnalog,10,HD 146233,0.079156,-1.259186
+TransitAnomaly,1,EPIC 204376071,0.746757,1.546421
+TransitAnomaly,2,KIC 12557548,0.488789,0.434192
+TransitAnomaly,3,Kepler-1520,0.488789,0.434192
+TransitAnomaly,4,K2-22,0.301680,-0.372529
+TransitAnomaly,5,HD 139139,0.165270,-0.960660
+TransitAnomaly,6,PDS 110,0.137216,-1.081615
+Variable,1,Delta Cephei,0.727863,1.074654
+Variable,2,Betelgeuse,0.335773,-0.171487
+Variable,3,Mira,0.105555,-0.903167
+WhiteDwarf,1,Ross 640,0.751709,2.264199
+WhiteDwarf,2,WD 1145+017,0.269438,0.100919
+WhiteDwarf,3,Stein 2051 B,0.261147,0.063729
+WhiteDwarf,4,Wolf 489,0.249052,0.009476
+WhiteDwarf,5,Procyon B,0.200096,-0.210122
+WhiteDwarf,6,Sirius B,0.144488,-0.459557
+WhiteDwarf,7,40 Eridani B,0.081192,-0.743478
+WhiteDwarf,8,EGGR 78,0.018394,-1.025166
+YoungStar,1,LkCa 15,0.303428,1.258843
+YoungStar,2,AB Aurigae,0.273819,0.767559
+YoungStar,3,RW Aurigae,0.256377,0.478154
+YoungStar,4,GM Aurigae,0.252889,0.420279
+YoungStar,5,UX Tauri,0.244154,0.275345
+YoungStar,6,PDS 70,0.210549,-0.282243
+YoungStar,7,TW Hydrae,0.143500,-1.394747
+YoungStar,8,HD 100546,0.135759,-1.523189

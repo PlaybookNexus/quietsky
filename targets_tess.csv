@@ -1,0 +1,4467 @@
+name,search_method,n_products,n_authors
+11 Com,name,5,4
+11 UMi,name,82,5
+14 And,coordinate,1,1
+14 Her,name,33,4
+16 Cyg B,name,70,4
+16 Cygni A,name,64,5
+16 Cygni B,name,70,4
+17 Sco,name,3,3
+18 Del,name,8,4
+18 Scorpii,name,4,3
+1RXS J160929.1-210524,coordinate,3,1
+24 Boo,coordinate,4,1
+24 Sex,name,32,6
+2MASS J01033563-5515561 A,coordinate,41,2
+2MASS J01225093-2439505,coordinate,3,3
+2MASS J02192210-3925225,coordinate,14,3
+2MASS J03590986+2009361,name,12,4
+2MASS J04372171+2651014,coordinate,10,3
+2MASS J04414489+2301513,coordinate,2,1
+2MASS J11011926-7732383,coordinate,3,1
+2MASS J11550485-7919108,coordinate,3,2
+2MASS J12073346-3932539,coordinate,22,4
+2MASS J16262785-2625152,name,3,3
+2MASS J19383260+4603591,name,48,6
+2MASS J21252752-8138278,coordinate,30,6
+2MASS J22362452+4751425,coordinate,3,1
+2MASS J22501512+2325342,name,7,4
+4 UMa,name,16,4
+47 UMa,coordinate,10,2
+49 Ceti,name,16,7
+51 Eri,name,15,7
+51 Peg,name,10,4
+55 Cnc,coordinate,2,1
+55 Cnc B,name,12,3
+6 Lyn,name,13,4
+61 Vir,coordinate,3,1
+7 CMa,name,11,7
+70 Vir,name,8,4
+75 Cet,name,13,7
+8 UMi,name,72,5
+81 Cet,coordinate,1,1
+91 Aqr,coordinate,2,1
+AB Aur,name,29,6
+AB Pic,name,236,10
+AD Leonis,name,21,4
+AF Lep,coordinate,3,3
+alf Ari,name,12,2
+alf Tau,coordinate,2,1
+Algol,coordinate,2,1
+AU Mic,coordinate,3,3
+AU Microscopii,coordinate,3,3
+b Cen A,coordinate,10,4
+Barnard's star,coordinate,3,3
+BD+03 2562,coordinate,3,3
+BD+05 4868 A,name,8,3
+BD+14 4559,coordinate,33,5
+BD+15 2375,name,16,4
+BD+15 2940,name,6,5
+BD+20 2457,name,17,4
+BD+20 274,name,29,4
+BD+20 594,coordinate,21,3
+BD+37 3172,name,26,5
+BD+42 2315,coordinate,4,1
+BD+45 564,coordinate,6,1
+BD+48 738,name,6,3
+BD+48 740,coordinate,7,1
+BD+49 828,coordinate,21,3
+BD+55 362,coordinate,203,4
+BD+60 1417,coordinate,6,1
+BD+63 1405,name,148,5
+BD-06 1339,name,12,6
+BD-08 2823,name,15,6
+BD-10 3166,name,16,8
+BD-11 4672,name,7,4
+BD-13 2130,name,17,8
+BD-17 63,coordinate,39,5
+BD-210397,coordinate,3,3
+BEBOP-3,name,43,5
+bet Cnc,name,39,6
+bet Pic,coordinate,38,6
+bet UMi,name,37,3
+Beta Lyrae,name,38,5
+Beta Pictoris,coordinate,38,6
+Betelgeuse,name,10,6
+CD Cet,name,11,5
+CD-35 2722 B,coordinate,6,2
+CFHTWIR-Oph 98 A,coordinate,53,6
+CHXR 73,coordinate,5,4
+CI Tau,coordinate,9,2
+CoRoT-1,coordinate,3,3
+CoRoT-10,coordinate,5,4
+CoRoT-11,name,3,3
+CoRoT-12,coordinate,12,7
+CoRoT-13,coordinate,27,5
+CoRoT-14,coordinate,27,5
+CoRoT-16,name,2,2
+CoRoT-17,coordinate,2,1
+CoRoT-18,coordinate,9,5
+CoRoT-19,name,13,7
+CoRoT-2,coordinate,11,6
+CoRoT-20,name,14,7
+CoRoT-21,coordinate,5,4
+CoRoT-22,name,3,3
+CoRoT-23,coordinate,1,1
+CoRoT-24,coordinate,3,3
+CoRoT-25,name,2,2
+CoRoT-26,coordinate,1,1
+CoRoT-28,name,3,3
+CoRoT-29,coordinate,1,1
+CoRoT-3,coordinate,5,4
+CoRoT-30,name,2,2
+CoRoT-31,name,5,5
+CoRoT-32,coordinate,9,5
+CoRoT-4,name,16,8
+CoRoT-5,coordinate,8,4
+CoRoT-6,name,3,3
+CoRoT-7,coordinate,3,2
+CoRoT-8,name,9,5
+CoRoT-9,name,4,4
+CT Cha,coordinate,1,1
+CWISEP J193518.59-154620.3,coordinate,10,4
+DE CVn,name,25,5
+Delta Cephei,coordinate,5,3
+DENIS-P J082303.1-491201,name,6,2
+DH Tau,coordinate,15,3
+DMPP-1,name,18,9
+DMPP-2,coordinate,2,1
+DMPP-3 A,coordinate,9,2
+DMPP-4,name,68,5
+DO Cephei,coordinate,4,1
+DP Leo,name,8,2
+DS Tuc A,coordinate,8,2
+Elias 2-24,coordinate,19,6
+EPIC 201170410,name,12,6
+EPIC 201238110,name,4,4
+EPIC 201497682,name,14,5
+EPIC 201595106,name,7,4
+EPIC 201757695,coordinate,9,6
+EPIC 201841433,coordinate,21,4
+EPIC 204376071,name,2,2
+EPIC 206024342,coordinate,6,1
+EPIC 206032309,coordinate,7,4
+EPIC 206042996,name,6,4
+EPIC 206215704,name,1,1
+EPIC 206317286,name,8,5
+EPIC 211822797,name,14,5
+EPIC 211945201,name,21,5
+EPIC 212297394,name,6,3
+EPIC 212424622,coordinate,14,4
+EPIC 212499991,coordinate,6,3
+EPIC 212587672,name,4,3
+EPIC 212624936,name,2,2
+EPIC 212737443,name,2,2
+EPIC 220492298,name,6,3
+EPIC 220674823,coordinate,7,4
+EPIC 228836835,name,6,4
+EPIC 229004835,name,7,4
+EPIC 246851721,coordinate,35,5
+EPIC 248847494,name,11,4
+EPIC 249893012,name,3,3
+eps CrB,coordinate,2,1
+eps Eri,coordinate,3,3
+eps Ind A,coordinate,10,2
+eps Tau,coordinate,14,2
+EQ Pegasi,name,12,4
+EV Lacertae,name,24,4
+Fomalhaut,coordinate,40,4
+FU Tau,coordinate,12,2
+G 192-15,coordinate,2,1
+G 196-3,coordinate,6,2
+G 261-6,coordinate,12,2
+G 264-012,name,38,4
+G 268-110,coordinate,2,1
+G 9-40,name,21,5
+Gaia-1,name,12,7
+Gaia-2,name,21,4
+Gaia-4,coordinate,2,1
+Gaia-5,name,28,5
+gam Cep,coordinate,46,2
+gam Lib,coordinate,6,2
+gam Psc,name,12,4
+gam1 Leo,coordinate,3,1
+GJ 1002,coordinate,10,6
+GJ 1061,coordinate,23,6
+GJ 1132,coordinate,34,4
+GJ 1148,name,17,5
+GJ 1151,name,10,3
+GJ 1214,coordinate,1,1
+GJ 1252,coordinate,3,1
+GJ 1265,coordinate,2,1
+GJ 1289,name,12,4
+GJ 143,name,86,7
+GJ 15 A,name,10,3
+GJ 160.2,name,13,7
+GJ 163,coordinate,46,3
+GJ 179,name,15,7
+GJ 180,coordinate,3,3
+GJ 2030,coordinate,12,6
+GJ 2056,coordinate,3,3
+GJ 2126,coordinate,18,3
+GJ 229,name,16,6
+GJ 238,coordinate,4,4
+GJ 251,coordinate,6,1
+GJ 27.1,coordinate,28,5
+GJ 273,coordinate,2,1
+GJ 3021,coordinate,112,8
+GJ 3082,coordinate,10,2
+GJ 3090,coordinate,9,4
+GJ 3138,coordinate,31,4
+GJ 317,name,26,6
+GJ 3222,name,56,7
+GJ 328,name,18,6
+GJ 3293,coordinate,1,1
+GJ 3323,name,25,7
+GJ 3341,coordinate,34,5
+GJ 3378,coordinate,6,1
+GJ 338 B,coordinate,27,2
+GJ 341,coordinate,2,1
+GJ 3470,coordinate,6,3
+GJ 3473,name,18,6
+GJ 3512,name,13,4
+GJ 357,name,26,8
+GJ 3634,coordinate,10,4
+GJ 367,coordinate,5,4
+GJ 3779,coordinate,5,1
+GJ 3929,coordinate,2,1
+GJ 393,name,32,5
+GJ 3942,coordinate,3,1
+GJ 3988,name,53,5
+GJ 3998,coordinate,8,1
+GJ 411,coordinate,2,1
+GJ 414 A,coordinate,2,1
+GJ 422,name,19,4
+GJ 4274,name,21,4
+GJ 4276,coordinate,10,2
+GJ 433,coordinate,32,6
+GJ 436,coordinate,16,3
+GJ 463,coordinate,89,4
+GJ 480,name,7,6
+GJ 486,name,12,5
+GJ 504,coordinate,24,4
+GJ 508.2,name,10,4
+GJ 514,name,6,3
+GJ 536,coordinate,1,1
+GJ 581,name,10,5
+GJ 625,name,62,5
+GJ 649,name,16,5
+GJ 667 C,coordinate,2,2
+GJ 674,coordinate,1,1
+GJ 676 A,coordinate,24,8
+GJ 680,name,20,5
+GJ 682,name,14,6
+GJ 685,name,208,7
+GJ 687,name,130,5
+GJ 720 A,name,42,5
+GJ 724,name,8,4
+GJ 740,name,10,5
+GJ 806,coordinate,15,4
+GJ 832,coordinate,41,4
+GJ 849,name,16,5
+GJ 86,coordinate,26,4
+GJ 876,coordinate,38,5
+GJ 887,coordinate,3,3
+GJ 896 A,name,12,4
+GJ 9066,coordinate,16,4
+GJ 9404,name,9,4
+GJ 96,name,15,5
+GJ 9689,name,8,4
+GJ 9714,name,23,6
+GJ 9773,name,10,5
+GJ 9827,name,15,5
+Gl 378,coordinate,9,1
+Gl 410,name,4,4
+Gl 49,name,24,5
+Gl 686,coordinate,2,1
+Gl 725 A,coordinate,6,1
+Gl 725 B,coordinate,6,1
+Gliese 12,name,23,4
+Gliese 48,coordinate,6,1
+GPX-1,coordinate,3,1
+GQ Lup,coordinate,12,5
+GU Psc,coordinate,17,4
+HAT-P-1,name,24,6
+HAT-P-11,name,64,6
+HAT-P-12,name,30,6
+HAT-P-13,coordinate,2,1
+HAT-P-14,coordinate,40,4
+HAT-P-15,coordinate,67,4
+HAT-P-16,name,15,6
+HAT-P-17,coordinate,2,1
+HAT-P-18,name,17,6
+HAT-P-19,name,15,6
+HAT-P-2,coordinate,6,1
+HAT-P-20,coordinate,6,2
+HAT-P-21,name,11,6
+HAT-P-22,name,19,6
+HAT-P-23,coordinate,4,1
+HAT-P-24,name,42,9
+HAT-P-25,coordinate,11,5
+HAT-P-26,coordinate,2,1
+HAT-P-27,coordinate,19,4
+HAT-P-28,name,8,4
+HAT-P-29,name,14,5
+HAT-P-3,name,24,6
+HAT-P-30,coordinate,8,7
+HAT-P-31,name,28,6
+HAT-P-32,coordinate,3,1
+HAT-P-33,coordinate,6,2
+HAT-P-34,name,25,6
+HAT-P-35,coordinate,14,8
+HAT-P-36,coordinate,22,3
+HAT-P-37,coordinate,53,4
+HAT-P-38,name,13,5
+HAT-P-39,coordinate,5,1
+HAT-P-4,name,25,5
+HAT-P-40,name,34,6
+HAT-P-41,coordinate,7,2
+HAT-P-42,name,41,9
+HAT-P-43,name,31,7
+HAT-P-44,coordinate,45,4
+HAT-P-45,coordinate,3,1
+HAT-P-46,coordinate,17,5
+HAT-P-47,name,13,6
+HAT-P-49,coordinate,2,1
+HAT-P-5,coordinate,3,2
+HAT-P-50,coordinate,2,1
+HAT-P-51,coordinate,9,2
+HAT-P-52,coordinate,4,1
+HAT-P-53,coordinate,11,3
+HAT-P-54,coordinate,4,1
+HAT-P-55,name,24,5
+HAT-P-56,coordinate,3,1
+HAT-P-57,coordinate,8,3
+HAT-P-58,coordinate,18,2
+HAT-P-59,coordinate,8,1
+HAT-P-6,coordinate,43,3
+HAT-P-60,name,13,5
+HAT-P-61,coordinate,4,1
+HAT-P-62,name,11,4
+HAT-P-63,name,4,4
+HAT-P-64,name,13,8
+HAT-P-65,name,7,4
+HAT-P-66,coordinate,11,2
+HAT-P-67,coordinate,1,1
+HAT-P-68,coordinate,2,1
+HAT-P-69,name,22,8
+HAT-P-7,coordinate,6,2
+HAT-P-70,name,18,9
+HAT-P-8,name,10,4
+HAT-P-9,name,15,6
+HATS-1,coordinate,9,3
+HATS-10,coordinate,1,1
+HATS-11,name,2,2
+HATS-12,name,2,2
+HATS-13,coordinate,21,6
+HATS-14,name,20,7
+HATS-15,name,1,1
+HATS-16,name,23,8
+HATS-17,name,32,8
+HATS-18,name,23,7
+HATS-2,coordinate,16,4
+HATS-22,coordinate,6,3
+HATS-23,coordinate,6,3
+HATS-24,coordinate,206,6
+HATS-25,name,16,7
+HATS-26,coordinate,1,1
+HATS-27,name,22,7
+HATS-28,coordinate,4,1
+HATS-29,coordinate,14,6
+HATS-3,name,13,8
+HATS-30,coordinate,114,5
+HATS-31,coordinate,4,4
+HATS-32,name,15,7
+HATS-33,coordinate,153,5
+HATS-34,coordinate,2,1
+HATS-35,coordinate,102,5
+HATS-36,name,1,1
+HATS-37 A,coordinate,41,5
+HATS-38,name,28,9
+HATS-39,coordinate,14,2
+HATS-4,name,22,9
+HATS-40,name,19,8
+HATS-41,coordinate,26,4
+HATS-42,coordinate,12,4
+HATS-43,coordinate,35,5
+HATS-44,coordinate,11,4
+HATS-45,name,21,8
+HATS-46,coordinate,31,3
+HATS-47,coordinate,9,4
+HATS-48 A,coordinate,10,4
+HATS-49,coordinate,47,4
+HATS-5,name,24,10
+HATS-50,name,2,2
+HATS-51,coordinate,25,5
+HATS-52,name,27,7
+HATS-53,coordinate,23,6
+HATS-54,coordinate,38,4
+HATS-55,coordinate,74,3
+HATS-56,coordinate,12,3
+HATS-57,coordinate,3,3
+HATS-58 A,coordinate,29,6
+HATS-59,name,19,7
+HATS-6,name,28,9
+HATS-60,coordinate,38,5
+HATS-61,name,21,8
+HATS-62,coordinate,6,4
+HATS-63,coordinate,5,1
+HATS-64,name,13,4
+HATS-65,name,3,3
+HATS-66,coordinate,13,5
+HATS-67,coordinate,6,3
+HATS-68,coordinate,54,4
+HATS-69,coordinate,8,1
+HATS-7,coordinate,2,1
+HATS-70,coordinate,8,4
+HATS-71,coordinate,26,2
+HATS-72,name,22,10
+HATS-74 A,name,21,8
+HATS-75,name,28,10
+HATS-76,name,25,9
+HATS-77,coordinate,6,3
+HATS-8,coordinate,36,4
+HATS-9,name,2,2
+HD 100508,coordinate,87,4
+HD 100546,coordinate,697,5
+HD 100655,coordinate,10,2
+HD 100777,coordinate,14,6
+HD 10180,name,49,9
+HD 101930,coordinate,74,5
+HD 102117,coordinate,40,4
+HD 102195,coordinate,10,4
+HD 102272,name,20,5
+HD 102329,coordinate,3,3
+HD 102843,coordinate,9,3
+HD 102888,coordinate,16,4
+HD 102956,name,34,6
+HD 103197,coordinate,58,6
+HD 103720,name,5,5
+HD 103774,name,27,7
+HD 103891,coordinate,3,3
+HD 103949,coordinate,13,6
+HD 104067,name,22,6
+HD 10442,name,20,5
+HD 104985,name,47,5
+HD 105618,name,11,4
+HD 105779,coordinate,1,1
+HD 106252,name,15,5
+HD 106270,name,20,8
+HD 106315,name,8,5
+HD 10647,coordinate,43,7
+HD 106515 A,coordinate,4,2
+HD 106906,coordinate,41,2
+HD 10697,name,29,4
+HD 107148,name,9,5
+HD 108147,coordinate,2,2
+HD 108202,coordinate,1,1
+HD 108236,coordinate,5,2
+HD 108341,coordinate,24,4
+HD 108863,coordinate,16,4
+HD 108874,coordinate,8,2
+HD 109246,coordinate,2,1
+HD 109271,name,20,8
+HD 109286,coordinate,4,1
+HD 109749,name,19,8
+HD 10975,coordinate,1,1
+HD 109833,coordinate,2,1
+HD 109988,coordinate,5,4
+HD 110014,coordinate,2,1
+HD 110067,name,9,4
+HD 110082,coordinate,12,4
+HD 110113,name,24,8
+HD 11112,name,24,6
+HD 111232,name,23,7
+HD 111591,name,10,4
+HD 111998,name,8,4
+HD 112300,coordinate,16,8
+HD 112570,coordinate,3,1
+HD 112640,coordinate,18,3
+HD 113337,name,42,5
+HD 113538,name,12,5
+HD 113996,coordinate,6,2
+HD 114082,coordinate,114,4
+HD 114386,name,12,6
+HD 114729,coordinate,26,6
+HD 114783,coordinate,2,1
+HD 11505,name,7,4
+HD 11506,coordinate,12,7
+HD 115404 A,coordinate,13,3
+HD 115954,name,17,4
+HD 116029,name,10,5
+HD 117207,name,23,7
+HD 11755,coordinate,1,1
+HD 117618,coordinate,9,3
+HD 118203,coordinate,6,2
+HD 11964,coordinate,3,3
+HD 11977,name,26,7
+HD 120084,name,57,5
+HD 121504,coordinate,44,3
+HD 12235,coordinate,10,4
+HD 122562,coordinate,2,1
+HD 124330,coordinate,12,2
+HD 12484,coordinate,26,5
+HD 125136,coordinate,15,5
+HD 125271,coordinate,28,6
+HD 125390,coordinate,3,1
+HD 125595,name,14,6
+HD 125612,coordinate,3,3
+HD 126105,coordinate,4,3
+HD 12648,name,35,5
+HD 126525,coordinate,14,4
+HD 12661,name,23,5
+HD 126614,name,7,5
+HD 127195,coordinate,10,4
+HD 127506,coordinate,11,4
+HD 128311,coordinate,31,7
+HD 128356,name,18,7
+HD 128717,name,25,5
+HD 129445,name,21,6
+HD 130322,coordinate,5,4
+HD 131496,coordinate,5,1
+HD 13167,coordinate,81,6
+HD 13189,name,6,3
+HD 132406,coordinate,3,2
+HD 132563,coordinate,2,2
+HD 133131 A,coordinate,11,4
+HD 133131 B,coordinate,3,3
+HD 134060,coordinate,194,6
+HD 134606,coordinate,29,3
+HD 134987,coordinate,15,6
+HD 135344 A,coordinate,12,4
+HD 135625,coordinate,8,3
+HD 135694,name,93,6
+HD 135872,name,2,2
+HD 136118,coordinate,2,1
+HD 136352,coordinate,24,4
+HD 136418,name,30,5
+HD 136925,coordinate,1,1
+HD 13724,coordinate,39,5
+HD 137388,coordinate,2,1
+HD 137496,name,3,3
+HD 13808,coordinate,149,5
+HD 13908,name,38,5
+HD 13931,name,11,5
+HD 139357,name,32,4
+HD 1397,coordinate,31,3
+HD 14067,name,21,4
+HD 140901,coordinate,6,3
+HD 141004,name,5,4
+HD 141399,coordinate,2,1
+HD 141937,coordinate,24,8
+HD 142,name,36,6
+HD 142022 A,coordinate,10,3
+HD 142245,name,3,2
+HD 142415,coordinate,5,4
+HD 143105,coordinate,2,1
+HD 143361,coordinate,7,4
+HD 144899,coordinate,5,4
+HD 145377,name,4,3
+HD 145457,name,20,4
+HD 145934,name,5,5
+HD 1461,name,18,6
+HD 146233,name,4,3
+HD 147018,coordinate,1,1
+HD 147379,coordinate,17,3
+HD 147513,coordinate,28,3
+HD 14787,name,18,5
+HD 147873,coordinate,12,3
+HD 148156,coordinate,37,6
+HD 148164,coordinate,6,1
+HD 148427,coordinate,32,6
+HD 148797,coordinate,112,4
+HD 149026,name,31,6
+HD 150010,name,172,5
+HD 1502,name,20,5
+HD 150706,coordinate,9,1
+HD 151450,coordinate,4,2
+HD 152079,coordinate,19,3
+HD 152843,name,13,4
+HD 15337,name,35,9
+HD 153557,coordinate,12,2
+HD 153950,coordinate,20,2
+HD 154088,coordinate,5,2
+HD 154345,name,53,5
+HD 154391,name,172,5
+HD 154672,coordinate,10,2
+HD 154857,coordinate,29,2
+HD 155358,coordinate,21,4
+HD 155918,coordinate,1,1
+HD 156098,coordinate,18,3
+HD 156279,coordinate,6,1
+HD 156411,coordinate,8,2
+HD 156668,coordinate,26,3
+HD 156846,name,5,3
+HD 158038,name,19,6
+HD 158259,coordinate,16,1
+HD 158996,coordinate,22,2
+HD 15906,coordinate,1,1
+HD 159243,coordinate,8,2
+HD 159868,name,10,5
+HD 1605,coordinate,6,1
+HD 160691,coordinate,12,1
+HD 161178,coordinate,29,3
+HD 16175,name,13,5
+HD 162020,coordinate,2,2
+HD 163607,coordinate,9,3
+HD 16417,coordinate,6,2
+HD 164509,coordinate,27,7
+HD 164595,coordinate,5,1
+HD 164604,coordinate,20,4
+HD 164922,name,18,4
+HD 165131,coordinate,42,5
+HD 165155,coordinate,31,5
+HD 1666,name,9,5
+HD 166724,coordinate,40,4
+HD 167042,name,166,5
+HD 16760,name,15,5
+HD 167677,name,8,4
+HD 167768,name,4,4
+HD 168009,name,52,5
+HD 168443,name,5,4
+HD 168746,coordinate,2,1
+HD 168863,coordinate,27,6
+HD 1690,coordinate,8,4
+HD 16905,coordinate,49,4
+HD 169142,name,11,6
+HD 169830,name,13,5
+HD 170469,coordinate,3,2
+HD 17092,name,9,4
+HD 171238,name,4,3
+HD 17156,name,39,5
+HD 173416,coordinate,9,2
+HD 174205,name,160,5
+HD 175167,coordinate,6,2
+HD 175541,name,4,4
+HD 175607,coordinate,19,4
+HD 17674,coordinate,27,4
+HD 176986,name,9,4
+HD 177565,coordinate,14,6
+HD 177830,coordinate,4,2
+HD 178911 B,coordinate,6,2
+HD 179079,coordinate,8,3
+HD 179949,name,4,3
+HD 180053,coordinate,1,1
+HD 18015,coordinate,6,2
+HD 180314,coordinate,1,1
+HD 180617,name,11,3
+HD 180902,name,3,3
+HD 181234,name,12,5
+HD 181342,coordinate,5,4
+HD 18143,coordinate,15,2
+HD 181433,coordinate,9,3
+HD 181720,coordinate,2,1
+HD 183263,coordinate,4,1
+HD 183579,name,23,6
+HD 184010,name,23,5
+HD 18438,coordinate,14,1
+HD 185269,name,18,4
+HD 185283,coordinate,19,3
+HD 18599,coordinate,2,1
+HD 187085,coordinate,27,5
+HD 187123,name,41,6
+HD 18742,name,15,9
+HD 188015,name,36,5
+HD 188641,coordinate,3,3
+HD 189567,coordinate,57,5
+HD 189733,name,20,5
+HD 190007,name,9,4
+HD 190228,name,30,6
+HD 190360,name,28,4
+HD 190647,name,14,5
+HD 190984,coordinate,17,2
+HD 191806,name,55,6
+HD 191939,name,150,7
+HD 192263,name,11,5
+HD 192310,name,8,4
+HD 192699,name,8,4
+HD 194490,coordinate,1,1
+HD 195019,coordinate,8,2
+HD 196050,coordinate,2,1
+HD 196067,name,39,5
+HD 19615,coordinate,10,1
+HD 196885 A,name,9,4
+HD 197037,coordinate,11,2
+HD 199509,coordinate,27,3
+HD 19994,name,13,7
+HD 20003,coordinate,4,3
+HD 200964,name,8,4
+HD 202206,coordinate,51,7
+HD 202696,name,17,6
+HD 202772 A,coordinate,21,3
+HD 203030,coordinate,15,3
+HD 20329,coordinate,18,3
+HD 203387,coordinate,12,3
+HD 2039,name,43,9
+HD 204313,coordinate,20,5
+HD 204941,coordinate,11,4
+HD 205158,coordinate,132,4
+HD 205739,coordinate,13,6
+HD 206255,coordinate,31,5
+HD 206610,name,3,3
+HD 207496,coordinate,8,1
+HD 20781,name,17,7
+HD 20782,name,12,6
+HD 207832,coordinate,5,2
+HD 207897,name,91,6
+HD 20794,coordinate,2,1
+HD 208487,coordinate,29,3
+HD 208527,name,8,4
+HD 20868,name,14,7
+HD 208897,name,8,4
+HD 209458,coordinate,9,2
+HD 210193,name,22,9
+HD 210277,coordinate,4,2
+HD 210702,coordinate,7,3
+HD 211403,coordinate,8,1
+HD 211810,name,24,6
+HD 211970,name,25,7
+HD 212301,coordinate,4,3
+HD 212771,coordinate,3,3
+HD 213240,name,30,7
+HD 213472,coordinate,8,1
+HD 213519,coordinate,6,3
+HD 213885,coordinate,44,7
+HD 21411,name,13,7
+HD 214823,coordinate,18,2
+HD 215152,name,14,5
+HD 21520,coordinate,15,5
+HD 215497,name,36,9
+HD 216435,coordinate,27,4
+HD 216437,coordinate,33,3
+HD 216520,coordinate,14,2
+HD 216536,coordinate,6,2
+HD 216770,coordinate,101,6
+HD 21693,coordinate,89,7
+HD 217107,coordinate,6,3
+HD 217786,coordinate,6,3
+HD 217958,coordinate,9,4
+HD 218566,name,14,5
+HD 219077,coordinate,80,4
+HD 219134,name,18,3
+HD 219139,name,8,4
+HD 219415,name,16,5
+HD 219666,coordinate,23,4
+HD 219828,coordinate,2,1
+HD 220074,coordinate,2,1
+HD 220197,coordinate,4,3
+HD 220689,name,19,6
+HD 220773,coordinate,4,3
+HD 220842,coordinate,28,4
+HD 221287,coordinate,58,4
+HD 221416,coordinate,1,1
+HD 221420,coordinate,10,1
+HD 221585,name,40,5
+HD 222076,name,31,8
+HD 222155,coordinate,59,6
+HD 222237,coordinate,15,3
+HD 222582,name,14,5
+HD 224018,name,10,4
+HD 224538,name,36,9
+HD 224693,name,22,9
+HD 22496,name,25,6
+HD 22532,name,23,8
+HD 22781,name,23,5
+HD 22946,coordinate,19,5
+HD 23079,coordinate,90,5
+HD 23127,name,56,9
+HD 231701,coordinate,11,4
+HD 233604,name,10,4
+HD 233832,coordinate,6,1
+HD 23472,name,111,10
+HD 235088,coordinate,6,1
+HD 23596,coordinate,2,1
+HD 238090,name,37,6
+HD 238914,name,128,5
+HD 240210,name,16,5
+HD 240237,name,12,4
+HD 24040,coordinate,3,1
+HD 24064,name,33,5
+HD 24085,name,195,9
+HD 25015,name,25,9
+HD 25171,coordinate,63,5
+HD 25463,name,34,8
+HD 25723,coordinate,5,3
+HD 25912,name,44,8
+HD 260655,coordinate,3,1
+HD 26161,name,32,4
+HD 2638,coordinate,29,5
+HD 2685,coordinate,41,4
+HD 27442,coordinate,49,3
+HD 27631,coordinate,16,2
+HD 278555,name,11,4
+HD 27894,coordinate,6,1
+HD 27969,coordinate,11,2
+HD 28109,coordinate,29,3
+HD 28185,coordinate,2,1
+HD 28192,coordinate,3,1
+HD 28254,coordinate,17,3
+HD 28471,coordinate,17,4
+HD 285507,coordinate,8,5
+HD 285968,coordinate,2,1
+HD 28678,name,16,9
+HD 29021,coordinate,13,3
+HD 290327,coordinate,18,7
+HD 29399,coordinate,12,5
+HD 2952,coordinate,2,1
+HD 29985,coordinate,6,3
+HD 30177,coordinate,9,4
+HD 30562,name,14,6
+HD 30669,coordinate,7,4
+HD 307842,coordinate,19,1
+HD 30856,name,15,9
+HD 31253,name,34,9
+HD 31527,coordinate,5,4
+HD 3167,name,4,4
+HD 32297,name,12,7
+HD 32518,name,22,4
+HD 32963,name,16,5
+HD 330075,name,15,6
+HD 331093,name,37,6
+HD 33142,name,16,9
+HD 332231,coordinate,4,1
+HD 33283,coordinate,3,3
+HD 33564,coordinate,2,1
+HD 33844,name,12,7
+HD 34445,coordinate,9,3
+HD 35759,name,19,5
+HD 35843,coordinate,35,5
+HD 360,coordinate,2,1
+HD 36384,coordinate,19,3
+HD 3651,coordinate,9,2
+HD 37124,name,26,5
+HD 37605,name,10,7
+HD 3765,name,12,4
+HD 38283,coordinate,12,2
+HD 38529,name,11,7
+HD 38801,name,16,9
+HD 39091,coordinate,7,2
+HD 39194,coordinate,69,3
+HD 39855,name,18,8
+HD 40307,coordinate,46,3
+HD 40956,coordinate,114,4
+HD 40979,coordinate,12,1
+HD 41004 A,coordinate,15,2
+HD 41004 B,coordinate,15,2
+HD 4113,name,29,9
+HD 42012,coordinate,22,3
+HD 4203,name,11,5
+HD 4208,name,13,7
+HD 42618,name,8,4
+HD 4308,coordinate,90,5
+HD 4313,name,10,5
+HD 43197,coordinate,6,5
+HD 43691,coordinate,11,2
+HD 44219,name,19,9
+HD 45184,coordinate,3,2
+HD 45350,name,12,5
+HD 45364,name,23,8
+HD 45652,name,30,9
+HD 457,name,16,4
+HD 46375,name,5,3
+HD 47186,name,22,7
+HD 4732,coordinate,25,6
+HD 47366,coordinate,5,4
+HD 47536,coordinate,21,8
+HD 4760,name,3,3
+HD 48265,name,47,9
+HD 48948,coordinate,3,1
+HD 4917,name,13,9
+HD 49674,coordinate,6,2
+HD 50499,coordinate,47,6
+HD 50554,name,21,4
+HD 51608,coordinate,54,3
+HD 52265,coordinate,4,4
+HD 5278,coordinate,8,2
+HD 5319,name,14,5
+HD 5388,coordinate,33,8
+HD 55696,name,30,8
+HD 5583,name,9,4
+HD 5608,name,13,4
+HD 564,coordinate,14,4
+HD 56414,coordinate,52,4
+HD 56957,coordinate,14,5
+HD 5891,name,10,4
+HD 59686 A,coordinate,2,1
+HD 60292,name,16,4
+HD 60532,name,10,6
+HD 6061,name,13,4
+HD 60779,name,13,5
+HD 62364,coordinate,18,3
+HD 62509,coordinate,12,3
+HD 62549,coordinate,7,2
+HD 63433,coordinate,5,2
+HD 63454,coordinate,2,1
+HD 63765,name,57,6
+HD 63935,name,29,7
+HD 64114,coordinate,4,1
+HD 64121,coordinate,13,4
+HD 6434,coordinate,4,1
+HD 65216,name,214,9
+HD 66141,name,8,4
+HD 66428,name,21,8
+HD 67087,coordinate,3,1
+HD 6718,name,16,9
+HD 68402,coordinate,10,4
+HD 68475,coordinate,5,4
+HD 6860,name,6,2
+HD 68988,name,20,5
+HD 69123,name,30,6
+HD 69830,coordinate,13,6
+HD 70573,coordinate,29,6
+HD 70642,name,33,6
+HD 715,coordinate,9,4
+HD 7199,coordinate,23,3
+HD 72490,name,20,5
+HD 72659,coordinate,12,3
+HD 72892,coordinate,12,3
+HD 73256,coordinate,13,5
+HD 73267,coordinate,32,5
+HD 73344,coordinate,8,1
+HD 73526,coordinate,60,4
+HD 73534,name,20,5
+HD 73583,coordinate,5,2
+HD 74156,name,21,8
+HD 7449,name,21,9
+HD 74698,name,71,7
+HD 75289,name,26,6
+HD 75302,name,21,8
+HD 75784,coordinate,2,1
+HD 75898,name,5,5
+HD 76700,coordinate,48,4
+HD 76920,coordinate,143,4
+HD 77338,name,25,6
+HD 77946,name,9,5
+HD 79181,name,21,6
+HD 7924,name,43,5
+HD 79498,coordinate,7,2
+HD 80606,name,10,5
+HD 80653,coordinate,11,2
+HD 80869,coordinate,17,2
+HD 80883,coordinate,9,2
+HD 80913,name,43,6
+HD 81040,coordinate,8,2
+HD 81688,coordinate,4,1
+HD 81817,coordinate,26,2
+HD 82886,coordinate,3,1
+HD 82943,name,23,6
+HD 8326,name,16,9
+HD 83443,name,36,8
+HD 8535,name,39,9
+HD 85390,coordinate,23,6
+HD 8574,coordinate,2,1
+HD 86065,coordinate,13,5
+HD 86081,coordinate,3,3
+HD 86226,coordinate,1,1
+HD 86264,coordinate,10,5
+HD 86728,name,9,4
+HD 8673,coordinate,2,1
+HD 86950,coordinate,8,4
+HD 87646,name,12,4
+HD 87816,coordinate,54,3
+HD 87883,name,10,5
+HD 88072,name,30,7
+HD 88133,coordinate,9,3
+HD 88986,name,8,4
+HD 89307,coordinate,13,4
+HD 89345,name,11,5
+HD 89744,name,12,4
+HD 89839,coordinate,45,5
+HD 90156,coordinate,18,6
+HD 9174,coordinate,13,6
+HD 92788,name,38,8
+HD 93083,coordinate,47,3
+HD 93351,name,27,7
+HD 93385,coordinate,62,3
+HD 93963 A,coordinate,8,2
+HD 9446,name,11,4
+HD 94771,coordinate,9,2
+HD 94834,coordinate,14,3
+HD 94890,name,35,6
+HD 95086,coordinate,1,1
+HD 95089,name,14,5
+HD 95127,coordinate,11,2
+HD 95338,name,30,6
+HD 95544,name,53,5
+HD 95872,coordinate,8,4
+HD 96063,name,31,8
+HD 96127,coordinate,12,2
+HD 96167,coordinate,1,1
+HD 96700,coordinate,5,4
+HD 96992,name,6,3
+HD 97037,coordinate,9,4
+HD 97048,coordinate,19,3
+HD 97658,name,11,5
+HD 98219,name,19,8
+HD 98649,coordinate,8,4
+HD 98736,coordinate,3,1
+HD 99109,name,14,5
+HD 99283,name,27,5
+HD 99492,name,8,4
+HD 99706,name,14,5
+HIP 10090,coordinate,27,4
+HIP 105854,coordinate,38,7
+HIP 107772,name,18,7
+HIP 107773,coordinate,29,2
+HIP 109384,name,42,5
+HIP 109600,coordinate,5,2
+HIP 111909,coordinate,15,4
+HIP 113103,coordinate,35,4
+HIP 114933,coordinate,3,3
+HIP 116454,coordinate,3,2
+HIP 12961,name,14,7
+HIP 14810,coordinate,2,2
+HIP 18606,name,8,7
+HIP 19976,coordinate,17,2
+HIP 21152,name,15,7
+HIP 34222,name,13,3
+HIP 35173,name,14,8
+HIP 35965,coordinate,14,2
+HIP 38594,name,16,5
+HIP 39017,name,18,8
+HIP 39330,name,35,5
+HIP 41378,coordinate,17,5
+HIP 4845,name,16,9
+HIP 48714,coordinate,1,1
+HIP 5158,name,20,9
+HIP 54373,name,23,8
+HIP 54515,coordinate,5,3
+HIP 54597,name,22,7
+HIP 55507,coordinate,3,1
+HIP 56640,name,16,6
+HIP 56998,coordinate,55,7
+HIP 57274,name,10,5
+HIP 5763,coordinate,7,2
+HIP 63242,coordinate,15,3
+HIP 65 A,coordinate,10,4
+HIP 65407,name,27,6
+HIP 65426,coordinate,30,4
+HIP 65891,coordinate,26,2
+HIP 66074,name,50,5
+HIP 67522,coordinate,16,2
+HIP 67537,coordinate,23,3
+HIP 67851,coordinate,9,3
+HIP 70849,coordinate,6,3
+HIP 71135,coordinate,31,7
+HIP 74890,coordinate,23,4
+HIP 75092,coordinate,4,2
+HIP 77900,name,11,6
+HIP 78530,name,4,3
+HIP 79098 AB,coordinate,14,7
+HIP 79431,coordinate,1,1
+HIP 81208 C,coordinate,23,4
+HIP 8152,coordinate,3,3
+HIP 8541,name,42,9
+HIP 86221,coordinate,19,4
+HIP 8923,coordinate,8,5
+HIP 90988,coordinate,19,3
+HIP 94235,coordinate,3,3
+HIP 948,coordinate,18,6
+HIP 9618,coordinate,8,2
+HIP 97233,coordinate,9,3
+HIP 99770,name,37,5
+HN Lib,coordinate,3,3
+HN Peg,name,10,4
+HR 5183,name,8,4
+HR 810,coordinate,32,2
+HR 858,coordinate,9,1
+HR 8799,name,10,4
+HS Psc,name,13,5
+HU Aqr,coordinate,13,6
+iot Dra,coordinate,9,1
+IRAS 04125+2902,coordinate,1,1
+ISO-Oph 96,coordinate,32,5
+ITG 15 A,name,11,4
+K2-10,coordinate,8,4
+K2-100,name,21,5
+K2-101,name,6,4
+K2-102,name,21,5
+K2-104,name,18,5
+K2-105,coordinate,10,4
+K2-107,coordinate,2,2
+K2-108,name,23,5
+K2-11,name,14,5
+K2-110,name,4,3
+K2-111,name,9,4
+K2-113,coordinate,6,2
+K2-114,coordinate,53,6
+K2-115,coordinate,33,6
+K2-116,name,11,5
+K2-117,name,25,5
+K2-118,name,19,5
+K2-119,coordinate,2,1
+K2-12,coordinate,19,6
+K2-121,coordinate,4,1
+K2-122,name,29,5
+K2-123,coordinate,1,1
+K2-124,name,18,5
+K2-125,name,3,3
+K2-126,coordinate,3,1
+K2-127,name,1,1
+K2-128,name,4,3
+K2-129,coordinate,5,4
+K2-13,name,14,5
+K2-130,name,4,3
+K2-131,name,19,5
+K2-132,name,12,4
+K2-133,coordinate,2,1
+K2-136,coordinate,7,2
+K2-137,coordinate,8,2
+K2-138,coordinate,2,1
+K2-139,name,3,3
+K2-14,coordinate,3,3
+K2-140,coordinate,9,2
+K2-141,name,15,5
+K2-146,name,5,4
+K2-147,coordinate,13,5
+K2-148,coordinate,2,1
+K2-149,name,14,5
+K2-15,coordinate,4,4
+K2-150,coordinate,2,2
+K2-151,name,14,5
+K2-152,name,8,5
+K2-153,coordinate,2,2
+K2-154,coordinate,2,1
+K2-155,name,19,5
+K2-156,name,9,5
+K2-157,name,8,5
+K2-158,name,9,5
+K2-159,name,8,5
+K2-16,coordinate,3,1
+K2-160,name,8,5
+K2-161,name,7,4
+K2-162,name,9,5
+K2-164,name,14,5
+K2-165,name,10,5
+K2-166,name,9,5
+K2-167,name,27,9
+K2-168,name,10,5
+K2-169,coordinate,2,1
+K2-17,name,9,5
+K2-170,coordinate,13,6
+K2-171,name,7,4
+K2-172,name,10,5
+K2-173,name,20,5
+K2-174,name,20,5
+K2-175,name,23,5
+K2-176,name,23,5
+K2-177,name,23,5
+K2-178,name,23,5
+K2-179,name,19,5
+K2-18,coordinate,5,4
+K2-180,coordinate,34,5
+K2-181,coordinate,36,4
+K2-182,name,29,7
+K2-183,name,23,5
+K2-184,coordinate,4,1
+K2-185,name,20,5
+K2-186,name,20,5
+K2-187,name,20,5
+K2-188,name,24,5
+K2-189,name,3,3
+K2-19,coordinate,25,7
+K2-190,coordinate,2,2
+K2-191,coordinate,12,5
+K2-192,coordinate,1,1
+K2-193,name,3,3
+K2-194,coordinate,2,2
+K2-195,coordinate,9,3
+K2-196,coordinate,6,3
+K2-197,coordinate,3,3
+K2-198,coordinate,19,5
+K2-199,name,4,3
+K2-200,coordinate,15,7
+K2-201,coordinate,6,3
+K2-202,coordinate,3,2
+K2-203,name,31,9
+K2-204,name,26,8
+K2-205,name,14,5
+K2-206,name,14,5
+K2-207,coordinate,3,1
+K2-208,name,29,8
+K2-209,name,14,5
+K2-21,name,10,5
+K2-210,name,14,5
+K2-211,coordinate,2,1
+K2-212,coordinate,3,1
+K2-213,name,10,5
+K2-214,name,14,5
+K2-215,coordinate,3,2
+K2-216,name,15,5
+K2-217,name,14,5
+K2-218,name,12,5
+K2-219,coordinate,9,5
+K2-22,coordinate,5,4
+K2-220,coordinate,2,1
+K2-221,name,14,5
+K2-222,name,15,5
+K2-223,name,21,8
+K2-224,name,8,5
+K2-225,coordinate,6,2
+K2-226,coordinate,3,2
+K2-227,name,5,5
+K2-228,name,7,4
+K2-229,coordinate,2,1
+K2-230,name,4,4
+K2-231,name,8,5
+K2-232,name,16,5
+K2-233,coordinate,2,2
+K2-237,coordinate,3,2
+K2-238,name,7,4
+K2-239,name,14,5
+K2-24,name,4,3
+K2-240,coordinate,4,2
+K2-241,name,8,5
+K2-242,name,17,8
+K2-243,name,9,5
+K2-244,name,8,5
+K2-246,name,4,3
+K2-247,coordinate,2,2
+K2-248,name,17,5
+K2-249,name,11,4
+K2-25,coordinate,3,3
+K2-250,name,17,7
+K2-251,name,4,4
+K2-252,name,15,5
+K2-253,coordinate,2,2
+K2-254,name,9,5
+K2-255,coordinate,4,1
+K2-257,coordinate,2,1
+K2-258,coordinate,8,2
+K2-259,coordinate,3,1
+K2-26,coordinate,6,2
+K2-260,coordinate,4,1
+K2-261,coordinate,2,1
+K2-263,coordinate,3,1
+K2-264,coordinate,2,1
+K2-265,coordinate,7,5
+K2-266,name,31,5
+K2-268,coordinate,3,3
+K2-269,name,20,5
+K2-27,coordinate,5,3
+K2-270,name,19,5
+K2-271,name,18,4
+K2-272,name,19,5
+K2-273,name,4,4
+K2-274,name,20,5
+K2-275,name,27,5
+K2-276,coordinate,3,1
+K2-277,coordinate,7,5
+K2-278,coordinate,11,4
+K2-279,name,3,3
+K2-28,coordinate,8,3
+K2-280,name,3,3
+K2-281,name,6,3
+K2-282,name,11,4
+K2-283,coordinate,1,1
+K2-284,coordinate,8,1
+K2-285,coordinate,7,2
+K2-286,coordinate,1,1
+K2-287,name,3,3
+K2-289,coordinate,28,5
+K2-29,name,22,5
+K2-290,coordinate,1,1
+K2-291,coordinate,5,2
+K2-292,coordinate,4,2
+K2-293,name,8,5
+K2-294,name,8,5
+K2-295,coordinate,6,3
+K2-3,name,17,5
+K2-30,name,23,5
+K2-308,coordinate,27,5
+K2-31,coordinate,24,5
+K2-315,coordinate,5,4
+K2-316,coordinate,4,1
+K2-317,name,2,2
+K2-318,name,3,3
+K2-319,name,17,5
+K2-32,coordinate,4,1
+K2-320,coordinate,8,1
+K2-321,name,25,8
+K2-322,name,14,5
+K2-323,name,14,5
+K2-324,coordinate,6,3
+K2-325,coordinate,1,1
+K2-326,name,9,4
+K2-329,coordinate,2,1
+K2-33,name,4,3
+K2-331,coordinate,5,4
+K2-332,coordinate,1,1
+K2-333,coordinate,3,1
+K2-334,coordinate,6,2
+K2-335,name,13,3
+K2-336,name,13,4
+K2-337,name,17,4
+K2-338,name,20,4
+K2-339,coordinate,12,3
+K2-34,coordinate,7,3
+K2-341,name,17,4
+K2-342,name,21,4
+K2-343,name,15,4
+K2-344,coordinate,21,5
+K2-346,coordinate,3,1
+K2-348,name,23,4
+K2-349,coordinate,27,4
+K2-35,name,14,5
+K2-350,name,3,3
+K2-352,coordinate,6,2
+K2-354,name,31,7
+K2-355,name,13,5
+K2-356,coordinate,15,2
+K2-357,name,6,3
+K2-358,coordinate,2,1
+K2-36,name,12,5
+K2-366,coordinate,2,1
+K2-367,coordinate,1,1
+K2-368,name,6,3
+K2-369,coordinate,4,2
+K2-37,name,4,3
+K2-370,coordinate,9,4
+K2-371,name,22,6
+K2-372,name,16,4
+K2-373,name,32,7
+K2-374,coordinate,2,1
+K2-375,name,12,3
+K2-376,name,21,4
+K2-377,name,3,3
+K2-378,name,1,1
+K2-379,coordinate,1,1
+K2-38,coordinate,1,1
+K2-380,coordinate,2,2
+K2-381,coordinate,13,7
+K2-382,coordinate,3,3
+K2-383,coordinate,6,2
+K2-384,coordinate,2,1
+K2-386,coordinate,4,3
+K2-387,coordinate,4,2
+K2-388,coordinate,1,1
+K2-389,name,22,8
+K2-39,name,9,5
+K2-390,name,22,8
+K2-391,name,8,3
+K2-392,coordinate,2,2
+K2-393,name,7,4
+K2-394,coordinate,2,1
+K2-395,coordinate,6,3
+K2-396,coordinate,5,1
+K2-397,name,16,4
+K2-398,name,9,3
+K2-4,coordinate,17,5
+K2-400,name,23,7
+K2-401,coordinate,3,1
+K2-402,name,9,3
+K2-403,name,12,4
+K2-404,name,12,4
+K2-405,name,12,4
+K2-406,name,15,6
+K2-407,coordinate,1,1
+K2-408,coordinate,6,3
+K2-409,name,3,3
+K2-411,name,10,3
+K2-413,name,6,3
+K2-414,name,7,4
+K2-415,name,18,4
+K2-416,name,7,4
+K2-417,coordinate,1,1
+K2-419 A,coordinate,1,1
+K2-42,coordinate,3,3
+K2-43,coordinate,18,7
+K2-44,coordinate,3,3
+K2-45,name,8,3
+K2-46,coordinate,12,3
+K2-47,name,14,5
+K2-48,coordinate,6,3
+K2-49,coordinate,6,3
+K2-5,coordinate,7,3
+K2-50,name,8,4
+K2-52,coordinate,31,8
+K2-53,coordinate,7,5
+K2-54,name,28,9
+K2-55,name,12,5
+K2-57,coordinate,29,4
+K2-58,name,9,5
+K2-59,coordinate,5,4
+K2-6,coordinate,20,8
+K2-60,name,8,5
+K2-61,coordinate,3,3
+K2-62,name,10,5
+K2-63,name,7,4
+K2-64,name,6,4
+K2-65,name,2,2
+K2-66,coordinate,3,1
+K2-68,name,5,3
+K2-69,coordinate,14,5
+K2-7,name,22,7
+K2-70,coordinate,5,4
+K2-71,name,12,5
+K2-72,name,4,4
+K2-73,coordinate,4,2
+K2-74,coordinate,8,6
+K2-75,name,9,4
+K2-77,coordinate,21,3
+K2-79,coordinate,22,4
+K2-8,coordinate,4,1
+K2-80,coordinate,1,1
+K2-81,name,23,5
+K2-83,name,23,5
+K2-84,name,23,5
+K2-85,name,23,5
+K2-86,name,18,5
+K2-87,coordinate,10,3
+K2-88,coordinate,4,1
+K2-89,name,8,4
+K2-9,coordinate,5,4
+K2-90,name,16,4
+K2-91,name,19,5
+K2-95,name,4,4
+K2-97,coordinate,13,4
+K2-98,coordinate,45,7
+K2-99,name,3,2
+kap And,coordinate,28,3
+kap CrB,coordinate,4,1
+KELT-1,coordinate,6,2
+KELT-10,name,11,4
+KELT-11,name,19,8
+KELT-12,coordinate,6,2
+KELT-14,coordinate,20,4
+KELT-15,coordinate,3,3
+KELT-16,coordinate,1,1
+KELT-17,coordinate,18,5
+KELT-18,coordinate,6,1
+KELT-2 A,coordinate,11,2
+KELT-20,name,38,6
+KELT-21,name,44,6
+KELT-23 A,coordinate,1,1
+KELT-24,coordinate,51,2
+KELT-3,coordinate,3,2
+KELT-4 A,name,6,5
+KELT-6,coordinate,12,3
+KELT-7,name,41,5
+KELT-8,coordinate,15,2
+KELT-9,coordinate,21,5
+Kepler-10,coordinate,37,4
+Kepler-100,name,54,6
+Kepler-1000,coordinate,28,2
+Kepler-1001,name,11,4
+Kepler-1002,coordinate,13,3
+Kepler-1003,coordinate,7,2
+Kepler-1004,name,30,5
+Kepler-1005,name,26,4
+Kepler-1006,name,12,3
+Kepler-1007,coordinate,6,1
+Kepler-1008,name,35,6
+Kepler-1009,name,35,5
+Kepler-101,coordinate,8,2
+Kepler-1010,name,12,4
+Kepler-1011,name,12,4
+Kepler-1012,coordinate,4,1
+Kepler-1013,coordinate,6,2
+Kepler-1014,coordinate,20,2
+Kepler-1015,coordinate,4,1
+Kepler-1016,name,9,4
+Kepler-1017,coordinate,26,2
+Kepler-1018,coordinate,36,2
+Kepler-1019,coordinate,8,1
+Kepler-102,name,65,6
+Kepler-1020,name,35,4
+Kepler-1021,coordinate,2,1
+Kepler-1022,name,30,5
+Kepler-1023,name,21,4
+Kepler-1024,coordinate,2,1
+Kepler-1025,coordinate,47,4
+Kepler-1026,name,28,4
+Kepler-1027,coordinate,5,2
+Kepler-1028,coordinate,3,1
+Kepler-1029,coordinate,6,2
+Kepler-103,name,30,4
+Kepler-1030,coordinate,4,2
+Kepler-1031,name,18,4
+Kepler-1032,name,6,3
+Kepler-1033,name,8,3
+Kepler-1034,coordinate,9,2
+Kepler-1035,coordinate,8,1
+Kepler-1036,name,48,6
+Kepler-1037,name,32,5
+Kepler-1038,name,9,3
+Kepler-1039,name,35,6
+Kepler-104,name,46,6
+Kepler-1040,coordinate,6,2
+Kepler-1041,name,20,4
+Kepler-1042,name,8,3
+Kepler-1043,name,14,3
+Kepler-1044,coordinate,1,1
+Kepler-1045,coordinate,31,3
+Kepler-1046,name,28,5
+Kepler-1047,coordinate,3,1
+Kepler-1048,coordinate,12,2
+Kepler-1049,coordinate,8,1
+Kepler-105,coordinate,6,2
+Kepler-1050,coordinate,4,1
+Kepler-1051,coordinate,2,1
+Kepler-1052,name,17,4
+Kepler-1053,name,37,6
+Kepler-1054,name,15,4
+Kepler-1055,coordinate,3,1
+Kepler-1056,name,15,3
+Kepler-1057,coordinate,7,4
+Kepler-1058,name,9,4
+Kepler-1059,coordinate,6,2
+Kepler-106,name,35,6
+Kepler-1060,coordinate,8,5
+Kepler-1061,coordinate,7,3
+Kepler-1062,coordinate,26,5
+Kepler-1063,name,46,4
+Kepler-1064,coordinate,5,2
+Kepler-1065,name,8,3
+Kepler-1066,name,43,6
+Kepler-1067,name,15,3
+Kepler-1068,name,6,1
+Kepler-1069,coordinate,17,4
+Kepler-107,name,43,6
+Kepler-1070,name,18,4
+Kepler-1071,coordinate,1,1
+Kepler-1072,coordinate,10,3
+Kepler-1073,coordinate,6,2
+Kepler-1074,coordinate,22,3
+Kepler-1075,name,36,5
+Kepler-1076,coordinate,3,1
+Kepler-1077,name,10,4
+Kepler-1078,name,6,1
+Kepler-1079,name,39,4
+Kepler-108,name,34,4
+Kepler-1080,name,31,5
+Kepler-1081,name,30,5
+Kepler-1082,coordinate,6,2
+Kepler-1083,coordinate,11,1
+Kepler-1084,coordinate,1,1
+Kepler-1085,name,15,4
+Kepler-1086,name,26,4
+Kepler-1087,name,34,6
+Kepler-1088,coordinate,16,3
+Kepler-1089,name,32,5
+Kepler-109,coordinate,3,1
+Kepler-1090,coordinate,3,1
+Kepler-1091,name,9,3
+Kepler-1092,name,12,3
+Kepler-1093,name,29,5
+Kepler-1094,coordinate,3,1
+Kepler-1095,coordinate,3,1
+Kepler-1096,name,15,4
+Kepler-1097,coordinate,13,3
+Kepler-1098,coordinate,7,3
+Kepler-1099,name,12,3
+Kepler-11,coordinate,1,1
+Kepler-110,name,28,5
+Kepler-1100,name,24,5
+Kepler-1101,coordinate,3,1
+Kepler-1102,coordinate,36,6
+Kepler-1103,name,20,4
+Kepler-1104,name,37,4
+Kepler-1105,name,24,5
+Kepler-1106,name,10,4
+Kepler-1107,coordinate,3,1
+Kepler-1108,name,8,3
+Kepler-1109,coordinate,4,2
+Kepler-111,coordinate,3,2
+Kepler-1110,name,7,3
+Kepler-1111,name,9,3
+Kepler-1112,coordinate,4,2
+Kepler-1113,coordinate,2,1
+Kepler-1114,name,32,6
+Kepler-1115,name,29,5
+Kepler-1116,coordinate,3,1
+Kepler-1117,coordinate,6,2
+Kepler-1118,name,11,4
+Kepler-1119,name,13,4
+Kepler-112,name,22,4
+Kepler-1120,coordinate,4,2
+Kepler-1121,name,49,6
+Kepler-1122,name,14,4
+Kepler-1123,name,13,3
+Kepler-1124,coordinate,7,2
+Kepler-1125,name,11,4
+Kepler-1126,coordinate,5,2
+Kepler-1127,name,12,4
+Kepler-1128,coordinate,3,1
+Kepler-1129,coordinate,3,1
+Kepler-113,name,52,6
+Kepler-1130,coordinate,57,4
+Kepler-1131,name,14,3
+Kepler-1132,coordinate,21,1
+Kepler-1133,coordinate,8,2
+Kepler-1134,name,5,1
+Kepler-1135,name,13,3
+Kepler-1136,coordinate,12,2
+Kepler-1137,coordinate,11,2
+Kepler-1138,coordinate,9,2
+Kepler-1139,coordinate,3,1
+Kepler-114,name,46,6
+Kepler-1140,coordinate,12,2
+Kepler-1141,coordinate,2,1
+Kepler-1142,name,18,4
+Kepler-1143,coordinate,4,1
+Kepler-1144,name,11,3
+Kepler-1145,coordinate,15,4
+Kepler-1146,coordinate,14,1
+Kepler-1147,coordinate,1,1
+Kepler-1148,coordinate,7,3
+Kepler-1149,coordinate,8,3
+Kepler-115,name,26,5
+Kepler-1150,name,41,4
+Kepler-1151,coordinate,4,2
+Kepler-1152,name,38,6
+Kepler-1153,coordinate,12,2
+Kepler-1154,name,5,3
+Kepler-1155,name,8,3
+Kepler-1156,name,16,3
+Kepler-1157,coordinate,11,1
+Kepler-1158,coordinate,3,1
+Kepler-1159,coordinate,2,1
+Kepler-116,name,24,4
+Kepler-1160,name,9,3
+Kepler-1161,name,5,1
+Kepler-1162,coordinate,4,1
+Kepler-1163,coordinate,9,2
+Kepler-1164,name,17,5
+Kepler-1165,coordinate,5,1
+Kepler-1166,coordinate,10,3
+Kepler-1167,name,8,3
+Kepler-1168,name,13,3
+Kepler-1169,coordinate,6,2
+Kepler-117,name,20,4
+Kepler-1170,name,5,1
+Kepler-1171,name,37,5
+Kepler-1172,coordinate,7,3
+Kepler-1173,coordinate,8,1
+Kepler-1174,name,15,4
+Kepler-1175,name,10,3
+Kepler-1176,name,9,3
+Kepler-1177,coordinate,18,3
+Kepler-1178,name,52,6
+Kepler-1179,coordinate,76,3
+Kepler-118,name,5,1
+Kepler-1180,name,14,4
+Kepler-1181,coordinate,16,2
+Kepler-1182,name,11,4
+Kepler-1183,name,6,3
+Kepler-1184,coordinate,8,3
+Kepler-1185,coordinate,11,3
+Kepler-1186,name,16,4
+Kepler-1187,coordinate,3,1
+Kepler-1188,name,11,3
+Kepler-1189,coordinate,6,3
+Kepler-119,name,12,3
+Kepler-1190,coordinate,2,1
+Kepler-1191,name,12,4
+Kepler-1192,name,11,3
+Kepler-1193,coordinate,3,1
+Kepler-1194,coordinate,6,2
+Kepler-1195,coordinate,27,3
+Kepler-1196,name,11,4
+Kepler-1197,coordinate,2,1
+Kepler-1198,coordinate,12,1
+Kepler-1199,coordinate,7,3
+Kepler-12,coordinate,8,2
+Kepler-120,coordinate,7,3
+Kepler-1200,name,5,1
+Kepler-1201,coordinate,6,2
+Kepler-1202,coordinate,3,1
+Kepler-1203,coordinate,4,1
+Kepler-1204,coordinate,3,2
+Kepler-1205,coordinate,3,2
+Kepler-1206,name,8,2
+Kepler-1207,name,24,4
+Kepler-1208,name,4,1
+Kepler-1209,coordinate,2,2
+Kepler-121,name,8,3
+Kepler-1210,name,9,3
+Kepler-1211,name,9,3
+Kepler-1212,name,17,4
+Kepler-1213,name,32,5
+Kepler-1214,coordinate,37,4
+Kepler-1215,name,30,5
+Kepler-1216,coordinate,4,1
+Kepler-1217,coordinate,4,1
+Kepler-1218,name,20,4
+Kepler-1219,coordinate,3,2
+Kepler-122,coordinate,3,1
+Kepler-1220,name,9,3
+Kepler-1221,coordinate,14,2
+Kepler-1222,coordinate,3,1
+Kepler-1223,coordinate,28,3
+Kepler-1224,coordinate,8,2
+Kepler-1225,name,4,1
+Kepler-1226,coordinate,6,3
+Kepler-1227,name,13,4
+Kepler-1228,coordinate,2,1
+Kepler-1229,name,28,6
+Kepler-123,name,13,3
+Kepler-1230,coordinate,2,1
+Kepler-1231,coordinate,3,1
+Kepler-1232,coordinate,3,2
+Kepler-1233,name,9,3
+Kepler-1234,coordinate,1,1
+Kepler-1235,coordinate,2,1
+Kepler-1236,name,5,1
+Kepler-1237,coordinate,3,1
+Kepler-1238,name,5,3
+Kepler-1239,coordinate,1,1
+Kepler-124,coordinate,8,1
+Kepler-1240,coordinate,10,2
+Kepler-1241,coordinate,7,2
+Kepler-1242,coordinate,20,3
+Kepler-1243,coordinate,4,2
+Kepler-1244,name,53,5
+Kepler-1245,coordinate,8,4
+Kepler-1246,name,36,5
+Kepler-1247,coordinate,3,1
+Kepler-1248,coordinate,3,1
+Kepler-1249,name,9,3
+Kepler-125,coordinate,8,3
+Kepler-1250,coordinate,1,1
+Kepler-1251,coordinate,6,2
+Kepler-1252,name,13,3
+Kepler-1253,coordinate,3,2
+Kepler-1254,coordinate,25,4
+Kepler-1255,coordinate,6,1
+Kepler-1256,coordinate,3,1
+Kepler-1257,coordinate,8,4
+Kepler-1258,coordinate,6,1
+Kepler-1259,name,12,4
+Kepler-126,name,41,6
+Kepler-1260,name,9,3
+Kepler-1261,coordinate,16,3
+Kepler-1262,name,12,4
+Kepler-1263,name,19,4
+Kepler-1264,coordinate,14,3
+Kepler-1265,coordinate,8,1
+Kepler-1266,coordinate,19,5
+Kepler-1267,name,5,1
+Kepler-1268,coordinate,3,1
+Kepler-1269,name,28,5
+Kepler-127,coordinate,16,3
+Kepler-1270,coordinate,16,1
+Kepler-1271,name,16,4
+Kepler-1272,coordinate,16,3
+Kepler-1273,coordinate,14,3
+Kepler-1274,coordinate,14,1
+Kepler-1275,coordinate,4,1
+Kepler-1276,name,23,5
+Kepler-1277,name,26,4
+Kepler-1278,coordinate,26,3
+Kepler-1279,coordinate,4,2
+Kepler-128,name,43,6
+Kepler-1280,name,8,2
+Kepler-1281,coordinate,12,2
+Kepler-1282,coordinate,21,4
+Kepler-1283,name,9,3
+Kepler-1284,name,12,3
+Kepler-1285,coordinate,1,1
+Kepler-1286,name,11,4
+Kepler-1287,coordinate,7,3
+Kepler-1288,coordinate,17,4
+Kepler-1289,name,13,3
+Kepler-129,coordinate,9,2
+Kepler-1290,coordinate,9,4
+Kepler-1291,coordinate,2,1
+Kepler-1292,coordinate,16,3
+Kepler-1293,coordinate,4,2
+Kepler-1294,name,8,3
+Kepler-1295,name,5,1
+Kepler-1296,name,14,4
+Kepler-1297,coordinate,3,1
+Kepler-1298,coordinate,22,2
+Kepler-1299,coordinate,1,1
+Kepler-130,coordinate,6,2
+Kepler-1300,name,21,4
+Kepler-1301,name,11,4
+Kepler-1302,coordinate,3,1
+Kepler-1303,coordinate,17,2
+Kepler-1304,name,13,4
+Kepler-1305,name,5,1
+Kepler-1306,name,6,1
+Kepler-1307,coordinate,6,2
+Kepler-1308,coordinate,22,5
+Kepler-1309,name,6,3
+Kepler-131,coordinate,6,1
+Kepler-1310,name,23,4
+Kepler-1311,coordinate,4,2
+Kepler-1312,coordinate,6,2
+Kepler-1313,name,39,6
+Kepler-1314,coordinate,2,1
+Kepler-1315,coordinate,6,2
+Kepler-1316,name,26,5
+Kepler-1317,coordinate,6,1
+Kepler-1318,name,18,4
+Kepler-1319,name,56,6
+Kepler-132,coordinate,24,2
+Kepler-1320,name,4,1
+Kepler-1322,coordinate,12,2
+Kepler-1323,name,44,6
+Kepler-1324,name,19,5
+Kepler-1325,coordinate,16,3
+Kepler-1326,name,20,4
+Kepler-1327,name,29,5
+Kepler-1328,coordinate,2,1
+Kepler-1329,name,16,3
+Kepler-133,name,33,5
+Kepler-1330,coordinate,2,1
+Kepler-1331,name,16,4
+Kepler-1332,name,25,5
+Kepler-1333,name,8,3
+Kepler-1334,coordinate,8,1
+Kepler-1335,coordinate,21,2
+Kepler-1336,name,16,4
+Kepler-1337,name,11,3
+Kepler-1338,coordinate,53,4
+Kepler-1339,coordinate,42,3
+Kepler-134,coordinate,29,4
+Kepler-1340,name,8,3
+Kepler-1341,name,19,5
+Kepler-1342,name,11,4
+Kepler-1343,coordinate,3,1
+Kepler-1344,coordinate,5,1
+Kepler-1345,name,20,4
+Kepler-1346,coordinate,6,1
+Kepler-1347,name,22,5
+Kepler-1348,name,9,3
+Kepler-1349,coordinate,34,3
+Kepler-135,name,20,5
+Kepler-1350,name,34,4
+Kepler-1351,coordinate,16,5
+Kepler-1352,coordinate,4,2
+Kepler-1353,name,8,3
+Kepler-1354,coordinate,8,2
+Kepler-1355,coordinate,4,1
+Kepler-1356,coordinate,12,3
+Kepler-1357,coordinate,10,5
+Kepler-1358,coordinate,7,2
+Kepler-1359,coordinate,6,2
+Kepler-136,name,38,6
+Kepler-1360,name,22,4
+Kepler-1361,coordinate,28,2
+Kepler-1362,coordinate,3,1
+Kepler-1363,coordinate,2,1
+Kepler-1364,name,33,5
+Kepler-1365,coordinate,7,2
+Kepler-1366,coordinate,11,2
+Kepler-1367,coordinate,7,3
+Kepler-1368,name,6,1
+Kepler-1369,name,13,4
+Kepler-137,coordinate,27,4
+Kepler-1370,name,24,4
+Kepler-1371,coordinate,4,1
+Kepler-1372,name,11,3
+Kepler-1373,coordinate,9,2
+Kepler-1374,name,4,1
+Kepler-1375,name,25,4
+Kepler-1376,coordinate,6,2
+Kepler-1377,name,10,3
+Kepler-1378,name,6,3
+Kepler-1379,coordinate,6,3
+Kepler-138,name,56,6
+Kepler-1380,name,8,3
+Kepler-1381,coordinate,6,2
+Kepler-1382,coordinate,1,1
+Kepler-1383,coordinate,4,2
+Kepler-1384,name,11,3
+Kepler-1385,coordinate,10,1
+Kepler-1386,coordinate,6,1
+Kepler-1387,coordinate,9,2
+Kepler-1388,coordinate,29,5
+Kepler-1389,coordinate,11,3
+Kepler-139,coordinate,4,1
+Kepler-1390,name,23,4
+Kepler-1391,coordinate,7,3
+Kepler-1392,coordinate,5,2
+Kepler-1393,coordinate,3,1
+Kepler-1394,coordinate,2,1
+Kepler-1395,coordinate,7,2
+Kepler-1396,coordinate,3,1
+Kepler-1397,coordinate,10,4
+Kepler-1398,coordinate,3,1
+Kepler-1399,name,6,1
+Kepler-14,coordinate,1,1
+Kepler-140,coordinate,4,1
+Kepler-1400,coordinate,8,2
+Kepler-1401,coordinate,4,1
+Kepler-1402,name,13,3
+Kepler-1403,coordinate,2,1
+Kepler-1404,name,13,3
+Kepler-1405,coordinate,3,1
+Kepler-1406,name,20,4
+Kepler-1407,coordinate,46,6
+Kepler-1408,coordinate,40,3
+Kepler-1409,coordinate,5,2
+Kepler-141,name,40,6
+Kepler-1410,name,6,3
+Kepler-1411,coordinate,13,3
+Kepler-1412,coordinate,6,1
+Kepler-1413,coordinate,3,1
+Kepler-1414,coordinate,4,1
+Kepler-1415,coordinate,19,4
+Kepler-1416,coordinate,3,2
+Kepler-1417,name,21,4
+Kepler-1418,name,12,4
+Kepler-1419,coordinate,7,3
+Kepler-142,coordinate,3,1
+Kepler-1420,name,4,1
+Kepler-1421,name,39,5
+Kepler-1422,name,10,3
+Kepler-1423,coordinate,1,1
+Kepler-1424,name,23,5
+Kepler-1425,name,33,5
+Kepler-1426,coordinate,3,1
+Kepler-1427,name,5,1
+Kepler-1428,coordinate,4,2
+Kepler-1429,coordinate,14,3
+Kepler-143,coordinate,6,3
+Kepler-1430,coordinate,6,1
+Kepler-1431,name,18,4
+Kepler-1432,coordinate,3,1
+Kepler-1433,coordinate,5,2
+Kepler-1434,name,46,5
+Kepler-1435,name,20,5
+Kepler-1436,name,13,4
+Kepler-1437,name,9,3
+Kepler-1438,name,12,4
+Kepler-1439,coordinate,27,3
+Kepler-144,name,43,6
+Kepler-1440,coordinate,14,2
+Kepler-1441,coordinate,2,1
+Kepler-1442,name,36,4
+Kepler-1443,coordinate,8,1
+Kepler-1444,coordinate,12,2
+Kepler-1445,name,26,5
+Kepler-1446,name,50,6
+Kepler-1447,name,21,3
+Kepler-1448,coordinate,6,1
+Kepler-1449,coordinate,6,2
+Kepler-145,coordinate,1,1
+Kepler-1450,coordinate,6,1
+Kepler-1451,coordinate,4,1
+Kepler-1452,coordinate,3,1
+Kepler-1453,coordinate,5,1
+Kepler-1454,coordinate,14,3
+Kepler-1455,name,36,6
+Kepler-1456,name,24,4
+Kepler-1457,coordinate,22,2
+Kepler-1458,coordinate,12,2
+Kepler-1459,coordinate,10,1
+Kepler-146,coordinate,6,3
+Kepler-1460,coordinate,14,3
+Kepler-1461,coordinate,14,5
+Kepler-1462,coordinate,6,3
+Kepler-1463,coordinate,5,2
+Kepler-1464,coordinate,4,1
+Kepler-1465,coordinate,1,1
+Kepler-1466,name,17,3
+Kepler-1467,name,7,3
+Kepler-1468,name,9,3
+Kepler-1469,name,4,1
+Kepler-147,coordinate,3,1
+Kepler-1470,coordinate,6,1
+Kepler-1471,name,17,4
+Kepler-1472,coordinate,1,1
+Kepler-1473,coordinate,6,1
+Kepler-1474,name,7,3
+Kepler-1475,name,13,4
+Kepler-1476,coordinate,39,4
+Kepler-1477,name,15,4
+Kepler-1478,coordinate,4,1
+Kepler-1479,coordinate,10,2
+Kepler-148,coordinate,3,1
+Kepler-1480,coordinate,8,2
+Kepler-1481,coordinate,1,1
+Kepler-1482,coordinate,13,2
+Kepler-1483,coordinate,10,3
+Kepler-1484,name,15,4
+Kepler-1485,coordinate,2,1
+Kepler-1486,coordinate,3,1
+Kepler-1487,name,22,5
+Kepler-1488,coordinate,12,2
+Kepler-1489,name,11,4
+Kepler-149,coordinate,8,2
+Kepler-1490,name,8,4
+Kepler-1491,name,4,1
+Kepler-1492,name,23,5
+Kepler-1493,name,22,5
+Kepler-1494,coordinate,12,2
+Kepler-1495,coordinate,3,1
+Kepler-1496,coordinate,11,2
+Kepler-1497,coordinate,3,1
+Kepler-1498,coordinate,22,4
+Kepler-1499,coordinate,14,2
+Kepler-15,coordinate,3,1
+Kepler-150,coordinate,9,2
+Kepler-1500,name,14,4
+Kepler-1501,name,23,5
+Kepler-1502,name,14,4
+Kepler-1503,coordinate,1,1
+Kepler-1504,coordinate,11,3
+Kepler-1505,coordinate,3,1
+Kepler-1506,name,6,3
+Kepler-1507,coordinate,5,3
+Kepler-1508,name,14,4
+Kepler-1509,coordinate,6,1
+Kepler-151,coordinate,4,1
+Kepler-1510,name,5,1
+Kepler-1511,coordinate,3,2
+Kepler-1512,coordinate,9,2
+Kepler-1513,name,29,6
+Kepler-1514,coordinate,3,1
+Kepler-1515,coordinate,3,1
+Kepler-1516,coordinate,9,2
+Kepler-1517,name,42,5
+Kepler-1518,name,26,5
+Kepler-1519,coordinate,2,1
+Kepler-152,name,19,4
+Kepler-1520,name,19,4
+Kepler-1521,coordinate,3,1
+Kepler-1522,coordinate,3,1
+Kepler-1523,coordinate,2,1
+Kepler-1524,name,36,5
+Kepler-1525,coordinate,9,2
+Kepler-1526,coordinate,47,5
+Kepler-1527,name,10,4
+Kepler-1528,name,15,3
+Kepler-1529,name,8,3
+Kepler-153,coordinate,25,2
+Kepler-1530,name,54,6
+Kepler-1531,coordinate,20,4
+Kepler-1532,name,8,3
+Kepler-1533,name,26,5
+Kepler-1534,coordinate,10,2
+Kepler-1535,coordinate,2,1
+Kepler-1536,coordinate,8,4
+Kepler-1537,name,18,4
+Kepler-1538,coordinate,4,1
+Kepler-1539,coordinate,10,1
+Kepler-154,coordinate,3,1
+Kepler-1540,coordinate,13,2
+Kepler-1541,coordinate,13,2
+Kepler-1542,coordinate,7,2
+Kepler-1543,name,28,5
+Kepler-1544,name,45,6
+Kepler-1545,coordinate,7,3
+Kepler-1546,name,15,3
+Kepler-1547,coordinate,14,3
+Kepler-1548,coordinate,8,1
+Kepler-1549,coordinate,11,3
+Kepler-155,name,42,5
+Kepler-1550,coordinate,3,1
+Kepler-1551,coordinate,5,3
+Kepler-1552,coordinate,2,1
+Kepler-1553,name,5,1
+Kepler-1554,coordinate,4,2
+Kepler-1555,coordinate,2,1
+Kepler-1556,coordinate,3,1
+Kepler-1557,name,5,1
+Kepler-1558,coordinate,8,2
+Kepler-1559,name,12,3
+Kepler-156,coordinate,1,1
+Kepler-1560,coordinate,18,4
+Kepler-1561,name,17,4
+Kepler-1562,name,10,3
+Kepler-1563,coordinate,3,2
+Kepler-1564,name,18,4
+Kepler-1565,coordinate,2,1
+Kepler-1566,coordinate,8,1
+Kepler-1567,name,8,3
+Kepler-1568,name,18,4
+Kepler-1569,coordinate,6,2
+Kepler-1570,name,19,4
+Kepler-1571,name,20,4
+Kepler-1572,name,31,5
+Kepler-1573,coordinate,8,2
+Kepler-1575,coordinate,3,1
+Kepler-1577,coordinate,6,1
+Kepler-1579,name,10,3
+Kepler-158,coordinate,30,2
+Kepler-1581,name,36,5
+Kepler-1582,name,25,4
+Kepler-1583,coordinate,8,2
+Kepler-1584,name,9,3
+Kepler-1585,coordinate,6,3
+Kepler-1586,coordinate,2,1
+Kepler-1587,name,14,3
+Kepler-1588,coordinate,4,1
+Kepler-1589,coordinate,3,1
+Kepler-159,name,17,4
+Kepler-1590,coordinate,6,1
+Kepler-1591,name,9,3
+Kepler-1592,coordinate,4,3
+Kepler-1593,name,5,1
+Kepler-1594,coordinate,13,3
+Kepler-1595,coordinate,14,4
+Kepler-1596,coordinate,10,3
+Kepler-1597,name,16,4
+Kepler-1598,coordinate,7,3
+Kepler-1599,coordinate,3,1
+Kepler-16,coordinate,8,2
+Kepler-160,coordinate,6,2
+Kepler-1600,coordinate,3,3
+Kepler-1601,coordinate,2,1
+Kepler-1602,name,28,4
+Kepler-1603,coordinate,3,1
+Kepler-1604,coordinate,11,2
+Kepler-1605,coordinate,10,3
+Kepler-1606,name,11,3
+Kepler-1607,name,20,4
+Kepler-1608,coordinate,3,1
+Kepler-1609,name,7,3
+Kepler-161,coordinate,5,1
+Kepler-1610,name,5,1
+Kepler-1611,name,21,4
+Kepler-1612,coordinate,5,2
+Kepler-1613,coordinate,2,1
+Kepler-1614,name,13,3
+Kepler-1615,coordinate,12,1
+Kepler-1616,coordinate,18,3
+Kepler-1617,coordinate,4,2
+Kepler-1618,name,24,4
+Kepler-1619,coordinate,13,4
+Kepler-162,name,17,4
+Kepler-1620,name,23,5
+Kepler-1621,coordinate,2,1
+Kepler-1622,name,25,5
+Kepler-1623,name,4,1
+Kepler-1624,name,34,5
+Kepler-1625,name,4,1
+Kepler-1626,name,18,4
+Kepler-1627,coordinate,38,3
+Kepler-1628,name,11,3
+Kepler-1629,name,32,6
+Kepler-163,name,18,4
+Kepler-1630,coordinate,2,1
+Kepler-1631,name,6,1
+Kepler-1632,coordinate,3,1
+Kepler-1633,name,23,4
+Kepler-1634,name,28,5
+Kepler-1635,coordinate,39,3
+Kepler-1636,coordinate,2,1
+Kepler-1637,coordinate,1,1
+Kepler-1638,coordinate,2,1
+Kepler-1639,name,24,3
+Kepler-164,coordinate,3,1
+Kepler-1640,name,30,3
+Kepler-1641,name,16,3
+Kepler-1642,name,41,6
+Kepler-1643,name,27,2
+Kepler-1644,coordinate,16,3
+Kepler-1645,name,10,3
+Kepler-1646,name,38,5
+Kepler-1647,name,32,4
+Kepler-1649,name,28,5
+Kepler-165,name,20,4
+Kepler-1650,name,29,5
+Kepler-1651,coordinate,13,2
+Kepler-1652,name,10,3
+Kepler-1654,coordinate,11,1
+Kepler-1655,name,35,6
+Kepler-1656,coordinate,46,4
+Kepler-166,coordinate,8,1
+Kepler-1661,coordinate,24,3
+Kepler-1663,name,34,6
+Kepler-1664,coordinate,24,2
+Kepler-1665,coordinate,10,4
+Kepler-1666,name,8,3
+Kepler-1667,coordinate,31,3
+Kepler-1668,name,4,1
+Kepler-1669,coordinate,2,1
+Kepler-167,coordinate,7,3
+Kepler-1670,coordinate,11,4
+Kepler-1671,name,27,5
+Kepler-1672,name,31,6
+Kepler-1673,coordinate,19,2
+Kepler-1674,coordinate,3,1
+Kepler-1675,coordinate,20,3
+Kepler-1676,name,32,3
+Kepler-1677,coordinate,13,5
+Kepler-1678,name,7,3
+Kepler-1679,coordinate,3,1
+Kepler-168,coordinate,9,2
+Kepler-1680,coordinate,3,3
+Kepler-1681,name,17,4
+Kepler-1682,name,4,1
+Kepler-1683,name,9,3
+Kepler-1684,name,5,1
+Kepler-1685,name,5,1
+Kepler-1686,coordinate,5,2
+Kepler-1687,name,27,5
+Kepler-1688,name,23,5
+Kepler-1689,name,39,5
+Kepler-169,coordinate,10,2
+Kepler-1690,coordinate,6,2
+Kepler-1691,coordinate,3,1
+Kepler-1692,coordinate,5,1
+Kepler-1693,coordinate,9,2
+Kepler-1694,coordinate,3,2
+Kepler-1695,name,9,2
+Kepler-1696,name,7,2
+Kepler-1697,coordinate,8,2
+Kepler-1698,coordinate,4,1
+Kepler-1699,coordinate,6,1
+Kepler-17,name,23,4
+Kepler-170,coordinate,4,1
+Kepler-1700,name,27,4
+Kepler-1701,name,11,3
+Kepler-1702,coordinate,25,3
+Kepler-1704,name,35,4
+Kepler-1705,name,4,2
+Kepler-1708,coordinate,2,1
+Kepler-1709,coordinate,21,4
+Kepler-171,coordinate,2,1
+Kepler-1710,coordinate,2,1
+Kepler-1711,name,21,4
+Kepler-1712,coordinate,2,1
+Kepler-1713,coordinate,4,1
+Kepler-1714,coordinate,3,1
+Kepler-1715,coordinate,7,4
+Kepler-1716,name,38,5
+Kepler-1717,coordinate,4,2
+Kepler-1718,name,30,4
+Kepler-1719,coordinate,17,3
+Kepler-172,coordinate,49,4
+Kepler-1720,coordinate,1,1
+Kepler-1721,coordinate,22,2
+Kepler-1722,name,4,2
+Kepler-1723,name,10,3
+Kepler-1725,name,17,3
+Kepler-1726,coordinate,22,2
+Kepler-1727,coordinate,5,3
+Kepler-1728,coordinate,11,3
+Kepler-1729,name,4,3
+Kepler-173,name,14,3
+Kepler-1730,coordinate,10,2
+Kepler-1731,coordinate,2,1
+Kepler-1732,name,4,2
+Kepler-1733,coordinate,1,1
+Kepler-1734,name,4,2
+Kepler-1735,name,38,5
+Kepler-1736,coordinate,4,1
+Kepler-1737,coordinate,2,1
+Kepler-1738,name,4,3
+Kepler-1739,name,6,2
+Kepler-174,coordinate,4,1
+Kepler-1740,coordinate,4,2
+Kepler-1741,name,23,4
+Kepler-1742,coordinate,6,1
+Kepler-1743,coordinate,2,1
+Kepler-1744,name,4,2
+Kepler-1745,name,4,2
+Kepler-1746,name,22,4
+Kepler-1747,coordinate,41,3
+Kepler-1748,coordinate,4,1
+Kepler-1749,coordinate,1,1
+Kepler-175,coordinate,6,2
+Kepler-1750,name,4,2
+Kepler-1751,coordinate,31,4
+Kepler-1752,coordinate,8,4
+Kepler-1753,name,4,2
+Kepler-1754,name,8,2
+Kepler-1755,coordinate,2,1
+Kepler-1756,coordinate,6,3
+Kepler-1757,coordinate,2,1
+Kepler-1758,name,2,2
+Kepler-1759,name,18,3
+Kepler-176,name,14,3
+Kepler-1760,coordinate,16,3
+Kepler-1761,coordinate,17,2
+Kepler-1763,coordinate,2,2
+Kepler-1764,coordinate,6,2
+Kepler-1765,name,4,2
+Kepler-1766,name,27,4
+Kepler-1768,coordinate,6,2
+Kepler-1769,coordinate,3,1
+Kepler-177,coordinate,4,1
+Kepler-1770,name,8,2
+Kepler-1771,name,21,4
+Kepler-1772,name,14,3
+Kepler-1773,coordinate,9,1
+Kepler-1774,coordinate,1,1
+Kepler-1775,name,13,4
+Kepler-1776,coordinate,7,3
+Kepler-1777,name,21,5
+Kepler-1778,coordinate,2,1
+Kepler-1779,coordinate,2,1
+Kepler-178,name,21,4
+Kepler-1780,coordinate,1,1
+Kepler-1782,name,19,4
+Kepler-1783,name,28,5
+Kepler-1784,name,4,2
+Kepler-1786,coordinate,7,3
+Kepler-1787,coordinate,10,3
+Kepler-1788,coordinate,3,1
+Kepler-1789,coordinate,26,3
+Kepler-179,name,20,4
+Kepler-1790,name,8,2
+Kepler-1791,coordinate,16,2
+Kepler-1792,coordinate,4,2
+Kepler-1793,coordinate,2,1
+Kepler-1794,name,4,1
+Kepler-1795,coordinate,8,2
+Kepler-1796,coordinate,10,2
+Kepler-1798,coordinate,2,1
+Kepler-1799,coordinate,8,2
+Kepler-18,name,43,6
+Kepler-180,coordinate,3,1
+Kepler-1800,name,28,5
+Kepler-1801,coordinate,5,2
+Kepler-1804,name,7,1
+Kepler-1805,coordinate,29,4
+Kepler-1806,name,6,2
+Kepler-1807,coordinate,5,3
+Kepler-1808,coordinate,4,1
+Kepler-1809,coordinate,2,1
+Kepler-181,coordinate,1,1
+Kepler-1810,name,2,2
+Kepler-1811,coordinate,3,1
+Kepler-1812,name,8,3
+Kepler-1813,name,12,3
+Kepler-1814,coordinate,10,2
+Kepler-1815,name,8,3
+Kepler-1816,coordinate,1,1
+Kepler-1817,coordinate,17,2
+Kepler-1818,coordinate,14,3
+Kepler-1819,name,4,2
+Kepler-182,coordinate,2,1
+Kepler-1820,coordinate,2,2
+Kepler-1821,coordinate,9,2
+Kepler-1823,coordinate,16,3
+Kepler-1824,coordinate,1,1
+Kepler-1825,coordinate,6,3
+Kepler-1826,coordinate,8,2
+Kepler-1827,name,19,4
+Kepler-1828,name,4,2
+Kepler-1829,name,22,3
+Kepler-183,coordinate,4,1
+Kepler-1830,name,21,4
+Kepler-1831,name,8,2
+Kepler-1832,name,21,4
+Kepler-1833,coordinate,3,1
+Kepler-1834,name,2,1
+Kepler-1835,coordinate,6,1
+Kepler-1837,name,10,3
+Kepler-1838,name,28,5
+Kepler-1839,coordinate,12,3
+Kepler-184,coordinate,6,2
+Kepler-1840,coordinate,2,1
+Kepler-1841,coordinate,1,1
+Kepler-1842,name,8,3
+Kepler-1843,name,20,3
+Kepler-1844,name,4,2
+Kepler-1845,coordinate,10,4
+Kepler-1846,coordinate,3,1
+Kepler-1847,coordinate,5,4
+Kepler-1848,name,30,5
+Kepler-1849,coordinate,20,3
+Kepler-185,coordinate,10,2
+Kepler-1850,name,40,4
+Kepler-1851,name,4,2
+Kepler-1852,coordinate,4,2
+Kepler-1853,coordinate,54,3
+Kepler-1854,coordinate,2,1
+Kepler-1855,coordinate,20,3
+Kepler-1856,name,8,2
+Kepler-1857,coordinate,3,3
+Kepler-1858,coordinate,1,1
+Kepler-1859,coordinate,6,2
+Kepler-186,name,39,6
+Kepler-1860,coordinate,4,2
+Kepler-1861,name,29,4
+Kepler-1862,name,8,2
+Kepler-1863,name,17,4
+Kepler-1864,name,41,5
+Kepler-1865,coordinate,9,2
+Kepler-1866,coordinate,8,2
+Kepler-1867,coordinate,1,1
+Kepler-1868,coordinate,1,1
+Kepler-1869,coordinate,3,1
+Kepler-187,name,13,3
+Kepler-1870,name,32,5
+Kepler-1871,coordinate,3,1
+Kepler-1872,name,6,2
+Kepler-1874,name,6,2
+Kepler-1875,name,8,2
+Kepler-1876,coordinate,5,3
+Kepler-1877,name,42,5
+Kepler-1878,name,7,3
+Kepler-1879,coordinate,2,1
+Kepler-188,coordinate,3,1
+Kepler-1880,coordinate,7,3
+Kepler-1882,coordinate,5,2
+Kepler-1883,coordinate,9,2
+Kepler-1884,name,4,2
+Kepler-1885,coordinate,8,1
+Kepler-1886,coordinate,2,1
+Kepler-1887,name,2,2
+Kepler-1888,name,35,5
+Kepler-189,name,10,4
+Kepler-1890,coordinate,9,3
+Kepler-1891,coordinate,3,1
+Kepler-1892,name,6,3
+Kepler-1893,coordinate,3,2
+Kepler-1894,name,8,2
+Kepler-1895,coordinate,12,4
+Kepler-1896,name,4,2
+Kepler-1897,coordinate,3,1
+Kepler-1898,coordinate,5,1
+Kepler-1899,coordinate,2,1
+Kepler-19,name,34,6
+Kepler-190,name,16,5
+Kepler-1900,name,4,2
+Kepler-1901,coordinate,16,3
+Kepler-1902,coordinate,21,3
+Kepler-1903,coordinate,3,1
+Kepler-1904,name,49,5
+Kepler-1905,coordinate,3,1
+Kepler-1906,coordinate,2,1
+Kepler-1907,name,49,5
+Kepler-1909,coordinate,4,2
+Kepler-191,name,14,3
+Kepler-1910,name,6,3
+Kepler-1911,coordinate,6,3
+Kepler-1912,name,62,5
+Kepler-1913,name,4,2
+Kepler-1914,coordinate,3,3
+Kepler-1915,name,7,2
+Kepler-1916,coordinate,1,1
+Kepler-1917,name,2,2
+Kepler-1918,coordinate,2,1
+Kepler-1919,coordinate,22,3
+Kepler-192,name,16,4
+Kepler-1920,name,7,1
+Kepler-1921,name,21,4
+Kepler-1922,coordinate,1,1
+Kepler-1923,coordinate,5,3
+Kepler-1924,name,6,3
+Kepler-1925,coordinate,9,2
+Kepler-1927,coordinate,2,1
+Kepler-1928,coordinate,3,1
+Kepler-1929,name,32,4
+Kepler-193,name,15,4
+Kepler-1930,coordinate,5,3
+Kepler-1931,coordinate,6,2
+Kepler-1932,coordinate,16,3
+Kepler-1933,coordinate,18,2
+Kepler-1934,name,29,5
+Kepler-1935,name,2,2
+Kepler-1936,coordinate,5,2
+Kepler-1937,coordinate,4,2
+Kepler-1938,name,17,3
+Kepler-1939,coordinate,4,1
+Kepler-194,name,10,3
+Kepler-1941,name,8,2
+Kepler-1942,coordinate,6,3
+Kepler-1943,coordinate,17,4
+Kepler-1944,name,10,3
+Kepler-1945,coordinate,10,2
+Kepler-1946,coordinate,10,1
+Kepler-1947,coordinate,3,1
+Kepler-1948,coordinate,9,3
+Kepler-1949,name,4,2
+Kepler-195,coordinate,3,1
+Kepler-1950,coordinate,11,3
+Kepler-1952,name,26,3
+Kepler-1953,coordinate,8,4
+Kepler-1954,coordinate,3,2
+Kepler-1955,name,26,4
+Kepler-1956,name,21,3
+Kepler-1957,name,22,4
+Kepler-1958,name,6,3
+Kepler-1959,name,19,4
+Kepler-196,coordinate,11,2
+Kepler-1960,name,4,2
+Kepler-1961,coordinate,6,2
+Kepler-1962,coordinate,6,3
+Kepler-1963,name,26,4
+Kepler-1964,name,8,2
+Kepler-1965,coordinate,1,1
+Kepler-1966,coordinate,1,1
+Kepler-1967,name,44,4
+Kepler-1968,coordinate,4,2
+Kepler-1969,name,8,2
+Kepler-197,coordinate,16,5
+Kepler-1972,coordinate,1,1
+Kepler-1976,coordinate,9,2
+Kepler-1977,coordinate,3,1
+Kepler-1978,name,12,2
+Kepler-1979,coordinate,18,5
+Kepler-198,coordinate,10,3
+Kepler-1980,name,4,2
+Kepler-1981,coordinate,4,2
+Kepler-1982,name,23,4
+Kepler-1983,name,10,3
+Kepler-1984,coordinate,3,1
+Kepler-1985,coordinate,4,1
+Kepler-1987,name,4,2
+Kepler-1988,name,20,4
+Kepler-1989,name,13,2
+Kepler-199,name,22,3
+Kepler-1990,coordinate,10,4
+Kepler-1991,coordinate,16,2
+Kepler-1992,coordinate,5,2
+Kepler-1993,name,22,4
+Kepler-1994,name,41,5
+Kepler-1995,coordinate,24,3
+Kepler-1996,coordinate,33,3
+Kepler-1998,coordinate,10,1
+Kepler-1999,name,8,2
+Kepler-20,coordinate,12,4
+Kepler-200,coordinate,32,3
+Kepler-2000,coordinate,31,3
+Kepler-2001,name,10,2
+Kepler-201,coordinate,4,2
+Kepler-202,coordinate,25,3
+Kepler-203,name,20,4
+Kepler-204,coordinate,10,2
+Kepler-205,coordinate,4,2
+Kepler-206,coordinate,6,1
+Kepler-207,name,26,5
+Kepler-208,coordinate,1,1
+Kepler-209,name,21,4
+Kepler-21,name,36,6
+Kepler-210,name,41,6
+Kepler-211,coordinate,18,2
+Kepler-212,coordinate,4,1
+Kepler-213,coordinate,3,1
+Kepler-214,coordinate,2,1
+Kepler-215,coordinate,11,2
+Kepler-216,coordinate,3,1
+Kepler-217,coordinate,12,3
+Kepler-218,name,35,6
+Kepler-219,coordinate,8,2
+Kepler-22,name,51,6
+Kepler-220,name,38,5
+Kepler-221,name,36,6
+Kepler-222,coordinate,4,2
+Kepler-223,name,14,4
+Kepler-224,name,12,3
+Kepler-225,name,8,3
+Kepler-226,name,14,4
+Kepler-227,coordinate,4,2
+Kepler-228,name,5,1
+Kepler-229,coordinate,16,2
+Kepler-23,name,33,5
+Kepler-230,name,13,3
+Kepler-231,coordinate,5,2
+Kepler-232,coordinate,3,1
+Kepler-233,name,21,4
+Kepler-234,name,7,3
+Kepler-235,coordinate,2,1
+Kepler-236,coordinate,47,6
+Kepler-237,name,19,3
+Kepler-238,name,12,3
+Kepler-239,name,9,3
+Kepler-24,name,13,4
+Kepler-240,coordinate,3,1
+Kepler-241,name,8,3
+Kepler-242,name,8,3
+Kepler-243,coordinate,2,1
+Kepler-244,name,7,3
+Kepler-245,name,14,4
+Kepler-246,coordinate,2,2
+Kepler-247,name,14,4
+Kepler-248,name,14,4
+Kepler-249,coordinate,2,1
+Kepler-25,name,54,6
+Kepler-250,coordinate,8,2
+Kepler-251,name,9,3
+Kepler-252,coordinate,10,4
+Kepler-253,coordinate,3,1
+Kepler-254,name,10,3
+Kepler-255,name,8,2
+Kepler-257,name,8,3
+Kepler-258,coordinate,2,1
+Kepler-259,coordinate,4,2
+Kepler-26,coordinate,28,3
+Kepler-260,coordinate,3,1
+Kepler-261,coordinate,3,1
+Kepler-262,coordinate,3,1
+Kepler-263,name,9,3
+Kepler-264,name,21,5
+Kepler-265,name,8,3
+Kepler-266,name,6,1
+Kepler-267,name,41,5
+Kepler-268,coordinate,6,4
+Kepler-269,name,6,3
+Kepler-27,coordinate,2,1
+Kepler-270,coordinate,13,2
+Kepler-271,coordinate,4,1
+Kepler-272,name,18,4
+Kepler-273,coordinate,10,3
+Kepler-274,name,7,3
+Kepler-275,name,7,3
+Kepler-276,coordinate,1,1
+Kepler-277,name,18,4
+Kepler-278,coordinate,6,2
+Kepler-279,name,22,4
+Kepler-28,coordinate,17,5
+Kepler-281,coordinate,3,1
+Kepler-282,coordinate,24,2
+Kepler-283,name,21,4
+Kepler-284,name,7,3
+Kepler-285,coordinate,3,1
+Kepler-286,coordinate,3,1
+Kepler-287,coordinate,9,2
+Kepler-288,coordinate,3,1
+Kepler-289,name,17,3
+Kepler-29,name,18,4
+Kepler-290,coordinate,10,4
+Kepler-291,coordinate,6,2
+Kepler-292,name,5,1
+Kepler-293,coordinate,3,1
+Kepler-294,coordinate,4,1
+Kepler-295,coordinate,9,2
+Kepler-296,name,23,4
+Kepler-297,coordinate,18,2
+Kepler-298,coordinate,41,5
+Kepler-299,coordinate,25,1
+Kepler-30,coordinate,34,3
+Kepler-300,coordinate,2,1
+Kepler-301,coordinate,34,2
+Kepler-302,name,6,1
+Kepler-303,coordinate,2,1
+Kepler-304,coordinate,7,2
+Kepler-305,name,9,3
+Kepler-306,coordinate,3,1
+Kepler-307,name,12,3
+Kepler-308,name,5,1
+Kepler-309,name,12,3
+Kepler-31,name,13,4
+Kepler-310,coordinate,4,1
+Kepler-311,name,41,5
+Kepler-312,name,30,5
+Kepler-313,name,13,3
+Kepler-314,coordinate,3,1
+Kepler-315,coordinate,2,1
+Kepler-316,coordinate,9,3
+Kepler-317,coordinate,3,1
+Kepler-318,name,39,5
+Kepler-319,coordinate,1,1
+Kepler-32,name,40,5
+Kepler-320,coordinate,5,2
+Kepler-321,name,39,6
+Kepler-322,coordinate,21,4
+Kepler-323,name,26,6
+Kepler-324,coordinate,16,1
+Kepler-325,coordinate,6,2
+Kepler-326,coordinate,5,2
+Kepler-327,name,36,6
+Kepler-328,coordinate,3,1
+Kepler-329,name,18,4
+Kepler-33,name,20,4
+Kepler-330,name,8,4
+Kepler-331,coordinate,6,4
+Kepler-332,name,38,5
+Kepler-333,name,21,4
+Kepler-334,coordinate,10,3
+Kepler-335,coordinate,12,4
+Kepler-336,name,21,4
+Kepler-337,coordinate,6,1
+Kepler-338,coordinate,10,2
+Kepler-339,name,18,4
+Kepler-34,name,29,4
+Kepler-340,name,23,5
+Kepler-341,coordinate,5,2
+Kepler-342,coordinate,15,4
+Kepler-343,name,12,3
+Kepler-344,coordinate,10,2
+Kepler-345,coordinate,4,2
+Kepler-346,coordinate,3,1
+Kepler-347,name,18,4
+Kepler-348,coordinate,4,2
+Kepler-349,coordinate,5,3
+Kepler-35,coordinate,6,3
+Kepler-350,coordinate,2,1
+Kepler-351,coordinate,6,1
+Kepler-352,coordinate,14,4
+Kepler-353,name,30,5
+Kepler-354,coordinate,10,1
+Kepler-355,coordinate,16,2
+Kepler-356,coordinate,6,2
+Kepler-357,name,6,3
+Kepler-358,coordinate,4,1
+Kepler-359,coordinate,3,1
+Kepler-36,coordinate,6,2
+Kepler-360,coordinate,5,2
+Kepler-361,name,20,4
+Kepler-362,name,18,4
+Kepler-363,coordinate,16,3
+Kepler-364,name,26,5
+Kepler-365,coordinate,3,1
+Kepler-366,name,13,3
+Kepler-367,name,49,6
+Kepler-368,name,23,5
+Kepler-369,name,18,4
+Kepler-37,coordinate,34,3
+Kepler-370,name,8,3
+Kepler-371,name,19,4
+Kepler-372,coordinate,3,1
+Kepler-373,coordinate,8,3
+Kepler-374,name,16,4
+Kepler-375,name,12,3
+Kepler-376,coordinate,6,2
+Kepler-377,name,22,5
+Kepler-378,coordinate,7,3
+Kepler-379,name,26,4
+Kepler-38,coordinate,5,1
+Kepler-380,coordinate,23,2
+Kepler-381,coordinate,44,4
+Kepler-382,name,12,3
+Kepler-383,coordinate,3,3
+Kepler-384,coordinate,12,2
+Kepler-385,coordinate,3,1
+Kepler-386,coordinate,10,3
+Kepler-387,coordinate,2,1
+Kepler-388,name,12,4
+Kepler-389,coordinate,3,1
+Kepler-39,name,16,4
+Kepler-390,coordinate,6,2
+Kepler-391,name,37,5
+Kepler-392,coordinate,12,2
+Kepler-393,coordinate,14,5
+Kepler-394,name,13,3
+Kepler-395,coordinate,15,4
+Kepler-396,name,74,6
+Kepler-397,name,8,2
+Kepler-398,coordinate,1,1
+Kepler-399,name,13,3
+Kepler-4,coordinate,14,3
+Kepler-40,coordinate,2,2
+Kepler-400,coordinate,7,3
+Kepler-401,coordinate,9,2
+Kepler-402,coordinate,6,2
+Kepler-403,coordinate,7,3
+Kepler-404,coordinate,14,1
+Kepler-405,coordinate,10,4
+Kepler-406,name,35,6
+Kepler-407,coordinate,24,2
+Kepler-408,coordinate,2,1
+Kepler-409,coordinate,9,2
+Kepler-41,coordinate,4,2
+Kepler-410 A,coordinate,51,3
+Kepler-411,coordinate,5,2
+Kepler-412,name,33,4
+Kepler-413,coordinate,2,1
+Kepler-414,name,47,6
+Kepler-415,name,28,4
+Kepler-416,name,11,3
+Kepler-417,name,14,3
+Kepler-418,name,12,3
+Kepler-419,coordinate,3,1
+Kepler-42,name,45,6
+Kepler-421,coordinate,49,4
+Kepler-422,coordinate,5,1
+Kepler-423,coordinate,5,3
+Kepler-424,name,24,4
+Kepler-425,name,22,4
+Kepler-426,coordinate,8,2
+Kepler-427,name,7,3
+Kepler-428,coordinate,2,1
+Kepler-43,coordinate,31,4
+Kepler-430,name,27,5
+Kepler-431,coordinate,2,1
+Kepler-432,coordinate,24,2
+Kepler-433,name,17,3
+Kepler-434,coordinate,6,2
+Kepler-435,name,30,4
+Kepler-436,coordinate,6,1
+Kepler-437,name,11,3
+Kepler-438,coordinate,8,2
+Kepler-439,name,13,4
+Kepler-44,name,19,3
+Kepler-440,coordinate,20,3
+Kepler-441,coordinate,31,3
+Kepler-442,coordinate,30,3
+Kepler-443,name,12,3
+Kepler-444,name,56,6
+Kepler-445,coordinate,1,1
+Kepler-446,coordinate,10,1
+Kepler-447,coordinate,30,2
+Kepler-449,coordinate,9,2
+Kepler-45,coordinate,8,2
+Kepler-450,name,64,6
+Kepler-452,name,26,5
+Kepler-453,coordinate,4,1
+Kepler-454,coordinate,6,1
+Kepler-46,name,12,3
+Kepler-461,coordinate,3,1
+Kepler-462,name,42,5
+Kepler-463,name,34,6
+Kepler-464,name,29,5
+Kepler-465,coordinate,2,1
+Kepler-466,name,29,5
+Kepler-467,name,34,6
+Kepler-468,name,54,6
+Kepler-47,name,35,4
+Kepler-471,name,32,4
+Kepler-472,name,34,5
+Kepler-473,coordinate,3,2
+Kepler-474,name,24,4
+Kepler-475,coordinate,14,3
+Kepler-476,coordinate,3,1
+Kepler-477,name,11,3
+Kepler-478,coordinate,1,1
+Kepler-479,coordinate,6,3
+Kepler-48,name,28,5
+Kepler-480,name,41,5
+Kepler-481,name,22,4
+Kepler-482,name,35,6
+Kepler-483,name,22,5
+Kepler-484,coordinate,28,2
+Kepler-485,coordinate,4,1
+Kepler-487,name,14,4
+Kepler-489,name,21,5
+Kepler-49,name,21,4
+Kepler-490,coordinate,11,3
+Kepler-491,coordinate,8,1
+Kepler-493,coordinate,2,1
+Kepler-495,coordinate,5,3
+Kepler-496,name,10,4
+Kepler-497,coordinate,6,2
+Kepler-498,coordinate,7,3
+Kepler-499,coordinate,4,2
+Kepler-5,name,36,5
+Kepler-50,coordinate,2,1
+Kepler-500,name,14,4
+Kepler-501,coordinate,1,1
+Kepler-502,coordinate,10,3
+Kepler-504,coordinate,6,2
+Kepler-505,coordinate,3,1
+Kepler-506,name,39,6
+Kepler-507,name,43,5
+Kepler-508,name,52,6
+Kepler-509,coordinate,6,3
+Kepler-51,name,36,4
+Kepler-510,coordinate,4,1
+Kepler-511,coordinate,18,2
+Kepler-512,name,39,5
+Kepler-513,name,49,5
+Kepler-514,coordinate,14,1
+Kepler-515,coordinate,3,1
+Kepler-516,coordinate,8,3
+Kepler-517,coordinate,2,1
+Kepler-518,name,41,6
+Kepler-519,coordinate,4,2
+Kepler-52,coordinate,24,2
+Kepler-520,name,20,4
+Kepler-521,name,24,5
+Kepler-522,coordinate,12,4
+Kepler-523,coordinate,13,2
+Kepler-524,coordinate,1,1
+Kepler-525,name,28,4
+Kepler-526,coordinate,2,1
+Kepler-527,name,31,5
+Kepler-528,coordinate,1,1
+Kepler-529,name,27,5
+Kepler-53,coordinate,9,1
+Kepler-530,name,44,6
+Kepler-531,coordinate,7,1
+Kepler-532,name,39,5
+Kepler-533,coordinate,10,3
+Kepler-534,coordinate,9,3
+Kepler-535,name,29,4
+Kepler-536,coordinate,6,3
+Kepler-537,coordinate,13,4
+Kepler-538,name,54,6
+Kepler-539,name,33,5
+Kepler-54,name,40,6
+Kepler-540,name,41,6
+Kepler-541,coordinate,2,1
+Kepler-542,name,29,6
+Kepler-543,coordinate,5,1
+Kepler-544,name,25,4
+Kepler-545,name,4,1
+Kepler-546,coordinate,10,1
+Kepler-547,name,31,4
+Kepler-548,coordinate,5,1
+Kepler-549,coordinate,59,3
+Kepler-55,coordinate,36,2
+Kepler-550,name,21,4
+Kepler-551,coordinate,12,3
+Kepler-552,name,20,4
+Kepler-553,name,13,4
+Kepler-554,coordinate,3,1
+Kepler-555,coordinate,41,3
+Kepler-556,coordinate,3,1
+Kepler-557,name,12,3
+Kepler-558,coordinate,27,2
+Kepler-559,coordinate,1,1
+Kepler-56,coordinate,3,1
+Kepler-560,name,35,5
+Kepler-561,name,15,4
+Kepler-562,name,11,3
+Kepler-563,coordinate,2,1
+Kepler-564,name,12,4
+Kepler-565,coordinate,13,2
+Kepler-566,coordinate,5,3
+Kepler-567,name,19,4
+Kepler-568,name,47,6
+Kepler-569,coordinate,11,2
+Kepler-57,coordinate,10,4
+Kepler-570,coordinate,3,1
+Kepler-571,coordinate,7,1
+Kepler-572,name,22,4
+Kepler-573,name,23,4
+Kepler-574,coordinate,3,1
+Kepler-575,name,11,3
+Kepler-576,name,21,3
+Kepler-577,coordinate,6,1
+Kepler-578,name,12,3
+Kepler-579,name,13,3
+Kepler-58,name,12,3
+Kepler-580,coordinate,13,2
+Kepler-581,name,13,3
+Kepler-582,name,4,1
+Kepler-583,coordinate,25,3
+Kepler-584,name,12,4
+Kepler-585,name,15,3
+Kepler-586,coordinate,8,3
+Kepler-587,coordinate,8,2
+Kepler-588,coordinate,64,2
+Kepler-589,name,30,4
+Kepler-59,coordinate,5,1
+Kepler-590,name,5,1
+Kepler-591,coordinate,28,1
+Kepler-592,coordinate,13,2
+Kepler-593,coordinate,4,1
+Kepler-594,coordinate,5,1
+Kepler-595,name,17,4
+Kepler-596,coordinate,3,1
+Kepler-597,coordinate,4,1
+Kepler-598,coordinate,5,2
+Kepler-599,coordinate,2,1
+Kepler-6,coordinate,1,1
+Kepler-60,name,21,4
+Kepler-600,coordinate,35,2
+Kepler-601,coordinate,8,1
+Kepler-602,name,12,3
+Kepler-603,coordinate,4,1
+Kepler-604,name,17,3
+Kepler-605,coordinate,2,1
+Kepler-606,coordinate,6,1
+Kepler-607,coordinate,6,2
+Kepler-608,name,12,3
+Kepler-609,coordinate,3,1
+Kepler-61,coordinate,5,2
+Kepler-610,coordinate,8,1
+Kepler-611,coordinate,12,1
+Kepler-612,coordinate,9,2
+Kepler-613,coordinate,2,1
+Kepler-614,name,16,4
+Kepler-615,coordinate,39,3
+Kepler-616,name,10,3
+Kepler-617,coordinate,4,1
+Kepler-618,coordinate,7,1
+Kepler-619,coordinate,6,2
+Kepler-62,coordinate,4,1
+Kepler-620,coordinate,3,1
+Kepler-621,name,11,3
+Kepler-622,coordinate,4,1
+Kepler-623,name,13,4
+Kepler-624,coordinate,1,1
+Kepler-625,name,19,4
+Kepler-626,name,21,4
+Kepler-627,name,13,3
+Kepler-629,name,32,6
+Kepler-63,coordinate,9,3
+Kepler-630,name,28,4
+Kepler-631,coordinate,2,1
+Kepler-632,name,20,4
+Kepler-633,coordinate,2,2
+Kepler-634,coordinate,6,2
+Kepler-635,name,23,5
+Kepler-636,name,26,3
+Kepler-637,coordinate,2,1
+Kepler-638,coordinate,11,2
+Kepler-639,coordinate,11,3
+Kepler-640,name,24,5
+Kepler-641,coordinate,9,2
+Kepler-642,name,30,5
+Kepler-643,name,24,4
+Kepler-644,name,17,3
+Kepler-645,coordinate,3,1
+Kepler-646,coordinate,5,2
+Kepler-647,coordinate,4,1
+Kepler-648,coordinate,28,4
+Kepler-649,coordinate,11,2
+Kepler-65,name,51,6
+Kepler-650,coordinate,21,3
+Kepler-651,name,26,4
+Kepler-652,coordinate,6,2
+Kepler-653,name,32,5
+Kepler-654,name,24,5
+Kepler-655,coordinate,1,1
+Kepler-656,coordinate,3,1
+Kepler-657,coordinate,2,1
+Kepler-658,coordinate,6,1
+Kepler-659,coordinate,7,2
+Kepler-66,coordinate,4,2
+Kepler-660,coordinate,2,1
+Kepler-661,coordinate,5,1
+Kepler-662,coordinate,3,1
+Kepler-663,coordinate,2,1
+Kepler-664,name,12,3
+Kepler-665,coordinate,2,1
+Kepler-666,name,17,4
+Kepler-667,name,14,3
+Kepler-668,coordinate,28,4
+Kepler-669,coordinate,3,1
+Kepler-67,coordinate,2,1
+Kepler-670,coordinate,2,1
+Kepler-671,name,12,3
+Kepler-672,name,9,3
+Kepler-673,name,16,4
+Kepler-674,name,41,5
+Kepler-675,name,17,4
+Kepler-676,name,37,5
+Kepler-677,coordinate,12,1
+Kepler-678,coordinate,3,1
+Kepler-679,coordinate,3,1
+Kepler-68,coordinate,3,1
+Kepler-680,name,14,3
+Kepler-681,name,25,4
+Kepler-682,coordinate,5,2
+Kepler-683,name,7,3
+Kepler-684,name,7,3
+Kepler-685,name,20,3
+Kepler-686,coordinate,9,2
+Kepler-687,name,4,2
+Kepler-688,coordinate,3,1
+Kepler-689,name,5,1
+Kepler-69,coordinate,9,3
+Kepler-690,coordinate,3,1
+Kepler-691,coordinate,3,1
+Kepler-692,coordinate,6,2
+Kepler-693,coordinate,27,3
+Kepler-694,coordinate,8,3
+Kepler-695,name,11,3
+Kepler-696,name,8,3
+Kepler-697,coordinate,64,6
+Kepler-698,name,8,3
+Kepler-7,coordinate,8,2
+Kepler-700,coordinate,8,1
+Kepler-701,coordinate,3,1
+Kepler-702,name,10,3
+Kepler-703,name,11,3
+Kepler-704,coordinate,2,1
+Kepler-705,name,27,6
+Kepler-707,coordinate,11,2
+Kepler-708,name,6,1
+Kepler-709,coordinate,3,1
+Kepler-710,name,9,3
+Kepler-711,name,9,3
+Kepler-712,name,6,1
+Kepler-713,coordinate,7,3
+Kepler-714,coordinate,18,1
+Kepler-715,coordinate,8,1
+Kepler-716,coordinate,3,1
+Kepler-717,coordinate,4,1
+Kepler-718,name,23,4
+Kepler-719,coordinate,8,3
+Kepler-720,coordinate,1,1
+Kepler-721,coordinate,4,1
+Kepler-722,name,9,2
+Kepler-723,name,28,4
+Kepler-724,name,10,3
+Kepler-725,coordinate,42,4
+Kepler-726,coordinate,7,2
+Kepler-727,coordinate,3,1
+Kepler-728,coordinate,7,3
+Kepler-729,coordinate,6,1
+Kepler-730,coordinate,2,1
+Kepler-731,name,16,3
+Kepler-732,coordinate,14,2
+Kepler-733,name,10,3
+Kepler-734,name,16,4
+Kepler-735,coordinate,11,2
+Kepler-736,coordinate,20,3
+Kepler-737,coordinate,11,2
+Kepler-738,name,11,3
+Kepler-739,coordinate,8,2
+Kepler-74,coordinate,4,1
+Kepler-740,coordinate,7,1
+Kepler-741,name,14,4
+Kepler-742,coordinate,41,3
+Kepler-743,coordinate,6,2
+Kepler-744,name,38,6
+Kepler-745,coordinate,7,4
+Kepler-746,name,16,4
+Kepler-747,coordinate,9,2
+Kepler-748,name,9,3
+Kepler-749,name,5,1
+Kepler-75,name,16,3
+Kepler-750,coordinate,4,1
+Kepler-751,coordinate,17,4
+Kepler-752,coordinate,8,2
+Kepler-753,coordinate,4,2
+Kepler-754,coordinate,8,1
+Kepler-755,coordinate,2,1
+Kepler-756,coordinate,13,5
+Kepler-757,name,8,3
+Kepler-758,coordinate,3,1
+Kepler-759,coordinate,4,2
+Kepler-76,coordinate,2,1
+Kepler-760,coordinate,4,1
+Kepler-761,coordinate,6,3
+Kepler-762,coordinate,9,4
+Kepler-763,coordinate,6,2
+Kepler-764,name,10,4
+Kepler-765,coordinate,31,3
+Kepler-766,coordinate,8,1
+Kepler-767,coordinate,4,2
+Kepler-768,name,8,3
+Kepler-769,name,7,3
+Kepler-77,coordinate,4,1
+Kepler-770,name,13,3
+Kepler-771,coordinate,3,1
+Kepler-772,coordinate,3,1
+Kepler-773,coordinate,2,1
+Kepler-774,coordinate,6,3
+Kepler-775,coordinate,5,3
+Kepler-776,name,7,3
+Kepler-777,coordinate,42,5
+Kepler-778,name,8,3
+Kepler-779,coordinate,7,2
+Kepler-78,name,61,6
+Kepler-780,coordinate,2,1
+Kepler-781,coordinate,7,2
+Kepler-782,name,40,5
+Kepler-783,coordinate,3,1
+Kepler-784,coordinate,1,1
+Kepler-785,name,21,3
+Kepler-786,coordinate,3,1
+Kepler-787,coordinate,9,2
+Kepler-788,coordinate,13,3
+Kepler-789,coordinate,4,4
+Kepler-79,coordinate,7,3
+Kepler-790,name,8,3
+Kepler-791,coordinate,1,1
+Kepler-792,coordinate,2,1
+Kepler-793,name,13,3
+Kepler-794,coordinate,6,2
+Kepler-795,name,25,6
+Kepler-796,coordinate,4,1
+Kepler-797,name,17,4
+Kepler-798,coordinate,4,2
+Kepler-799,name,6,3
+Kepler-8,coordinate,40,6
+Kepler-80,name,26,5
+Kepler-800,coordinate,14,2
+Kepler-801,name,23,5
+Kepler-802,name,15,4
+Kepler-803,name,22,4
+Kepler-804,coordinate,4,1
+Kepler-805,coordinate,20,5
+Kepler-806,name,43,6
+Kepler-808,name,14,3
+Kepler-809,coordinate,4,2
+Kepler-81,name,28,5
+Kepler-810,name,5,1
+Kepler-811,coordinate,18,2
+Kepler-812,coordinate,7,2
+Kepler-813,coordinate,26,4
+Kepler-814,coordinate,2,1
+Kepler-815,coordinate,84,5
+Kepler-816,name,5,1
+Kepler-817,name,14,3
+Kepler-818,name,12,3
+Kepler-819,name,14,4
+Kepler-82,name,21,4
+Kepler-820,name,7,1
+Kepler-821,coordinate,2,1
+Kepler-822,coordinate,4,2
+Kepler-823,coordinate,4,1
+Kepler-824,coordinate,3,1
+Kepler-825,coordinate,1,1
+Kepler-826,coordinate,22,3
+Kepler-827,coordinate,8,2
+Kepler-828,name,8,3
+Kepler-829,coordinate,4,1
+Kepler-83,name,28,5
+Kepler-830,coordinate,3,1
+Kepler-831,name,24,4
+Kepler-832,name,5,1
+Kepler-833,coordinate,9,4
+Kepler-834,name,12,3
+Kepler-835,coordinate,4,1
+Kepler-836,name,21,4
+Kepler-837,coordinate,26,2
+Kepler-838,coordinate,38,3
+Kepler-839,coordinate,9,2
+Kepler-84,name,12,3
+Kepler-841,coordinate,11,2
+Kepler-842,coordinate,3,1
+Kepler-843,name,13,3
+Kepler-844,name,37,6
+Kepler-845,name,27,4
+Kepler-846,coordinate,5,1
+Kepler-847,coordinate,4,1
+Kepler-848,name,16,4
+Kepler-849,name,27,4
+Kepler-85,name,12,3
+Kepler-850,coordinate,12,2
+Kepler-851,name,14,4
+Kepler-852,name,26,4
+Kepler-853,name,45,5
+Kepler-855,coordinate,3,1
+Kepler-856,name,24,3
+Kepler-857,name,14,4
+Kepler-858,name,68,5
+Kepler-859,coordinate,10,1
+Kepler-860,name,7,3
+Kepler-861,coordinate,7,2
+Kepler-862,coordinate,2,1
+Kepler-863,coordinate,3,2
+Kepler-864,coordinate,26,3
+Kepler-865,coordinate,2,1
+Kepler-866,name,6,3
+Kepler-867,coordinate,5,1
+Kepler-868,coordinate,20,4
+Kepler-869,name,14,3
+Kepler-87,name,13,3
+Kepler-870,coordinate,3,1
+Kepler-871,name,6,1
+Kepler-872,name,11,4
+Kepler-873,coordinate,8,3
+Kepler-874,name,16,3
+Kepler-875,coordinate,1,1
+Kepler-876,coordinate,4,1
+Kepler-877,name,15,4
+Kepler-878,coordinate,14,3
+Kepler-879,coordinate,12,2
+Kepler-880,coordinate,8,1
+Kepler-881,name,10,3
+Kepler-882,name,14,3
+Kepler-883,coordinate,12,4
+Kepler-884,coordinate,10,3
+Kepler-885,name,28,4
+Kepler-886,coordinate,8,2
+Kepler-887,coordinate,3,1
+Kepler-888,name,44,5
+Kepler-889,coordinate,5,2
+Kepler-890,coordinate,1,1
+Kepler-891,coordinate,5,2
+Kepler-892,coordinate,30,4
+Kepler-893,name,11,3
+Kepler-894,coordinate,1,1
+Kepler-895,name,20,3
+Kepler-896,name,8,3
+Kepler-897,coordinate,8,2
+Kepler-898,coordinate,7,1
+Kepler-899,name,4,1
+Kepler-9,coordinate,2,1
+Kepler-900,coordinate,9,2
+Kepler-901,name,23,5
+Kepler-902,coordinate,3,1
+Kepler-903,name,14,4
+Kepler-904,name,11,3
+Kepler-905,name,22,4
+Kepler-906,coordinate,6,1
+Kepler-907,coordinate,10,2
+Kepler-908,name,32,6
+Kepler-909,name,51,6
+Kepler-91,coordinate,7,2
+Kepler-910,name,36,5
+Kepler-911,name,31,5
+Kepler-912,name,9,3
+Kepler-913,coordinate,2,1
+Kepler-914,coordinate,4,3
+Kepler-915,coordinate,3,1
+Kepler-916,coordinate,6,1
+Kepler-917,coordinate,7,3
+Kepler-918,name,15,4
+Kepler-919,coordinate,1,1
+Kepler-92,coordinate,7,3
+Kepler-920,coordinate,2,1
+Kepler-921,coordinate,9,1
+Kepler-922,coordinate,27,3
+Kepler-923,name,13,3
+Kepler-924,coordinate,3,1
+Kepler-925,name,6,3
+Kepler-926,coordinate,10,3
+Kepler-927,coordinate,6,2
+Kepler-928,coordinate,3,1
+Kepler-929,name,5,1
+Kepler-93,coordinate,1,1
+Kepler-930,name,22,4
+Kepler-931,coordinate,2,1
+Kepler-932,coordinate,2,1
+Kepler-933,name,9,4
+Kepler-934,name,12,4
+Kepler-935,coordinate,6,1
+Kepler-936,name,5,1
+Kepler-937,coordinate,2,1
+Kepler-938,name,6,3
+Kepler-939,coordinate,4,2
+Kepler-94,coordinate,19,4
+Kepler-940,name,6,1
+Kepler-941,coordinate,1,1
+Kepler-942,name,41,6
+Kepler-943,coordinate,16,2
+Kepler-945,name,4,1
+Kepler-946,name,11,4
+Kepler-947,name,6,1
+Kepler-948,coordinate,19,4
+Kepler-949,coordinate,3,2
+Kepler-95,coordinate,12,2
+Kepler-950,name,9,3
+Kepler-951,coordinate,13,4
+Kepler-952,coordinate,10,2
+Kepler-953,name,49,5
+Kepler-954,name,36,5
+Kepler-955,coordinate,4,2
+Kepler-956,coordinate,1,1
+Kepler-957,name,12,3
+Kepler-958,name,44,6
+Kepler-959,name,23,5
+Kepler-96,coordinate,1,1
+Kepler-960,name,49,5
+Kepler-961,name,10,3
+Kepler-962,name,35,6
+Kepler-963,coordinate,5,2
+Kepler-964,coordinate,10,2
+Kepler-965,name,22,4
+Kepler-966,name,15,3
+Kepler-967,coordinate,1,1
+Kepler-968,coordinate,6,2
+Kepler-969,coordinate,3,1
+Kepler-97,coordinate,19,3
+Kepler-970,coordinate,12,3
+Kepler-971,coordinate,10,1
+Kepler-972,coordinate,3,1
+Kepler-973,coordinate,2,1
+Kepler-974,coordinate,22,3
+Kepler-975,coordinate,12,2
+Kepler-976,name,9,3
+Kepler-977,coordinate,1,1
+Kepler-978,name,30,5
+Kepler-979,coordinate,3,1
+Kepler-98,coordinate,8,2
+Kepler-980,name,15,4
+Kepler-981,coordinate,6,2
+Kepler-982,name,29,5
+Kepler-983,coordinate,57,4
+Kepler-984,coordinate,2,1
+Kepler-985,coordinate,2,1
+Kepler-986,coordinate,4,1
+Kepler-987,name,12,3
+Kepler-988,coordinate,9,2
+Kepler-989,name,42,5
+Kepler-99,name,40,5
+Kepler-990,name,13,3
+Kepler-991,name,25,4
+Kepler-992,coordinate,31,2
+Kepler-993,name,26,5
+Kepler-994,coordinate,6,2
+Kepler-995,coordinate,18,3
+Kepler-996,name,10,3
+Kepler-997,name,58,6
+Kepler-998,name,21,4
+Kepler-999,name,29,5
+KIC 10001893,coordinate,11,3
+KIC 10068024,name,22,3
+KIC 10525077,name,13,3
+KIC 12557548,name,19,4
+KIC 3526061,coordinate,18,2
+KIC 3558849,name,21,3
+KIC 5437945,coordinate,6,2
+KIC 5479689,name,26,4
+KIC 7917485,name,22,4
+KIC 8121913,name,24,4
+KIC 8462852,name,33,5
+KIC 9663113,name,26,5
+KOBE-1,coordinate,12,3
+KOI-12,name,38,6
+KOI-1257,coordinate,3,1
+KOI-13,coordinate,10,1
+KOI-134,coordinate,6,3
+KOI-142,coordinate,3,1
+KOI-1599,name,12,3
+KOI-1783,coordinate,12,3
+KOI-217,name,19,3
+KOI-2513,coordinate,11,3
+KOI-319,name,26,4
+KOI-3503,coordinate,10,2
+KOI-351,coordinate,40,3
+KOI-3680,coordinate,5,2
+KOI-4777,coordinate,5,1
+KOI-4978,coordinate,1,1
+KOI-55,coordinate,4,2
+KOI-7368,coordinate,3,1
+KOI-7892,coordinate,15,2
+KOI-94,name,59,6
+KOI-984,name,50,5
+KPS-1,coordinate,12,1
+L 168-9,coordinate,56,4
+L 363-38,coordinate,36,3
+L 98-59,coordinate,34,3
+Lalande 21185,coordinate,2,1
+LHS 1140,name,21,10
+LHS 1478,name,50,6
+LHS 1678,name,30,7
+LHS 1815,coordinate,4,1
+LHS 1903,name,16,4
+LHS 3154,coordinate,1,1
+LHS 3844,coordinate,120,4
+LHS 475,coordinate,11,3
+LkCa 15,coordinate,7,3
+LP 714-47,name,16,10
+LP 791-18,coordinate,1,1
+LP 890-9,coordinate,5,2
+LSPM J2116+0234,coordinate,15,4
+LTT 1445 A,coordinate,2,2
+LTT 3780,coordinate,6,2
+LTT 9779,name,29,7
+Luhman 16 A,coordinate,8,2
+Luhman 16 B,coordinate,8,2
+MASCARA-1,coordinate,12,5
+MASCARA-4,coordinate,31,3
+Mira,coordinate,42,7
+MOA-bin-29,coordinate,17,5
+mu Leo,coordinate,4,1
+mu2 Sco,coordinate,3,3
+MWC 758,name,20,6
+MXB 1658-298,coordinate,6,4
+NGTS-1,coordinate,3,3
+NGTS-10,coordinate,2,2
+NGTS-11,name,17,9
+NGTS-12,coordinate,30,3
+NGTS-13,coordinate,72,4
+NGTS-14 A,coordinate,12,3
+NGTS-15,coordinate,5,4
+NGTS-16,coordinate,5,1
+NGTS-17,name,10,4
+NGTS-18,coordinate,3,3
+NGTS-2,name,14,7
+NGTS-20,coordinate,10,1
+NGTS-21,coordinate,7,4
+NGTS-23,coordinate,9,5
+NGTS-24,coordinate,4,4
+NGTS-25,coordinate,8,2
+NGTS-26,name,2,1
+NGTS-27,coordinate,2,2
+NGTS-30,coordinate,22,7
+NGTS-31,coordinate,24,3
+NGTS-32,coordinate,12,3
+NGTS-33,coordinate,4,3
+NGTS-4,coordinate,77,4
+NGTS-5,coordinate,17,7
+NGTS-6,coordinate,2,1
+NGTS-8,coordinate,2,1
+NGTS-9,name,15,8
+NN Ser,name,3,2
+NSVS 14256825,name,8,4
+nu Oct A,coordinate,16,3
+nu Oph,coordinate,8,4
+NY Vir,name,14,4
+OGLE-2007-BLG-368L,name,1,1
+OGLE-2011-BLG-0251L,name,1,1
+OGLE-2012-BLG-0026L,coordinate,2,1
+OGLE-2012-BLG-0358L,name,1,1
+OGLE-TR-10,name,6,3
+OGLE-TR-111,coordinate,1,1
+OGLE-TR-113,coordinate,12,2
+OGLE-TR-132,name,18,6
+OGLE-TR-182,name,10,2
+OGLE-TR-211,coordinate,32,2
+OGLE-TR-56,coordinate,5,4
+OGLE2-TR-L9,name,20,6
+ome Ser,name,4,4
+omi CrB,name,15,4
+omi UMa,name,12,4
+Oph 11,coordinate,21,5
+PDS 70,name,20,7
+PH1,name,25,4
+PH2,coordinate,4,2
+POTS-1,coordinate,73,5
+Procyon B,coordinate,1,1
+Proxima Cen,coordinate,22,4
+psi1 Dra B,coordinate,20,3
+PSR B0329+54,coordinate,4,1
+PSR B1620-26,coordinate,10,4
+PZ Tel,coordinate,1,1
+Qatar-1,coordinate,21,2
+rho CrB,coordinate,6,2
+Ross 128,coordinate,3,3
+Ross 154,coordinate,18,2
+Ross 176,coordinate,11,2
+Ross 248,coordinate,18,2
+Ross 458,coordinate,5,1
+Ross 508,name,4,3
+Ross 640,coordinate,6,2
+ROXs 12,coordinate,60,6
+ROXs 42 B,coordinate,34,4
+RR Cae,coordinate,38,3
+RR Lyrae,coordinate,3,1
+Sirius B,name,8,3
+Stein 2051 B,coordinate,108,6
+SWEEPS-11,coordinate,3,3
+SWEEPS-4,coordinate,8,4
+TAP 26,coordinate,5,3
+tau Boo,name,8,4
+tau Cet,coordinate,4,3
+tau Gem,name,36,4
+TCP J05074264+2447555,name,5,2
+Teegarden's Star,coordinate,24,3
+TIC 117642575,coordinate,46,7
+TIC 139270665,name,4,4
+TIC 139702105,coordinate,10,1
+TIC 147027702,coordinate,6,1
+TIC 150070085,name,9,5
+TIC 161045582,name,22,4
+TIC 178172313,coordinate,14,4
+TIC 183374187,coordinate,14,5
+TIC 18942729,coordinate,6,3
+TIC 198190129,name,113,5
+TIC 231949697,name,27,8
+TIC 237913194,coordinate,5,4
+TIC 241249530,name,9,4
+TIC 245076932,coordinate,11,3
+TIC 249022743,coordinate,18,5
+TIC 257060897,coordinate,12,2
+TIC 260969020,coordinate,100,8
+TIC 270471727,coordinate,12,4
+TIC 279401253,coordinate,6,3
+TIC 294329732,coordinate,45,4
+TIC 365102760,name,16,4
+TIC 393818343,name,7,4
+TIC 423703298,coordinate,12,4
+TIC 434398831,name,24,8
+TIC 437041147,coordinate,4,1
+TIC 46432937,name,16,8
+TIC 4672985,name,13,8
+TIC 52059926,coordinate,6,1
+TIC 65612701,coordinate,3,1
+TIC 77319217,coordinate,5,4
+TIC 86380416,coordinate,7,1
+TIC 87422071,coordinate,22,4
+TIC 88785435,coordinate,78,4
+TIC 9344899,coordinate,3,3
+TOI-1011,coordinate,119,3
+TOI-1036,coordinate,18,3
+TOI-1052,name,42,8
+TOI-1054,coordinate,21,3
+TOI-1062,coordinate,6,1
+TOI-1064,coordinate,43,5
+TOI-1075,coordinate,1,1
+TOI-1080,coordinate,30,3
+TOI-1105,name,36,6
+TOI-1107,name,34,6
+TOI-1117,coordinate,49,4
+TOI-1130,coordinate,2,1
+TOI-1135,coordinate,48,3
+TOI-1136,coordinate,1,1
+TOI-1154,name,190,5
+TOI-1173,coordinate,11,2
+TOI-1174,coordinate,80,4
+TOI-1180,coordinate,27,3
+TOI-1181,coordinate,6,2
+TOI-1184,coordinate,4,1
+TOI-1194,name,43,7
+TOI-1199,coordinate,1,1
+TOI-1201,coordinate,6,1
+TOI-1203,coordinate,17,8
+TOI-122,name,38,7
+TOI-1221,coordinate,120,7
+TOI-1224,coordinate,3,2
+TOI-1226,coordinate,62,3
+TOI-1227,coordinate,4,1
+TOI-1230,coordinate,7,2
+TOI-1231,coordinate,16,3
+TOI-1232,name,176,8
+TOI-1235,coordinate,2,1
+TOI-1238,name,40,5
+TOI-1243,name,32,5
+TOI-1244,name,164,5
+TOI-1245,coordinate,69,2
+TOI-1246,name,226,6
+TOI-1248,coordinate,6,1
+TOI-1249,name,43,6
+TOI-125,coordinate,5,4
+TOI-1260,name,34,5
+TOI-1262,name,46,5
+TOI-1266,coordinate,8,3
+TOI-1268,name,38,6
+TOI-1269,coordinate,11,4
+TOI-1272,coordinate,6,1
+TOI-1273,coordinate,8,1
+TOI-1278,name,27,5
+TOI-1279,name,39,7
+TOI-128,coordinate,81,8
+TOI-1281,coordinate,17,4
+TOI-1288,coordinate,21,2
+TOI-1291,coordinate,1,1
+TOI-1294,coordinate,32,5
+TOI-1295,coordinate,171,5
+TOI-1296,coordinate,45,2
+TOI-1298,name,166,6
+TOI-1301,name,169,7
+TOI-132,name,28,10
+TOI-1333,name,24,6
+TOI-1338 A,coordinate,8,3
+TOI-1346,name,189,6
+TOI-1347,coordinate,134,6
+TOI-1386,coordinate,24,1
+TOI-139,name,27,9
+TOI-1408,coordinate,11,1
+TOI-1410,coordinate,10,1
+TOI-1411,name,31,5
+TOI-1416,name,18,5
+TOI-1420,coordinate,10,3
+TOI-1422,coordinate,2,1
+TOI-1431,coordinate,2,1
+TOI-1432,name,25,5
+TOI-1435,name,39,5
+TOI-1437,coordinate,1,1
+TOI-1438,coordinate,6,1
+TOI-1439,coordinate,18,1
+TOI-1441,coordinate,42,1
+TOI-1442,coordinate,11,1
+TOI-1443,coordinate,14,3
+TOI-1444,coordinate,6,1
+TOI-1448,coordinate,6,3
+TOI-1450 A,coordinate,6,1
+TOI-1451,coordinate,4,1
+TOI-1452,coordinate,8,1
+TOI-1453,name,178,6
+TOI-1466,coordinate,6,1
+TOI-1467,name,16,4
+TOI-1468,name,24,4
+TOI-1470,coordinate,1,1
+TOI-1472,name,21,5
+TOI-1478,coordinate,25,7
+TOI-150,coordinate,26,2
+TOI-1516,coordinate,20,4
+TOI-1518,coordinate,6,1
+TOI-1533,coordinate,39,2
+TOI-157,coordinate,6,4
+TOI-159,coordinate,11,3
+TOI-1601,coordinate,5,2
+TOI-163,coordinate,150,4
+TOI-1630,coordinate,6,1
+TOI-1634,coordinate,1,1
+TOI-1648,name,28,5
+TOI-1659,coordinate,16,1
+TOI-1669,coordinate,25,3
+TOI-1670,name,199,7
+TOI-1680,coordinate,3,1
+TOI-1683,coordinate,2,1
+TOI-1685,coordinate,10,2
+TOI-169,coordinate,9,2
+TOI-1691,name,61,7
+TOI-1693,coordinate,18,4
+TOI-1694,name,11,5
+TOI-1695,coordinate,13,1
+TOI-1696,name,8,4
+TOI-1710,name,44,6
+TOI-1716,name,19,5
+TOI-1718,name,46,6
+TOI-172,coordinate,7,5
+TOI-1722,name,19,5
+TOI-1723,coordinate,18,1
+TOI-1728,coordinate,30,3
+TOI-1732,name,12,4
+TOI-1736,coordinate,6,1
+TOI-1739,coordinate,40,3
+TOI-1742,name,188,5
+TOI-1743,name,163,5
+TOI-1744,coordinate,4,1
+TOI-1749,coordinate,1,1
+TOI-1750,coordinate,8,2
+TOI-1751,coordinate,9,1
+TOI-1752,name,176,5
+TOI-1753,coordinate,18,3
+TOI-1756,coordinate,52,2
+TOI-1758,coordinate,156,6
+TOI-1759,name,47,4
+TOI-1768,coordinate,3,1
+TOI-1772,name,8,4
+TOI-1774,name,9,4
+TOI-1775,name,8,4
+TOI-1776,coordinate,2,1
+TOI-1777,coordinate,5,2
+TOI-178,coordinate,65,8
+TOI-1782,name,57,6
+TOI-1789,name,23,4
+TOI-1794,name,29,6
+TOI-1798,coordinate,21,3
+TOI-1799,name,11,5
+TOI-1801,name,8,4
+TOI-1803,name,9,4
+TOI-1806,coordinate,10,4
+TOI-1807,name,20,5
+TOI-181,coordinate,16,4
+TOI-1811,coordinate,10,2
+TOI-1814,name,87,7
+TOI-1820,coordinate,16,2
+TOI-1823,coordinate,6,2
+TOI-1824,coordinate,6,3
+TOI-1836,coordinate,7,3
+TOI-1839,coordinate,3,3
+TOI-1842,name,9,5
+TOI-1846,coordinate,65,3
+TOI-1853,coordinate,21,4
+TOI-1855,name,10,5
+TOI-1859,coordinate,40,2
+TOI-1860,name,78,5
+TOI-1873,coordinate,35,4
+TOI-1883,coordinate,2,2
+TOI-1898,name,22,4
+TOI-1899,name,46,6
+TOI-1937 A,coordinate,1,1
+TOI-198,name,24,6
+TOI-199,coordinate,53,4
+TOI-1994,coordinate,25,8
+TOI-2000,name,48,7
+TOI-2005,coordinate,5,2
+TOI-201,coordinate,41,3
+TOI-2010,name,80,5
+TOI-2015,name,13,5
+TOI-2018,name,18,4
+TOI-2019,coordinate,25,2
+TOI-2025,coordinate,4,1
+TOI-2031 A,coordinate,4,1
+TOI-2040,coordinate,45,2
+TOI-2046,name,37,5
+TOI-2048,coordinate,21,1
+TOI-2049,name,13,3
+TOI-205,coordinate,48,3
+TOI-206,name,245,8
+TOI-2068,name,41,5
+TOI-2071,name,178,5
+TOI-2076,name,20,5
+TOI-2081,coordinate,4,1
+TOI-2084,name,144,6
+TOI-2088,name,173,6
+TOI-209,name,44,8
+TOI-2092,coordinate,24,2
+TOI-2093,name,149,7
+TOI-2094,name,167,5
+TOI-2095,coordinate,16,1
+TOI-2096,name,39,5
+TOI-2104,coordinate,31,4
+TOI-2107,coordinate,3,1
+TOI-2109,coordinate,2,1
+TOI-2114,coordinate,15,3
+TOI-2120,coordinate,9,2
+TOI-2128,coordinate,7,2
+TOI-213,coordinate,45,5
+TOI-2133,name,23,5
+TOI-2134,name,39,6
+TOI-2136,name,34,5
+TOI-2141,coordinate,6,2
+TOI-2145,name,32,5
+TOI-2147,coordinate,14,2
+TOI-2152,name,46,7
+TOI-2154,coordinate,15,2
+TOI-2158,name,13,5
+TOI-216,coordinate,4,2
+TOI-2180,coordinate,2,1
+TOI-2184,coordinate,34,3
+TOI-2193 A,coordinate,3,3
+TOI-2194,coordinate,3,3
+TOI-2196,name,24,5
+TOI-220,coordinate,1,1
+TOI-2200,coordinate,7,3
+TOI-2202,name,104,8
+TOI-2207,coordinate,12,4
+TOI-2211,coordinate,6,2
+TOI-2227,name,40,8
+TOI-2236,name,29,6
+TOI-2238,coordinate,15,3
+TOI-2245,coordinate,9,2
+TOI-2257,coordinate,4,1
+TOI-2260,coordinate,8,3
+TOI-2266,coordinate,17,3
+TOI-2267 B,name,16,2
+TOI-2274,name,38,5
+TOI-2285,coordinate,14,2
+TOI-2287,coordinate,2,1
+TOI-2293,name,44,5
+TOI-2295,coordinate,16,2
+TOI-2322,coordinate,1,1
+TOI-2328,coordinate,18,4
+TOI-2337,coordinate,1,1
+TOI-2338,coordinate,11,4
+TOI-2345,name,30,9
+TOI-2346,name,18,9
+TOI-2364,name,15,9
+TOI-2368,coordinate,21,3
+TOI-237,coordinate,107,4
+TOI-2373,coordinate,2,1
+TOI-2374,coordinate,34,6
+TOI-2379,name,44,9
+TOI-238,coordinate,3,3
+TOI-2382,name,21,9
+TOI-2384,coordinate,45,3
+TOI-2392,coordinate,159,4
+TOI-2406,coordinate,3,3
+TOI-2407,coordinate,6,1
+TOI-2411,name,15,8
+TOI-2416,coordinate,44,5
+TOI-2420,name,13,8
+TOI-2421,coordinate,67,5
+TOI-2426,coordinate,1,1
+TOI-2427,name,10,4
+TOI-2431,name,22,4
+TOI-244,name,32,8
+TOI-2441,coordinate,5,1
+TOI-2443,name,4,4
+TOI-2445,coordinate,4,2
+TOI-2447,name,25,8
+TOI-2449,name,31,9
+TOI-2453,name,31,9
+TOI-2458,coordinate,15,3
+TOI-2459,coordinate,21,5
+TOI-248,coordinate,49,5
+TOI-2485,coordinate,2,1
+TOI-2497,coordinate,1,1
+TOI-2498,name,20,8
+TOI-251,coordinate,40,2
+TOI-2518,coordinate,22,4
+TOI-2524,name,26,7
+TOI-2525,coordinate,61,3
+TOI-2529,name,45,7
+TOI-2537,coordinate,38,6
+TOI-2540,coordinate,18,3
+TOI-2545,coordinate,4,3
+TOI-2567,name,116,5
+TOI-257,coordinate,14,4
+TOI-2570,coordinate,1,1
+TOI-2578,coordinate,5,2
+TOI-2580,coordinate,43,4
+TOI-2587 A,coordinate,3,2
+TOI-2589,coordinate,4,1
+TOI-260,name,17,6
+TOI-261,coordinate,2,2
+TOI-262,coordinate,22,5
+TOI-2641,name,21,4
+TOI-2654,coordinate,24,4
+TOI-2669,name,20,8
+TOI-269,coordinate,25,5
+TOI-270,coordinate,2,1
+TOI-2714,coordinate,1,1
+TOI-2719,name,11,7
+TOI-2768,coordinate,1,1
+TOI-277,coordinate,4,2
+TOI-2796,coordinate,7,3
+TOI-2803 A,coordinate,14,5
+TOI-2818,coordinate,21,7
+TOI-283,name,219,9
+TOI-2842,name,10,6
+TOI-286,coordinate,27,3
+TOI-2876,coordinate,2,2
+TOI-2886,name,12,6
+TOI-2969,coordinate,2,1
+TOI-2977,coordinate,28,5
+TOI-2981,name,12,6
+TOI-2986,name,14,6
+TOI-2989,coordinate,1,1
+TOI-2992,name,16,6
+TOI-3023,coordinate,14,2
+TOI-3053,name,24,7
+TOI-3071,coordinate,46,4
+TOI-3082,name,14,7
+TOI-3135,coordinate,11,2
+TOI-3160 A,coordinate,40,6
+TOI-3235,coordinate,15,2
+TOI-3261,coordinate,4,3
+TOI-3278,coordinate,69,6
+TOI-3288,coordinate,38,5
+TOI-329,name,27,8
+TOI-332,coordinate,23,4
+TOI-3321,name,27,5
+TOI-333,coordinate,11,2
+TOI-3331 A,coordinate,10,1
+TOI-3353,coordinate,20,5
+TOI-3362,coordinate,115,5
+TOI-3364,name,26,7
+TOI-3457,coordinate,4,1
+TOI-3464,coordinate,6,1
+TOI-3474,coordinate,37,3
+TOI-3486,coordinate,61,5
+TOI-3493,name,13,4
+TOI-3523 A,coordinate,12,3
+TOI-3568,name,20,5
+TOI-3585,name,21,6
+TOI-3593,coordinate,26,3
+TOI-3629,coordinate,4,1
+TOI-3664,name,17,5
+TOI-3682,name,24,5
+TOI-3693,coordinate,7,1
+TOI-3714,coordinate,13,4
+TOI-375,coordinate,4,3
+TOI-3757,name,15,5
+TOI-3785,name,12,5
+TOI-3807,name,25,6
+TOI-3819,name,21,4
+TOI-3837,name,16,4
+TOI-3851,name,30,6
+TOI-3856,name,8,5
+TOI-3862,coordinate,88,5
+TOI-3877,name,3,3
+TOI-3884,name,10,4
+TOI-3894,name,20,6
+TOI-3896,coordinate,87,4
+TOI-3912,coordinate,2,1
+TOI-3919,name,17,4
+TOI-3980,name,17,4
+TOI-3984 A,coordinate,1,1
+TOI-4010,name,23,4
+TOI-4029,coordinate,6,3
+TOI-4030,name,97,4
+TOI-4034,coordinate,12,1
+TOI-406,coordinate,16,4
+TOI-4087,coordinate,11,1
+TOI-4127,coordinate,4,1
+TOI-4137,name,30,7
+TOI-4145 A,coordinate,46,4
+TOI-4153,coordinate,2,1
+TOI-4155,name,60,6
+TOI-4156,coordinate,2,1
+TOI-4184,name,38,8
+TOI-4201,coordinate,12,2
+TOI-421,name,31,10
+TOI-4214,name,15,7
+TOI-426,coordinate,22,4
+TOI-4307,coordinate,68,6
+TOI-4308,coordinate,15,2
+TOI-431,coordinate,6,3
+TOI-4310,name,24,8
+TOI-4311,coordinate,14,2
+TOI-4324,name,21,5
+TOI-4329,coordinate,133,4
+TOI-4336 A,coordinate,9,4
+TOI-4342,coordinate,16,3
+TOI-435,coordinate,4,1
+TOI-4363,coordinate,3,2
+TOI-4364,coordinate,3,3
+TOI-4377,name,31,7
+TOI-4379,coordinate,18,5
+TOI-4405,name,184,8
+TOI-4406,coordinate,11,2
+TOI-4409,coordinate,36,3
+TOI-4427,name,28,5
+TOI-4438,coordinate,6,1
+TOI-444,name,32,8
+TOI-4443,name,20,5
+TOI-4458,name,116,6
+TOI-4463 A,coordinate,4,2
+TOI-4465,coordinate,2,1
+TOI-4468,coordinate,24,2
+TOI-4479,name,18,6
+TOI-4487 A,coordinate,10,1
+TOI-4492,coordinate,9,2
+TOI-4495,name,33,5
+TOI-4499,coordinate,28,3
+TOI-4504,coordinate,1,1
+TOI-4507,name,213,9
+TOI-451,coordinate,14,2
+TOI-4511,coordinate,5,2
+TOI-4513,coordinate,10,3
+TOI-4515,name,19,4
+TOI-4527,coordinate,4,1
+TOI-4529,name,13,4
+TOI-4551,name,19,7
+TOI-4552,coordinate,5,4
+TOI-4559,coordinate,7,1
+TOI-4561,coordinate,15,2
+TOI-4562,coordinate,9,2
+TOI-4567,name,71,8
+TOI-4578,coordinate,115,4
+TOI-4582,coordinate,89,3
+TOI-4588,name,65,6
+TOI-4600,coordinate,39,1
+TOI-4602,name,22,4
+TOI-4603,name,23,4
+TOI-4616,name,16,4
+TOI-4633,coordinate,42,1
+TOI-4638,coordinate,3,3
+TOI-4640,name,16,4
+TOI-4641,coordinate,5,1
+TOI-4662,coordinate,30,3
+TOI-4666,coordinate,6,3
+TOI-469,name,20,8
+TOI-470,coordinate,6,4
+TOI-4724,coordinate,5,4
+TOI-4734,coordinate,3,2
+TOI-4747,coordinate,21,6
+TOI-4773,coordinate,2,1
+TOI-4791,name,12,4
+TOI-4794,name,7,5
+TOI-480,name,21,7
+TOI-481,coordinate,45,3
+TOI-4851,coordinate,13,2
+TOI-4860,name,21,8
+TOI-4898,coordinate,10,4
+TOI-4914,coordinate,3,3
+TOI-4930,coordinate,46,3
+TOI-4940,coordinate,105,5
+TOI-4961,coordinate,10,4
+TOI-4994,coordinate,13,3
+TOI-500,coordinate,52,6
+TOI-5005,coordinate,15,5
+TOI-5007,coordinate,13,3
+TOI-5027,coordinate,31,3
+TOI-5076,name,19,4
+TOI-5082,name,23,4
+TOI-5108,name,11,4
+TOI-5110,coordinate,5,3
+TOI-512,coordinate,8,4
+TOI-5120,coordinate,5,1
+TOI-5126,name,18,4
+TOI-5143,coordinate,2,1
+TOI-5153,coordinate,2,2
+TOI-5159,name,14,4
+TOI-5160,coordinate,14,2
+TOI-5165,name,13,4
+TOI-5174,coordinate,14,5
+TOI-5177,name,14,4
+TOI-5181 A,coordinate,9,2
+TOI-519,name,21,8
+TOI-5205,coordinate,10,4
+TOI-521,name,32,7
+TOI-5210,coordinate,6,1
+TOI-5218,coordinate,11,2
+TOI-5232,coordinate,13,3
+TOI-5238,name,50,6
+TOI-5261,coordinate,2,1
+TOI-5289,coordinate,16,8
+TOI-5292 A,coordinate,13,4
+TOI-5293 A,coordinate,6,2
+TOI-530,coordinate,27,5
+TOI-5300,coordinate,2,1
+TOI-5301,name,10,4
+TOI-5319,name,41,5
+TOI-532,name,23,8
+TOI-5322,coordinate,62,7
+TOI-5335,name,22,4
+TOI-5340,name,9,3
+TOI-5344,name,8,4
+TOI-5349,name,14,4
+TOI-5350,name,8,3
+TOI-5380,coordinate,2,1
+TOI-5386 A,coordinate,1,1
+TOI-5388,name,8,4
+TOI-5398,coordinate,16,3
+TOI-540,name,45,9
+TOI-5422,coordinate,5,2
+TOI-544,coordinate,3,3
+TOI-5486,name,12,4
+TOI-5489,coordinate,12,3
+TOI-5493,coordinate,3,3
+TOI-5502,coordinate,10,2
+TOI-5515,coordinate,29,4
+TOI-5531,coordinate,26,4
+TOI-5532,name,29,8
+TOI-5542,coordinate,83,3
+TOI-5543,coordinate,7,2
+TOI-5573,name,8,4
+TOI-558,coordinate,3,1
+TOI-559,coordinate,4,4
+TOI-5592,name,11,4
+TOI-5595,name,10,4
+TOI-5599,coordinate,3,1
+TOI-5605,name,13,5
+TOI-561,coordinate,3,3
+TOI-5614,coordinate,13,1
+TOI-5616,name,13,4
+TOI-5624,name,18,4
+TOI-5628 A,coordinate,9,3
+TOI-5630,coordinate,6,1
+TOI-564,coordinate,15,5
+TOI-5646,coordinate,11,5
+TOI-5678,coordinate,7,4
+TOI-5696,name,13,4
+TOI-5699,name,20,5
+TOI-5704,name,13,5
+TOI-5713,coordinate,10,1
+TOI-5716,coordinate,2,1
+TOI-5720,coordinate,7,1
+TOI-5726,coordinate,13,3
+TOI-5728,name,156,5
+TOI-5730,coordinate,17,3
+TOI-5734,name,12,4
+TOI-5736,name,26,4
+TOI-5739,name,8,4
+TOI-5777,coordinate,18,2
+TOI-5786,coordinate,25,3
+TOI-5788,name,26,5
+TOI-5789,name,8,4
+TOI-5795,name,11,4
+TOI-5799,name,9,4
+TOI-5800,name,13,4
+TOI-5803,name,9,4
+TOI-5806,name,14,4
+TOI-5807,coordinate,3,2
+TOI-5817,name,9,4
+TOI-5882,coordinate,3,1
+TOI-5916,name,6,4
+TOI-5926,name,9,4
+TOI-5938,name,22,4
+TOI-5947,coordinate,10,4
+TOI-5958,name,9,4
+TOI-5961,name,22,4
+TOI-5968,name,9,4
+TOI-5997,coordinate,4,2
+TOI-6000,coordinate,4,1
+TOI-6002,name,35,5
+TOI-6008,coordinate,14,2
+TOI-6016,name,32,4
+TOI-6019,name,8,4
+TOI-6029,coordinate,4,1
+TOI-603,coordinate,4,2
+TOI-6034,coordinate,5,1
+TOI-6038 A,coordinate,12,3
+TOI-6041,coordinate,12,2
+TOI-6054,coordinate,4,1
+TOI-6080,name,28,5
+TOI-6086,name,27,5
+TOI-6098,coordinate,5,4
+TOI-6109,coordinate,7,2
+TOI-6130,coordinate,4,1
+TOI-615,coordinate,18,5
+TOI-6158,name,10,4
+TOI-6174,name,5,3
+TOI-620,name,19,5
+TOI-622,coordinate,16,4
+TOI-6223,coordinate,52,4
+TOI-6255,name,13,4
+TOI-628,coordinate,8,6
+TOI-6281,coordinate,46,8
+TOI-6303,name,8,4
+TOI-6310,name,27,4
+TOI-6324,name,33,5
+TOI-6330,coordinate,18,3
+TOI-6383 A,coordinate,11,2
+TOI-6393,coordinate,16,1
+TOI-640,name,29,11
+TOI-6420,coordinate,3,1
+TOI-6434,coordinate,3,2
+TOI-6448,coordinate,6,3
+TOI-6450,coordinate,2,1
+TOI-6478,coordinate,12,4
+TOI-654,coordinate,3,1
+TOI-6564,coordinate,39,4
+TOI-6628,coordinate,9,3
+TOI-663,coordinate,2,2
+TOI-6647,coordinate,3,2
+TOI-6651,coordinate,5,2
+TOI-6662,coordinate,34,4
+TOI-6677,coordinate,2,1
+TOI-669,name,18,7
+TOI-6692,coordinate,4,3
+TOI-6695,coordinate,3,3
+TOI-6699,coordinate,34,3
+TOI-6707,coordinate,66,4
+TOI-6716,coordinate,3,1
+TOI-672,name,32,7
+TOI-6729,coordinate,2,1
+TOI-674,name,32,7
+TOI-677,name,42,8
+TOI-682,name,23,8
+TOI-6884,coordinate,9,3
+TOI-6894,coordinate,5,4
+TOI-6954,name,18,6
+TOI-697,name,33,9
+TOI-700,name,217,10
+TOI-7008,coordinate,16,3
+TOI-7009,coordinate,6,1
+TOI-7041,coordinate,3,3
+TOI-707,name,191,8
+TOI-712,coordinate,18,4
+TOI-7149,coordinate,8,1
+TOI-715,name,202,8
+TOI-7155,name,31,4
+TOI-7166,coordinate,3,3
+TOI-7169,name,10,4
+TOI-7182,name,16,4
+TOI-7189,coordinate,3,3
+TOI-733,coordinate,8,2
+TOI-7333,coordinate,11,2
+TOI-7384,name,24,9
+TOI-7389,coordinate,9,1
+TOI-7391,coordinate,13,2
+TOI-7393,coordinate,16,4
+TOI-7394 B,coordinate,77,5
+TOI-7510,coordinate,80,6
+TOI-756,name,27,7
+TOI-757,coordinate,6,1
+TOI-762 A,coordinate,7,4
+TOI-763,name,23,8
+TOI-771,coordinate,24,3
+TOI-776,coordinate,20,7
+TOI-778,coordinate,37,6
+TOI-782,coordinate,2,2
+TOI-783,name,22,7
+TOI-786,name,229,9
+TOI-789,coordinate,1,1
+TOI-791,name,207,8
+TOI-797,coordinate,33,3
+TOI-799,name,101,8
+TOI-808,coordinate,13,3
+TOI-813,coordinate,12,4
+TOI-815,coordinate,6,3
+TOI-824,coordinate,123,5
+TOI-833,name,45,9
+TOI-836,coordinate,4,4
+TOI-837,coordinate,100,5
+TOI-849,name,20,8
+TOI-858 B,coordinate,41,4
+TOI-871,name,42,8
+TOI-873,name,100,6
+TOI-880,name,20,8
+TOI-883,coordinate,15,3
+TOI-892,name,19,10
+TOI-904,coordinate,4,1
+TOI-905,coordinate,43,4
+TOI-907,coordinate,23,6
+TOI-908,coordinate,40,7
+TOI-912,coordinate,3,2
+TOI-913,coordinate,2,1
+TOI-921,coordinate,42,5
+TOI-929,coordinate,18,7
+TOI-938,name,12,8
+TOI-941,coordinate,6,3
+TOI-942,name,21,10
+TOI-954,name,26,10
+TOI-969,coordinate,6,1
+TRAPPIST-1,coordinate,7,4
+TrES-1,coordinate,8,3
+TrES-2,coordinate,39,4
+TrES-3,coordinate,3,1
+TrES-4,coordinate,6,2
+TrES-5,name,51,6
+TW Hydrae,coordinate,5,4
+TWA 7,coordinate,23,4
+TYC 0434-04538-1,coordinate,18,3
+TYC 1422-614-1,name,20,5
+TYC 2187-512-1,coordinate,8,2
+TYC 3318-01333-1,coordinate,24,4
+TYC 3667-1280-1,name,20,4
+TYC 4282-00605-1,coordinate,7,2
+TYC 8998-760-1,coordinate,32,4
+UCAC3 113-933,coordinate,15,4
+UCAC4 328-061594,coordinate,18,5
+UKIRT-2017-BLG-001L,name,1,1
+ups And,coordinate,13,4
+ups Leo,coordinate,33,7
+USco1556 A,coordinate,8,4
+USco1621 A,coordinate,14,5
+UZ For,coordinate,15,5
+V0391 Peg,coordinate,2,1
+V1298 Tau,name,13,5
+V2376 Ori,coordinate,3,3
+V830 Tau,coordinate,7,2
+VHS J125601.92-125723.9,name,12,4
+VV Cephei,coordinate,50,4
+WASP-1,coordinate,7,1
+WASP-10,name,9,4
+WASP-100,coordinate,2,1
+WASP-101,name,18,9
+WASP-102,name,5,3
+WASP-104,name,10,5
+WASP-105,name,39,9
+WASP-106,coordinate,2,1
+WASP-107,name,10,7
+WASP-108,name,22,6
+WASP-11,coordinate,2,1
+WASP-110,coordinate,33,3
+WASP-113,name,25,6
+WASP-114,coordinate,1,1
+WASP-116,name,9,6
+WASP-117,coordinate,17,3
+WASP-118,coordinate,6,1
+WASP-119,coordinate,153,5
+WASP-12,coordinate,3,2
+WASP-120,coordinate,12,4
+WASP-121,coordinate,17,6
+WASP-123,name,22,7
+WASP-124,coordinate,16,6
+WASP-126,coordinate,35,4
+WASP-127,name,38,8
+WASP-129,coordinate,44,7
+WASP-13,coordinate,22,2
+WASP-130,coordinate,6,3
+WASP-131,coordinate,105,2
+WASP-132,name,19,7
+WASP-133,coordinate,2,1
+WASP-135,name,25,5
+WASP-136,coordinate,4,3
+WASP-138,name,17,10
+WASP-139,coordinate,32,8
+WASP-14,coordinate,16,3
+WASP-140,name,34,10
+WASP-141,coordinate,9,5
+WASP-142,name,19,7
+WASP-144,coordinate,18,3
+WASP-145 A,coordinate,128,5
+WASP-147,name,24,10
+WASP-148,name,34,6
+WASP-149,coordinate,10,6
+WASP-15,coordinate,47,2
+WASP-150,coordinate,4,1
+WASP-151,name,12,5
+WASP-153,coordinate,6,1
+WASP-154,name,6,4
+WASP-155,coordinate,2,1
+WASP-156,coordinate,5,2
+WASP-16,name,9,6
+WASP-160 B,coordinate,3,1
+WASP-161,coordinate,15,6
+WASP-162,name,23,9
+WASP-163,name,3,3
+WASP-164,coordinate,47,4
+WASP-165,name,20,9
+WASP-166,coordinate,25,9
+WASP-167,coordinate,6,3
+WASP-168,name,39,8
+WASP-169,coordinate,33,4
+WASP-17,name,14,6
+WASP-170,coordinate,1,1
+WASP-171,coordinate,19,6
+WASP-172,coordinate,19,5
+WASP-173 A,coordinate,116,3
+WASP-174,name,23,8
+WASP-175,name,19,7
+WASP-176,name,7,4
+WASP-177,name,18,5
+WASP-178,coordinate,6,3
+WASP-18,name,51,9
+WASP-180 A,name,27,9
+WASP-181,name,17,5
+WASP-182,coordinate,5,3
+WASP-183,coordinate,8,1
+WASP-184,coordinate,59,3
+WASP-185,name,3,3
+WASP-186,coordinate,23,3
+WASP-187,name,14,5
+WASP-188,name,16,4
+WASP-189,name,4,4
+WASP-19,name,32,8
+WASP-190,coordinate,24,4
+WASP-192,coordinate,55,5
+WASP-193,coordinate,18,3
+WASP-194,name,101,7
+WASP-195,name,26,5
+WASP-197,name,5,5
+WASP-2,name,10,5
+WASP-20,name,20,8
+WASP-21,name,10,4
+WASP-22,coordinate,10,4
+WASP-23,coordinate,7,4
+WASP-24,name,5,5
+WASP-25,name,11,8
+WASP-26,coordinate,5,4
+WASP-28,name,12,5
+WASP-29,name,31,10
+WASP-3,coordinate,2,1
+WASP-31,name,25,9
+WASP-32,coordinate,8,7
+WASP-33,name,15,5
+WASP-34,coordinate,5,2
+WASP-35,name,21,11
+WASP-36,name,25,9
+WASP-37,coordinate,8,4
+WASP-38,coordinate,21,4
+WASP-39,name,9,5
+WASP-4,coordinate,41,2
+WASP-41,name,22,9
+WASP-42,coordinate,16,7
+WASP-43,coordinate,7,4
+WASP-44,coordinate,5,4
+WASP-45,coordinate,1,1
+WASP-46,coordinate,210,5
+WASP-47,coordinate,18,2
+WASP-48,coordinate,6,2
+WASP-49,coordinate,2,1
+WASP-5,name,31,10
+WASP-50,name,16,9
+WASP-52,name,5,4
+WASP-53,coordinate,51,5
+WASP-54,coordinate,1,1
+WASP-55,name,17,9
+WASP-56,name,13,6
+WASP-57,name,5,5
+WASP-58,name,58,6
+WASP-59,name,9,4
+WASP-6,coordinate,9,3
+WASP-60,coordinate,21,2
+WASP-61,name,24,10
+WASP-62,coordinate,7,1
+WASP-63,coordinate,1,1
+WASP-64,coordinate,2,1
+WASP-65,name,34,5
+WASP-66,coordinate,2,2
+WASP-67,coordinate,13,4
+WASP-68,coordinate,3,1
+WASP-69,name,15,5
+WASP-7,coordinate,6,3
+WASP-70 A,name,5,3
+WASP-71,coordinate,6,4
+WASP-72,coordinate,44,2
+WASP-73,coordinate,14,1
+WASP-74,name,5,4
+WASP-75,coordinate,24,8
+WASP-76,coordinate,10,6
+WASP-77 A,name,18,9
+WASP-78,name,22,9
+WASP-79,coordinate,47,3
+WASP-8,name,37,9
+WASP-80,name,6,5
+WASP-81,name,9,5
+WASP-82,name,14,9
+WASP-83,coordinate,17,6
+WASP-84,name,15,5
+WASP-85 A,coordinate,3,1
+WASP-87,coordinate,10,1
+WASP-88,coordinate,5,4
+WASP-89,coordinate,1,1
+WASP-90,name,10,5
+WASP-91,coordinate,11,5
+WASP-92,name,30,5
+WASP-93,name,14,5
+WASP-94 A,name,31,9
+WASP-94 B,coordinate,6,3
+WASP-95,name,27,10
+WASP-96,coordinate,5,4
+WASP-97,name,30,10
+WASP-98,coordinate,12,3
+WASP-99,coordinate,24,2
+WD 0806-661,name,159,7
+WD 1145+017,coordinate,7,4
+WD 1856+534,coordinate,22,3
+Wendelstein-1,name,15,5
+Wendelstein-2,name,7,3
+WISE J033605.05-014350.4,coordinate,13,4
+WISPIT 1,coordinate,5,4
+WISPIT 2,name,9,5
+Wolf 1061,coordinate,43,4
+Wolf 1069,name,47,5
+Wolf 327,name,8,4
+Wolf 359,name,12,3
+Wolf 489,name,4,2
+Wolf 503,name,3,3
+WR 11,name,33,5
+WR 134,name,20,4
+WR 24,coordinate,14,2
+WR 40,name,21,7
+WR 6,coordinate,49,6
+WTS-1,coordinate,1,1
+WTS-2,coordinate,6,1
+XEST 17-036,coordinate,12,3
+xi Aql,name,8,4
+XO-1,name,12,5
+XO-2 N,coordinate,2,1
+XO-2 S,coordinate,10,2
+XO-3,coordinate,43,2
+XO-4,coordinate,4,1
+XO-5,coordinate,18,2
+XO-6,name,48,6
+XO-7,name,88,7
+YZ Canis Minoris,coordinate,7,3
+YZ Cet,coordinate,2,1
+ZTF J1230-2655,name,1,1
