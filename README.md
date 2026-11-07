@@ -1,34 +1,108 @@
-Quiet Sky
-AI-Assisted Astronomical Anomaly Detection
-Overview
+<div align="center">
 
-Quiet Sky is an experimental astronomy project exploring whether publicly available astronomical survey data can be used to identify unusual stellar systems through anomaly detection.
+# 🔭 Quiet Sky
 
-The project began with a single target, KIC 8462852 (Tabby's Star), and evolved into a generalized framework capable of comparing thousands of stars across:
+### AI-Assisted Astronomical Anomaly Detection
 
-multiple decades
-multiple surveys
-multiple wavelengths
-multiple target populations
-multiple time-domain observations
+*Large-scale multi-wavelength analysis of stellar systems using optical, infrared, and time-domain observations.*
 
-The goal is not to prove extraterrestrial intelligence.
+https://img.shields.io/badge/Python-3.11+-blue
+https://img.shields.io/badge/Status-Active-success
+https://img.shields.io/badge/Version-v4.0-orange
+https://img.shields.io/badge/Catalog-4,547%20Targets-purple
+https://img.shields.io/badge/TESS-4,466%20Detections-blueviolet
+https://img.shields.io/badge/TESS%20Measured-4,166-green
+https://img.shields.io/badge/TESS%20Archive-98.85GB-red
+https://img.shields.io/badge/License-MIT-brightgreen
 
-The goal is to create a repeatable and scientifically defensible system capable of answering a simpler question:
+</div>
 
-Which astronomical objects appear statistically unusual when compared against similar stars?
+---
 
+# Mission
+
+Quiet Sky is an experimental astronomy platform designed to identify statistically unusual stellar systems through automated anomaly detection.
+
+The project began as an investigation of **KIC 8462852 (Tabby's Star)** and evolved into a generalized framework capable of analyzing thousands of astronomical objects across:
+
+- Optical surveys
+- Infrared surveys
+- Time-domain observations
+- Multiple stellar populations
+- Multi-decade archives
+
+The project does **not** attempt to prove extraterrestrial intelligence.
+
+Instead, it seeks to answer a simpler and more scientifically defensible question:
+
+> Which astronomical objects appear statistically unusual when compared against similar stars?
+
+---
+
+# Project Highlights
+
+| Metric | Value |
+|----------|----------:|
+| Curated Research Catalog | 103 Targets |
+| TESS Survey Catalog | 4,547 Targets |
+| TESS Detections | 4,466 Targets |
+| Coverage Rate | 98.2% |
+| TESS Targets Measured | 4,166 |
+| TESS Products Downloaded | 4,561 |
+| Archive Size | 98.85 GB |
+| Composite Ranking Engine | v4 |
+| Candidate Dossiers Generated | 25 |
+
+---
+
+# Key Results
+
+## TESS Survey
+
+```text
+Targets Searched : 4,547
+TESS Detections  : 4,466
+Coverage Rate    : 98.2%
+
+Variability Analysis
+Targets Measured : 4,166
+Targets Ranked   : 4,166
+
+Notable Composite Result
+KIC 8462852 (Tabby's Star)
+
+TESS Rank      : #800
+Composite Rank : #18
+
+
+This result demonstrates the value of combining multiple independent observation domains rather than relying on a single survey.
+
+Table of Contents
+#current-capabilities
+#scientific-dataset
+#data-sources
+#tess-pipeline
+#project-architecture
+#installation
+#project-milestones
+#key-findings
+#current-assessment
+#research-philosophy
+#long-term-vision
 Current Capabilities
+Acquisition
 
-Implemented:
+✅ DSS survey retrieval
 
-✅ Optical survey acquisition
+✅ 2MASS survey retrieval
 
-✅ Infrared survey acquisition
+✅ WISE survey retrieval
 
-✅ TESS light-curve acquisition
+✅ TESS archive retrieval
 
-✅ Coordinate resolution
+✅ Automated coordinate resolution
+
+Measurements
 
 ✅ Astrometric localization
 
@@ -38,131 +112,84 @@ Implemented:
 
 ✅ Difference imaging
 
-✅ Multi-wavelength analysis
+✅ Time-domain variability extraction
 
-✅ Time-domain photometry
+Analysis
 
-✅ Automated variability measurements
+✅ Optical ranking engine
+
+✅ Infrared ranking engine
 
 ✅ TESS ranking engine
 
-✅ Multi-target comparison framework
+✅ Composite anomaly scoring
+
+✅ Discovery reports
+
+✅ Candidate dossiers
 
 ✅ AI-assisted analysis
 
-Installation
-Prerequisites
-Python 3.11+
-Internet connection
-5 GB minimum free disk space
-100+ GB recommended for full TESS archive acquisition
-Clone Repository
-git clone https://github.com/PlaybookNexus/quietsky.git
-
-cd TabbysStar
-
-Create Virtual Environment
-python -m venv .venv
-
-.\.venv\Scripts\activate
-
-Install Dependencies
-pip install astropy
-pip install astroquery
-pip install matplotlib
-pip install numpy
-pip install pandas
-pip install lightkurve
-
-
-Or:
-
-pip install -r requirements.txt
-
 Scientific Dataset
-Research Catalog
-
-Current curated catalog:
-
-Targets Resolved      : 103
-Coordinate Failures   : 0
+Curated Catalog
+Resolved Targets : 103
+Coordinate Failures : 0
 
 
-Target categories:
+Categories:
 
-Anomalous
 Exoplanet Hosts
 Variable Stars
 Nearby Stars
-Control Stars
+Solar Analogs
+Flare Stars
+Control Targets
+Anomalous Targets
 Large-Scale TESS Catalog
-
-Survey results:
-
-Targets Searched      : 4,547
-TESS Detections       : 4,466
-Coverage Rate         : 98.2%
-Timeouts              : 28
-
-
-This discovery established that most Quiet Sky targets possess useful TESS coverage suitable for large-scale time-domain analysis.
+Targets Searched : 4,547
+TESS Detections  : 4,466
+Coverage Rate    : 98.2%
 
 Data Sources
 Optical
-Digitized Sky Survey
+DSS
 DSS
 DSS2 Red
 DSS2 Blue
 
 Purpose:
 
-historical imaging
-long-term comparison
-visual anomaly inspection
+Historical imaging
+Long-term comparison
+Visual inspection
 Near Infrared
 2MASS
-J Band
-K Band
-
-Notes:
-
-H Band retrieval produced invalid data
-and is excluded from analysis.
-
+J
+K
 
 Purpose:
 
-near infrared comparison
+Near-infrared characterization
+Color comparison
 Infrared
 WISE
-3.4 μm
-4.6 μm
+W1 (3.4 μm)
+W2 (4.6 μm)
 
 Purpose:
 
-infrared characterization
-infrared excess analysis
+Infrared excess analysis
+Dust signatures
 Time Domain
 TESS
 
 Purpose:
 
-long-term photometric monitoring
-variability detection
-transit detection
-dimming-event identification
-anomaly ranking
-
-Current archive acquisition:
-
-4,466 TESS-enabled targets
-
+Variability detection
+Transit detection
+Dimming event analysis
+Anomaly ranking
 TESS Pipeline
-
-Implemented in 2026.
-
-Pipeline:
-
 targets_resolved_master.csv
         │
         ▼
@@ -175,10 +202,10 @@ targets_tess.csv
 download_tess_spoc.py
         │
         ▼
-TESS FITS archive
+TESS FITS Archive
         │
         ▼
-measure_tess.py
+measure_all_tess.py
         │
         ▼
 tess_measurements.csv
@@ -198,12 +225,11 @@ tess_target_rankings.csv
 
 Measurements include:
 
-sector coverage
-observation count
-RMS variability
-relative RMS variability
-maximum dimming
-maximum brightening
+Sector coverage
+Observation density
+Relative RMS variability
+Maximum dimming
+Maximum brightening
 Project Architecture
 Target Catalog
       │
@@ -219,7 +245,7 @@ Survey Acquisition
       └── TESS
       │
       ▼
-Measurements
+Measurement Engines
       │
       ├── Optical
       ├── Infrared
@@ -229,23 +255,42 @@ Measurements
 Ranking Engines
       │
       ▼
-Composite Ranking
+Composite Scoring
       │
       ▼
-Reports
+Discovery Reports
       │
       ▼
-AI Analysis
+Candidate Dossiers
       │
       ▼
-Project Memory
+AI-Assisted Analysis
+
+Installation
+Requirements
+Python 3.11+
+Internet connection
+5 GB minimum storage
+100+ GB recommended for full TESS archive acquisition
+Clone Repository
+git clone https://github.com/PlaybookNexus/quietsky.git
+
+cd TabbysStar
+
+Virtual Environment
+python -m venv .venv
+
+.\.venv\Scripts\activate
+
+Install Dependencies
+pip install -r requirements.txt
 
 Project Milestones
 2026
 
 ✅ Multi-target catalog framework
 
-✅ 103-target curated research catalog
+✅ 103-target research catalog
 
 ✅ 4,547-target TESS catalog
 
@@ -255,144 +300,99 @@ Project Milestones
 
 ✅ Automated TESS archive ingestion
 
-✅ Multi-format FITS handling
+✅ 98.85 GB TESS archive
 
-✅ Automated variability measurements
+✅ 4,166 TESS targets measured
 
-✅ Automated ranking pipeline
+✅ 4,166 TESS targets ranked
 
-✅ Target-level aggregation
+✅ Automated aggregation engine
+
+✅ Composite scoring engine
+
+✅ Discovery report generation
+
+✅ Candidate dossier generation
 
 Key Findings
 Finding #001
-
-Survey images cannot be reliably compared using fixed pixel coordinates.
-
-Conclusion
 
 Measurements must be tied to sky coordinates.
 
 Finding #002
 
-WCS-based localization significantly improved survey agreement.
-
-Conclusion
-
-Sky-coordinate alignment is essential.
+WCS localization significantly improves multi-survey agreement.
 
 Finding #003
 
-Reference-star selection materially affects photometric results.
-
-Conclusion
-
-Reference stars require validation.
+Reference-star selection materially impacts photometric measurements.
 
 Finding #004
 
-Infrared data from 2MASS and WISE were successfully integrated.
-
-Conclusion
-
-Quiet Sky supports multi-wavelength analysis.
+Infrared and optical evidence can be successfully combined.
 
 Finding #005
 
-No visually distinct anomaly was observed at the position of Tabby's Star.
-
-Conclusion
-
-Visual survey inspection alone is insufficient.
+Visual inspection alone does not reveal compelling anomalies.
 
 Finding #006
 
-The TESS survey identified:
-
-4,466 TESS-enabled targets
-
-
-from:
-
-4,547 targets searched
-
-Conclusion
-
-Most Quiet Sky targets possess useful time-domain coverage.
+98.2% of catalog targets possess useful TESS coverage.
 
 Finding #007
 
-Automated TESS measurement extraction was successfully implemented.
+Quiet Sky now supports large-scale automated time-domain anomaly detection.
 
-Metrics include:
+Finding #008
 
-variability
-dimming
-brightening
-sector coverage
-observation density
-Conclusion
-
-Quiet Sky now supports automated time-domain anomaly detection.
+KIC 8462852 ranks far higher in composite scoring than in TESS scoring alone.
 
 Current Assessment
 
 At present:
 
-No strong anomaly has been identified.
-No compelling infrared excess has been observed.
-No visually obvious artificial structures have been detected.
-No target currently stands out as extraordinary.
+No compelling artificial signatures have been observed.
+No extraordinary infrared excess has been identified.
+No target currently dominates every analysis domain.
+Several targets remain worthy of follow-up investigation.
 
 This is considered a successful outcome.
 
-The primary achievement of the project has been building a reproducible methodology while eliminating sources of observational and analytical error.
+The principal achievement of the project is the development of a repeatable and scientifically defensible methodology for identifying unusual stellar systems.
 
 Research Philosophy
 
-Traditional SETI efforts primarily search for communication:
+Traditional SETI efforts focus on communication:
 
-radio signals
-optical beacons
-deliberate transmissions
+Radio signals
+Optical beacons
+Directed transmissions
 
 Quiet Sky explores a different possibility.
 
-If advanced technological civilizations eventually become:
+If advanced technological civilizations become:
 
 AI-assisted
-computationally focused
-resource optimized
-post-biological
+Computationally focused
+Resource optimized
+Highly automated
+Post-biological
 
-then the most detectable signatures may not be messages.
-
-Instead, unusual systems may reveal themselves through statistically rare behavior:
-
-long-term dimming
-variability anomalies
-unusual infrared characteristics
-uncommon energy distributions
-deviations from comparable populations
+then unusual systems may be easier to detect through statistical anomalies than through deliberate communication.
 
 Quiet Sky therefore focuses on anomaly detection rather than communication detection.
 
-Primary Research Question
-
-Can a repeatable AI-assisted pipeline identify astronomical systems that differ significantly from comparable stars across time and wavelength?
-
 Long-Term Vision
 
-Develop an extensible anomaly-detection platform capable of:
+Develop a scalable anomaly-detection platform capable of:
 
-processing thousands of stars
-integrating additional survey archives
-comparing multiple wavelengths
-incorporating Gaia data
-incorporating spectroscopic data
-generating anomaly rankings
-supporting machine-learning classification
-detecting historical trends across project snapshots
+Processing tens of thousands of targets
+Integrating Gaia observations
+Incorporating spectroscopy
+Tracking historical changes
+Performing machine-learning classification
+Generating automated scientific assessments
 
 Success is not finding aliens.
 
-Success is building a scientifically defensible system capable of identifying astronomical objects that deserve closer investigation.
+Success is building a scientifically defensible system capable of identifying astronomical objects worthy of deeper investigation.
