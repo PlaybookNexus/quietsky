@@ -6,22 +6,26 @@
 
 *Large-scale multi-wavelength analysis of stellar systems using optical, infrared, and time-domain observations.*
 
-https://img.shields.io/badge/Python-3.11+-blue
-https://img.shields.io/badge/Status-Active-success
-https://img.shields.io/badge/Version-v4.0-orange
-https://img.shields.io/badge/Catalog-4,547%20Targets-purple
-https://img.shields.io/badge/TESS-4,466%20Detections-blueviolet
-https://img.shields.io/badge/TESS%20Measured-4,166-green
-https://img.shields.io/badge/TESS%20Archive-98.85GB-red
-https://img.shields.io/badge/License-MIT-brightgreen
+<br>
+
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Version](https://img.shields.io/badge/Version-v4.0-orange)
+![Catalog](https://img.shields.io/badge/Catalog-4,547%20Targets-purple)
+![TESS](https://img.shields.io/badge/TESS-4,466%20Detections-blueviolet)
+![Measured](https://img.shields.io/badge/TESS%20Measured-4,166-green)
+![Archive](https://img.shields.io/badge/TESS%20Archive-98.85GB-red)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+
+<br><br>
+
+**4,547 Targets Surveyed** • **4,466 TESS Detections** • **4,166 Light Curves Measured**
 
 </div>
 
 ---
 
-# Mission
-
-Quiet Sky is an experimental astronomy platform designed to identify statistically unusual stellar systems through automated anomaly detection.
+> Quiet Sky is an experimental astronomy platform designed to identify statistically unusual stellar systems through optical, infrared, and time-domain anomaly detection.
 
 The project began as an investigation of **KIC 8462852 (Tabby's Star)** and evolved into a generalized framework capable of analyzing thousands of astronomical objects across:
 
