@@ -1,151 +1,612 @@
 name,products,fits_files,status
-HD 183579,9,9,success
-HD 184010,5,5,success
-HD 18438,7,7,success
-HD 185269,4,4,success
-HD 185283,2,2,success
-HD 18599,10,10,success
-HD 187085,4,4,success
-HD 187123,11,11,success
-HD 18742,2,2,success
-HD 188015,9,9,success
-HD 188641,3,3,success
-HD 189567,12,12,success
-HD 189733,6,6,success
-HD 190007,3,3,success
-HD 190228,6,6,success
-HD 190360,10,10,success
-HD 190647,5,5,success
-HD 190984,2,2,success
-HD 191806,16,16,success
-HD 191939,47,47,success
-HD 192263,4,4,success
-HD 192310,3,3,success
-HD 192699,2,2,success
-HD 194490,1,1,success
-HD 195019,5,5,success
-HD 196050,12,12,success
-HD 196067,14,14,success
-HD 19615,9,9,success
-HD 196885 A,3,3,success
-HD 197037,13,13,success
-HD 199509,15,15,success
-HD 19994,2,2,success
-HD 20003,24,24,success
-HD 200964,2,2,success
-HD 202206,2,2,success
-HD 202696,2,2,success
-HD 202772 A,11,11,success
-HD 203030,4,4,success
-HD 20329,6,6,success
-HD 203387,2,2,success
-HD 2039,4,4,success
-HD 204313,4,4,success
-HD 204941,4,4,success
-HD 205158,4,4,success
-HD 205739,7,7,success
-HD 206255,4,4,success
-HD 206610,1,1,success
-HD 207496,13,13,success
-HD 20781,6,6,success
-HD 20782,2,2,success
-HD 207832,3,3,success
-HD 207897,24,24,success
-HD 20794,12,12,success
-HD 208487,6,6,success
-HD 208527,2,2,success
-HD 20868,2,2,success
-HD 208897,2,2,success
-HD 209458,4,4,success
-HD 210193,4,4,success
-HD 210277,4,4,success
-HD 210702,2,2,success
-HD 211403,3,3,success
-HD 211810,2,2,success
-HD 211970,6,6,success
-HD 212301,9,9,success
-HD 212771,4,4,success
-HD 213240,12,12,success
-HD 213472,1,1,success
-HD 213519,12,12,success
-HD 213885,15,15,success
-HD 21411,2,2,success
-HD 214823,2,2,success
-HD 215152,5,5,success
-HD 21520,10,10,success
-HD 215497,15,15,success
-HD 216435,14,14,success
-HD 216437,17,17,success
-HD 216520,17,17,success
-HD 216536,1,1,success
-HD 216770,6,6,success
-HD 21693,10,10,success
-HD 217107,5,5,success
-HD 217786,4,4,success
-HD 217958,1,1,success
-HD 218566,5,5,success
-HD 219077,10,10,success
-HD 219134,8,8,success
-HD 219139,2,2,success
-HD 219415,1,1,success
-HD 219666,15,15,success
-HD 219828,4,4,success
-HD 220074,9,9,success
-HD 220197,2,2,success
-HD 220689,6,6,success
-HD 220773,9,9,success
-HD 220842,1,1,success
-HD 221287,6,6,success
-HD 221416,7,7,success
-HD 221420,12,12,success
-HD 221585,11,11,success
-HD 222076,3,3,success
-HD 222155,1,1,success
-HD 222237,15,15,success
-HD 222582,5,5,success
-HD 224018,2,2,success
-HD 224538,5,5,success
-HD 224693,4,4,success
-HD 22496,4,4,success
-HD 22532,2,2,success
-HD 22781,4,4,success
-HD 22946,8,8,success
-HD 23079,6,6,success
-HD 23127,8,8,success
-HD 231701,3,3,success
-HD 233604,2,2,success
-HD 233832,3,3,success
-HD 23472,25,25,success
-HD 235088,17,17,success
-HD 23596,3,3,success
-HD 238090,6,6,success
-HD 238914,26,26,success
-HD 240210,1,1,success
-HD 240237,1,1,success
-HD 24040,7,7,success
-HD 24064,8,8,success
-HD 24085,54,54,success
-HD 25015,3,3,success
-HD 25171,52,52,success
-HD 25463,9,9,success
-HD 25723,2,2,success
-HD 25912,5,5,success
-HD 260655,7,7,success
-HD 26161,9,9,success
-HD 2638,5,5,success
-HD 2685,13,13,success
-HD 27442,40,40,success
-HD 27631,4,4,success
-HD 278555,2,2,success
-HD 27894,30,30,success
-HD 27969,4,4,success
-HD 28109,65,65,success
-HD 28185,2,2,success
-HD 28192,2,2,success
-HD 28254,10,10,success
-HD 28471,51,51,success
-HD 285507,6,6,success
-HD 285968,8,8,success
-HD 28678,2,2,success
-HD 29021,7,7,success
-HD 290327,2,2,success
+TOI-2886,1,1,success
+TOI-2969,4,4,success
+TOI-2977,3,3,success
+TOI-2981,2,2,success
+TOI-2986,3,3,success
+TOI-2989,3,3,success
+TOI-2992,4,4,success
+TOI-3023,2,2,success
+TOI-3053,1,1,success
+TOI-3071,6,6,success
+TOI-3082,2,2,success
+TOI-3135,4,4,success
+TOI-3160 A,0,0,no_products
+TOI-3235,5,5,success
+TOI-3261,11,11,success
+TOI-3278,6,6,success
+TOI-3288,2,2,success
+TOI-329,5,5,success
+TOI-332,11,11,success
+TOI-3321,10,10,success
+TOI-333,5,5,success
+TOI-3331 A,0,0,no_products
+TOI-3353,61,61,success
+TOI-3362,5,5,success
+TOI-3364,4,4,success
+TOI-3457,3,3,success
+TOI-3464,0,0,error
+TOI-3474,3,3,success
+TOI-3486,5,5,success
+TOI-3493,5,5,success
+TOI-3523 A,0,0,no_products
+TOI-3568,4,4,success
+TOI-3585,3,3,success
+TOI-3593,2,2,success
+TOI-3629,3,3,success
+TOI-3664,6,6,success
+TOI-3682,5,5,success
+TOI-3693,2,2,success
+TOI-3714,2,2,success
+TOI-375,14,14,success
+TOI-3757,3,3,success
+TOI-3785,2,2,success
+TOI-3807,4,4,success
+TOI-3819,6,6,success
+TOI-3837,3,3,success
+TOI-3851,3,3,success
+TOI-3856,1,1,success
+TOI-3862,4,4,success
+TOI-3877,0,0,no_products
+TOI-3884,2,2,success
+TOI-3894,2,2,success
+TOI-3896,2,2,success
+TOI-3912,2,2,success
+TOI-3919,4,4,success
+TOI-3980,2,2,success
+TOI-3984 A,0,0,no_products
+TOI-4010,5,5,success
+TOI-4029,2,2,success
+TOI-4030,26,26,success
+TOI-4034,7,7,success
+TOI-406,12,12,success
+TOI-4087,16,16,success
+TOI-4127,6,6,success
+TOI-4137,6,6,success
+TOI-4145 A,0,0,no_products
+TOI-4153,8,8,success
+TOI-4155,10,10,success
+TOI-4156,12,12,success
+TOI-4184,9,9,success
+TOI-4201,5,5,success
+TOI-421,7,7,success
+TOI-4214,1,1,success
+TOI-426,4,4,success
+TOI-4307,66,66,success
+TOI-4308,9,9,success
+TOI-431,7,7,success
+TOI-4310,7,7,success
+TOI-4311,10,10,success
+TOI-4324,8,8,success
+TOI-4329,10,10,success
+TOI-4336 A,0,0,no_products
+TOI-4342,14,14,success
+TOI-435,5,5,success
+TOI-4363,3,3,success
+TOI-4364,3,3,success
+TOI-4377,6,6,success
+TOI-4379,0,0,error
+TOI-4405,31,31,success
+TOI-4406,11,11,success
+TOI-4409,37,37,success
+TOI-4427,5,5,success
+TOI-4438,7,7,success
+TOI-444,8,8,success
+TOI-4443,5,5,success
+TOI-4458,27,27,success
+TOI-4463 A,0,0,no_products
+TOI-4465,3,3,success
+TOI-4468,26,26,success
+TOI-4479,3,3,success
+TOI-4487 A,0,0,no_products
+TOI-4492,2,2,success
+TOI-4495,9,9,success
+TOI-4499,3,3,success
+TOI-4504,41,41,success
+TOI-4507,52,52,success
+TOI-451,7,7,success
+TOI-4511,6,6,success
+TOI-4513,4,4,success
+TOI-4515,4,4,success
+TOI-4527,4,4,success
+TOI-4529,4,4,success
+TOI-4551,0,0,error
+TOI-4552,6,6,success
+TOI-4559,4,4,success
+TOI-4561,32,32,success
+TOI-4562,51,51,success
+TOI-4567,19,19,success
+TOI-4578,9,9,success
+TOI-4582,28,28,success
+TOI-4588,17,17,success
+TOI-4600,26,26,success
+TOI-4602,8,8,success
+TOI-4603,7,7,success
+TOI-4616,4,4,success
+TOI-4633,61,61,success
+TOI-4638,3,3,success
+TOI-4640,4,4,success
+TOI-4641,12,12,success
+TOI-4662,3,3,success
+TOI-4666,4,4,success
+TOI-469,6,6,success
+TOI-470,6,6,success
+TOI-4724,1,1,success
+TOI-4734,2,2,success
+TOI-4747,2,2,success
+TOI-4773,2,2,success
+TOI-4791,2,2,success
+TOI-4794,1,1,success
+TOI-480,8,8,success
+TOI-481,41,41,success
+TOI-4851,6,6,success
+TOI-4860,3,3,success
+TOI-4898,3,3,success
+TOI-4914,1,1,success
+TOI-4930,3,3,success
+TOI-4940,10,10,success
+TOI-4961,5,5,success
+TOI-4994,10,10,success
+TOI-500,12,12,success
+TOI-5005,3,3,success
+TOI-5007,5,5,success
+TOI-5027,10,10,success
+TOI-5076,4,4,success
+TOI-5082,6,6,success
+TOI-5108,2,2,success
+TOI-5110,4,4,success
+TOI-512,7,7,success
+TOI-5120,2,2,success
+TOI-5126,5,5,success
+TOI-5143,3,3,success
+TOI-5153,5,5,success
+TOI-5159,4,4,success
+TOI-5160,8,8,success
+TOI-5165,3,3,success
+TOI-5174,3,3,success
+TOI-5177,4,4,success
+TOI-5181 A,0,0,no_products
+TOI-519,4,4,success
+TOI-5205,1,1,success
+TOI-521,7,7,success
+TOI-5210,1,1,success
+TOI-5218,16,16,success
+TOI-5232,3,3,success
+TOI-5238,6,6,success
+TOI-5261,1,1,success
+TOI-5289,2,2,success
+TOI-5292 A,0,0,no_products
+TOI-5293 A,0,0,no_products
+TOI-530,7,7,success
+TOI-5300,2,2,success
+TOI-5301,1,1,success
+TOI-5319,5,5,success
+TOI-532,7,7,success
+TOI-5322,3,3,success
+TOI-5335,2,2,success
+TOI-5340,1,1,success
+TOI-5344,1,1,success
+TOI-5349,2,2,success
+TOI-5350,0,0,no_products
+TOI-5380,3,3,success
+TOI-5386 A,0,0,no_products
+TOI-5388,2,2,success
+TOI-5398,1,1,success
+TOI-540,9,9,success
+TOI-5422,2,2,success
+TOI-544,4,4,success
+TOI-5486,1,1,success
+TOI-5489,5,5,success
+TOI-5493,7,7,success
+TOI-5502,1,1,success
+TOI-5515,4,4,success
+TOI-5531,5,5,success
+TOI-5532,5,5,success
+TOI-5542,11,11,success
+TOI-5543,4,4,success
+TOI-5573,1,1,success
+TOI-558,5,5,success
+TOI-559,7,7,success
+TOI-5592,2,2,success
+TOI-5595,1,1,success
+TOI-5599,2,2,success
+TOI-5605,3,3,success
+TOI-561,8,8,success
+TOI-5614,2,2,success
+TOI-5616,2,2,success
+TOI-5624,3,3,success
+TOI-5628 A,0,0,no_products
+TOI-5630,5,5,success
+TOI-564,7,7,success
+TOI-5646,1,1,success
+TOI-5678,9,9,success
+TOI-5696,4,4,success
+TOI-5699,2,2,success
+TOI-5704,3,3,success
+TOI-5713,5,5,success
+TOI-5716,11,11,success
+TOI-5720,2,2,success
+TOI-5726,5,5,success
+TOI-5728,34,34,success
+TOI-5730,2,2,success
+TOI-5734,3,3,success
+TOI-5736,5,5,success
+TOI-5739,2,2,success
+TOI-5777,2,2,success
+TOI-5786,4,4,success
+TOI-5788,5,5,success
+TOI-5789,2,2,success
+TOI-5795,3,3,success
+TOI-5799,3,3,success
+TOI-5800,5,5,success
+TOI-5803,3,3,success
+TOI-5806,3,3,success
+TOI-5807,7,7,success
+TOI-5817,3,3,success
+TOI-5882,1,1,success
+TOI-5916,1,1,success
+TOI-5926,1,1,success
+TOI-5938,4,4,success
+TOI-5947,3,3,success
+TOI-5958,3,3,success
+TOI-5961,8,8,success
+TOI-5968,3,3,success
+TOI-5997,8,8,success
+TOI-6000,33,33,success
+TOI-6002,8,8,success
+TOI-6008,9,9,success
+TOI-6016,6,6,success
+TOI-6019,2,2,success
+TOI-6029,4,4,success
+TOI-603,7,7,success
+TOI-6034,17,17,success
+TOI-6038 A,0,0,no_products
+TOI-6041,4,4,success
+TOI-6054,4,4,success
+TOI-6080,5,5,success
+TOI-6086,6,6,success
+TOI-6098,4,4,success
+TOI-6109,4,4,success
+TOI-6130,1,1,success
+TOI-615,3,3,success
+TOI-6158,2,2,success
+TOI-6174,1,1,success
+TOI-620,6,6,success
+TOI-622,12,12,success
+TOI-6223,1,1,success
+TOI-6255,3,3,success
+TOI-628,2,2,success
+TOI-6281,4,4,success
+TOI-6303,1,1,success
+TOI-6310,3,3,success
+TOI-6324,8,8,success
+TOI-6330,1,1,success
+TOI-6383 A,0,0,no_products
+TOI-6393,2,2,success
+TOI-640,3,3,success
+TOI-6420,1,1,success
+TOI-6434,1,1,success
+TOI-6448,2,2,success
+TOI-6450,1,1,success
+TOI-6478,5,5,success
+TOI-654,8,8,success
+TOI-6564,9,9,success
+TOI-6628,0,0,no_products
+TOI-663,6,6,success
+TOI-6647,2,2,success
+TOI-6651,2,2,success
+TOI-6662,11,11,success
+TOI-6677,3,3,success
+TOI-669,4,4,success
+TOI-6692,7,7,success
+TOI-6695,6,6,success
+TOI-6699,6,6,success
+TOI-6707,17,17,success
+TOI-6716,7,7,success
+TOI-672,10,10,success
+TOI-6729,11,11,success
+TOI-674,0,0,error
+TOI-677,12,12,success
+TOI-682,7,7,success
+TOI-6884,0,0,no_products
+TOI-6894,1,1,success
+TOI-6954,0,0,no_products
+TOI-697,7,7,success
+TOI-700,63,63,success
+TOI-7008,0,0,no_products
+TOI-7009,1,1,success
+TOI-7041,10,10,success
+TOI-707,38,38,success
+TOI-712,44,44,success
+TOI-7149,0,0,no_products
+TOI-715,53,53,success
+TOI-7155,0,0,no_products
+TOI-7166,1,1,success
+TOI-7169,1,1,success
+TOI-7182,4,4,success
+TOI-7189,0,0,no_products
+TOI-733,9,9,success
+TOI-7333,8,8,success
+TOI-7384,2,2,success
+TOI-7389,37,37,success
+TOI-7391,36,36,success
+TOI-7393,2,2,success
+TOI-7394 B,4,4,success
+TOI-7510,2,2,success
+TOI-756,5,5,success
+TOI-757,4,4,success
+TOI-762 A,0,0,no_products
+TOI-763,8,8,success
+TOI-771,7,7,success
+TOI-776,10,10,success
+TOI-778,4,4,success
+TOI-782,5,5,success
+TOI-783,7,7,success
+TOI-786,61,61,success
+TOI-789,44,44,success
+TOI-791,42,42,success
+TOI-797,53,53,success
+TOI-799,20,20,success
+TOI-808,5,5,success
+TOI-813,58,58,success
+TOI-815,9,9,success
+TOI-824,12,12,success
+TOI-833,11,11,success
+TOI-836,4,4,success
+TOI-837,10,10,success
+TOI-849,10,10,success
+TOI-858 B,0,0,no_products
+TOI-871,7,7,success
+TOI-873,23,23,success
+TOI-880,4,4,success
+TOI-883,3,3,success
+TOI-892,5,5,success
+TOI-904,13,13,success
+TOI-905,16,16,success
+TOI-907,12,12,success
+TOI-908,13,13,success
+TOI-912,8,8,success
+TOI-913,14,14,success
+TOI-921,33,33,success
+TOI-929,6,6,success
+TOI-938,1,1,success
+TOI-941,2,2,success
+TOI-942,7,7,success
+TOI-954,5,5,success
+TOI-969,1,1,success
+TRAPPIST-1,2,2,success
+TrES-1,11,11,success
+TrES-2,15,15,success
+TrES-3,9,9,success
+TrES-4,9,9,success
+TrES-5,12,12,success
+TW Hydrae,6,6,success
+TWA 7,2,2,success
+TYC 0434-04538-1,0,0,no_products
+TYC 1422-614-1,4,4,success
+TYC 2187-512-1,2,2,success
+TYC 3318-01333-1,0,0,no_products
+TYC 3667-1280-1,0,0,no_products
+TYC 4282-00605-1,4,4,success
+TYC 8998-760-1,2,2,success
+UCAC3 113-933,2,2,success
+UCAC4 328-061594,9,9,success
+UKIRT-2017-BLG-001L,1,1,success
+ups And,5,5,success
+ups Leo,3,3,success
+USco1556 A,1,1,success
+USco1621 A,1,1,success
+UZ For,5,5,success
+V0391 Peg,4,4,success
+V1298 Tau,4,4,success
+V2376 Ori,0,0,no_products
+V830 Tau,6,6,success
+VHS J125601.92-125723.9,5,5,success
+VV Cephei,11,11,success
+WASP-1,3,3,success
+WASP-10,3,3,success
+WASP-100,66,66,success
+WASP-101,5,5,success
+WASP-102,1,1,success
+WASP-104,2,2,success
+WASP-105,14,14,success
+WASP-106,9,9,success
+WASP-107,2,2,success
+WASP-108,6,6,success
+WASP-11,5,5,success
+WASP-110,2,2,success
+WASP-113,5,5,success
+WASP-114,3,3,success
+WASP-116,0,0,no_products
+WASP-117,16,16,success
+WASP-118,4,4,success
+WASP-119,36,36,success
+WASP-12,8,8,success
+WASP-120,8,8,success
+WASP-121,0,0,error
+WASP-123,6,6,success
+WASP-124,5,5,success
+WASP-126,56,56,success
+WASP-127,10,10,success
+WASP-129,12,12,success
+WASP-13,1,1,success
+WASP-130,8,8,success
+WASP-131,5,5,success
+WASP-132,6,6,success
+WASP-133,2,2,success
+WASP-135,7,7,success
+WASP-136,6,6,success
+WASP-138,3,3,success
+WASP-139,14,14,success
+WASP-14,1,1,success
+WASP-140,8,8,success
+WASP-141,9,9,success
+WASP-142,7,7,success
+WASP-144,8,8,success
+WASP-145 A,12,12,success
+WASP-147,6,6,success
+WASP-148,6,6,success
+WASP-149,3,3,success
+WASP-15,3,3,success
+WASP-150,22,22,success
+WASP-151,3,3,success
+WASP-153,7,7,success
+WASP-154,1,1,success
+WASP-155,1,1,success
+WASP-156,9,9,success
+WASP-16,2,2,success
+WASP-160 B,7,7,success
+WASP-161,8,8,success
+WASP-162,6,6,success
+WASP-163,1,1,success
+WASP-164,11,11,success
+WASP-165,6,6,success
+WASP-166,9,9,success
+WASP-167,9,9,success
+WASP-168,10,10,success
+WASP-169,6,6,success
+WASP-17,4,4,success
+WASP-170,7,7,success
+WASP-171,9,9,success
+WASP-172,10,10,success
+WASP-173 A,10,10,success
+WASP-174,8,8,success
+WASP-175,7,7,success
+WASP-176,2,2,success
+WASP-177,5,5,success
+WASP-178,7,7,success
+WASP-18,18,18,success
+WASP-180 A,7,7,success
+WASP-181,5,5,success
+WASP-182,7,7,success
+WASP-183,5,5,success
+WASP-184,3,3,success
+WASP-185,1,1,success
+WASP-186,4,4,success
+WASP-187,4,4,success
+WASP-188,2,2,success
+WASP-189,1,1,success
+WASP-19,11,11,success
+WASP-190,11,11,success
+WASP-192,5,5,success
+WASP-193,6,6,success
+WASP-194,15,15,success
+WASP-195,4,4,success
+WASP-197,1,1,success
+WASP-2,3,3,success
+WASP-20,7,7,success
+WASP-21,4,4,success
+WASP-22,7,7,success
+WASP-23,8,8,success
+WASP-24,1,1,success
+WASP-25,3,3,success
+WASP-26,4,4,success
+WASP-28,3,3,success
+WASP-29,11,11,success
+WASP-3,10,10,success
+WASP-31,8,8,success
+WASP-32,1,1,success
+WASP-33,5,5,success
+WASP-34,8,8,success
+WASP-35,5,5,success
+WASP-36,8,8,success
+WASP-37,1,1,success
+WASP-38,0,0,no_products
+WASP-39,3,3,success
+WASP-4,14,14,success
+WASP-41,7,7,success
+WASP-42,6,6,success
+WASP-43,9,9,success
+WASP-44,1,1,success
+WASP-45,11,11,success
+WASP-46,14,14,success
+WASP-47,4,4,success
+WASP-48,27,27,success
+WASP-49,8,8,success
+WASP-5,11,11,success
+WASP-50,3,3,success
+WASP-52,2,2,success
+WASP-53,7,7,success
+WASP-54,4,4,success
+WASP-55,4,4,success
+WASP-56,3,3,success
+WASP-57,1,1,success
+WASP-58,14,14,success
+WASP-59,3,3,success
+WASP-6,5,5,success
+WASP-60,2,2,success
+WASP-61,9,9,success
+WASP-62,58,58,success
+WASP-63,10,10,success
+WASP-64,8,8,success
+WASP-65,9,9,success
+WASP-66,10,10,success
+WASP-67,2,2,success
+WASP-68,1,1,success
+WASP-69,6,6,success
+WASP-7,8,8,success
+WASP-70 A,1,1,success
+WASP-71,7,7,success
+WASP-72,14,14,success
+WASP-73,13,13,success
+WASP-74,2,2,success
+WASP-75,4,4,success
+WASP-76,5,5,success
+WASP-77 A,3,3,success
+WASP-78,7,7,success
+WASP-79,10,10,success
+WASP-8,15,15,success
+WASP-80,2,2,success
+WASP-81,2,2,success
+WASP-82,3,3,success
+WASP-83,6,6,success
+WASP-84,6,6,success
+WASP-85 A,4,4,success
+WASP-87,10,10,success
+WASP-88,9,9,success
+WASP-89,1,1,success
+WASP-90,3,3,success
+WASP-91,19,19,success
+WASP-92,8,8,success
+WASP-93,4,4,success
+WASP-94 A,8,8,success
+WASP-94 B,8,8,success
+WASP-95,10,10,success
+WASP-96,14,14,success
+WASP-97,10,10,success
+WASP-98,9,9,success
+WASP-99,11,11,success
+WD 0806-661,57,57,success
+WD 1145+017,4,4,success
+WD 1856+534,41,41,success
+Wendelstein-1,3,3,success
+Wendelstein-2,2,2,success
+WISE J033605.05-014350.4,0,0,no_products
+WISPIT 1,0,0,no_products
+WISPIT 2,1,1,success
+Wolf 1061,2,2,success
+Wolf 1069,11,11,success
+Wolf 327,2,2,success
+Wolf 359,6,6,success
+Wolf 489,2,2,success
+Wolf 503,1,1,success
+WR 11,10,10,success
+WR 134,0,0,no_products
+WR 24,8,8,success
+WR 40,3,3,success
+WR 6,5,5,success
+WTS-1,6,6,success
+WTS-2,8,8,success
+XEST 17-036,0,0,no_products
+xi Aql,2,2,success
+XO-1,2,2,success
+XO-2 N,4,4,success
+XO-2 S,3,3,success
+XO-3,7,7,success
+XO-4,6,6,success
+XO-5,2,2,success
+XO-6,13,13,success
+XO-7,17,17,success
+YZ Canis Minoris,5,5,success
+YZ Cet,11,11,success
+ZTF J1230-2655,1,1,success

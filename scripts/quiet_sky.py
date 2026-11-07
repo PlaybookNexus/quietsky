@@ -89,6 +89,26 @@ MENU = {
         "discovery_candidates_report.py"
     ),
 
+    "27": (
+    "Download TESS Archive",
+    "download_tess.py"
+    ),
+
+    "28": (
+        "Measure TESS Targets",
+        "measure_tess.py"
+    ),
+
+    "29": (
+        "Generate TESS Rankings",
+        "rank_tess.py"
+    ),
+
+    "30": (
+        "Aggregate TESS Rankings",
+        "aggregate_tess.py"
+    ),
+
     #
     # Health
     #
@@ -314,6 +334,14 @@ while True:
     print("11. Hypothesis Report")
     print("12. Candidate Comparison")
     print("26. Discovery Candidates Report")
+    
+    print()
+    print("TESS")
+    print("----")
+    print("27. Download TESS Archive")
+    print("28. Measure TESS Targets")
+    print("29. Generate TESS Rankings")
+    print("30. Aggregate TESS Rankings")
 
     print()
     print("HEALTH")
