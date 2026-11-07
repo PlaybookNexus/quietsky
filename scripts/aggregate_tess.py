@@ -1,5 +1,11 @@
+# aggregate_tess.py
+
 from pathlib import Path
 import pandas as pd
+
+# =====================================================
+# CONFIG
+# =====================================================
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -13,43 +19,95 @@ OUTPUT_FILE = (
     "tess_target_rankings.csv"
 )
 
+# =====================================================
+# LOAD
+# =====================================================
+
+print()
+print("=" * 60)
+print("TESS AGGREGATION")
+print("=" * 60)
+
 df = pd.read_csv(
     INPUT_FILE
 )
 
-summary = (
+total = len(df)
 
-    df
-
-    .groupby("target")
-
-    .agg({
-
-        "sector": "nunique",
-
-        "points": "sum",
-
-        "score": ["max", "mean"],
-
-        "relative_rms": "max",
-
-        "max_dimming": "max",
-
-        "max_brightening": "max"
-
-    })
-
+print()
+print(
+    f"Targets Loaded : {total:,}"
 )
 
-summary.columns = [
+# =====================================================
+# PERCENTILE
+# =====================================================
 
-    "sector_count",
+df["tess_percentile"] = (
+    (
+        total -
+        df["rank"] +
+        1
+    )
+    /
+    total
+) * 100
 
-    "total_points",
+# =====================================================
+# ANOMALY CLASS
+# =====================================================
 
-    "max_score",
+def classify(percentile):
 
-    "avg_score",
+    if percentile >= 99.9:
+        return "Extreme"
+
+    if percentile >= 99:
+        return "Very High"
+
+    if percentile >= 95:
+        return "High"
+
+    if percentile >= 90:
+        return "Elevated"
+
+    if percentile >= 50:
+        return "Moderate"
+
+    return "Typical"
+
+df["anomaly_class"] = (
+    df["tess_percentile"]
+    .apply(classify)
+)
+
+# =====================================================
+# TOP FLAGS
+# =====================================================
+
+df["top_1_percent"] = (
+    df["tess_percentile"] >= 99
+)
+
+df["top_5_percent"] = (
+    df["tess_percentile"] >= 95
+)
+
+df["top_10_percent"] = (
+    df["tess_percentile"] >= 90
+)
+
+# =====================================================
+# ROUND VALUES
+# =====================================================
+
+numeric_columns = [
+
+    "score",
+
+    "tess_percentile",
+
+    "avg_relative_rms",
 
     "max_relative_rms",
 
@@ -59,56 +117,121 @@ summary.columns = [
 
 ]
 
-summary = (
+for column in numeric_columns:
 
-    summary
+    if column in df.columns:
 
-    .sort_values(
+        df[column] = (
+            df[column]
+            .round(6)
+        )
 
-        "max_score",
+# =====================================================
+# OUTPUT COLUMNS
+# =====================================================
 
-        ascending=False
+columns = [
 
-    )
+    "rank",
 
-    .reset_index()
+    "target",
 
-)
+    "score",
 
-summary.to_csv(
+    "tess_percentile",
 
+    "anomaly_class",
+
+    "top_1_percent",
+
+    "top_5_percent",
+
+    "top_10_percent",
+
+    "sector_count",
+
+    "total_points",
+
+    "avg_relative_rms",
+
+    "max_relative_rms",
+
+    "max_dimming",
+
+    "max_brightening"
+
+]
+
+output = df[columns]
+
+# =====================================================
+# SAVE
+# =====================================================
+
+output.to_csv(
     OUTPUT_FILE,
-
     index=False
-
 )
+
+# =====================================================
+# SUMMARY
+# =====================================================
 
 print()
-print("TOP TARGETS")
-print("-" * 72)
-
-for i, row in enumerate(
-
-    summary.head(20).itertuples(),
-
-    start=1
-
-):
-
-    print(
-
-        f"{i:2d}. "
-
-        f"{row.target:<20} "
-
-        f"Score={row.max_score:.3f}  "
-
-        f"Sectors={row.sector_count}"
-
-    )
+print("=" * 60)
+print("AGGREGATION COMPLETE")
+print("=" * 60)
 
 print()
 
 print(
-    f"Saved: {OUTPUT_FILE}"
+    f"Targets Aggregated : "
+    f"{len(output):,}"
 )
+
+print(
+    f"Top 1 Percent      : "
+    f"{len(output[output['top_1_percent']]):,}"
+)
+
+print(
+    f"Top 5 Percent      : "
+    f"{len(output[output['top_5_percent']]):,}"
+)
+
+print(
+    f"Top 10 Percent     : "
+    f"{len(output[output['top_10_percent']]):,}"
+)
+
+print()
+
+print(
+    f"Output File : "
+    f"{OUTPUT_FILE.name}"
+)
+
+print()
+
+print("TOP 20")
+print("-" * 60)
+
+print(
+
+    output[
+        [
+            "rank",
+            "target",
+            "score",
+            "tess_percentile",
+            "anomaly_class"
+        ]
+    ]
+
+    .head(20)
+
+    .to_string(index=False)
+
+)
+
+print()

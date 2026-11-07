@@ -2,7 +2,6 @@
 
 from pathlib import Path
 import pandas as pd
-import numpy as np
 
 # =====================================================
 # CONFIG
@@ -25,7 +24,6 @@ OUTPUT_FILE = (
 # =====================================================
 
 print()
-
 print(
     f"Loading {INPUT_FILE.name}"
 )
@@ -38,64 +36,53 @@ print(
     f"Rows: {len(df):,}"
 )
 
-print()
-
 # =====================================================
-# FILTER
+# NORMALIZATION
 # =====================================================
 
-# Exclude normalized TARS products
-# They use FLUX around 1.0 and are
-# not directly comparable to SPOC.
+def normalize(series):
 
-df = df[
-    df["flux_column"] != "FLUX"
-].copy()
+    maximum = series.max()
 
-print(
-    f"SPOC Rows: {len(df):,}"
+    if maximum == 0:
+
+        return series * 0
+
+    return series / maximum
+
+# =====================================================
+# COMPONENT SCORES
+# =====================================================
+
+df["rms_score"] = normalize(
+    df["max_relative_rms"]
+)
+
+df["dimming_score"] = normalize(
+    df["max_dimming"]
+)
+
+df["brightening_score"] = normalize(
+    df["max_brightening"]
+)
+
+df["sector_score"] = normalize(
+    df["sector_count"]
 )
 
 # =====================================================
-# DERIVED METRICS
-# =====================================================
-
-df["relative_rms"] = (
-
-    df["rms"]
-
-    /
-
-    df["median_flux"].replace(
-        0,
-        np.nan
-    )
-
-)
-
-df["relative_rms"] = (
-
-    df["relative_rms"]
-
-    .fillna(0)
-
-)
-
-# =====================================================
-# SCORE
+# FINAL SCORE
 # =====================================================
 
 df["score"] = (
 
-    df["relative_rms"] * 1000
+    df["rms_score"] * 0.40 +
 
-    +
+    df["dimming_score"] * 0.30 +
 
-    df["max_dimming"] * 100
+    df["brightening_score"] * 0.20 +
 
-    +
-
-    df["max_brightening"] * 50
+    df["sector_score"] * 0.10
 
 )
 
@@ -112,10 +99,49 @@ df = df.sort_values(
 )
 
 # =====================================================
+# RANK
+# =====================================================
+
+df.insert(
+
+    0,
+
+    "rank",
+
+    range(
+        1,
+        len(df) + 1
+    )
+
+)
+
+# =====================================================
 # SAVE
 # =====================================================
 
-df.to_csv(
+columns = [
+
+    "rank",
+
+    "target",
+
+    "score",
+
+    "sector_count",
+
+    "total_points",
+
+    "avg_relative_rms",
+
+    "max_relative_rms",
+
+    "max_dimming",
+
+    "max_brightening"
+
+]
+
+df[columns].to_csv(
 
     OUTPUT_FILE,
 
@@ -124,49 +150,43 @@ df.to_csv(
 )
 
 # =====================================================
-# DISPLAY
+# SUMMARY
 # =====================================================
 
 print()
-
-print("═" * 72)
-print("QUIET SKY TESS RANKINGS")
-print("═" * 72)
-
+print("=" * 60)
+print("TESS RANKING COMPLETE")
+print("=" * 60)
 print()
 
-top = df.head(25)
-
-for rank, (_, row) in enumerate(
-
-    top.iterrows(),
-
-    start=1
-
-):
-
-    print(
-
-        f"{rank:2d}. "
-
-        f"{row['target']:<20} "
-
-        f"S{int(row['sector']):>3} "
-
-        f"{row['score']:8.4f}"
-
-    )
+print(
+    f"Targets Ranked : {len(df):,}"
+)
 
 print()
-
-print("═" * 72)
-
 print(
-    f"Saved: {OUTPUT_FILE}"
+    f"Output : {OUTPUT_FILE.name}"
 )
 
+print()
+print("TOP 20")
+print("-" * 60)
+
 print(
-    f"Ranked Rows: {len(df):,}"
+
+    df[
+        [
+            "rank",
+            "target",
+            "score",
+            "sector_count"
+        ]
+    ]
+
+    .head(20)
+
+    .to_string(index=False)
+
 )
 
-print("═" * 72)
+print()
