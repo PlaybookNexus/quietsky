@@ -1,4 +1,4 @@
-# download_tess_spoc.py
+# download_tess.py
 
 from pathlib import Path
 import csv
@@ -30,15 +30,8 @@ LOG_FILE = (
 
 CHECKPOINT = 25
 
-# =====================================================
-# RUN CONTROL
-# =====================================================
-
-START_INDEX = 653
-
-MAX_TARGETS = None
-
-AUTHOR = "SPOC"
+# Set to None for full catalog
+MAX_TARGETS = 100
 
 # =====================================================
 # QUIET LIGHTKURVE WARNING
@@ -78,15 +71,11 @@ def progress_bar(
 
     pct = current / total
 
-    filled = int(
-        width * pct
-    )
+    filled = int(width * pct)
 
     return (
         "█" * filled +
-        "░" * (
-            width - filled
-        )
+        "░" * (width - filled)
     )
 
 
@@ -94,24 +83,9 @@ def count_fits(folder):
 
     return len(
         list(
-            folder.glob(
-                "**/*.fits"
-            )
+            folder.glob("**/*.fits")
         )
     )
-
-
-def folder_size_gb(folder):
-
-    total = 0
-
-    for f in folder.glob("**/*"):
-
-        if f.is_file():
-
-            total += f.stat().st_size
-
-    return total / (1024 ** 3)
 
 
 def save_log():
@@ -145,6 +119,7 @@ def save_log():
             download_log
         )
 
+
 # =====================================================
 # LOAD TARGETS
 # =====================================================
@@ -158,8 +133,6 @@ with open(
     targets = list(
         csv.DictReader(f)
     )
-
-targets = targets[START_INDEX:]
 
 if MAX_TARGETS is not None:
 
@@ -175,20 +148,12 @@ TOTAL = len(targets)
 
 print()
 print("═" * 72)
-print("QUIET SKY TESS SPOC ARCHIVE INGEST")
+print("QUIET SKY TESS ARCHIVE INGEST")
 print("═" * 72)
 print()
 
 print(
     f"Targets : {TOTAL:,}"
-)
-
-print(
-    f"Start   : {START_INDEX:,}"
-)
-
-print(
-    f"Source  : {AUTHOR}"
 )
 
 print()
@@ -226,8 +191,7 @@ for i, row in enumerate(
     )
 
     print(
-        f"#{START_INDEX + i:,} "
-        f"{name}"
+        f"#{i:,} {name}"
     )
 
     target_dir = (
@@ -250,9 +214,9 @@ for i, row in enumerate(
 
     try:
 
-        # ------------------------------------------------
+        # -------------------------------------------------
         # SKIP EXISTING
-        # ------------------------------------------------
+        # -------------------------------------------------
 
         existing_fits = count_fits(
             target_dir
@@ -285,25 +249,22 @@ for i, row in enumerate(
 
             continue
 
-        # ------------------------------------------------
+        # -------------------------------------------------
         # SEARCH
-        # ------------------------------------------------
+        # -------------------------------------------------
 
         search = search_lightcurve(
 
             name,
 
-            mission="TESS",
-
-            author=AUTHOR
+            mission="TESS"
 
         )
 
         products = len(search)
 
         print(
-            f"{AUTHOR} Products : "
-            f"{products}"
+            f"Products : {products}"
         )
 
         if products == 0:
@@ -332,9 +293,9 @@ for i, row in enumerate(
 
             continue
 
-        # ------------------------------------------------
+        # -------------------------------------------------
         # DOWNLOAD
-        # ------------------------------------------------
+        # -------------------------------------------------
 
         try:
 
@@ -374,9 +335,9 @@ for i, row in enumerate(
 
                 raise
 
-        # ------------------------------------------------
-        # VERIFY
-        # ------------------------------------------------
+        # -------------------------------------------------
+        # VERIFY DOWNLOAD
+        # -------------------------------------------------
 
         fits_count = count_fits(
             target_dir
@@ -435,9 +396,9 @@ for i, row in enumerate(
 
             })
 
-        # ------------------------------------------------
+        # -------------------------------------------------
         # CHECKPOINT
-        # ------------------------------------------------
+        # -------------------------------------------------
 
         if i % CHECKPOINT == 0:
 
@@ -466,38 +427,13 @@ for i, row in enumerate(
 
             ) / 60
 
-            storage_gb = (
-                folder_size_gb(
-                    DATA_DIR
-                )
-            )
-
-            processed = (
-
-                success +
-
-                skipped +
-
-                failed
-
-            )
-
-            projected_gb = (
-
-                storage_gb
-
-                /
-
-                max(processed, 1)
-
-            ) * TOTAL
-
             print()
             print("═" * 72)
             print(
-                f"CHECKPOINT {START_INDEX + i:,}"
+                f"CHECKPOINT {i:,}"
             )
             print("═" * 72)
+
             print()
 
             print(
@@ -520,20 +456,6 @@ for i, row in enumerate(
                 f"{downloaded_products:,}"
             )
 
-            print()
-
-            print(
-                f"Storage Used       : "
-                f"{storage_gb:.2f} GB"
-            )
-
-            print(
-                f"Projected Final    : "
-                f"{projected_gb:.1f} GB"
-            )
-
-            print()
-
             print(
                 f"Speed              : "
                 f"{speed:.1f}/min"
@@ -550,7 +472,7 @@ for i, row in enumerate(
 
         print()
         print(
-            "Interrupted. Saving log..."
+            "Interrupted. Saving..."
         )
 
         save_log()
@@ -562,6 +484,7 @@ for i, row in enumerate(
         failed += 1
 
         print()
+
         print(
             f"❌ ERROR {name}"
         )
@@ -599,16 +522,11 @@ elapsed = (
     - start_time
 )
 
-storage_gb = (
-    folder_size_gb(
-        DATA_DIR
-    )
-)
-
 print()
 print("═" * 72)
 print("ARCHIVE INGEST COMPLETE")
 print("═" * 72)
+
 print()
 
 print(
@@ -629,13 +547,6 @@ print(
 print(
     f"Products Seen      : "
     f"{downloaded_products:,}"
-)
-
-print()
-
-print(
-    f"Storage Used       : "
-    f"{storage_gb:.2f} GB"
 )
 
 print()
