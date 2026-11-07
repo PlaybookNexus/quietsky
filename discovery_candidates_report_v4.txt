@@ -1,0 +1,252 @@
+QUIET SKY DISCOVERY REPORT V4
+============================================================
+
+Targets Ranked : 121
+Top Candidates Reviewed : 25
+
+Composite rankings combine:
+- Optical anomaly score
+- Infrared anomaly score
+- TESS variability score
+
+============================================================
+TOP CANDIDATES
+============================================================
+
+Rank #1
+Target : Delta Cephei
+Composite Score : 0.513836
+Optical Score   : 0.727863
+Infrared Score  : 1.899074
+TESS Score      : 0.000000
+TESS Percentile : 0.00
+
+Rank #2
+Target : Kepler-186
+Composite Score : 0.503762
+Optical Score   : 0.488249
+Infrared Score  : 2.229352
+TESS Score      : 0.008715
+TESS Percentile : 73.16
+
+Rank #3
+Target : Ross 640
+Composite Score : 0.462197
+Optical Score   : 0.751709
+Infrared Score  : 0.000000
+TESS Score      : 0.025416
+TESS Percentile : 94.91
+
+Rank #4
+Target : HD 40307
+Composite Score : 0.451934
+Optical Score   : 0.125637
+Infrared Score  : 0.000000
+TESS Score      : 0.067120
+TESS Percentile : 98.73
+
+Rank #5
+Target : Barnards Star
+Composite Score : 0.444053
+Optical Score   : 0.646981
+Infrared Score  : 1.574935
+TESS Score      : 0.000000
+TESS Percentile : 0.00
+
+Rank #6
+Target : AU Microscopii
+Composite Score : 0.389297
+Optical Score   : 0.846708
+Infrared Score  : 0.000000
+TESS Score      : 0.006594
+TESS Percentile : 60.32
+
+Rank #7
+Target : TOI-270
+Composite Score : 0.376124
+Optical Score   : 0.724836
+Infrared Score  : 0.000000
+TESS Score      : 0.012837
+TESS Percentile : 87.40
+
+Rank #8
+Target : AD Leonis
+Composite Score : 0.372373
+Optical Score   : 0.522444
+Infrared Score  : 0.000000
+TESS Score      : 0.026246
+TESS Percentile : 94.94
+
+Rank #9
+Target : Ross 128
+Composite Score : 0.360939
+Optical Score   : 0.839479
+Infrared Score  : 0.000000
+TESS Score      : 0.002337
+TESS Percentile : 10.15
+
+Rank #10
+Target : Kepler-444
+Composite Score : 0.352711
+Optical Score   : 0.639131
+Infrared Score  : 0.000000
+TESS Score      : 0.014853
+TESS Percentile : 89.94
+
+Rank #11
+Target : 16 Cygni B
+Composite Score : 0.351879
+Optical Score   : 0.369685
+Infrared Score  : 0.000000
+TESS Score      : 0.033403
+TESS Percentile : 95.94
+
+Rank #12
+Target : 16 Cygni A
+Composite Score : 0.348488
+Optical Score   : 0.364235
+Infrared Score  : 0.000000
+TESS Score      : 0.033212
+TESS Percentile : 95.90
+
+Rank #13
+Target : HD 219134
+Composite Score : 0.345220
+Optical Score   : 0.703734
+Infrared Score  : 0.000000
+TESS Score      : 0.009115
+TESS Percentile : 74.05
+
+Rank #14
+Target : HD 189733
+Composite Score : 0.336116
+Optical Score   : 0.526233
+Infrared Score  : 0.684070
+TESS Score      : 0.007027
+TESS Percentile : 63.63
+
+Rank #15
+Target : EV Lacertae
+Composite Score : 0.334370
+Optical Score   : 0.601969
+Infrared Score  : 0.000000
+TESS Score      : 0.014353
+TESS Percentile : 89.61
+
+Rank #16
+Target : EQ Pegasi
+Composite Score : 0.321214
+Optical Score   : 0.668712
+Infrared Score  : 0.000000
+TESS Score      : 0.007516
+TESS Percentile : 66.39
+
+Rank #17
+Target : EPIC 204376071
+Composite Score : 0.321205
+Optical Score   : 0.746757
+Infrared Score  : 0.000000
+TESS Score      : 0.002101
+TESS Percentile : 6.19
+
+Rank #18
+Target : KIC 8462852
+Composite Score : 0.287036
+Optical Score   : 0.238722
+Infrared Score  : 1.120902
+TESS Score      : 0.010514
+TESS Percentile : 80.82
+
+Rank #19
+Target : Wolf 1061
+Composite Score : 0.278418
+Optical Score   : 0.640134
+Infrared Score  : 0.000000
+TESS Score      : 0.002317
+TESS Percentile : 9.55
+
+Rank #20
+Target : TOI-178
+Composite Score : 0.278256
+Optical Score   : 0.537815
+Infrared Score  : 0.000000
+TESS Score      : 0.009387
+TESS Percentile : 76.33
+
+Rank #21
+Target : WD 1145+017
+Composite Score : 0.274219
+Optical Score   : 0.269438
+Infrared Score  : 0.000000
+TESS Score      : 0.027325
+TESS Percentile : 95.06
+
+Rank #22
+Target : TRAPPIST-1
+Composite Score : 0.270675
+Optical Score   : 0.080952
+Infrared Score  : 1.916832
+TESS Score      : 0.003735
+TESS Percentile : 28.16
+
+Rank #23
+Target : DO Cephei
+Composite Score : 0.268034
+Optical Score   : 0.648419
+Infrared Score  : 0.000000
+TESS Score      : 0.000000
+TESS Percentile : 0.00
+
+Rank #24
+Target : YZ CMi
+Composite Score : 0.254027
+Optical Score   : 0.614534
+Infrared Score  : 0.000000
+TESS Score      : 0.000000
+TESS Percentile : 0.00
+
+Rank #25
+Target : Kepler-20
+Composite Score : 0.251295
+Optical Score   : 0.377425
+Infrared Score  : 0.000000
+TESS Score      : 0.015988
+TESS Percentile : 91.07
+
+============================================================
+REFERENCE TARGETS
+============================================================
+
+KIC 8462852
+Rank : 18
+Composite Score : 0.287036
+TESS Percentile : 80.82
+
+TRAPPIST-1
+Rank : 22
+Composite Score : 0.270675
+TESS Percentile : 28.16
+
+16 Cygni A
+Rank : 12
+Composite Score : 0.348488
+TESS Percentile : 95.90
+
+16 Cygni B
+Rank : 11
+Composite Score : 0.351879
+TESS Percentile : 95.94
+
+============================================================
+OBSERVATIONS
+============================================================
+
+The highest-ranked targets exhibit strong evidence across one or more observation domains.
+
+Composite ranking rewards targets that remain unusual when multiple independent measurements are combined.
+
+A high TESS rank alone does not guarantee a high Quiet Sky rank.
+
+Likewise, targets that are only interesting in optical or infrared surveys may move downward unless supported by additional evidence.
+
+The purpose of this report is to identify targets deserving further human investigation.
